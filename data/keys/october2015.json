@@ -1,0 +1,634 @@
+[
+ {
+  "id": "october2015-q1",
+  "issues": [
+   {
+    "name": "Governing law and contract formation",
+    "rule": "Common law governs service contracts (UCC covers goods); painting an apartment building is a service. A valid contract needs offer, acceptance and consideration.",
+    "keyFacts": [
+     "Painter was to paint the interior of Developer's new apartment building for a price of $40,000"
+    ],
+    "analysis": "Common law applies and the parties concede a valid contract.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Developer's delay of start date \u2013 breach, condition, or waiver",
+    "rule": "A party who prevents or delays the other's performance by failing to supply an implied condition (a cooperation duty) commits a breach; an implied condition is that the building be ready for painting. A delay that is minor excuses performance only for the time lost and does not discharge the contract if the aggrieved party continues.",
+    "keyFacts": [
+     "Developer told Painter that because of problems with the drywall contractor, Painter could not start work until June 15"
+    ],
+    "analysis": "Developer's delay was a (probably minor) breach or a failure of an implied condition, extending Painter's time by up to two weeks; Painter did not treat it as total, so the contract continued and the completion date arguably slid to about July 15.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Painter's late start (June 20) and its effect",
+    "rule": "A party who continues performance after the other's minor breach remains bound; a self-created delay beyond the excused period is her own non-performance.",
+    "keyFacts": [
+     "Painter took another job, which was not completed until June 20, at which time Painter started work"
+    ],
+    "analysis": "Developer excused only to June 15; Painter's further 5-day delay was her own choice and weakens her claim that Developer's breach justified the later lateness.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Painter's anticipatory repudiation (July 15)",
+    "rule": "An unequivocal statement that a party will not perform by the due date, or will perform only on materially different terms, is an anticipatory repudiation allowing the other party to suspend performance, treat the contract as breached and seek damages; time is of the essence only if stated or circumstances make it so. A material breach discharges the other party's duty.",
+    "keyFacts": [
+     "Painter informed Developer that she would not be able to complete the project until August 15",
+     "she refused, saying the job would be finished on August 15 or not at all",
+     "Developer told her he would lose substantial rental income if the project was not completed by August 1"
+    ],
+    "analysis": "Even adjusting for Developer's two-week delay, August 15 was about a month late and Painter flatly refused to add workers; this is a repudiation/material breach justifying termination. Developer could alternatively have demanded adequate assurances, but her 'or not at all' statement removes any doubt. Painter's counter that Developer breached first is weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Time of the essence / materiality",
+    "rule": "Time is not of the essence in a construction contract unless expressly stated or implied by circumstances; lateness is a material breach if it deprives the other party of the substantial benefit of the bargain.",
+    "keyFacts": [
+     "to be completed on July 1",
+     "students ... began moving in"
+    ],
+    "analysis": "Dates were specific and Developer told Painter the importance of an August 1 deadline, though only on July 15; delay of six weeks past completion date is material.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Was Developer's firing a breach (Painter's cross-claim)",
+    "rule": "A party discharged by the other's material breach may terminate without liability; wrongful termination is itself a breach.",
+    "keyFacts": [
+     "Developer fired Painter and looked for another painting contractor"
+    ],
+    "analysis": "If Painter's repudiation was material, Developer's termination was justified and Painter's cross-complaint fails; Painter's best argument is Developer's earlier delay (excuse/waiver), which is weak.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Developer's damages \u2013 cost of completion / cover",
+    "rule": "Expectation damages equal the cost to complete minus the unpaid contract price (benefit of the bargain), with the non-breacher getting credit for the payments made.",
+    "keyFacts": [
+     "The best price Developer could get ... was $30,000",
+     "Developer had paid Painter one-half of the contract price"
+    ],
+    "analysis": "Developer paid $20,000; $20,000 of the price remained unpaid; he paid $30,000 to finish: damages are $10,000 (total outlay $50,000 for a $40,000 job).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Developer's consequential damages \u2013 lost rent",
+    "rule": "Consequential damages must be foreseeable at the time of contracting (Hadley v. Baxendale), proven with certainty, and unavoidable; the breacher must have known the special circumstances.",
+    "keyFacts": [
+     "Developer lost $10,000 in rental income",
+     "Developer told her he would lose substantial rental income",
+     "This rental income would not have been lost if the painting had been completed by August 1"
+    ],
+    "analysis": "Painter learned of the August 1 deadline only after contracting (July 15), though a painter of a new apartment building may foresee some loss of rent; foreseeability is the close call. Also the rent loss may stem partly from Developer's own drywall delay and the late hiring of a replacement.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mitigation",
+    "rule": "The non-breaching party must make reasonable efforts to avoid or reduce loss; costs of reasonable mitigation are recoverable.",
+    "keyFacts": [
+     "He asked her to hire additional help",
+     "looked for another painting contractor"
+    ],
+    "analysis": "Developer mitigated by asking Painter to hire help and then hiring a replacement at the best available price.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Painter's recovery if Developer breached",
+    "rule": "Expectation damages are the contract price less payments less costs saved (equivalently costs incurred + lost profit - payments received); alternatively reliance damages; the plaintiff must mitigate.",
+    "keyFacts": [
+     "she was out-of-pocket for $5,000 in materials",
+     "She expected a profit of $5,000",
+     "paid Painter one-half of the contract price"
+    ],
+    "analysis": "Painter's lost profit is $5,000 plus unreimbursed costs of performance incurred (the $5,000 of materials, to the extent not yet covered by the $20,000 payment); she cannot recover both reliance and expectation for the same loss. Total recovery depends on costs incurred and may be limited to about $5,000-$10,000 on these facts; the $25,000 'unpaid price' measure must be reduced by costs she avoided.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Painter's restitution / quantum meruit if she breached",
+    "rule": "A breaching party who has partly performed may in some circumstances recover the value of benefits conferred, minus the other party's damages.",
+    "keyFacts": [
+     "Developer had paid Painter one-half",
+     "out-of-pocket for $5,000 in materials"
+    ],
+    "analysis": "Painter's work and materials conferred value; any quantum meruit recovery is offset by Developer's damages.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The dollar figures are checkable: Developer's cover damages should be $10,000 (30,000 minus 20,000 unpaid balance); Student A said $20,000 and Student B said $5,000, both incorrect. Close call who first breached; the best reading is that Painter's July 15 repudiation was the material breach, although Developer's delay earlier is a minor breach."
+ },
+ {
+  "id": "october2015-q2",
+  "issues": [
+   {
+    "name": "Larceny of the necklace (and attempt/robbery)",
+    "rule": "Larceny is the trespassory taking and carrying away of the personal property of another with intent to permanently deprive; intent must exist at the time of taking; later return is not a defense (though it bears on intent). Robbery requires force or fear used in taking or retaining the property.",
+    "keyFacts": [
+     "he noticed a valuable necklace",
+     "picked it up and put it in his pocket",
+     "Clare ... asked him to put the necklace back",
+     "returned the necklace to the counter"
+    ],
+    "analysis": "Taking and pocketing is a taking and asportation; the intent to steal is inferred from concealing it and returning it only when caught, so larceny. Robbery is doubtful because Bob returned the necklace before fleeing and punched to escape, not to keep property; alternatively attempted robbery or the force used to retain at the moment of confrontation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assault and battery on Clare",
+    "rule": "Battery is unlawful application of force to another; assault is attempted battery or intentionally causing reasonable apprehension of imminent battery; assault merges into the battery.",
+    "keyFacts": [
+     "Bob punched Clare"
+    ],
+    "analysis": "Intentional punch is battery; no privilege (a shopkeeper's request is not an attack). A merchant's privilege/no self-defense applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Solicitation and conspiracy with Fred",
+    "rule": "Solicitation is urging another to commit a crime with intent that it be committed (merges into completed crime or conspiracy); conspiracy is an agreement to commit an unlawful act plus (in most jurisdictions) an overt act; it does not merge with the target crime.",
+    "keyFacts": [
+     "Bob then told Fred that he would secretly pass him one hundred dollars if Fred would later give him one-half",
+     "Fred agreed and later the two split the cash"
+    ],
+    "analysis": "Bob solicited and conspired with Fred (the agreement and overt act: handing over the extra cash); Fred, as a customer, is the other conspirator.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Embezzlement/larceny of bank's $100",
+    "rule": "Embezzlement is the fraudulent conversion of property of another lawfully in the defendant's possession; a low-level employee (teller) typically has mere custody so the crime is larceny; larceny by employee in modern statutes also covers this. Intent to permanently deprive is needed.",
+    "keyFacts": [
+     "Bob was an underpaid teller at Bank",
+     "passing him one hundred dollars",
+     "the two split the cash"
+    ],
+    "analysis": "Bob gave away $90 to $100 of the bank's money beyond the transaction and shared it with Fred; this is embezzlement (or larceny if the teller has custody only), and Fred is accomplice/receiver.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assault, battery and aggravated battery of Marilyn",
+    "rule": "Battery with a deadly or dangerous weapon is aggravated; assault is merged into battery; self-defense requires a reasonable fear of imminent unlawful force, and being questioned creates none.",
+    "keyFacts": [
+     "Marilyn, the bank manager, began questioning him",
+     "Bob grabbed a letter opener and stabbed Marilyn in her arm"
+    ],
+    "analysis": "Bob's stabbing was unprovoked; aggravated battery/assault with a deadly weapon (a letter opener used to stab), possibly attempted murder only if intent to kill is shown (not supported). No defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Car theft / joyriding",
+    "rule": "Larceny requires intent to permanently deprive; temporary use may be unauthorized use of a vehicle (statutory joyriding), which does not require intent to permanently deprive.",
+    "keyFacts": [
+     "jumped in a car, and drove to the house of Gina"
+    ],
+    "analysis": "Facts do not say whose car; if not his, Bob took a car without consent, which supports larceny or unauthorized use depending on intent.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Kidnapping of Gina and battery",
+    "rule": "Kidnapping is the unlawful confinement and asportation of a person without consent by force, threat or fraud; asportation need only be a substantial distance in modern law; battery for the blow; false imprisonment as lesser included offense. Also dissuading a witness for trying to prevent her calling the police.",
+    "keyFacts": [
+     "Gina decided to call the police, but Bob knocked her unconscious, put her in his car",
+     "went to Fred's house to hide her"
+    ],
+    "analysis": "Knocking Gina unconscious (battery) and carrying her to another location is kidnapping; Bob's goal of preventing a police call also suggests obstruction/interference with a witness.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary of Fred's house",
+    "rule": "Common-law burglary is breaking and entering the dwelling of another at night with intent to commit a felony therein; modern statutes drop the nighttime/breaking requirements and cover entry of any structure with intent to commit a felony or theft.",
+    "keyFacts": [
+     "Finding the door to Fred's house locked, Bob broke in the door",
+     "hid Gina inside"
+    ],
+    "analysis": "Breaking open a locked door is a breaking and entering; intent to commit a felony inside is the issue: continued confinement of Gina (kidnapping) is arguably the intent, a close call since the felony had begun; time of day unknown, so common law burglary is unclear but modern burglary (and CA's) applies. Alternatively, it is a trespass or malicious damage.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assault and battery of Fred",
+    "rule": "Battery is an unlawful application of force.",
+    "keyFacts": [
+     "Bob struck Fred, pushing him down"
+    ],
+    "analysis": "Intentional striking and pushing; battery of Fred (no defense since Fred was lawfully protesting in his own home).",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Arson (the fire)",
+    "rule": "Common-law arson is the malicious burning of the dwelling of another; malice means intent to burn or reckless disregard of an obvious risk of fire; accidental fire is not arson.",
+    "keyFacts": [
+     "As Fred fell, he knocked over a lamp and started a fire",
+     "Bob panicked and ran out of the house",
+     "The house began to burn"
+    ],
+    "analysis": "Bob did not intend the fire and a push is not an obvious risk of fire; arson likely not proved, but the fire's cause is still relevant to murder. Leaving without trying to put it out is not arson.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Gina \u2013 felony murder",
+    "rule": "A killing during the commission or attempt of an inherently dangerous felony (burglary, kidnapping, arson, robbery, rape) is murder (first degree for enumerated felonies, with malice implied); the felony must be the cause and still in progress (before reaching a place of safety); the death must be foreseeable.",
+    "keyFacts": [
+     "Gina died in the fire",
+     "Bob knocked her unconscious, put her in his car",
+     "broke in the door and hid Gina inside"
+    ],
+    "analysis": "Death occurred during the continuing kidnapping and the burglary; Gina's confinement while unconscious made her escape impossible, so the fire death is a foreseeable result and Bob is guilty of first-degree felony murder (kidnapping/burglary).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Gina \u2013 implied malice and duty to rescue",
+    "rule": "Murder with malice can be shown by intent to kill, intent to inflict serious bodily injury, depraved heart (extreme recklessness), or felony murder; a person who creates peril to another has a duty to attempt rescue; failure to rescue can supply the actus reus. Involuntary manslaughter is an unintentional killing by criminal negligence or unlawful act.",
+    "keyFacts": [
+     "Bob panicked and ran out of the house",
+     "Gina died in the fire",
+     "knocked her unconscious"
+    ],
+    "analysis": "Bob created the peril (kidnapped her, brought her there, started the fight that began the fire) and left an unconscious woman in a burning house; this supports depraved-heart murder (second degree) or at least involuntary manslaughter if felony murder fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation for Gina's death",
+    "rule": "Actual cause (but for) and proximate cause (foreseeable results; no superseding event). Fred's fall is not superseding because it resulted directly from Bob's attack.",
+    "keyFacts": [
+     "Bob struck Fred, pushing him down. As Fred fell, he knocked over a lamp"
+    ],
+    "analysis": "But for Bob's assault and presence with Gina, the fire would not have occurred and she would not have died; Bob proximately caused her death.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Burglary intent (felony already begun) and the necklace-robbery question are close calls; robbery of the necklace is not clearly a crime but worth discussing. Fred's liability is not asked. The facts do not say Bob's possession of the bank's money; custody vs possession affects labeling (larceny vs embezzlement)."
+ },
+ {
+  "id": "october2015-q3",
+  "issues": [
+   {
+    "name": "Strict liability \u2013 animals with known dangerous propensities",
+    "rule": "The possessor of a wild animal is strictly liable for harm from the animal's dangerous propensities; the possessor of a domestic animal is strictly liable only if he knew or had reason to know of its abnormally dangerous propensity; harm must result from that propensity.",
+    "keyFacts": [
+     "cross-breeding domestic goats and a wild breed of sheep",
+     "much more aggressive character of bighorn sheep",
+     "the males have large curved horns ... become aggressive when agitated",
+     "rammed him, knocking him to the ground"
+    ],
+    "analysis": "David knowingly bred and kept aggressive hybrid animals, so he is strictly liable for harm caused by their aggressive propensity (ramming/butting), which is the very danger; this is the strongest claim.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 duty and breach (failure to inspect gate)",
+    "rule": "The owner of animals owes a duty of reasonable care to prevent them from escaping and endangering foreseeable persons; breach is failure to act as a reasonably prudent owner would, including inspecting and maintaining enclosures; a defective post that reasonable inspection would reveal shows constructive notice.",
+    "keyFacts": [
+     "lock ... beginning to pull free from the wooden support post",
+     "a close inspection would have revealed that the wood was rotting",
+     "David failed to examine the gate support post when he performed his regular semi-annual inspection"
+    ],
+    "analysis": "A reasonable owner of 40 aggressive animals would have inspected the 10-year-old post; failure to do so is a breach; semi-annual inspection helps David but missed the obvious hazard.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation \u2013 actual and proximate (including Peter's rescue/herding)",
+    "rule": "Actual cause is but-for; proximate cause covers foreseeable consequences; a person's reasonable attempt to deal with a danger created by defendant is foreseeable, and 'rescuers' are foreseeable plaintiffs.",
+    "keyFacts": [
+     "the gate swung open, and the animals wandered onto neighboring land",
+     "Peter ... attempted to herd the animals back onto David's land"
+    ],
+    "analysis": "Escape of animals onto the neighbor's land and the neighbor's attempt to herd them back are foreseeable; Peter's use of a cattle prod is a foreseeable intervening act and not a superseding cause (go to comparative fault).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Trespass to land / liability for trespassing livestock",
+    "rule": "The owner of livestock is strictly liable for trespass and for damage to the land and chattels done by animals that stray onto the land of another; this liability covers property damage, while personal injury is governed by the dangerous-propensity rule.",
+    "keyFacts": [
+     "the animals wandered onto neighboring land",
+     "found most of the animals on his land"
+    ],
+    "analysis": "Trespass to land is established, with strict liability for damages (none indicated) or nominal damages; helpful to show Peter was lawfully dealing with intruders on his land.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Peter's medical negligence aggravation (ER)",
+    "rule": "A tortfeasor is liable for subsequent harm caused by medical treatment of the original injury, including the doctor's negligence, as a foreseeable consequence, unless the negligence is extraordinary; the original tortfeasor and the negligent doctors are then jointly liable and may seek contribution/ indemnity.",
+    "keyFacts": [
+     "the ER doctor and nurses didn't examine him for concussion or other head injury",
+     "Peter suffered a cerebral hemorrhage, with paralysis"
+    ],
+    "analysis": "David remains liable for the hemorrhage and paralysis as foreseeable aggravation by negligent medical care, though the ER's negligence makes it a joint tortfeasor (damages allocation; in California noneconomic damages are several under Prop 51).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 assumption of risk",
+    "rule": "Assumption of risk requires knowing and voluntary encounter of a specific risk; it is a defense to strict liability but is weak where the plaintiff was not aware of the animals' dangerous propensity. Express/primary assumption is not relevant here.",
+    "keyFacts": [
+     "Peter attempted to herd the animals back",
+     "using an electric cattle prod"
+    ],
+    "analysis": "Peter did not know the animals' dangerous breed (they look like goats) and reasonably was dealing with escaped animals; likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 comparative / contributory negligence and provoking the animal",
+    "rule": "Plaintiff's unreasonable conduct reduces recovery (pure comparative fault in CA; contributory negligence bars in a few states); provoking an animal with a prod is unreasonable if a reasonable person would not do it; comparative fault also applies to strict liability.",
+    "keyFacts": [
+     "using an electric cattle prod to deliver shocks to them when they wouldn't move",
+     "turned and rammed him"
+    ],
+    "analysis": "The jury could find Peter partially at fault for prodding an unfamiliar large animal rather than calling David or using a safer method; it reduces damages but does not bar recovery. Also the animal's response to provocation is what its propensity is.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 Peter's failure to disclose head blow / mitigation",
+    "rule": "A plaintiff who unreasonably fails to avoid further harm (avoidable consequences) or contributes to the aggravation of injury through his own negligence has damages reduced for that part.",
+    "keyFacts": [
+     "Peter failed to report to them that the animal had directly struck his head",
+     "mentioned having a headache"
+    ],
+    "analysis": "Peter's omission may be comparative negligence for the aggravation (he knew he was hit in the head); partially reduces recovery for the hemorrhage and paralysis, though he mentioned a headache and doctors should have examined for it.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Privilege to remove trespassing animals",
+    "rule": "A landowner may use reasonable force to remove trespassing animals; excessive force or cruelty may not be privileged.",
+    "keyFacts": [
+     "herd the animals back onto David's land"
+    ],
+    "analysis": "Peter's use of a cattle prod is likely a reasonable method for herding; helps rebut comparative fault.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages",
+    "rule": "Compensatory damages for physical injury include medical expenses, lost earnings and earning capacity (special/economic), and pain and suffering, loss of enjoyment (general/noneconomic); damages for all foreseeable consequences, subject to reduction for plaintiff's fault and allocation to joint tortfeasors; punitive damages require malice/oppression.",
+    "keyFacts": [
+     "serious concussion and broken bones",
+     "cerebral hemorrhage ... with paralysis in his upper limbs"
+    ],
+    "analysis": "Peter can recover medical expenses, lost earnings/earning capacity and pain and suffering for the entire injury including paralysis, reduced by his percentage of fault; no punitive damages (negligence only).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Student B mentions an injunction as a remedy and 'any damage caused by trespassing animals' as strict liability to person; this overstates the law. Check whether Student A's reliance on 'Palsgraf' adds value. Neither explicitly cited Prop 51 or the ER doctor's malpractice as a separate defense."
+ },
+ {
+  "id": "october2015-q4",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2",
+    "rule": "The UCC governs contracts for the sale of goods (tangible movables); stone is a good even if used in construction.",
+    "keyFacts": [
+     "Austin Brown Stone",
+     "delivered to his property in 5-ton lots",
+     "price of $200 per ton"
+    ],
+    "analysis": "The contract is for goods, so UCC Article 2 applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Contract formation \u2013 requirements contract",
+    "rule": "Under UCC 2-306 a requirements term (all stone Jack needs) is valid and not illusory if measured by good-faith needs; quantity need not be stated numerically; the Statute of Frauds (2-201) is satisfied by a signed writing.",
+    "keyFacts": [
+     "buy all the Austin Brown Stone he needs to build the exterior walls",
+     "estimated he would need about 100 tons"
+    ],
+    "analysis": "Valid requirements contract (consideration present from the obligation to buy all his needs from Stone-Co); signed writing satisfies the SOF; Stone-Co's lack-of-consideration/indefiniteness argument fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Acceptance with additional term (UCC 2-207)",
+    "rule": "A definite and seasonable expression of acceptance operates as an acceptance even though it adds different terms unless acceptance is expressly made conditional on assent to them; between merchants additional terms become part of the contract unless the offer limits acceptance, they materially alter it, or notice of objection is given; if either party is a non-merchant, additional terms are only proposals.",
+    "keyFacts": [
+     "the Stone-Co salesperson ... wrote ... 'Notwithstanding the foregoing, if Stone-Co has difficulty getting Austin Brown Stone, Stone-Co may substitute Austin White Stone.'",
+     "signed the contract and returned it",
+     "Jack did not read the modified contract or see the term added"
+    ],
+    "analysis": "The signed return is an acceptance (not expressly conditional). Jack is not a merchant (a retiree buying for his own house), so the substitution term is a mere proposal that he never assented to; even between merchants it would materially alter the contract (a different product) and would drop out. The contract is on Jack's terms for Austin Brown Stone. Stone-Co might argue that Jack's failure to read is no excuse, but the term was added after he signed and he never agreed to it; the clause also allows substitution only upon 'difficulty,' not for changed price.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Stone-Co's non-conforming tender \u2013 perfect tender and breach",
+    "rule": "Under UCC 2-601 (perfect tender) a buyer may reject goods that fail in any respect to conform to the contract; the seller must deliver within the time (10 days) and must conform; seller's cure under 2-508 is available only if time for performance has not expired or if seller had reasonable grounds to believe tender would be accepted.",
+    "keyFacts": [
+     "Ten days after Jack's order, Stone-Co delivered Austin White Stone",
+     "Jack immediately called the Salesperson, stating he would not accept the substitution because Austin White Stone is a completely different product"
+    ],
+    "analysis": "White stone is a different product, Jack rightfully and promptly rejected it; Stone-Co breached by failing to deliver conforming goods within ten days. Stone-Co could argue cure rights, but its tender was not a reasonable-grounds substitute and the time had expired.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Stone-Co's demand for $225 \u2013 modification / repudiation",
+    "rule": "A modification of a goods contract needs no consideration under UCC 2-209 but must satisfy good faith and requires assent; demanding more money (or non-conforming performance) as a condition of performance is a repudiation/ anticipatory repudiation which entitles the buyer to cover.",
+    "keyFacts": [
+     "a demand for payment at the new price of $225 per ton",
+     "importing it would add $25 per ton"
+    ],
+    "analysis": "Jack never assented to the new price, so no modification; Stone-Co's refusal to deliver at $200 and its note constitute repudiation of the contract (at least for the first lot and the remaining requirements).",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Jack's remedies \u2013 cover and expectation damages",
+    "rule": "Under 2-711 and 2-712 a buyer who covers in good faith without unreasonable delay may recover the cost of cover minus the contract price plus incidental and consequential damages; he may also recover market-contract difference (2-713).",
+    "keyFacts": [
+     "Jack contracted with another supplier for Austin Brown Stone at $225 per ton"
+    ],
+    "analysis": "Jack's damages are $25 per ton for the stone covered (and for the remaining requirement of about 100 tons, up to roughly $2,500, if he covers it), plus incidental damages; he must pay the contract price for the goods he receives.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Liquidated damages clause",
+    "rule": "UCC 2-718(1): liquidated damages are enforceable only in an amount reasonable in light of anticipated or actual harm, difficulty of proof of loss and the inconvenience of obtaining another remedy; an unreasonably large amount is a void penalty.",
+    "keyFacts": [
+     "Stone-Co would pay $5,000 per day for each day that any requested delivery is late",
+     "5-ton lots"
+    ],
+    "analysis": "$5,000 per day for a $1,000 delivery by a retiree with no known reliance or revenue loss is grossly disproportionate and likely an unenforceable penalty; Jack is limited to actual damages (cover). A close call: Jack could argue it was drafted by him in a negotiated deal and delay harm is hard to estimate, but amounts are unreasonable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Stone-Co defense \u2013 impracticability / impossibility",
+    "rule": "UCC 2-615: delay or non-delivery is excused if performance has been made impracticable by a contingency whose non-occurrence was a basic assumption of the contract; increased cost alone does not excuse; the seller must notify the buyer and allocate supply.",
+    "keyFacts": [
+     "Austin Brown Stone was not available in the United States",
+     "importing it would add $25 per ton",
+     "reduce its profit margin"
+    ],
+    "analysis": "The stone could be imported from Canada at 12.5% more cost, and Jack found another supplier; a smaller profit is not impracticability; Stone-Co also should have known availability before contracting; defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Stone-Co defense \u2013 substitution clause / merchant or consent",
+    "rule": "Stone-Co argues the added term allowed substitution.",
+    "keyFacts": [
+     "Notwithstanding the foregoing, if Stone-Co has difficulty ... may substitute Austin White Stone"
+    ],
+    "analysis": "Fails because the clause is not part of the contract (2-207), is materially altering, and the price increase isn't covered by the clause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Other Stone-Co defenses \u2013 mistake, unconscionability, lack of mutuality",
+    "rule": "Stone-Co might claim unilateral mistake or unconscionability of the liquidated damages clause, or lack of consideration; the UCC requires good faith and the contract is not illusory.",
+    "keyFacts": [
+     "Stone-Co's salesperson knowing that Austin Brown Stone is often not easily obtained"
+    ],
+    "analysis": "The salesperson's knowledge that the product is hard to obtain makes the risk assumed by Stone-Co foreseeable, defeating mistake and impracticability arguments.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The exam presumably also hints at 2-207(2) merchant/non-merchant distinction; the answer is that Jack is not a merchant. Neither answer addressed seller's right to cure (2-508) or whether the extra delivery cost at $25 per ton applies to all 100 tons; Student A omitted the modification/perfect tender issues."
+ }
+]

@@ -1,0 +1,710 @@
+[
+ {
+  "id": "october2018-q1",
+  "issues": [
+   {
+    "name": "Governing law and valid contract",
+    "rule": "Contracts for services are governed by common law (UCC Art. 2 applies only to goods). A valid contract requires mutual assent (offer and acceptance) and consideration.",
+    "keyFacts": [
+     "offered and she accepted a job as Chief Distiller",
+     "signed a complete employment contract",
+     "Western Sky does not deny the existence and validity of its contract"
+    ],
+    "analysis": "Services contract under common law; formation is conceded, so little analysis is needed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Breach by Western Sky (wrongful termination)",
+    "rule": "Breach is an unexcused failure to perform a contractual duty. An employer who terminates a fixed-term employee without cause and refuses to pay for the remaining term commits a material breach and gives the employee an immediate right to sue.",
+    "keyFacts": [
+     "employment for five years at $200,000 annually",
+     "it has fired Becky",
+     "Western Sky does not deny the existence and validity of its contract"
+    ],
+    "analysis": "Firing Becky one year into a five-year term, absent an excuse, is a material breach entitling her to damages.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Expectation damages",
+    "rule": "The standard contract remedy is expectation damages: the benefit of the bargain, putting the non-breaching party where she would have been had the contract been performed, less costs avoided and offset by mitigation.",
+    "keyFacts": [
+     "$200,000 annually, for five years",
+     "fired ... One year ago she was offered"
+    ],
+    "analysis": "Becky's expectation is the remaining four years of salary, $800,000, before mitigation offsets.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Liquidated damages clause",
+    "rule": "A liquidated damages clause is enforceable only if damages were difficult to estimate at formation and the amount is a reasonable forecast of probable loss (Cal. Civ. Code 1671(b): valid unless unreasonable under the circumstances at the time of contracting); an amount disproportionate to anticipated harm is an unenforceable penalty.",
+    "keyFacts": [
+     "if her employment is terminated early, she will receive $400,000 per year in damages for the remaining term",
+     "salary of $200,000 annually",
+     "highly employable"
+    ],
+    "analysis": "The clause pays twice her salary regardless of when she is fired or whether she finds other work, so it is likely a penalty, especially as she is highly employable and her loss (salary) is easily calculated. Becky will argue difficulty of proving reputational harm and that parties bargained at arm's length; this is a close call but the penalty view is likely to prevail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Impossibility / impracticability",
+    "rule": "Performance is excused where, after contract formation, an unforeseen event not caused by the party and whose non-occurrence was a basic assumption makes performance impossible or impracticable (Restatement 261); increased cost alone is not enough and the risk must not have been allocated to the party or have been foreseeable.",
+    "keyFacts": [
+     "worldwide shortage of oak barrels",
+     "will in fact persist for at least several years",
+     "growing popularity of distilleries over the past 10 years",
+     "Western Sky will now cease production"
+    ],
+    "analysis": "Performance of the employment contract (paying Becky) is not impossible, and the duty impaired is the barrel supply, not the employment promise. The trend was foreseeable and the early-termination clause allocates the risk of ending the job to the employer. Defense likely fails; best argument is that a multi-year shortage makes production commercially senseless.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Frustration of purpose",
+    "rule": "Performance is excused where a supervening unforeseeable event substantially frustrates a party's principal purpose, known to both parties, so that the value of the other's performance is destroyed, and the event was not caused by the party seeking relief.",
+    "keyFacts": [
+     "Western Sky will now cease production of bourbon",
+     "hired as Chief Distiller",
+     "growing popularity of distilleries over the past 10 years"
+    ],
+    "analysis": "Western Sky's purpose (producing bourbon with a chief distiller) is arguably frustrated, but the shortage was foreseeable given the 10-year trend, and Western Sky voluntarily chose to cease production. Defense likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mitigation / avoidable consequences",
+    "rule": "The injured party must use reasonable efforts to avoid or reduce loss; an employee need only seek comparable (substantially similar) employment, not inferior or different work, but earnings actually received from other work are offset against damages.",
+    "keyFacts": [
+     "offered a full time job as the host of a television show about bourbon producers",
+     "salary of $100,000 for four years",
+     "unable to find another job as a bourbon distiller because of the oak barrel shortage"
+    ],
+    "analysis": "TV host is a different kind of job at lower pay, so Becky was not obliged to accept it; but having accepted it, the $100,000 per year she will earn reduces her recovery, likely to $100,000 per year for four years ($400,000) unless the job is deemed not comparable and she could have earned it in addition.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Reliance and incidental damages",
+    "rule": "Alternatively or additionally, a plaintiff may recover reliance expenditures made in reasonable foreseeable reliance and incidental damages incurred in responding to the breach, without double recovery.",
+    "keyFacts": [
+     "highly employable and well-known bourbon distiller",
+     "unable to find another job"
+    ],
+    "analysis": "Facts show no specific reliance costs; any job-search expenses might be recoverable but are minor.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Divisibility of the contract",
+    "rule": "Where performance is divided into separate paired units, breach of one installment may be treated separately; payment of earlier installments does not discharge duties for later periods.",
+    "keyFacts": [
+     "salary of $200,000 annually, for five years"
+    ],
+    "analysis": "Annual divisibility does not help Western Sky; it still owes the remaining years.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Likely outcome: breach, defenses of impossibility/impracticability/frustration fail, liquidated damages probably a penalty, expectation less TV earnings. Check whether graders credit unenforceable-penalty vs. enforceable-clause outcomes."
+ },
+ {
+  "id": "october2018-q2",
+  "issues": [
+   {
+    "name": "Andrew \u2013 solicitation (witness tampering / dissuading a witness)",
+    "rule": "Solicitation is inciting, urging or requesting another to commit a crime with intent that the crime be committed; it is complete upon the request. Dissuading or attempting to dissuade a victim/witness from testifying (Cal. Pen. Code 136.1) is a crime, as is suborning perjury if the witness is asked to testify falsely.",
+    "keyFacts": [
+     "Andrew asks his present girlfriend, Claire, to help him convince Belle to testify that the battery never happened",
+     "ask her not to testify against Andrew"
+    ],
+    "analysis": "Andrew asked Claire to help him dissuade Belle from testifying; solicitation of witness tampering is chargeable (and perjury if she is to say the battery did not happen). Solicitation merges into conspiracy or the completed offense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andrew and Claire \u2013 conspiracy",
+    "rule": "Conspiracy is an agreement between two or more persons to commit an unlawful act, with specific intent to agree and to achieve the objective; modern/California law requires an overt act. Wharton's rule and merger of solicitation are secondary points.",
+    "keyFacts": [
+     "Andrew and Claire agree that he will call Belle",
+     "Claire will be waiting in the parking lot to confront Belle",
+     "Andrew makes the call"
+    ],
+    "analysis": "Agreement plus overt acts (Andrew's call, Claire waiting in the lot) establish conspiracy to dissuade/intimidate a witness; Wharton's rule is inapplicable since the target crime does not require two parties.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andrew \u2013 Pinkerton / scope of conspiracy",
+    "rule": "A conspirator is liable for substantive crimes of co-conspirators committed in furtherance of the conspiracy and reasonably foreseeable as a natural and probable consequence.",
+    "keyFacts": [
+     "Claire gets out of her car and confronts Belle. She yells at her to withdraw her complaint",
+     "Claire goes back to her car, gets a baseball bat ... and goes after Belle",
+     "Belle brandished the knife"
+    ],
+    "analysis": "Claire's yelling and threats toward Belle are in furtherance; a bat attack is arguably foreseeable in a confrontation of the complaining witness but is a stretch beyond the plan to 'ask' her. Belle's stabbing of Claire is not a conspirator's act so Pinkerton does not reach it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andrew \u2013 accomplice liability for assault on Belle",
+    "rule": "An accomplice who, with intent that the crime be committed, aids, encourages or counsels the principal is liable for the principal's crime and its natural and probable consequences.",
+    "keyFacts": [
+     "Andrew comes out of the building and tells Claire to get Belle",
+     "Claire goes back to her car, gets a baseball bat",
+     "each one threatens the other"
+    ],
+    "analysis": "Telling Claire to 'get Belle' could be encouragement of Claire's threats/assault with the bat, though 'get' may merely mean fetch; liability is arguable but weaker than for the conspiracy.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Andrew \u2013 liability for Claire's death (murder/manslaughter, causation)",
+    "rule": "Homicide liability requires actual and proximate cause plus mens rea. Felony murder requires an inherently dangerous enumerated felony and the killing must be by a co-felon (and not of a co-felon by a victim); provocative-act murder requires an act by the defendant or accomplice that provokes a lethal response, and does not typically apply where the dead person is the co-participant. Involuntary manslaughter requires criminal negligence.",
+    "keyFacts": [
+     "Belle stabs Claire with her knife",
+     "Claire ... later dies from her wounds",
+     "Andrew did not intend ... tells Claire to get Belle"
+    ],
+    "analysis": "Witness dissuasion is not a felony-murder predicate and Belle's act was an intervening act of self-defense against Claire's own escalation; Andrew's mens rea for killing is lacking. Murder liability is unlikely; involuntary manslaughter on a recklessness theory is a stretch.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andrew \u2013 defenses",
+    "rule": "Defenses include lack of the required mens rea/specific intent, lack of agreement or foreseeability, and (for conspiracy) withdrawal, which requires communication and effort to thwart; Andrew cannot claim Claire's own self-defense.",
+    "keyFacts": [
+     "Andrew ... tells Claire to get Belle",
+     "Belle has a knife on her"
+    ],
+    "analysis": "Andrew will argue he intended only persuasion, not violence; no withdrawal occurred, so conspiracy/solicitation exposure remains.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Belle \u2013 assault / assault with a deadly weapon (brandishing)",
+    "rule": "Assault is an attempted battery or intentional act creating reasonable apprehension of imminent battery (California: unlawful attempt, coupled with present ability, to commit a violent injury); with a deadly weapon it is aggravated.",
+    "keyFacts": [
+     "When Belle sees Claire coming over to her, she brandishes the knife",
+     "each one threatens the other"
+    ],
+    "analysis": "Brandishing the knife while exchanging threats is an assault with a deadly weapon unless justified; Belle may claim defense since Claire was advancing.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Belle \u2013 battery / aggravated battery (merges)",
+    "rule": "Battery is the unlawful application of force; with a deadly weapon or causing serious injury it is aggravated. Lesser offenses merge into the resulting homicide.",
+    "keyFacts": [
+     "Belle stabs Claire with her knife, causing serious bodily injury"
+    ],
+    "analysis": "The stabbing is a battery with a deadly weapon, which merges into the homicide charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Belle \u2013 homicide and causation",
+    "rule": "Homicide is the killing of a human being by another; the defendant's act must be the actual and proximate cause of death.",
+    "keyFacts": [
+     "Claire is transported to the hospital, where she later dies from her wounds",
+     "Belle stabs Claire"
+    ],
+    "analysis": "But-for and proximate cause plainly established by the stab wound, with a delay at hospital not breaking the chain.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Belle \u2013 murder (malice) and degree",
+    "rule": "Murder is a homicide with malice aforethought: intent to kill, intent to inflict serious bodily injury, depraved-heart recklessness, or felony murder. First-degree requires premeditation and deliberation or an enumerated felony; other murder is second degree.",
+    "keyFacts": [
+     "She brought it with her for protection",
+     "Belle stabs Claire with her knife, causing serious bodily injury",
+     "Claire ... goes after Belle"
+    ],
+    "analysis": "Stabbing with a knife supports malice (intent to kill or inflict GBI); premeditation is unlikely since stabbing was in a sudden confrontation and the knife was brought for protection, so at most second-degree murder, subject to defenses; felony murder does not apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Belle \u2013 self-defense (and imperfect self-defense)",
+    "rule": "Deadly force is justified where the defendant reasonably believes she faces imminent unlawful deadly force or great bodily harm and uses necessary force; an initial aggressor loses the right unless the victim escalates; honest but unreasonable belief yields imperfect self-defense reducing murder to voluntary manslaughter (California).",
+    "keyFacts": [
+     "Belle has a knife on her. She brought it with her for protection",
+     "Claire goes back to her car, gets a baseball bat out of the back seat and goes after Belle",
+     "she brandishes the knife"
+    ],
+    "analysis": "Belle brandished the knife first and exchanged threats, which clouds whether she was the initial aggressor, but Claire escalated by going to get a bat and coming after her, so Belle likely regains the right to use deadly force; this is the key close call. If she is held an aggressor or the belief unreasonable, imperfect self-defense reduces to manslaughter.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Belle \u2013 heat of passion / voluntary manslaughter",
+    "rule": "Murder is mitigated to voluntary manslaughter where the killing is in the heat of passion upon adequate provocation (one that would cause a reasonable person to lose self-control), without time to cool.",
+    "keyFacts": [
+     "Angry words are exchanged and each one threatens the other",
+     "Claire ... gets a baseball bat ... and goes after Belle"
+    ],
+    "analysis": "Claire's charge with a bat after angry threats is adequate provocation and there was no cooling off, so voluntary manslaughter is a fallback if self-defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Bar-exam answer key is not published; check whether graders expect Pinkerton/accomplice liability for Andrew to extend to the death and whether the initial-aggressor issue for Belle is emphasized. Student A misstates that Andrew solicited Belle; B mislabels the assault victim and uses 'necessity'."
+ },
+ {
+  "id": "october2018-q3",
+  "issues": [
+   {
+    "name": "Neighbor v. BlastCo \u2013 strict liability for abnormally dangerous activity",
+    "rule": "One who carries on an abnormally dangerous activity (high risk of serious harm even with reasonable care, and not a matter of common usage; Restatement 2d 519-520) is strictly liable for harm of the kind that makes the activity dangerous, if the activity is the actual and proximate cause.",
+    "keyFacts": [
+     "BlastCo was blasting a new train tunnel about 3 miles from the properties",
+     "an unusual jolt occurred, which caused Neighbor's jeep to jump off its blocks",
+     "BlastCo ... has been in operation since 1970"
+    ],
+    "analysis": "Blasting is the classic abnormally dangerous activity; ground shock and vibration is the very risk that makes it dangerous, even 3 miles away, so strict liability likely applies (negligence alternative not needed). A close point is the distance and 'unusual' jolt, but this goes to foreseeability, which is not required for strict liability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation \u2013 chain of events from blast to loss (actual and proximate)",
+    "rule": "Plaintiff must show but-for causation and proximate cause: harm must be of a foreseeable type resulting from the dangerous activity, with no unforeseeable superseding cause breaking the chain.",
+    "keyFacts": [
+     "jolt caused Neighbor's jeep to jump off its blocks and roll down the driveway",
+     "busting through a thin wooden fence",
+     "ran over and killed 22 Holland Lop rabbits",
+     "came to rest at the bottom of a ravine, damaged beyond repair"
+    ],
+    "analysis": "But for the blast the jeep would not have rolled, and rolling vehicles destroying property is a foreseeable result of vibration; the jeep's improper blocking is a concurrent cause, not a superseding one.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Neighbor's own negligence \u2013 defenses to strict liability (comparative fault)",
+    "rule": "Contributory negligence is not a defense to strict liability, but assumption of risk and (in comparative-fault states such as California) the plaintiff's own unreasonable conduct reduce recovery proportionally.",
+    "keyFacts": [
+     "perched at the top of Neighbor's steep driveway with its front wheels improperly secured by blocks",
+     "waiting for installation of brakes",
+     "Neighbor was not home"
+    ],
+    "analysis": "BlastCo will argue Neighbor negligently left the jeep without brakes on a steep driveway on improperly secured blocks; this should reduce Neighbor's recovery but not bar it, while the jeep had sat unmoved for two years supports Neighbor's response.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Neighbor's damages for the jeep",
+    "rule": "For destruction of personal property the measure is fair market value immediately before the loss (not the value of the finished product, which would be speculative), plus incidental losses.",
+    "keyFacts": [
+     "classic 1957 Jeep Willys ... to restore as a hobby",
+     "Once completed, the jeep would be worth $50,000",
+     "almost finished, waiting for installation of brakes and wood paneling",
+     "damaged beyond repair"
+    ],
+    "analysis": "Neighbor recovers the value of the jeep in its nearly complete state (roughly $50,000 minus remaining completion cost), reduced by any comparative fault; the $50,000 completed value is a ceiling, not the measure.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Pet Farm v. BlastCo \u2013 strict liability and proximate cause for rabbits and fence",
+    "rule": "A strictly liable defendant is liable to any plaintiff (including remote ones) for harm within the scope of the abnormal risk, including property damage from the chain of events set in motion, unless a superseding cause intervenes.",
+    "keyFacts": [
+     "jeep ... entered Pet Farm's property by busting through a thin wooden fence",
+     "killed 22 Holland Lop rabbits owned by Pet Farm, worth about $100 each",
+     "Pet Farm is situated just outside of the city limits"
+    ],
+    "analysis": "The jeep's rolling is a foreseeable consequence of the blast jolt so BlastCo should be strictly liable to Pet Farm for the rabbits and fence, subject to the argument that the chain is too attenuated; Neighbor's negligence does not clearly supersede.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Pet Farm v. Neighbor \u2013 negligence",
+    "rule": "Negligence requires duty, breach, actual and proximate cause, and damages; one must act as a reasonably prudent person, owing a duty to foreseeable plaintiffs; res ipsa loquitur may apply where the event ordinarily implies negligence by the defendant who controlled the instrumentality.",
+    "keyFacts": [
+     "front wheels improperly secured by blocks",
+     "perched at the top of Neighbor's steep driveway",
+     "across the street",
+     "waiting for installation of brakes"
+    ],
+    "analysis": "Leaving a heavy car without brakes on a steep driveway with improperly secured blocks across from a property is a breach to foreseeable neighbors; the key dispute is causation given the unusual blast.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Neighbor's defense \u2013 blast as superseding cause / foreseeability",
+    "rule": "An intervening force is superseding only if unforeseeable and not within the scope of the risk created by the defendant's negligence; foreseeable intervening forces do not relieve the defendant.",
+    "keyFacts": [
+     "an unusual jolt occurred",
+     "BlastCo ... has been in operation since 1970",
+     "Neighbor has owned property in Mountain Town since 1965"
+    ],
+    "analysis": "The blasting company had existed in town for decades, so some ground shock was foreseeable, but the 'unusual' jolt supports a superseding-cause argument for Neighbor; likely a jury question with apportionment of fault.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Pet Farm v. Neighbor \u2013 trespass to land (intent)",
+    "rule": "Trespass requires an intentional physical entry onto land of another (intent only to do the act causing entry); mere negligent or accidental entry is not trespass but may give rise to negligence liability.",
+    "keyFacts": [
+     "jeep careened across the street and entered Pet Farm's property",
+     "Neighbor was not home at the time"
+    ],
+    "analysis": "Neighbor did not intend or know to a substantial certainty that the jeep would enter, so trespass fails and negligence is the proper theory.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Pet Farm's own conduct (thin fence) / defenses to Pet Farm's claims",
+    "rule": "Comparative fault reduces the plaintiff's recovery by its own percentage of fault; there is no duty to build property defenses against unforeseeable runaway vehicles.",
+    "keyFacts": [
+     "busting through a thin wooden fence"
+    ],
+    "analysis": "Pet Farm had no duty to build a vehicle-proof fence; no contributory negligence, assumption of risk is shown.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Private nuisance claims against BlastCo",
+    "rule": "Private nuisance is a substantial, unreasonable interference with the use and enjoyment of land; blasting vibrations may qualify, and 'coming to the nuisance' is no defense if plaintiff was there first.",
+    "keyFacts": [
+     "Neighbor has owned property in Mountain Town since 1965",
+     "BlastCo ... has been in operation since 1970",
+     "Pet Farm moved ... in 1980",
+     "unusual jolt"
+    ],
+    "analysis": "Nuisance is weak: a single jolt is not a continuing interference with use and enjoyment of land and the harm was to personal property, though Neighbor predates BlastCo so coming-to-the-nuisance is unavailable to BlastCo; Pet Farm arrived later but a single event does not matter.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Joint tortfeasors \u2013 apportionment, joint and several liability, contribution",
+    "rule": "Where multiple defendants cause an indivisible injury they are jointly and severally liable; under California Prop. 51 liability for non-economic damages is several, economic damages remain joint; a defendant may seek equitable indemnity or contribution.",
+    "keyFacts": [
+     "BlastCo ... Neighbor ... Pet Farm",
+     "22 Holland Lop rabbits ... worth about $100 each"
+    ],
+    "analysis": "BlastCo (strict liability) and Neighbor (negligence) both contributed to Pet Farm's loss and each may be liable for the economic damages, with contribution/indemnity between them by relative fault.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Pet Farm's damages",
+    "rule": "For destroyed property, damages are fair market value plus consequential economic loss (fence repair); emotional distress damages are generally not recoverable for loss of property.",
+    "keyFacts": [
+     "22 Holland Lop rabbits owned by Pet Farm, worth about $100 each",
+     "thin wooden fence",
+     "bunny farm ... breed bunnies for sale as pets"
+    ],
+    "analysis": "Recovery is about $2,200 for rabbits plus fence repair, and possibly lost breeding profits if proved with reasonable certainty; no emotional distress.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check: A did not analyze BlastCo's defenses to Neighbor or Pet Farm's SL claim. The 1965/1970/1980 dates appear aimed at a coming-to-the-nuisance point that neither student discussed. Verify the foundIn for the 'defenses to Pet Farm' issue (A discussed generic comparative negligence/assumption of risk)."
+ },
+ {
+  "id": "october2018-q4",
+  "issues": [
+   {
+    "name": "Conspiracy to commit robbery (Moe, Larry, and Curley's membership)",
+    "rule": "Conspiracy is an agreement between two or more persons to commit a crime, with intent to agree and to achieve the objective, plus an overt act in most jurisdictions (California requires one); each conspirator must agree, though not all must perform acts.",
+    "keyFacts": [
+     "Moe and Larry agreed to do the robbery, but Curley said that he would think about it",
+     "asked Curley to at least drive them to the Bank in his car, and Curley agreed",
+     "the three drove to the Bank"
+    ],
+    "analysis": "Moe and Larry clearly conspired, and driving to the bank is an overt act. Curley initially only said he would think about it but later agreed to drive them, which likely makes him a conspirator; a close call as to Curley's intent to join the robbery rather than merely help friends.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Pinkerton liability / co-conspirator liability",
+    "rule": "Each conspirator is liable for the substantive crimes of co-conspirators committed in furtherance of the conspiracy and reasonably foreseeable (Pinkerton); some states limit this and require accomplice liability.",
+    "keyFacts": [
+     "Larry pulled out his gun, fired at the guard",
+     "Moe then shot the guard dead",
+     "dragged a driver out from a nearby car and drove away"
+    ],
+    "analysis": "Shootings during an armed bank robbery and a carjack for escape are foreseeable consequences of the conspiracy, so each conspirator (including Curley, subject to withdrawal) is liable for them.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Armed robbery of the bank (teller); larceny merges",
+    "rule": "Robbery is the trespassory taking and carrying away of another's property from the person or presence by force or fear with intent to permanently deprive; use of a deadly weapon aggravates it (first degree in Cal.), and larceny merges into robbery.",
+    "keyFacts": [
+     "Larry and Moe ordered Teller at gunpoint to give them a sack of money",
+     "Fleeing outside ... drove away with the money"
+    ],
+    "analysis": "Gunpoint demand of bank money is armed robbery by Larry and Moe; larceny and assault merge or are lesser included.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larry \u2013 murder of the customer (felony murder, transferred intent, degree)",
+    "rule": "Felony murder: killing during the perpetration of an inherently dangerous felony such as robbery is first-degree murder regardless of intent. Malice may also be shown by intent to kill (transferred to unintended victim), intent to inflict GBI, or depraved heart; premeditation and deliberation make first degree.",
+    "keyFacts": [
+     "Larry pulled out his gun, fired at the guard but missed, while the bullet hit and killed a customer"
+    ],
+    "analysis": "The customer's death occurred during an armed robbery, so Larry is guilty of first-degree felony murder; independently, intent to kill the guard transfers to the customer (murder, with premeditation arguable given a sudden reaction to the approaching guard).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larry \u2013 attempted murder of the guard",
+    "rule": "Attempted murder requires specific intent to kill and a substantial step beyond mere preparation; missing the target does not defeat it.",
+    "keyFacts": [
+     "Larry noticed that the armed Bank guard was approaching them",
+     "fired at the guard but missed"
+    ],
+    "analysis": "Firing at the guard shows intent to kill and a direct act; attempted murder is easily made out (self-defense of an armed robber is unavailable).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Moe \u2013 murder of the guard (felony murder, malice, premeditation)",
+    "rule": "A killing during robbery is felony murder; alternatively, intentionally shooting a person is murder with malice, and first degree if premeditated and deliberate.",
+    "keyFacts": [
+     "Moe then shot the guard dead"
+    ],
+    "analysis": "Moe is guilty of first-degree felony murder and intentional murder; the shooting followed Larry's shot so it is arguably an immediate reaction, but felony murder resolves the degree.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cross-liability for the other robber's killing (Pinkerton / felony murder)",
+    "rule": "All participants in a robbery are liable for killings committed by a co-felon in furtherance of the felony (felony murder), including a killing of a bystander.",
+    "keyFacts": [
+     "Larry pulled out his gun, fired ... killed a customer",
+     "Moe then shot the guard dead",
+     "Larry and Moe agreed to do the robbery"
+    ],
+    "analysis": "Moe is liable for the customer's death and Larry is liable for the guard's death through felony murder and Pinkerton, as both occurred during the robbery.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Voluntary manslaughter mitigation",
+    "rule": "Murder is mitigated to voluntary manslaughter only by heat of passion on adequate provocation or imperfect self-defense.",
+    "keyFacts": [
+     "Larry noticed that the armed Bank guard was approaching them"
+    ],
+    "analysis": "The guard's approach does not provide adequate provocation for a robber, so no mitigation.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Assault and battery (teller, driver, bank occupants)",
+    "rule": "Assault is an attempted battery or intentional act creating reasonable apprehension of imminent harmful touching; battery is a harmful or offensive touching; use of a deadly weapon aggravates the assault.",
+    "keyFacts": [
+     "ordered Teller at gunpoint",
+     "dragged a driver out from a nearby car"
+    ],
+    "analysis": "Pointing guns at the teller is assault with a deadly weapon; dragging the driver from the car is battery (and assault).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Taking the driver's car \u2013 carjacking / robbery / larceny",
+    "rule": "Taking a vehicle from a person's immediate presence by force or fear is robbery (carjacking, Pen. Code 215), not mere larceny; the intent to permanently deprive may be satisfied by abandonment risks (the car was used for escape).",
+    "keyFacts": [
+     "noticing that Curley had left, Larry and Moe dragged a driver out from a nearby car and drove away with the money"
+    ],
+    "analysis": "Forcibly dragging out the driver and driving away is carjacking/robbery (or larceny with battery) by Larry and Moe; intent to permanently deprive may be questioned if they intended to abandon the car.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Kidnapping of the driver",
+    "rule": "Kidnapping is the unlawful movement (asportation) of a person by force or fear against will; here the driver was dragged from the car but was not moved significantly.",
+    "keyFacts": [
+     "dragged a driver out from a nearby car",
+     "drove away"
+    ],
+    "analysis": "The driver was only dragged out and left, not carried away, so kidnapping is doubtful and asportation is minimal.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Curley \u2013 accomplice liability (getaway driver) and conspirator",
+    "rule": "An accomplice is one who, with intent that the crime be committed, aids, abets, or encourages the principal; liable for the target crime and natural and probable consequences. Mere presence or knowledge is insufficient.",
+    "keyFacts": [
+     "Curley said that he would think about it",
+     "asked Curley to at least drive them to the Bank in his car, and Curley agreed",
+     "Curley remained outside, sitting in the car waiting for his two friends"
+    ],
+    "analysis": "By driving them to the bank and waiting as lookout/getaway driver, Curley aided the robbery with knowledge and intent, so he is an accomplice to the robbery, and (absent withdrawal) liable for foreseeable murders and other crimes.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Curley \u2013 withdrawal / abandonment defense",
+    "rule": "To withdraw from a conspiracy or accomplice liability one must act before the crime is committed, communicate the withdrawal to co-participants or neutralize assistance (e.g., notify police in time); withdrawal does not undo the completed conspiracy, only later crimes.",
+    "keyFacts": [
+     "Curley decided to call the police on his cell phone and told them about the ongoing crime and drove away",
+     "Larry and Moe ... noticing that Curley had left"
+    ],
+    "analysis": "Curley did not withdraw before the crime was underway, and calling police during the robbery and fleeing without telling Larry and Moe is probably ineffective for the robbery and shootings; he may argue the call/departure ends his liability for the later carjacking, but this is a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Solicitation of Curley",
+    "rule": "Solicitation is asking another to commit a crime with intent that it be committed; it merges into the completed crime or conspiracy.",
+    "keyFacts": [
+     "Moe and Larry, however, asked Curley to at least drive them to the Bank"
+    ],
+    "analysis": "Moe and Larry's request is solicitation but merges into conspiracy and robbery.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses of Moe and Larry",
+    "rule": "Defenses include duress, necessity, self-defense, withdrawal; a felon has no self-defense when the aggressor in the commission of a felony.",
+    "keyFacts": [
+     "Larry pulled out his gun, fired at the guard",
+     "the armed Bank guard was approaching them"
+    ],
+    "analysis": "No viable defenses; the guard's approach does not justify armed felons shooting.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Verify: nature of carjacking vs larceny (A used larceny and omitted kidnapping/robbery theory). Neither fully analyzed whether Curley's pre-crime 'think about it' negates intent to conspire; check the foundIn judgments for the two issues about the driver (A: larceny, B: kidnapping)."
+ }
+]

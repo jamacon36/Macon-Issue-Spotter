@@ -1,0 +1,597 @@
+[
+ {
+  "id": "june2015-q1",
+  "issues": [
+   {
+    "name": "Arthur \u2013 larceny (through innocent agent) and employee custody",
+    "rule": "Larceny is the trespassory taking and carrying away of another's personal property with intent to permanently deprive; a servant who has mere custody (not possession) of the employer's goods commits larceny by taking them, and one who uses an innocent agent is liable as principal. Under California law, embezzlement is the alternative if the employee has lawful possession/entrustment.",
+    "keyFacts": [
+     "Arthur and Cassie worked at an art gallery",
+     "wanted to make extra money selling art from the gallery on eBay",
+     "did not tell the owner",
+     "Arthur gave wrapped package and $500 to Woody",
+     "Woody carried the package to the roof"
+    ],
+    "analysis": "Employees with mere custody who take gallery art without consent and plan to sell it commit larceny; handing the package to Woody (an apparently innocent agent) moves it and satisfies asportation. Claimed intent to share proceeds is not intent to return, so permanent deprivation is shown.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Embezzlement / false pretenses alternative",
+    "rule": "Embezzlement is fraudulent conversion of property already in the defendant's lawful possession by entrustment; mere custody leads to larceny rather than embezzlement.",
+    "keyFacts": [
+     "employees of the gallery",
+     "art stored at gallery owned by the owner"
+    ],
+    "analysis": "If the employees were entrusted with possession, embezzlement is the better charge; at best an alternative to larceny.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Arthur \u2013 solicitation and attempt",
+    "rule": "Solicitation is requesting or inducing another to commit a crime with intent that it be committed; attempt requires intent plus an act beyond mere preparation. Solicitation merges into the completed crime or conspiracy.",
+    "keyFacts": [
+     "Arthur offered Woody $500 to take the package and stash it next door"
+    ],
+    "analysis": "Arthur's offer of money to move the art is solicitation of (at least) larceny, merged if larceny/conspiracy is found; since Woody apparently lacked criminal intent, Arthur is more likely liable as principal through an innocent agent.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Conspiracy (Arthur\u2013Cassie, and Woody)",
+    "rule": "Conspiracy is an agreement between two or more persons to commit a crime with intent to achieve its object, plus an overt act in many jurisdictions (including California). Under the common-law/majority bilateral view a person cannot conspire with an innocent party; MPC unilateral view differs.",
+    "keyFacts": [
+     "Arthur and Cassie wanted to make extra money selling gallery art",
+     "Arthur gave the package to Woody",
+     "Cassie was waiting outside to get the package"
+    ],
+    "analysis": "Arthur and Cassie agreed to steal art, and handing the package to Woody is an overt act; it is doubtful that Woody agreed (he seems unaware of any crime), but the Arthur-Cassie conspiracy suffices.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary",
+    "rule": "Modern burglary: entry (breaking not required) into a structure of another without consent with intent to commit a felony or theft therein; common law required breaking and entering of a dwelling at night. A person with a right to enter (such as an employee) who enters for a lawful purpose typically does not commit burglary, though entry beyond the scope of consent after hours may qualify in some states.",
+    "keyFacts": [
+     "building open through the roof due to earthquake renovations",
+     "gallery had closed for the evening",
+     "Arthur and Cassie were employees",
+     "Woody crossed into the next building through the gap"
+    ],
+    "analysis": "Common-law burglary fails (not a dwelling; no breaking); modern burglary is a weak charge because the employees had permission to be in the gallery and Woody's passage was through an existing opening, though after-hours entry with larcenous intent is arguable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder \u2013 felony murder",
+    "rule": "Felony murder applies when a killing occurs during commission of or flight from an enumerated or inherently dangerous felony (burglary, robbery, arson, rape, kidnapping, mayhem, etc.); larceny is not enumerated, and many states do not apply the rule to a co-felon's death or to an accident not caused by the felon's act (agency/proximate cause).",
+    "keyFacts": [
+     "Woody fell through the gap and tumbled three stories and was killed",
+     "Woody was carrying the package for Arthur"
+    ],
+    "analysis": "The predicate is shaky: burglary is doubtful, and larceny is not inherently dangerous for felony-murder purposes; Woody's death was an accident, so felony murder is unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder \u2013 malice (implied/depraved heart) and causation",
+    "rule": "Murder requires malice: intent to kill, intent to inflict serious injury, or reckless disregard for human life. Actual and proximate cause are required; an unforeseeable event can break the chain.",
+    "keyFacts": [
+     "building open to next building through the roof",
+     "Arthur asked Woody to carry a package across the roof at night"
+    ],
+    "analysis": "Asking someone to cross a gap in a building under renovation does not show conscious disregard of a high risk of death; malice is not established.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Involuntary manslaughter / misdemeanor manslaughter",
+    "rule": "Involuntary manslaughter is an unintentional killing through criminal negligence (gross deviation) or an unlawful act not amounting to a dangerous felony.",
+    "keyFacts": [
+     "Woody was sent across an open roof gap",
+     "Woody fell and died"
+    ],
+    "analysis": "Death was a foreseeable result of directing a worker across a construction gap, so criminal negligence is arguable, but the gap and risk were not created by Arthur and Woody was an experienced contractor employee; a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cassie \u2013 accomplice and conspiracy liability for the initial scheme",
+    "rule": "An accomplice who aids or encourages a crime with intent that it be committed is liable as a principal, and a conspirator is liable under Pinkerton for foreseeable crimes in furtherance of the conspiracy.",
+    "keyFacts": [
+     "Cassie was waiting outside the building to get the package",
+     "Arthur and Cassie intended to share the proceeds"
+    ],
+    "analysis": "Cassie joined the plan and was to receive the stolen art, making her a conspirator and accomplice to larceny of the first package.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cassie \u2013 larceny/burglary of additional paintings",
+    "rule": "Larceny: trespassory taking and carrying away with intent to permanently deprive; for an employee with custody, taking is trespassory. Burglary requires unlawful entry (or entry beyond consent) with intent to commit a felony or theft.",
+    "keyFacts": [
+     "Cassie went back into the gallery",
+     "took several more paintings and took them home"
+    ],
+    "analysis": "Cassie independently committed larceny of several more paintings (also Arthur is liable under Pinkerton if in furtherance of conspiracy); burglary on re-entry is arguable since the gallery was closed and she entered intending to steal.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cassie \u2013 felony murder via conspiracy / Pinkerton",
+    "rule": "Under Pinkerton a conspirator is liable for reasonably foreseeable crimes of co-conspirators in furtherance of the conspiracy; California limits the scope for non-target offenses.",
+    "keyFacts": [
+     "Woody died while carrying the package for Arthur and Cassie"
+    ],
+    "analysis": "Cassie's liability for Woody's death would rise or fall with Arthur's; murder is unlikely, and manslaughter at most.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses \u2013 impossibility, claim of right, consent, and lack of knowledge",
+    "rule": "Factual impossibility is no defense to attempt or completed crimes; claim of right requires a good-faith belief of ownership; intent to share proceeds with owner is not a defense, and the larceny was complete once the art was carried away.",
+    "keyFacts": [
+     "art destroyed when Woody landed on the package",
+     "intended to share the proceeds with the owner but did not tell him because he would not approve"
+    ],
+    "analysis": "No valid defenses: destruction of art does not undo the larceny; lack of intent to deprive fails since owner would not consent; Arthur's and Cassie's secret plan negates consent. Possible arguments are no burglary and no felony murder.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Legal issues are mixed on burglary (employee's permission to enter) and felony murder for an innocent agent's accident. Answer A did not address Cassie at all and nearly ignored defenses."
+ },
+ {
+  "id": "june2015-q2",
+  "issues": [
+   {
+    "name": "Governing law",
+    "rule": "UCC Article 2 governs sale of goods; service and employment contracts are governed by common law.",
+    "keyFacts": [
+     "Betsy offered Walter a job in her business",
+     "Walter's furniture was shipped, but only incidental to employment"
+    ],
+    "analysis": "Employment contract, so common law applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Contract formation \u2013 offer and definiteness",
+    "rule": "An offer is a manifestation of present willingness to be bound, communicated with reasonably definite terms (parties, subject matter, price, time/duration); expressions of interest or inquiries are preliminary negotiations. Missing terms may be supplied by courts where there is evidence of intent to be bound; at-will employment can be contracted without stated duration.",
+    "keyFacts": [
+     "Walter 'asked if she was still interested in hiring him'",
+     "Betsy replied 'Of course. Get down here as soon as possible and we can see where you would fit in.'",
+     "no wage, position, duties or duration stated"
+    ],
+    "analysis": "Betsy's language ('see where you would fit in') shows she was still negotiating the job; no salary, position or duration is fixed, so a contract is unlikely to be found even though Walter 'agreed'.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Acceptance, mutual assent and consideration",
+    "rule": "Acceptance is an unequivocal expression of assent to the offer's terms; consideration requires a bargained-for exchange of promises. Illusory promises or agreement to agree do not create binding contracts.",
+    "keyFacts": [
+     "Walter agreed and said he would give notice and be in South City by month end"
+    ],
+    "analysis": "Walter's agreement shows acceptance of a general invitation but, as there was no definite offer, there is no mutual assent on essential terms; even if formed, the employment would be at-will.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "At-will employment / Statute of Frauds",
+    "rule": "Absent a contract of definite duration, employment is presumptively at-will and terminable by either party at any time; the Statute of Frauds (one year) does not apply to contracts capable of performance within a year.",
+    "keyFacts": [
+     "no duration stated",
+     "Betsy later said she could no longer employ him"
+    ],
+    "analysis": "Even if a contract existed, it would be at-will, severely limiting expectation damages; SOF is not a bar.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Betsy's excuses (impracticability) and good faith",
+    "rule": "Performance is excused by impracticability if an unforeseen event makes performance extremely burdensome; ordinary business losses are not excuses. An employer may terminate at-will employment, but the implied covenant and promissory estoppel may still apply.",
+    "keyFacts": [
+     "Betsy 'had just lost a major customer and had to impose rigorous cost-cutting'"
+    ],
+    "analysis": "Losing a customer is a foreseeable business risk and would not excuse an enforceable contract; it does suggest she acted for business, not bad faith.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Promissory estoppel",
+    "rule": "A promise that the promisor should reasonably expect to induce action or forbearance, which does induce such action or forbearance, is enforceable to the extent necessary to avoid injustice (Restatement 90); reliance must be reasonable and justifiable.",
+    "keyFacts": [
+     "Betsy often suggested Walter move to South City and work for her",
+     "Betsy told him 'Get down here as soon as possible'",
+     "Walter gave notice at his job, shipped furniture for $5,000, bought a $250 one-way ticket",
+     "Betsy knew he lived some distance away and would give notice"
+    ],
+    "analysis": "Betsy's promise of a job was reasonably expected to induce relocation, and Walter relied to his detriment; the weakness is that her statement was vague ('see where you would fit in') and employment would be at-will, which makes reliance on a specific job arguably unreasonable. On balance PE likely succeeds.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 expectation measure",
+    "rule": "Expectation damages put the plaintiff where full performance would have, subject to certainty, foreseeability and mitigation; for at-will employment they are very limited (no recovery beyond the period before lawful termination).",
+    "keyFacts": [
+     "Walter's previous employer willing to rehire him",
+     "Betsy could terminate at will"
+    ],
+    "analysis": "No enforceable contract and at-will terms mean expectation damages are speculative or nil.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 reliance (out-of-pocket) costs",
+    "rule": "Under promissory estoppel, damages may be limited as justice requires, usually to reliance damages: reasonable expenditures made in reliance on the promise, offset by benefits, subject to foreseeability and mitigation.",
+    "keyFacts": [
+     "$5,000 to ship furniture",
+     "$250 one-way plane ticket",
+     "$5,000 for movers back to Northville",
+     "$250 airfare back to Northville"
+    ],
+    "analysis": "Walter should recover $5,250 for the move to South City and plausibly the $5,250 return move as reasonable mitigation, for a total of $10,500; court may disallow the return if considered his own choice, though returning to the old job was reasonable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 lost wages, mitigation and foreseeability",
+    "rule": "A plaintiff may recover foreseeable consequential losses (such as lost income during unemployment) but must use reasonable efforts to mitigate; speculative damages are barred.",
+    "keyFacts": [
+     "Walter tried for two months to find another job in South City but nothing was available",
+     "previous employer was willing to rehire him",
+     "he gave notice at his job"
+    ],
+    "analysis": "Walter mitigated reasonably (searched, then went back to his old job); he may seek lost income for the two-month gap, but proof and foreseeability are uncertain.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Close call on whether contract formed (most likely not) and whether return-trip costs are recoverable. The facts do not state the date of reliance beyond the call."
+ },
+ {
+  "id": "june2015-q3",
+  "issues": [
+   {
+    "name": "Negligence \u2013 duty owed to Perry (Cardozo vs. Andrews)",
+    "rule": "Negligence requires duty, breach, actual and proximate cause, and damages. Under the Cardozo/Palsgraf majority view, a duty of reasonable care is owed only to foreseeable plaintiffs within the zone of danger; under Andrews, duty is owed to all, with foreseeability handled in proximate cause.",
+    "keyFacts": [
+     "Perry lives ten miles from the golf course",
+     "Tommy ran his cart into Dana",
+     "the chain led from a golf ball into a power plant air intake"
+    ],
+    "analysis": "Under Cardozo, a person ten miles away relying on powered oxygen is outside the zone of danger of a golf cart collision, so no duty; under Andrews duty exists but proximate cause becomes the key issue.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Standard of care \u2013 minor engaged in adult activity",
+    "rule": "A child is held to the standard of a reasonable child of like age, intelligence and experience, except when engaged in an inherently adult/dangerous activity (typically motorized vehicles), where the adult standard applies.",
+    "keyFacts": [
+     "Tommy is fourteen",
+     "children are generally not allowed to rent carts",
+     "Tommy drives a golf cart daily with the owners' permission as he is mature"
+    ],
+    "analysis": "Operating a motorized golf cart is arguably an adult activity so the adult standard applies, though some courts would use a child standard for a 14-year-old on a golf cart; either way, the outcome is likely the same.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach",
+    "rule": "Breach is failure to exercise reasonable care, assessed by the reasonable person standard, Hand formula, negligence per se or res ipsa loquitur.",
+    "keyFacts": [
+     "Tommy 'failed to watch where he was going'",
+     "ran into Dana just as she was swinging her golf club"
+    ],
+    "analysis": "A reasonable cart driver on a course keeps a lookout; Tommy breached.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Actual cause",
+    "rule": "Actual cause is shown under the but-for test or, for multiple causes, as a substantial factor.",
+    "keyFacts": [
+     "Dana's shot left the course because of the collision",
+     "ball fell into the air intake and shut the plant",
+     "Perry's oxygen equipment stopped"
+    ],
+    "analysis": "But for the collision, Dana's shot would not have gone astray, so Tommy is a but-for cause (concurrent with Power Plant's omission).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Proximate cause \u2013 foreseeability of harm and Perry",
+    "rule": "Proximate cause requires harm of a foreseeable type to a foreseeable plaintiff from the risk created; Wagon Mound limits liability to foreseeable kinds of harm, while Polemis jurisdictions apply a direct-cause test. Remote, bizarre chains are not proximate.",
+    "keyFacts": [
+     "Dana's shot left the course",
+     "ball fell into a power plant air intake ten miles from Perry's home",
+     "Perry suffered brain damage after the oxygen equipment stopped"
+    ],
+    "analysis": "A negligent collision may foreseeably cause a stray shot injuring someone near the course, but not a freak outage that harms a person miles away; the type of harm was not foreseeable, so proximate cause likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Intervening/superseding cause \u2013 Power Plant's failure to attach screen",
+    "rule": "A superseding cause cuts off liability if it is unforeseeable and independent; negligent or statutory-violation intervening acts are superseding unless foreseeable. Dependent intervening acts that are normal responses to the defendant's conduct do not supersede.",
+    "keyFacts": [
+     "Power Plant failed to attach the required screen on the air intake when it opened"
+    ],
+    "analysis": "Power Plant's violation of a safety requirement is an independent, unforeseeable negligent act that likely supersedes Tommy's negligence and shifts liability to the plant; Dana's own shot is a foreseeable dependent act.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages and eggshell plaintiff rule",
+    "rule": "A defendant takes the plaintiff as found: the extent of injury need not be foreseeable if the type of harm was, but this does not create liability for unforeseeable kinds of harm.",
+    "keyFacts": [
+     "Perry relies on constant oxygen to stay alive",
+     "suffered brain damage"
+    ],
+    "analysis": "Perry's vulnerability explains the extent of injury but does not make the type of harm foreseeable, so eggshell doctrine does not rescue the claim.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses \u2013 contributory/comparative negligence and assumption of risk",
+    "rule": "Comparative negligence reduces recovery by the plaintiff's share of fault; contributory negligence bars it in a few jurisdictions; assumption of risk requires knowing, voluntary encounter of the specific risk.",
+    "keyFacts": [
+     "Perry relies on equipment that stopped when the plant shut down",
+     "no backup supply mentioned"
+    ],
+    "analysis": "Failing to keep a backup power or oxygen source could be argued as comparative negligence but does not bar recovery in a comparative-fault state; assumption of risk does not apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Other possible claims against Tommy",
+    "rule": "Other tort theories (battery, vicarious liability of owners/parents, negligent entrustment) are claims of Dana or third parties and do not run from Perry to Tommy.",
+    "keyFacts": [
+     "Tommy collided with Dana, not with Perry"
+    ],
+    "analysis": "No other viable tort claim by Perry; negligence is the only theory, and it will probably fail on duty/proximate cause.",
+    "foundIn": [],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Both answers mislabel the Cardozo/Andrews views (Cardozo is the majority zone-of-danger rule). Correct conclusion is probably no liability on proximate cause."
+ },
+ {
+  "id": "june2015-q4",
+  "issues": [
+   {
+    "name": "Abe v. Bob \u2013 defamation (slander per se)",
+    "rule": "Defamation requires a defamatory statement of fact about the plaintiff, published to a third party, falsity, fault (at least negligence for private figures; actual malice for public officials/figures), and reputational harm. Slander (spoken) is actionable without proof of special damages if per se: imputes crime of moral turpitude, unfitness in trade/profession, loathsome disease, or unchastity.",
+    "keyFacts": [
+     "Bob accused Abe of stealing money from the team fund",
+     "made while standing in a crowd of students and parents",
+     "Bob knew the accusation to be untrue",
+     "Abe was fired and could not obtain a job in his profession"
+    ],
+    "analysis": "A false accusation of theft by a coach, made to a crowd, is slander per se (crime and profession); falsity is clear, fault is satisfied (knowledge of falsity), and damages (loss of job) are shown.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Constitutional limits \u2013 public vs. private figure",
+    "rule": "A public official or public figure must prove actual malice (knowledge of falsity or reckless disregard) on a matter of public concern; a private plaintiff on a private matter needs only negligence (presumed damages need actual malice if public concern).",
+    "keyFacts": [
+     "Abe is head coach of an elementary school fifth-grade team",
+     "accusation about team funds before students and parents"
+    ],
+    "analysis": "Abe is likely a private figure (local coach, no public thrust), but even under the actual malice standard Bob's knowing falsehood satisfies it, so punitive damages are available.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defamation \u2013 defenses (qualified privilege)",
+    "rule": "A qualified privilege (e.g., common interest) can protect statements to persons with a legitimate interest, but is lost by malice, knowledge of falsity, or excessive publication.",
+    "keyFacts": [
+     "Bob made the accusation in a crowd to have Abe fired",
+     "Bob knew it was untrue"
+    ],
+    "analysis": "Even if the school community has an interest, Bob abused any privilege by knowing falsity and spiteful motive; no good defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Abe v. Bob \u2013 other torts (IIED, interference with employment)",
+    "rule": "IIED requires extreme and outrageous conduct causing severe distress; intentional interference with contract/prospective advantage requires an intentional wrongful act that disrupts the plaintiff's economic relationship.",
+    "keyFacts": [
+     "Bob 'seeking to have Abe fired' accused him",
+     "Abe was fired based on Bob's accusation and unable to find work"
+    ],
+    "analysis": "Knowingly false accusation intended to get Abe fired supports IIED (outrageousness arguable) and interference with his employment relationship, with the same damages as defamation.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Abe v. Elementary School \u2013 wrongful termination",
+    "rule": "At-will employees may be fired for any lawful reason; liability requires breach of contract, public policy or discrimination. A school that acts on a false report is not liable absent bad faith or contractual protection.",
+    "keyFacts": [
+     "Abe was fired by the school based on Bob's accusation",
+     "no facts on contract or tenure"
+    ],
+    "analysis": "Likely no claim unless Abe had a contract or due process rights as a public employee; the school was deceived and acted without malice.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bob v. Abe \u2013 assault (basketball)",
+    "rule": "Assault is an intentional act causing reasonable apprehension of imminent harmful or offensive contact; actual awareness is required.",
+    "keyFacts": [
+     "Abe threw a basketball at Bob",
+     "Bob ducked to avoid being hit"
+    ],
+    "analysis": "Abe intended to hit Bob and Bob saw it coming and ducked; assault is established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob v. Abe \u2013 battery (no contact) and defenses",
+    "rule": "Battery requires harmful or offensive contact; attempts that miss are not battery. Provocation by verbal accusation is not a defense; self-defense requires imminent unlawful force and proportionate response.",
+    "keyFacts": [
+     "the basketball missed Bob",
+     "Abe threw it 'in retaliation' for Bob's accusation"
+    ],
+    "analysis": "No battery against Bob; Abe's retaliation is not self-defense or any privilege, since defamation does not justify force.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob v. Abe \u2013 threat 'You'd better watch your back' (assault and IIED)",
+    "rule": "Words alone referring to future harm are not assault because there is no imminent apprehension; IIED requires extreme and outrageous conduct and severe emotional distress, and words alone are rarely sufficient but may suffice when combined with surrounding conduct or a threat by someone in a position of power.",
+    "keyFacts": [
+     "Abe told Bob 'You'd better watch your back'",
+     "which subsequently caused Bob to have nightmares",
+     "Abe had just thrown a basketball at him"
+    ],
+    "analysis": "No assault (future threat); IIED is a close call: threat following a thrown ball is outrageous-ish and nightmares are a symptom, but severity is thin and words alone may not suffice. Outcome uncertain, more likely no recovery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Abe \u2013 battery and transferred intent",
+    "rule": "Battery is intentional harmful or offensive contact; under transferred intent, intent to commit assault/battery against one person transfers to the victim actually hit.",
+    "keyFacts": [
+     "the basketball missed Bob but struck Carl in the face",
+     "Abe intended to hit Bob"
+    ],
+    "analysis": "Abe's intent to batter Bob transfers to Carl, so Abe is liable for battery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Abe \u2013 assault, negligence and damages",
+    "rule": "Assault requires apprehension of imminent contact (Carl must have seen it); negligence is available if Abe breached a duty of care to foreseeable plaintiffs, with damages for resulting injury.",
+    "keyFacts": [
+     "facts do not state whether Carl saw the ball",
+     "Carl was a parent in the crowd",
+     "struck in the face"
+    ],
+    "analysis": "Assault depends on whether Carl saw it coming (probably not); negligence is an alternative theory since throwing a ball in a crowd is unreasonable; Carl can recover for the facial injury.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Elementary School \u2013 respondeat superior / negligent supervision",
+    "rule": "An employer is vicariously liable for torts of employees within the scope of employment; intentional torts outside the scope (personal retaliation) generally are not, though the employer may be liable for negligent hiring, retention, or supervision.",
+    "keyFacts": [
+     "Abe was the school's head coach at a game",
+     "threw basketball in retaliation against the assistant coach"
+    ],
+    "analysis": "Throwing a ball at a coworker out of personal anger is outside the scope of employment (not to serve the school), so vicarious liability is unlikely; negligent supervision is a possible weak theory.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Question asks about 'against whom' so parties (Bob, Abe, School) matter. Abe's firing may have a claim against school if contractual; facts silent."
+ }
+]

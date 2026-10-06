@@ -1,0 +1,551 @@
+[
+ {
+  "id": "june2023-q1",
+  "issues": [
+   {
+    "name": "Defamation by Dana - prima facie case",
+    "rule": "Defamation requires a false defamatory statement of fact about the plaintiff, published to a third party, with the requisite fault and (for slander not per se) special damages. Slander (oral) is actionable without proof of special damages if it falls in a per se category (crime, loathsome disease, professional misconduct, unchastity). Statements imputing bribery impute a crime and harm a public officer in his office.",
+    "keyFacts": [
+     "Dana accused Pat of receiving a suitcase full of money from an Acme Co. representative",
+     "during a public question-and-answer period at a Columbia City Council meeting",
+     "Pat vehemently denied the claim"
+    ],
+    "analysis": "Dana's accusation of bribery was a statement of fact, orally published to the council and public, concerning Pat and imputing a crime and professional corruption, so it is slander per se and damages are presumed. It is false (Pat denied it and there is no evidence of any payment).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Constitutional fault: public official, actual malice, falsity",
+    "rule": "A public official (or public figure) must prove, with clear and convincing evidence, that the statement was false and was made with actual malice, meaning knowledge of falsity or reckless disregard for truth (New York Times v. Sullivan). On matters of public concern, even a private plaintiff must show at least negligence, and presumed and punitive damages require actual malice (Gertz).",
+    "keyFacts": [
+     "As the mayor of Columbia City, Pat is negotiating a high-profile contract",
+     "Dana warned Pat, 'I will do whatever it takes to ruin you, even if I have to lie to do it.'"
+    ],
+    "analysis": "Pat is a public official and the subject concerns his official conduct, so he must prove falsity and actual malice. Dana's earlier threat to lie shows she knew the accusation was false or at least acted recklessly; ill will alone is not enough but combined with the statement of intent to lie, actual malice is likely proven.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses to defamation - privileges",
+    "rule": "Absolute privilege covers statements by legislators, officials and judicial participants in the course of official proceedings; it does not protect a private citizen speaking at a public comment period. A qualified (conditional) privilege for statements in the public interest is lost by abuse (malice, i.e. knowledge of falsity or ill will). Truth is a defense.",
+    "keyFacts": [
+     "during a public question-and-answer period at a Columbia City Council meeting",
+     "Dana is Pat's neighbor. Pat and Dana are in the midst of a bitter civil suit"
+    ],
+    "analysis": "Dana is a member of the public, not a legislator or witness, so no absolute privilege; any qualified privilege to speak on public matters is defeated by malice and her expressed purpose to ruin Pat. No truth defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Intentional infliction of emotional distress (IIED)",
+    "rule": "IIED requires extreme and outrageous conduct, intent or reckless disregard of the probability of causing severe emotional distress, causation, and severe distress. When the claim is based on speech about a public official, the First Amendment requires a false statement of fact made with actual malice (Hustler v. Falwell).",
+    "keyFacts": [
+     "Dana accused Pat of receiving a suitcase full of money",
+     "Pat ... suffered a heart attack, collapsing on the podium",
+     "I will do whatever it takes to ruin you"
+    ],
+    "analysis": "A deliberate, knowingly false bribery accusation made publicly with the avowed aim of ruining him is extreme and outrageous, and she intended or at least recklessly caused severe distress; a heart attack is severe and physical distress. Since actual malice exists, the First Amendment does not bar the claim. Likely success, subject to causation of the heart attack.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages against Dana",
+    "rule": "For defamation, presumed general damages (reputation, humiliation, mental anguish) are available for slander per se; special damages (pecuniary loss, medical costs and lost earnings if caused by the defamation) must be proved; punitive damages are available for malice, and constitutional limits require actual malice for presumed or punitive damages on public issues. IIED allows compensatory damages for emotional and physical harm (including medical expenses) and punitive damages for malice or reckless conduct; no double recovery for the same harm.",
+    "keyFacts": [
+     "Pat ... suffered a heart attack",
+     "I will do whatever it takes to ruin you, even if I have to lie to do it"
+    ],
+    "analysis": "Pat may recover general damages for reputation and distress, special damages for medical bills and lost income caused by the heart attack (foreseeable result), and punitive damages because of Dana's intent to harm. Overlapping emotional-distress recoveries may not be duplicated. The heart attack may have preceded Dana's statement being widely disseminated, but it followed the statement.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Gazette defamation - news article (republication and fair report privilege)",
+    "rule": "A republisher of a defamatory statement is liable as if it were the original publisher, but the fair report privilege protects accurate and fair reports of official proceedings (including public meetings of a legislative body), even if the statements reported are false, unless the report is not fair or accurate or is published solely to harm. A public official must also prove actual malice.",
+    "keyFacts": [
+     "The next day, the Columbia City Gazette published a news article recounting the city council meeting and reported Dana's accusation, quoting her word-for-word",
+     "Pat vehemently denied the claim"
+    ],
+    "analysis": "The article accurately quoted Dana's statement at a public council meeting, so the fair report privilege applies; and there is no evidence the Gazette knew the claim was false, so actual malice fails. The Gazette is not liable on the article (note: the article apparently omits Pat's denial, but a fair report need not include it).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Gazette defamation - editorial and photo (of and concerning; opinion; actual malice)",
+    "rule": "A defamation plaintiff must show the statement was reasonably understood to be of and concerning him; a defamatory implication from juxtaposition can suffice. Pure opinion, rhetorical hyperbole and statements not provable as false are protected (Milkovich); statements implying false facts are not. Public officials must prove falsity and actual malice.",
+    "keyFacts": [
+     "The editorial did not name Pat directly, nor did it repeat Dana's false claims",
+     "the Gazette published a photo of Pat, lying next to the podium",
+     "editorial complaining about the rampant corruption in city government"
+    ],
+    "analysis": "The editorial is generalized criticism of 'rampant corruption in city government', which is opinion and hyperbole and does not name Pat; the photo placed alongside connects Pat, but a reasonable reader likely sees it as illustrating the news event. Even if of and concerning Pat, he cannot show the Gazette knew or recklessly disregarded falsity. Defamation claim likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "False light",
+    "rule": "False light requires publicity that places the plaintiff in a false light that would be highly offensive to a reasonable person; a public official must show actual malice (Time v. Hill). Also requires substantial falsity and widespread publication.",
+    "keyFacts": [
+     "the Gazette published a photo of Pat, lying next to the podium",
+     "reported Dana's accusation, quoting her word-for-word"
+    ],
+    "analysis": "The article is accurate and the photo is truthful; its juxtaposition with a corruption editorial could imply Pat is corrupt or implies guilt (he collapsed), which would be highly offensive, but there is no showing of actual malice. The claim likely fails; note it overlaps with defamation and some states do not recognize it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Check whether grader treats Pat as a public official for all claims and the fair-report privilege; Dana's heart attack timing is a causation point."
+ },
+ {
+  "id": "june2023-q2",
+  "issues": [
+   {
+    "name": "Robbery (and merged larceny/assault) - Claire",
+    "rule": "Robbery is a larceny (trespassory taking and carrying away of the personal property of another with intent to permanently deprive) from the person or presence of the victim by force or intimidation. Larceny and assault merge into robbery; claim of right is the main defense.",
+    "keyFacts": [
+     "He ran over and told her he would hurt her if she did not hand over her car keys and the title",
+     "Frank took the car to Slim's used car lot",
+     "he had no money for drugs"
+    ],
+    "analysis": "Frank took Claire's car and title from her presence by threat of immediate harm, intending to sell it, so robbery is established. Larceny is a lesser included offense. If the car was reached by a threat of immediate force, assault is also present but merges. Modern statutes may also charge carjacking.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Extortion",
+    "rule": "Extortion (common law, statutory) is obtaining property from another with consent induced by a wrongful threat of future harm or exposure; threat of immediate force is robbery rather than extortion, though modern statutes overlap.",
+    "keyFacts": [
+     "told her he would hurt her if she did not hand over her car keys and the title",
+     "She complied."
+    ],
+    "analysis": "Frank's threat was of immediate force, so robbery is the best fit; extortion is a possible alternative charge for obtaining the title and keys with consent induced by threat.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "False pretenses - Frank's sale to Slim",
+    "rule": "False pretenses requires obtaining title to property of another by a knowingly false representation of past or existing fact with intent to defraud, and the victim must rely on it. Larceny by trick and embezzlement require possession entrusted; attempt applies where the crime is not completed.",
+    "keyFacts": [
+     "Slim offered to pay $5,000 for the car even though he knew it was worth a lot more money",
+     "Slim gave Frank the $5,000",
+     "signed title"
+    ],
+    "analysis": "By presenting the car and signed title as his to sell, Frank impliedly represented ownership and received $5,000 from Slim, but Slim suspected the car was stolen and may not have relied on the representation; if no reliance, Frank is guilty at most of attempted false pretenses. Larceny/embezzlement are not apt because Slim paid voluntarily; the stronger charges are forgery and uttering.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Forgery and uttering",
+    "rule": "Forgery is making or altering a writing with apparent legal significance so that it is false, with intent to defraud; uttering is offering a forged instrument as genuine with intent to defraud. A car title has legal significance.",
+    "keyFacts": [
+     "In Frank's haste, he did not have Claire sign the title",
+     "Frank stepped outside Slim's office and signed the title",
+     "gave him the signed title"
+    ],
+    "analysis": "Frank signed Claire's name (or otherwise made the title appear authorized) to make it genuine and then handed it to Slim, intending to defraud, which is forgery and uttering. Neither requires that the defrauded party be deceived.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Frank's solicitation/conspiracy and receipt involving Slim",
+    "rule": "Solicitation is urging another to commit a crime with intent that it be committed and merges into the completed crime; conspiracy requires agreement and intent to achieve an unlawful objective (and an overt act in some jurisdictions). A thief cannot be convicted of receiving stolen property he himself stole, and Wharton's Rule/buyer-seller doctrine limits conspiracy where the crime requires two parties.",
+    "keyFacts": [
+     "Slim offered to pay $5,000",
+     "Slim then put the car on his lot with a sale price of $20,000"
+    ],
+    "analysis": "Frank is not guilty of receiving; solicitation and conspiracy with Slim are weak because the sale is a buyer-seller transaction without agreement to a further criminal objective. The real exposure is the underlying theft offenses.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Malicious mischief - Jill's property",
+    "rule": "Malicious mischief (malicious destruction of property) requires the malicious (intentional or reckless) destruction of another's property. It is a general intent crime.",
+    "keyFacts": [
+     "he went to Jill's house with a hammer and destroyed her porch furniture and bikes on her lawn",
+     "Enraged"
+    ],
+    "analysis": "Frank deliberately destroyed Jill's furniture and bikes in a rage, so malicious mischief is established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Battery, assault and mayhem against Jill",
+    "rule": "Battery is an unlawful application of force causing bodily injury; criminal recklessness or criminal negligence suffices, and force may be applied through an instrument or flying object. Mayhem is maliciously disabling or disfiguring a body part (blinding an eye); at common law it requires intent or malice (reckless disregard of a high risk of such harm), and modern statutes vary. Assault requires intent to put in fear or attempted battery.",
+    "keyFacts": [
+     "a piece of metal from the furniture Frank was destroying struck Jill in the eye and blinded her",
+     "As Jill came out of her house with a baseball bat to confront Frank"
+    ],
+    "analysis": "Smashing metal furniture with a hammer in a yard and a person approaches creates an obvious risk of flying debris; Frank can be charged with battery (reckless) and possibly mayhem or aggravated battery (blinding is serious bodily injury), though mayhem is a close call if specific intent or malice toward Jill is required. Assault of Jill is weaker as she apparently did not apprehend an attack, and Frank had no intent to hit her; transferred intent does not apply because the property damage was the intended harm.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Voluntary intoxication / diminished capacity",
+    "rule": "Voluntary intoxication may negate specific intent but is not a defense to general intent crimes or recklessness; diminished capacity (where recognized) concerns mental disease, not drug use; insanity requires mental disease (M'Naghten). Withdrawal or addiction does not excuse.",
+    "keyFacts": [
+     "He woke up one day and decided to get high",
+     "Frank bought drugs, which he ingested, and became high",
+     "He returned home ... Enraged"
+    ],
+    "analysis": "Frank was sober when he robbed Claire and committed forgery/uttering (specific intent), so intoxication is no defense to those; he was high when he attacked Jill's property, but malicious mischief, battery and mayhem (as reckless/general intent) are not negated by voluntary intoxication. Possession of drugs may also be charged.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other defenses - necessity, self-defense, claim of right",
+    "rule": "Necessity requires avoiding a greater imminent harm, not self-created; self-defense is unavailable to an aggressor who initiates the confrontation; claim of right negates intent to steal.",
+    "keyFacts": [
+     "he had no money for drugs",
+     "As Jill came out of her house with a baseball bat to confront Frank"
+    ],
+    "analysis": "Desire to get high is not a necessity; Frank was the aggressor against Jill's property, and Jill arrived with a bat only to confront him, so self-defense likely fails (he never used force against her). No claim of right to Claire's car.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Slim - receipt of stolen property",
+    "rule": "Receiving stolen property requires receiving possession or control of property that is stolen, knowing (or believing) it to be stolen, with intent to deprive the owner; knowledge may be inferred from circumstances such as a price far below value and irregular title (willful blindness).",
+    "keyFacts": [
+     "Slim saw that the title was in another person's name and unsigned",
+     "offered to pay $5,000 for the car even though he knew it was worth a lot more money",
+     "he could not pay him until the owner signed the title",
+     "Slim then put the car on his lot with a sale price of $20,000"
+    ],
+    "analysis": "The car was stolen property. Slim's knowledge is shown by the unsigned title in another name, the quick signature within a minute, and the grossly low price; he took possession and offered it for sale at $20,000, so he is likely guilty of receiving stolen property (and possibly attempted theft by receiving if he doesn't believe).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Slim - accomplice liability for forgery/uttering, conspiracy, accessory after the fact, misprision",
+    "rule": "An accomplice is one who, with intent to assist, aids or encourages a crime; accessory after the fact aids a felon to escape arrest or punishment; conspiracy requires agreement; misprision (concealment of a felony) is generally not a state crime. A conspirator is liable under Pinkerton for foreseeable crimes in furtherance, not unrelated later crimes.",
+    "keyFacts": [
+     "Slim ... told Frank he could not pay him until the owner signed the title",
+     "Frank stepped outside Slim's office and signed the title",
+     "Frank bought drugs ... destroyed her porch furniture"
+    ],
+    "analysis": "Slim's insistence on the owner's signature, knowing the car was likely stolen, may make him an accomplice to forgery/uttering, and there may be a conspiracy to receive/sell stolen goods (limited by Wharton's/buyer-seller). He is not accessory after the fact, since he did not help Frank evade arrest, and is not liable for the later crimes against Jill (not in furtherance or foreseeable). Misprision is not generally recognized.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Slim's defenses",
+    "rule": "Mistake of fact negates the mental state if the mistake is honest (specific intent) or honest and reasonable (general intent); willful blindness defeats claims of lack of knowledge; entrapment requires government inducement.",
+    "keyFacts": [
+     "Slim saw that the title was in another person's name and unsigned",
+     "Slim offered to pay $5,000 for the car"
+    ],
+    "analysis": "Slim may claim he believed Frank had authority, but the circumstances (price, unsigned title, instant signature) make that unreasonable and likely incredible. Defense is weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Exam facts ambiguous on whose name Frank signed and on Slim's reliance. Check grader emphasis on false pretenses vs forgery, mayhem mens rea, and Slim's conspiracy/accomplice theories."
+ },
+ {
+  "id": "june2023-q3",
+  "issues": [
+   {
+    "name": "Governing law - common law (services)",
+    "rule": "Contracts for the sale of goods are governed by the UCC; contracts predominantly for services are governed by common law. Courts apply the predominant purpose test.",
+    "keyFacts": [
+     "completed construction of a 20-unit condominium complex",
+     "Paul would begin work on May 1 and complete work by May 31",
+     "painter"
+    ],
+    "analysis": "The contract is for painting labor, with paint as incidental, so the common law (not the UCC) applies: no merchant firm-offer or battle-of-forms rules, and mirror-image acceptance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Offer - the written agreement of April 22",
+    "rule": "An offer is a manifestation of willingness to enter a bargain that creates the power of acceptance in the offeree, with reasonably definite terms. The April 21 discussion was preliminary negotiation; the signed, emailed written agreement stating price, schedule and payment terms is an offer that Developer could accept.",
+    "keyFacts": [
+     "On April 22, Paul signed the Written Agreement and emailed it to Developer",
+     "four $5,000 payments on May 1, May 7, May 14, and May 31"
+    ],
+    "analysis": "Paul's April 22 signed writing was an offer with definite terms; it did not require Developer's signature as the only mode of acceptance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Acceptance by words and conduct (not by silence)",
+    "rule": "Silence or inaction alone is generally not acceptance. Acceptance may be by words or conduct manifesting assent (objective theory), and an offeree who accepts the benefit of performance with reason to know it is offered for compensation is bound; where the offer does not require a signature, oral acceptance and performance suffice.",
+    "keyFacts": [
+     "After not receiving Developer's signed copy of the agreement by April 30, Paul called Developer",
+     "Developer stated, 'We're good to go.'",
+     "Developer made payments of $5,000 on May 1, May 7, and May 14"
+    ],
+    "analysis": "Silence up to April 30 was not acceptance, but 'We're good to go' in reply to Paul's confirming call, followed by three payments exactly matching the schedule, objectively manifested assent to the Written Agreement. Developer accepted it; possible argument that the words referred only to starting work is weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds",
+    "rule": "Contracts within the statute (marriage, suretyship, executor, land, performance not possible within a year, goods over $500) require a writing signed by the party to be charged; a contract to paint a building that can be performed within a year is not within the statute.",
+    "keyFacts": [
+     "Paul would begin work on May 1 and complete work by May 31",
+     "Developer's signed copy"
+    ],
+    "analysis": "The painting contract is a service contract fully performable within a month and is not for an interest in land, so the statute does not apply and Developer's lack of signature is no defense (and his part performance/payments would also satisfy any writing requirement).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Parol evidence rule - integration and the 25% discount",
+    "rule": "A writing intended as the final expression of the terms is integrated; a completely integrated writing (merger clause) bars evidence of prior agreements or negotiations that contradict or add to its terms. Exceptions include fraud, duress, mistake, ambiguity, illegality, a condition precedent to the contract's effectiveness, and a later modification. Preliminary statements that are not promises are not terms.",
+    "keyFacts": [
+     "Under normal circumstances I provide a 25% discount for multiple-unit projects",
+     "This agreement constitutes the entire agreement ... all prior communications shall be of no further effect or evidentiary value",
+     "Total cost of $20,000"
+    ],
+    "analysis": "The Written Agreement has an explicit merger clause, a fixed total price ($20,000 in four $5,000 installments), and no discount term, so it is completely integrated and the discount statement would contradict the price term and is barred. Moreover, 'under normal circumstances' was a statement of practice, not a promise. No exception (ambiguity, fraud, mistake) fits, so the discount cannot vary the writing.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Pre-contract discount statement as misrepresentation, mistake, or collateral agreement",
+    "rule": "Fraud/misrepresentation requires a false statement of material fact relied upon justifiably; unilateral mistake generally does not allow rescission absent the other party's knowledge, and a party is bound by a contract he fails to read. A collateral agreement exception applies only to separately bargained terms not contradicting the writing.",
+    "keyFacts": [
+     "Paul quoted Developer a total cost of $20,000 and stated, 'Under normal circumstances ...'",
+     "The agreement did not mention any discount"
+    ],
+    "analysis": "Paul's statement was not a false statement of fact or a promise, and Developer is bound by the writing that it accepted by paying according to the stated schedule; the duty to read and the merger clause cut against mistake or reliance. These are weak defenses.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Developer's defense - failure of condition / late performance",
+    "rule": "Under the common law, constructive conditions require substantial performance; a trivial delay is at most a minor breach, which entitles the other party to damages but does not discharge its duty to pay, unless time is of the essence by express terms or circumstances. A party who accepts performance may not use non-material lateness to withhold payment; a promisor's duty is excused only if the other's breach is material (extent of benefit deprived, adequacy of compensation, forfeiture, likelihood of cure, good faith).",
+    "keyFacts": [
+     "Paul worked all day on May 31 to complete his work, but he did not finish until 12:05 a.m. on June 1",
+     "scheduled an open house for June 1 at 9:00 a.m.",
+     "complete work by May 31"
+    ],
+    "analysis": "Paul finished five minutes late, nine hours before the open house, and no time-is-of-the-essence clause exists, so lateness is minor; Developer's duty to pay the final $5,000 is not discharged and Developer can offset only proven damages (likely none). Developer might argue the final payment was due May 31 and Paul's completion was a condition, but substantial performance excuses strict compliance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Developer's refusal to pay - breach and Paul's remedy",
+    "rule": "Failure to pay when due after the other has substantially performed is a material breach; the non-breaching party may recover expectation damages (the unpaid contract price less any offset for the minor breach), or restitution/quantum meruit.",
+    "keyFacts": [
+     "Paul requested a final payment of $5,000 from Developer",
+     "Developer responded that it owed Paul no more money",
+     "Paul sued Developer for breach of contract"
+    ],
+    "analysis": "Paul can recover $5,000, less any damages Developer proves from the five-minute delay (likely none); alternatively quantum meruit for the value of the work. Developer's repudiation of the payment obligation is a breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Divisibility/installment contract discussion in B is not necessary; check grader expectations on whether the discount issue should also address modification (no consideration)."
+ },
+ {
+  "id": "june2023-q4",
+  "issues": [
+   {
+    "name": "Negligence - Doug (duty, breach)",
+    "rule": "Negligence requires duty, breach, actual and proximate cause, and damages. Drivers owe other motorists a duty of reasonable care. Violation of a statute designed to prevent the type of harm, by a person in the protected class and without excuse, is negligence per se establishing breach.",
+    "keyFacts": [
+     "Local law requires complete stops at stop signs",
+     "Doug failed to stop at a stop sign and crashed into Polly's car in an intersection"
+    ],
+    "analysis": "Doug owed Polly, a foreseeable motorist in the intersection, a duty. His failure to stop violated a traffic statute intended to prevent intersection collisions with other drivers, so breach is established by negligence per se (no excuse such as emergency appears); a prudent-driver standard gives the same result.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation and damages - Doug",
+    "rule": "Actual cause is shown by but-for causation; proximate cause requires harm to be a foreseeable result of the breach; plaintiff must show actual harm (bodily injury, property damage).",
+    "keyFacts": [
+     "crashed into Polly's car in an intersection, injuring her and damaging her car",
+     "Polly had made a complete stop at the stop sign before proceeding into the intersection"
+    ],
+    "analysis": "But for Doug's failure to stop there would have been no collision, and the collision is the very risk of running a stop sign, so causation is satisfied; Polly was injured and her car damaged, so damages are shown. Polly may recover for medical expenses, lost income, pain and suffering and property damage.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses - contributory/comparative negligence (Polly's cellphone use)",
+    "rule": "Contributory negligence (a minority rule) bars a negligent plaintiff, subject to last clear chance; comparative negligence reduces damages in proportion to plaintiff's fault (pure) or bars recovery if she is 50%/51% or more at fault (modified). A plaintiff's violation of a statute may be negligence per se, but it must have caused the harm.",
+    "keyFacts": [
+     "she was illegally using her cellphone at the time of the accident",
+     "Polly had made a complete stop at the stop sign before proceeding into the intersection"
+    ],
+    "analysis": "Polly's illegal cellphone use is negligence per se, but it must have contributed to the crash (for example, by failing to see Doug approaching and avoid it). Because she stopped properly and was struck by a car running the stop sign, her fault is slight, so under comparative negligence her damages are only reduced; in a contributory-negligence jurisdiction she may be barred, but Doug's last clear chance to stop could defeat the bar. Close call whether the phone caused the accident.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other defenses - assumption of risk and superseding cause",
+    "rule": "Assumption of risk requires knowing and voluntary encounter of a specific risk; a plaintiff's negligence is not a superseding cause of the defendant's negligence unless extraordinary.",
+    "keyFacts": [
+     "she was illegally using her cellphone",
+     "Doug failed to stop at a stop sign"
+    ],
+    "analysis": "Polly did not know of or voluntarily accept the risk that Doug would run the sign, and her cellphone use is not a superseding cause. These defenses fail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Vicarious liability - employee status",
+    "rule": "Respondeat superior makes an employer liable for torts committed by an employee within the scope of employment; employee status depends on the employer's right to control the manner and details of the work (uniform, supervision, tools, method of pay) as opposed to an independent contractor.",
+    "keyFacts": [
+     "Doug is an employee of Bob's Bakery",
+     "required to wear the company uniform",
+     "must display a removable 'How am I Driving?' sign",
+     "Bob's Bakery compensates him for that use [of his own car]"
+    ],
+    "analysis": "The facts state Doug is an employee, and the uniform, required sign and reimbursement for car use show control, so he is an employee even though he uses his own car.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Vicarious liability - scope of employment: detour versus frolic",
+    "rule": "Conduct is within the scope if it is of the kind the employee is hired to perform, occurs substantially within work time and space, and is motivated at least in part to serve the employer; a minor deviation (detour) remains within scope, but a substantial departure for purely personal reasons (frolic) takes the employee outside it until he returns to work. Modern view asks whether the risk is foreseeable/inherent in the enterprise.",
+    "keyFacts": [
+     "Doug was supposed to return directly to the bakery",
+     "decided to visit a friend before returning to the bakery",
+     "His friend's house was not on the way back to the bakery",
+     "removed the 'How am I Driving?' sign ... changed into his own clothes"
+    ],
+    "analysis": "Doug had finished the delivery and was going to a friend's house in a different direction for purely personal reasons, after removing the uniform and sign. This is a frolic, not a minor detour, so the accident was outside the scope and Bob's Bakery is not vicariously liable. Polly can argue a short deviation on a delivery route and that driving risk is foreseeable in the business, but that argument is weak given the facts.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Direct negligence of Bob's Bakery - negligent retention/supervision",
+    "rule": "An employer is directly liable if it knew or should have known the employee was unfit or dangerous and failed to take reasonable action (discipline, retraining, discharge), and the employee's unfitness proximately caused the plaintiff's harm. Many courts require the harm occur in the course of employment or using the employer's premises or chattels (Restatement (2d) Agency 213, Torts 317).",
+    "keyFacts": [
+     "Bob's Bakery received numerous complaints about Doug's driving, but took no action on the complaints",
+     "Doug is required to use his own car"
+    ],
+    "analysis": "Bob's Bakery was on notice of dangerous driving through complaints (the sign existed for this purpose) and did nothing; a collision by Doug is a foreseeable result, so negligent retention/supervision is Polly's best claim against it. Counterarguments: complaints were unverified, the accident occurred outside the employment and in Doug's own car, which weakens proximate cause and the employer's duty. Close call; a conclusion either way with reasoning should be accepted.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob's Bakery's defenses",
+    "rule": "Employer may assert no employment or no scope, lack of notice or causation, and plaintiff's comparative negligence (applied as to Polly's cellphone use), and any apportioned fault limits liability to its share in jurisdictions with several liability for non-economic damages.",
+    "keyFacts": [
+     "Polly ... was illegally using her cellphone at the time of the accident",
+     "Bob's Bakery received numerous complaints"
+    ],
+    "analysis": "Bob's Bakery can raise the same comparative-fault defense as Doug, argue frolic, and that the complaints were not tied to this accident, so any recovery is limited to its share of fault.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Check how grader treats negligent retention when the tort is outside scope and in employee's personal car."
+ }
+]

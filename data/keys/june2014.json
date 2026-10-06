@@ -1,0 +1,674 @@
+[
+ {
+  "id": "june2014-q1",
+  "issues": [
+   {
+    "name": "Private nuisance \u2013 possession and substantial interference",
+    "rule": "Private nuisance is a substantial, unreasonable interference with a plaintiff's use and enjoyment of land in his possession or immediate right to possession. Interference is substantial if it would be offensive or seriously annoying to a normal, reasonable person in the community (not a hypersensitive one); defendant's intent/negligence or abnormally dangerous conduct is also required (intentional here since Flowers knows and refuses to stop).",
+    "keyFacts": [
+     "Harry bought and moved into the home across the street",
+     "light 'extremely bright, casting a glow far beyond Flowers' property'",
+     "light coming in his windows 24 hours a day",
+     "Flowers refused to turn off the lights after request"
+    ],
+    "analysis": "Harry is in possession and constant, extremely bright light through his windows would seriously bother an ordinary resident, so interference is substantial; Flowers knew of the effect and continues, so the conduct is intentional.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Private nuisance \u2013 unreasonableness (utility vs. gravity of harm)",
+    "rule": "Even substantial interference is actionable only if unreasonable: the court balances the gravity of the harm (character of the neighborhood, extent, duration) against the utility of defendant's conduct, including whether defendant could reduce the harm at reasonable cost. Compliance with industry standards is relevant but not dispositive.",
+    "keyFacts": [
+     "greenhouse built twenty years ago in a rural area",
+     "suburban area expanded and houses built closer",
+     "20 workers; $20 million facility; successful business",
+     "industry standards; no way to continue business without the light",
+     "Harry's home is much like all others in the area"
+    ],
+    "analysis": "Utility is real (jobs, business) but the area is now residential and cheap mitigation (shielding, redirecting, shutters) may exist; for damages Harry likely wins on balance, while total shutdown of lighting is harder to justify.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 coming to the nuisance / consent / assumption of risk",
+    "rule": "Coming to the nuisance is not a complete bar to a nuisance claim but is a factor in reasonableness and in the remedy; a plaintiff who knowingly and voluntarily accepts the condition may be found to have consented or assumed the risk.",
+    "keyFacts": [
+     "Flowers put up signs warning prospective residents",
+     "Harry saw the signs but figured the light could not be that bad",
+     "Flowers argues Harry knew about the issue when he bought"
+    ],
+    "analysis": "Harry's knowledge weighs against him and may reduce damages or the weight of his equities, but it does not bar the claim, especially since he did not appreciate the severity and the residential character had changed around Flowers.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Public nuisance",
+    "rule": "A public nuisance is an unreasonable interference with a right common to the general public; a private individual may sue only if he suffered harm different in kind (not just degree) from that of the public.",
+    "keyFacts": [
+     "light casts a glow far beyond Flowers' property",
+     "houses all around in the expanding suburb, all similar to Harry's"
+    ],
+    "analysis": "Although the light affects the neighborhood, Harry's harm (loss of enjoyment of his home) is the same kind as his neighbors', so no standing for public nuisance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Trespass",
+    "rule": "Trespass requires an intentional physical invasion of plaintiff's land by a person or tangible thing; intangible invasions such as light, noise or odor are generally treated as nuisance, not trespass (though some courts allow trespass for particulate matter with substantial damage).",
+    "keyFacts": [
+     "light coming in his windows 24 hours a day",
+     "Flowers intentionally operates the lighting system"
+    ],
+    "analysis": "Light is intangible and causes no physical damage, so trespass will likely fail; nuisance is the proper theory.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Intentional infliction of emotional distress",
+    "rule": "IIED requires extreme and outrageous conduct, intent or recklessness as to causing severe emotional distress, causation, and severe distress.",
+    "keyFacts": [
+     "Flowers refused to turn off the lights",
+     "Harry 'could not tolerate the light'",
+     "lights are needed for the plants and meet industry standards"
+    ],
+    "analysis": "Operating a lawful business with a legitimate purpose is not outrageous and Flowers did not aim to hurt Harry; the claim fails.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Negligence / strict liability",
+    "rule": "Negligence requires duty, breach, causation and damages; strict liability attaches only to abnormally dangerous activities or animals/products. Bright greenhouse lighting is neither.",
+    "keyFacts": [
+     "Flowers's facility is completely up to industry standards",
+     "no physical injury alleged"
+    ],
+    "analysis": "Neither theory fits well: compliance with industry standards and absence of physical harm or abnormal danger make nuisance the sole realistic claim.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedy \u2013 injunction",
+    "rule": "An injunction is an equitable remedy available when legal remedy is inadequate; for nuisance courts balance the hardships/relative equities and public interest, and may deny it or tailor it (limit hours, shielding, redirect lights), sometimes conditioning on plaintiff paying costs where he came to the nuisance.",
+    "keyFacts": [
+     "Harry asked Flowers to turn off the lights",
+     "no way to continue the business without the light",
+     "Flowers employs 20 workers and invested $20 million"
+    ],
+    "analysis": "Total shutoff is unlikely because the hardship to Flowers and the community outweighs Harry's, and Harry came with notice; a narrowly tailored injunction (shields, reduced hours, directional lighting) is plausible.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedy \u2013 compensatory damages",
+    "rule": "Nuisance plaintiffs may recover compensatory damages for diminution in property value (permanent nuisance) or loss of use and enjoyment/annoyance and discomfort, plus mitigation costs (curtains, shutters); damages may be awarded in lieu of an injunction.",
+    "keyFacts": [
+     "Harry bought an expensive new home",
+     "light enters his windows 24 hours a day"
+    ],
+    "analysis": "Harry can recover for loss of use and enjoyment and cost of blackout measures or diminished value; knowledge of the light may reduce the amount since the price may reflect it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedy \u2013 punitive damages and other",
+    "rule": "Punitive damages require malice, oppression or fraud (conscious disregard); nominal damages and self-help abatement are other options.",
+    "keyFacts": [
+     "Flowers posted warning signs",
+     "Flowers refused to turn off the light but acted for business reasons"
+    ],
+    "analysis": "No malice: Flowers acted for a legitimate business purpose and warned neighbors, so punitive damages are unlikely.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Student answers disagree on whether coming to the nuisance bars relief; the correct rule is that it is a factor only. Reviewer may want to check how much weight to give trespass-by-light."
+ },
+ {
+  "id": "june2014-q2",
+  "issues": [
+   {
+    "name": "Steve \u2013 conspiracy to commit murder",
+    "rule": "Conspiracy is an agreement between two or more persons to commit an unlawful act with specific intent to achieve its objective; many jurisdictions (including California) require an overt act by a conspirator. Conspiracy does not merge with the completed target offense, and Wharton's Rule does not apply to murder because it does not inherently require two parties.",
+    "keyFacts": [
+     "Will asked Steve to kill Adam and Steve accepted",
+     "Steve assaulted and killed Adam"
+    ],
+    "analysis": "Agreement plus intent to kill is shown and the assault is an overt act; Steve is guilty of conspiracy in addition to murder.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Steve \u2013 assault and battery (merger)",
+    "rule": "Assault is an attempted battery or intentional creation of reasonable apprehension of imminent harmful or offensive contact; battery is the intentional unlawful application of force. Lesser included offenses merge into the completed greater offense and cannot support separate convictions.",
+    "keyFacts": [
+     "Steve assaulted Adam late at night on a dark, deserted street",
+     "Adam resisted vigorously"
+    ],
+    "analysis": "Both are established but merge into murder (or at most are charged in the alternative).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Steve \u2013 murder: malice and homicide",
+    "rule": "Murder is the unlawful killing of a human being with malice aforethought: intent to kill, intent to inflict serious bodily injury, reckless indifference to human life (depraved heart), or felony murder. Causation (actual and proximate) must be shown.",
+    "keyFacts": [
+     "Steve is a professional assassin hired to kill Adam",
+     "Steve succeeded in killing Adam",
+     "Steve said he would kill Adam anyway"
+    ],
+    "analysis": "Steve acted with intent to kill, so malice and causation are clear.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Steve \u2013 first-degree murder (premeditation and deliberation)",
+    "rule": "First-degree murder is a willful, deliberate, premeditated killing (or murder by enumerated means or felony murder); California treats a plan to kill (including lying in wait) as premeditation.",
+    "keyFacts": [
+     "Steve accepted the contract and planned to kill Adam",
+     "he was scheduled to kill Adam",
+     "assaulted him late at night on a deserted street",
+     "paid professional assassin; refused Will's cancellation"
+    ],
+    "analysis": "Contract killing planned in advance is classic premeditation and deliberation; first-degree murder is the likely charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Steve \u2013 felony murder / second-degree murder",
+    "rule": "Felony murder requires a killing during an independent inherently dangerous felony; assault/battery merges with the homicide and cannot be the predicate (merger doctrine). Second-degree murder is any malicious killing not first degree.",
+    "keyFacts": [
+     "only assault/battery on Adam is described"
+    ],
+    "analysis": "Felony murder is unavailable; second-degree murder is a fallback if premeditation were not proved.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Steve \u2013 self-defense",
+    "rule": "Self-defense requires a reasonable belief of imminent unlawful force; an initial aggressor may not claim it unless he withdraws and communicates withdrawal or the victim escalates to deadly force beyond the aggressor's.",
+    "keyFacts": [
+     "Adam resisted so vigorously as to put Steve's life at risk",
+     "Steve initiated the assault intending to kill"
+    ],
+    "analysis": "Steve was the aggressor and never withdrew, so self-defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Steve \u2013 manslaughter / mitigation",
+    "rule": "Voluntary manslaughter requires adequate provocation (heat of passion, no cooling off) or imperfect self-defense; involuntary manslaughter involves criminal negligence or misdemeanor-manslaughter and does not apply to intentional killings.",
+    "keyFacts": [
+     "no provocation by Adam",
+     "Steve planned the killing"
+    ],
+    "analysis": "No mitigating facts; Adam's resistance was a response to Steve's own attack, so manslaughter does not apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Will \u2013 solicitation",
+    "rule": "Solicitation is asking, encouraging or inducing another to commit a felony with intent that it be committed; the crime is complete when the request is made, and later withdrawal is not a defense (though it may bear on mitigation). It merges into the completed target crime or conspiracy.",
+    "keyFacts": [
+     "Will asked Steve to kill Adam",
+     "Will's motive: Adam was a business rival"
+    ],
+    "analysis": "Solicitation was complete upon the request, regardless of the later change of mind.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Will \u2013 conspiracy and Pinkerton liability",
+    "rule": "A conspirator is liable for the conspiracy itself and, under Pinkerton (and in some states only the target crime), for reasonably foreseeable crimes of co-conspirators in furtherance; here the murder is the very object of the conspiracy.",
+    "keyFacts": [
+     "Steve accepted Will's request",
+     "Steve killed Adam"
+    ],
+    "analysis": "Will conspired with Steve and the murder was the object of the conspiracy; conspiracy liability attaches and, absent withdrawal, murder liability under Pinkerton.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Will \u2013 accomplice liability for murder",
+    "rule": "An accomplice is one who, with intent that the crime be committed, aids, abets, counsels or encourages the principal; he is liable for the target crime and natural and probable consequences.",
+    "keyFacts": [
+     "Will hired and encouraged Steve to kill Adam",
+     "Steve killed Adam"
+    ],
+    "analysis": "Will encouraged and procured the murder with intent, so he is an accomplice to first-degree murder unless he effectively withdrew.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Will \u2013 withdrawal",
+    "rule": "Withdrawal from a conspiracy after the agreement does not erase conspiracy liability but cuts off liability for later crimes only if communicated to co-conspirators in time; for accomplice liability the accomplice must also neutralize his prior assistance or encouragement (e.g., warn the victim or police) or make a substantial effort to prevent the crime. Withdrawal is not a defense to solicitation or completed conspiracy.",
+    "keyFacts": [
+     "Will told Steve he had changed his mind and no longer wanted Adam killed",
+     "Steve said he would kill Adam anyway"
+    ],
+    "analysis": "Will's mere notice to Steve, with no effort to stop him or tell authorities, is ineffective since the plan was already set in motion; Will remains liable for conspiracy, solicitation and probably murder, though he has a sympathetic argument.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Jurisdictions differ on Pinkerton and on withdrawal standard; California does not follow Pinkerton in the same way for non-target offenses but the murder here is the target. Wharton's Rule discussion in Answer A is inapplicable to murder."
+ },
+ {
+  "id": "june2014-q3",
+  "issues": [
+   {
+    "name": "Abe v. Gary \u2013 assault",
+    "rule": "Assault is an intentional act creating in the plaintiff a reasonable apprehension of imminent harmful or offensive contact. Intent means purpose or substantial certainty; actual fear/awareness is required, and no physical contact is needed.",
+    "keyFacts": [
+     "Gary yelled at Abe and threw a rock at him",
+     "Abe ducked, and the rock missed him",
+     "Abe is a 6-year-old"
+    ],
+    "analysis": "Throwing a rock at a child who sees it coming and ducks satisfies intent, imminence and apprehension; Gary is liable for assault.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Abe v. Gary \u2013 battery (not made out) / transferred intent",
+    "rule": "Battery requires harmful or offensive contact; an attempt that misses is not battery.",
+    "keyFacts": [
+     "the rock missed him"
+    ],
+    "analysis": "No contact occurred, so no battery; the claim is assault only.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense of property",
+    "rule": "One may use reasonable, non-deadly force to prevent a tort against property after a request to desist where practicable; force likely to cause serious injury is not privileged merely to protect property, and force must be proportionate.",
+    "keyFacts": [
+     "Gary is a groundskeeper who yelled 'get out of the flower beds!'",
+     "Abe is a 6-year-old running through flower beds",
+     "rock thrown at him"
+    ],
+    "analysis": "Hurling a rock at a small child to protect flowers is excessive, so the privilege fails (deadly or dangerous force is never justified to protect property).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Intentional infliction of emotional distress",
+    "rule": "IIED requires extreme and outrageous conduct, intent or recklessness, causation, and severe emotional distress.",
+    "keyFacts": [
+     "Gary threw a rock at a 6-year-old child"
+    ],
+    "analysis": "Conduct may be outrageous, but there are no facts showing severe distress, so the claim is weak.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedies against Gary",
+    "rule": "Assault permits nominal and compensatory damages for emotional harm without proof of physical injury, and punitive damages for malicious conduct.",
+    "keyFacts": [
+     "Abe was not hit"
+    ],
+    "analysis": "Abe can recover at least nominal damages and possibly punitives for the malicious act.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Betty v. Slideco \u2013 strict products liability: design defect",
+    "rule": "A commercial seller is strictly liable for physical injuries caused by a defective product that was defective when it left its control and used in a foreseeable manner. A design is defective under the consumer expectation test (California: also risk-benefit burden shifts to defendant) or if a reasonable alternative design would have avoided the risk.",
+    "keyFacts": [
+     "metal slide manufactured and sold by Slideco",
+     "surface became very hot on typical summer days",
+     "reached 140 degrees",
+     "Betty sustained burns on her legs"
+    ],
+    "analysis": "A slide that predictably reaches 140 degrees on ordinary summer days is unsafe beyond what a consumer expects; feasible alternatives (plastic, shading, other materials) exist, so a design defect is likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict liability \u2013 failure to warn",
+    "rule": "A product is defective if the seller fails to give adequate warnings of non-obvious foreseeable dangers.",
+    "keyFacts": [
+     "no mention of any warning on the slide",
+     "users are 6-year-old children"
+    ],
+    "analysis": "A warning about burn risk would have been required and young children cannot read or heed signs, so a failure-to-warn claim is plausible but secondary to design defect.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict liability \u2013 manufacturing defect, proper parties, and causation",
+    "rule": "Manufacturing defect exists when the product departs from its intended design; plaintiff must be a foreseeable user and defendant a commercial seller in the chain; actual and proximate causation required.",
+    "keyFacts": [
+     "Slideco manufactured and sold",
+     "slide performed as designed on a typical day"
+    ],
+    "analysis": "No manufacturing defect because the slide worked as designed; Slideco is a proper defendant, Betty a proper plaintiff, and the burns are directly caused by the heat.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Negligence against Slideco",
+    "rule": "Manufacturer owes a duty of reasonable care in design and warnings to foreseeable users (no privity needed); breach is judged by risk-utility (Hand formula); then causation and damages.",
+    "keyFacts": [
+     "Slideco knew or should have known its metal slide gets very hot",
+     "burns on her legs"
+    ],
+    "analysis": "Reasonable manufacturer would have chosen a different material, shielding, or warnings; negligence is provable but requires proving fault, which strict liability does not.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach of implied warranty of merchantability (UCC 2-314)",
+    "rule": "A merchant seller impliedly warrants goods are fit for their ordinary purpose; privity and notice issues are relaxed for personal injury to foreseeable users in many states (UCC 2-318).",
+    "keyFacts": [
+     "Slideco is the manufacturer and seller",
+     "a slide is meant for children to slide on"
+    ],
+    "analysis": "A slide that burns children in ordinary weather is not fit for its ordinary purpose; warranty claim viable, though Betty's lack of privity and notice are issues.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses \u2013 contributory/comparative negligence, assumption of risk, Jane's negligence",
+    "rule": "A child's conduct is judged by that of a child of like age, intelligence and experience; a 6-year-old using a slide as intended is not negligent and cannot appreciate the risk for assumption of risk; a babysitter's negligence is not imputed to the child.",
+    "keyFacts": [
+     "Betty is 6 years old",
+     "climbed the ladder and went down the slide normally",
+     "Jane was the babysitter"
+    ],
+    "analysis": "Defenses fail: Betty acted as a child would and neither she nor Jane's supervision will reduce recovery; common industry use of metal is not a defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Jane \u2013 duty (special relationship / voluntary assumption)",
+    "rule": "There is generally no duty to protect another, but a duty arises from a special relationship or voluntary assumption of care; a babysitter in charge of a child must supervise with reasonable care.",
+    "keyFacts": [
+     "Jane, a babysitter, took three 6-year-olds to the playground",
+     "Carl is 6 years old"
+    ],
+    "analysis": "Jane assumed custody and supervision of Carl, so she owed a duty of reasonable supervision.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Jane \u2013 breach",
+    "rule": "Breach is failure to act as a reasonable person (here, a reasonable babysitter) would; consider foreseeability of harm and burden of precautions (Hand formula).",
+    "keyFacts": [
+     "Jane was too occupied texting on her cell phone",
+     "Carl kicked the ball into the street and ran to retrieve it"
+    ],
+    "analysis": "Texting while watching three young children near a street is below the standard of care; breach likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Jane \u2013 causation and superseding cause (speeding motorist)",
+    "rule": "Plaintiff must show actual cause (but-for) and proximate cause (foreseeable harm). A third party's negligence is a superseding cause only if unforeseeable; a foreseeable intervening negligent act does not cut off liability, and defendants are jointly and severally liable for economic damages (several only for non-economic under California Prop 51).",
+    "keyFacts": [
+     "motorist was driving 40 mph in a 25 mph zone",
+     "Carl was struck and injured"
+    ],
+    "analysis": "Running into the street and being hit by a car is the very risk that supervision guards against, so the driver's speeding is a foreseeable concurrent cause and Jane stays liable (with apportionment).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Jane \u2013 defenses and damages",
+    "rule": "A 6-year-old is held to a child standard of care; comparative fault may reduce recovery. Assumption of risk requires subjective appreciation of the risk. Damages include medical expenses, pain and suffering.",
+    "keyFacts": [
+     "Carl is 6 and was chasing a ball",
+     "Carl was injured when struck by the car"
+    ],
+    "analysis": "Carl's chasing the ball is ordinary child behavior, so little or no reduction; Jane may seek apportionment against the motorist.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Question includes a negligent-supervision claim only against Jane; the motorist is not a call-of-the-question party but relevant to causation and apportionment."
+ },
+ {
+  "id": "june2014-q4",
+  "issues": [
+   {
+    "name": "UCC Article 2 applies; merchants",
+    "rule": "UCC Article 2 governs contracts for the sale of goods; a merchant deals in goods of the kind or holds himself out as having specialized knowledge, triggering special merchant rules (firm offers, confirmatory memos, 2-207).",
+    "keyFacts": [
+     "100,000 widgets",
+     "Manufacturer makes widgets; Wholesaler resells them to retailers"
+    ],
+    "analysis": "Widgets are goods and both parties are merchants, so UCC merchant rules apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation of the oral contract",
+    "rule": "Under UCC 2-204 a contract may be made in any manner showing agreement; an offer is accepted by any reasonable expression of assent, and open terms may be filled by gap-fillers as long as quantity is stated.",
+    "keyFacts": [
+     "Wholesaler ordered 100,000 widgets at $5 each for delivery February 8",
+     "Manufacturer said 'It's a deal'"
+    ],
+    "analysis": "The phone call produced a binding oral contract at $5 per widget, delivery Feb 8, subject to Statute of Frauds.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds \u2013 merchant's confirmatory memo (UCC 2-201(2))",
+    "rule": "Goods contracts of $500 or more must be in a writing signed by the party to be charged stating quantity. Between merchants, a written confirmation sufficient against the sender satisfies the statute against the recipient unless the recipient objects in writing within 10 days of receipt; it removes the SOF defense but not the need to prove the contract.",
+    "keyFacts": [
+     "contract for $500,000",
+     "February 2 signed memorandum confirming the agreement and stating all terms",
+     "Manufacturer received and read it on February 3 and did not respond"
+    ],
+    "analysis": "Wholesaler's signed memo states quantity and Manufacturer did not object in writing within 10 days (refusal came orally on Feb 8, within the period but not as a written objection), so SOF cannot be asserted against Manufacturer. The wrong price does not defeat sufficiency because only quantity is required.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Memo's conflicting price term and parol evidence",
+    "rule": "A confirmatory memo that misstates the oral deal does not change the agreement; a memo signed by only one party that merely confirms is not an integration, and the oral agreement terms may be proved. Evidence of mistake or scrivener's error is admissible; the price remains $5.",
+    "keyFacts": [
+     "Wholesaler misstated the price as $6 apiece",
+     "oral deal was at $5"
+    ],
+    "analysis": "The price term is $5; Manufacturer did not assent to $6, and parol evidence rule does not bar proof of the oral agreement because the memo is not a final integrated writing of both parties.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Additional arbitration term (UCC 2-207)",
+    "rule": "Between merchants, additional terms in a confirmation become part of the contract unless the offer limits assent, the term materially alters the contract, or the other party objects. A term that would surprise or hardship the other party (such as arbitration, which is rare in the industry) is material.",
+    "keyFacts": [
+     "added term that any dispute is subject to binding arbitration",
+     "Manufacturer was surprised; term was rare in the industry",
+     "Manufacturer did not respond"
+    ],
+    "analysis": "Arbitration clause materially alters the agreement and does not become part of the contract despite silence, so Wholesaler may sue in court (arbitration clause not binding).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach by Manufacturer; no excuse (impracticability, unconscionability)",
+    "rule": "Failing to deliver when due is a breach. Impracticability (UCC 2-615) excuses only where an unforeseen contingency makes performance extremely burdensome; a market price increase alone is a foreseeable risk of a fixed-price contract. Unconscionability is judged at formation.",
+    "keyFacts": [
+     "Manufacturer discovered on February 8 that the market price had climbed to $25",
+     "Manufacturer refused to deliver"
+    ],
+    "analysis": "Manufacturer breached by refusing delivery on Feb 8; rising price does not excuse performance. Wholesaler is likely to prevail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Wholesaler's performance/tender and mitigation (cover)",
+    "rule": "Buyer must be ready to perform to recover; the buyer may cover under 2-712 and recover the difference, but failure to cover doesn't bar recovery of market-contract damages, and duty to mitigate does not require an unreasonable act.",
+    "keyFacts": [
+     "substitute widgets available for $25 apiece",
+     "Wholesaler did not have the cash or credit to buy them"
+    ],
+    "analysis": "Wholesaler could not cover, so recovery is measured by market-contract differential, not cover; inability to cover does not defeat the claim.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedy \u2013 market price damages (UCC 2-713)",
+    "rule": "If the buyer does not cover, damages are market price at the time buyer learns of breach minus contract price, plus incidental and consequential damages, less expenses saved.",
+    "keyFacts": [
+     "contract price $5",
+     "market price $25",
+     "100,000 widgets"
+    ],
+    "analysis": "$20 x 100,000 = $2,000,000, plus incidental damages.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedy \u2013 consequential damages (lost resale profits) (UCC 2-715(2))",
+    "rule": "Consequential damages include losses from general or particular requirements of which the seller had reason to know that could not reasonably be prevented by cover (foreseeable, certain, unavoidable); no double recovery.",
+    "keyFacts": [
+     "Manufacturer knew Wholesaler was buying to resell",
+     "Wholesaler immediately contracted to resell at $15 apiece"
+    ],
+    "analysis": "Manufacturer knew of resale in general but not the $15 price, and Wholesaler cannot recover both lost profit ($10/widget) and market differential ($20) for the same widgets; at most liability to sub-buyers may be added. Court likely awards the market differential.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedy \u2013 specific performance (UCC 2-716)",
+    "rule": "Specific performance is available where goods are unique or in other proper circumstances, e.g., where the buyer is unable to cover.",
+    "keyFacts": [
+     "substitute widgets available at $25",
+     "Wholesaler lacks cash or credit to cover"
+    ],
+    "analysis": "Widgets are generic, but inability to cover can be 'other proper circumstances'; this is a close call, and damages are likely adequate in any event.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Close calls: whether Manufacturer's Feb 8 refusal counts as a written objection within 10 days; whether lost-profit damages overlap with market differential."
+ }
+]

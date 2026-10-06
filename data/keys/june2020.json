@@ -1,0 +1,629 @@
+[
+ {
+  "id": "june2020-q1",
+  "issues": [
+   {
+    "name": "Mel \u2013 negligence per se (speeding; crossing yellow line)",
+    "rule": "Violation of a statute designed to protect against the type of harm, and that injures a member of the protected class, establishes duty and breach (rebuttable presumption of negligence) unless excused; plaintiff must still prove actual and proximate cause.",
+    "keyFacts": [
+     "driving at least 35 mph in a 30 mph zone",
+     "crossed a yellow (no passing) line into the oncoming lane",
+     "Penny was a pedestrian on the sidewalk"
+    ],
+    "analysis": "Speeding and crossing the line are violations, and pedestrians/motorists are within the protected class and risk. But excuse (emergency) and lack of causation for the speed likely defeat liability; the speeding was not a but-for cause because he would have had to swerve even if much slower.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mel \u2013 common law negligence: duty and breach",
+    "rule": "Every driver owes a duty of reasonable care to foreseeable plaintiffs; breach is failure to act as a reasonably prudent person under like circumstances.",
+    "keyFacts": [
+     "late for an important meeting",
+     "35 mph on residential road around a curve",
+     "headlights on"
+    ],
+    "analysis": "Driving over the limit while hurrying around a curve suggests breach, but the sudden backing out of Nigel's car makes the reasonableness of the swerve itself the real question; mild speeding alone is a weak breach theory.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mel \u2013 actual causation of the speeding/swerve",
+    "rule": "Actual cause requires that but for the defendant's breach the harm would not have occurred (substantial factor if concurrent causes).",
+    "keyFacts": [
+     "Even if he had been going substantially slower, he would have had to take these actions",
+     "Mel turned into the center of the street, partially entering oncoming lane"
+    ],
+    "analysis": "The speeding is not a but-for cause because the same swerve was needed at any speed; crossing the line is a but-for cause of the collision with Otto, so the case turns on whether that act was excused.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mel \u2013 sudden emergency / necessity defense",
+    "rule": "One confronted with a sudden emergency not of his own making is judged by what a reasonable person would do in the emergency, and a statutory violation is excused where compliance was impossible or more dangerous. (Private necessity is a tort defense chiefly for intentional torts.)",
+    "keyFacts": [
+     "Nigel suddenly backed out of his driveway",
+     "Mel braked hard and turned into the center of the street",
+     "he would have had to take these actions to avoid hitting Nigel"
+    ],
+    "analysis": "Mel faced a sudden emergency created by Nigel; the swerve was a reasonable choice, so he is likely not negligent. Counter: his own speed and being late arguably contributed, and Nigel's lights visibility is irrelevant to Mel.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mel \u2013 proximate cause / Otto as intervening cause",
+    "rule": "Harm must be a foreseeable result of breach; a negligent act of a third party is generally a foreseeable, non-superseding intervening cause only if it is a normal response or within the risk created.",
+    "keyFacts": [
+     "Otto was adjusting his car radio",
+     "the two cars collided, left the road, and plowed into Penny"
+    ],
+    "analysis": "Swerving into oncoming traffic foreseeably risks collision, but Otto's inattention is an independent negligent act; most likely no liability for Mel because of the emergency, though proximate cause could be found for the swerve.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Otto \u2013 negligence (distracted driving)",
+    "rule": "Duty of reasonable care; breach by failing to keep a proper lookout; actual and proximate cause; damages.",
+    "keyFacts": [
+     "Otto was adjusting his car radio",
+     "did not see Mel in time",
+     "Had he been attentive, he likely could have avoided an accident"
+    ],
+    "analysis": "Taking his eyes off the road to adjust the radio is a breach; but for his inattention the collision would likely have been avoided, and injuring a pedestrian is a foreseeable result. Likely liable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Otto \u2013 arguments that Mel or Nigel is the cause (superseding cause, fault shifting)",
+    "rule": "A superseding cause relieves a defendant only if unforeseeable and independent; defendants cannot avoid liability by pointing to other concurrent tortfeasors, though fault is apportioned.",
+    "keyFacts": [
+     "Mel crossed the yellow line into the lane of oncoming traffic",
+     "Nigel backed out suddenly"
+    ],
+    "analysis": "Otto will argue Mel's swerve (and Nigel's act) caused the crash, but Mel's lawful-emergency conduct is not superseding and Otto's negligence is an independent cause; Otto remains liable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Nigel \u2013 negligence (backing out without looking)",
+    "rule": "Duty of reasonable care; breach by failing to look for approaching traffic; actual and proximate cause.",
+    "keyFacts": [
+     "Nigel suddenly backed out of his driveway in front of Mel",
+     "Mel's headlights were on, visible if a driver had looked carefully",
+     "Nigel's car was not touched"
+    ],
+    "analysis": "A careful look would have revealed Mel; failure to do so is a breach. But for it Mel would not have swerved. Collision with an unfamiliar third party and injury to a pedestrian is a plausibly foreseeable chain of events.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Nigel \u2013 proximate cause / superseding cause (no contact with Penny)",
+    "rule": "A defendant whose negligence creates a risk of emergency is liable for foreseeable reactions by rescuers/other drivers; ordinary negligence by a third party in the foreseeable chain is not superseding.",
+    "keyFacts": [
+     "Nigel's car was not touched",
+     "Otto's inattention",
+     "Mel swerved to avoid Nigel"
+    ],
+    "analysis": "Nigel will say Otto's distraction was a superseding cause; the better view is that negligent driving by others in the zone of danger is foreseeable, so Nigel is likely a proximate cause, though a close call because Penny was hit by two other cars.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Concurrent causes, joint and several liability, apportionment",
+    "rule": "Where multiple tortfeasors cause indivisible harm each is liable; in California (Prop. 51) liability for economic damages is joint and several, but non-economic damages are several only, apportioned by percentage of fault; comparative fault applies.",
+    "keyFacts": [
+     "Mel, Otto and Nigel each played a part",
+     "Penny was seriously injured"
+    ],
+    "analysis": "Penny can sue all; Otto and Nigel likely bear fault, with non-economic damages apportioned. Alternative liability (Summers v. Tice) is a poor fit because each actor's role is known.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Penny \u2013 plaintiff-side defenses (contributory/comparative negligence, assumption of risk)",
+    "rule": "California applies pure comparative negligence; assumption of risk requires voluntary encounter of a known risk.",
+    "keyFacts": [
+     "Penny was walking on the sidewalk"
+    ],
+    "analysis": "No facts suggest Penny was at fault or assumed any risk, so these defenses fail for all defendants.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages",
+    "rule": "Plaintiff recovers general (pain and suffering) and special (medical expenses, lost earnings) damages for serious injury.",
+    "keyFacts": [
+     "Penny was seriously injured"
+    ],
+    "analysis": "Damages are established by the serious injury and recoverable against liable parties subject to apportionment.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Likely outcome: Penny recovers from Otto and Nigel (non-economic damages apportioned under Prop 51); Mel likely not liable via emergency/causation. Student A confuses alternative liability and 'concurrent defendants'; B says Penny will lose against Otto (arguable error). Neither mentions Prop 51."
+ },
+ {
+  "id": "june2020-q2",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2; merchant status",
+    "rule": "UCC Article 2 governs contracts for the sale of goods (movable things at identification); a merchant deals in goods of the kind or holds itself out as having specialized knowledge, triggering merchant-specific rules (2-201(2), 2-207, 2-205).",
+    "keyFacts": [
+     "Seller is a merchant in the business of making fine guitars",
+     "Buyer is a merchant who owns a retail music store",
+     "ten Model A guitars"
+    ],
+    "analysis": "Guitars are goods and both parties are merchants, so the UCC and its merchant rules apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Formation \u2013 catalog as invitation; Buyer's email as offer",
+    "rule": "Catalogs/advertisements are ordinarily invitations to deal; an offer is a manifestation of willingness to be bound with reasonably definite terms (under UCC, quantity is the key term; price may be left open).",
+    "keyFacts": [
+     "wholesale prices listed in an online catalog",
+     "Buyer emailed asking that ten Model A guitars be delivered at $5,000 each"
+    ],
+    "analysis": "The catalog lacks quantity and is an invitation; Buyer's email specifying goods, quantity and price is the offer.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Acceptance by Seller's invoice \u2013 UCC 2-207(1)",
+    "rule": "A definite and seasonable expression of acceptance operates as acceptance even if it states additional or different terms, unless acceptance is expressly made conditional on assent to them.",
+    "keyFacts": [
+     "The next day, Seller emailed an invoice for $50,000",
+     "Buyer received the invoice, but did not respond",
+     "guitars delivered 11 days later"
+    ],
+    "analysis": "The invoice confirms the same goods, quantity and price and is not expressly conditional, so a contract was formed; shipment would also be acceptance under 2-206.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Additional terms (14-day delivery, 10-day complaints/returns, payment on delivery) \u2013 2-207(2)",
+    "rule": "Between merchants, additional terms become part of the contract unless the offer limits acceptance, they materially alter the contract (surprise or hardship), or objection is made within a reasonable time; terms consistent with trade usage are not material.",
+    "keyFacts": [
+     "delivery within 14 days; complaints/returns within 10 days; payment due on delivery",
+     "Those three provisions are customary in the musical instrument industry",
+     "Buyer ... did not respond"
+    ],
+    "analysis": "Because the terms are customary in the trade, there is no surprise, they do not materially alter, and Buyer never objected, so they are part of the contract. Payment on delivery also matches the UCC default (2-310), and delivery was within 14 days. Student A's claim that the 10-day term is material is weak given trade usage; a close-call argument for Buyer.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds \u2013 UCC 2-201",
+    "rule": "A contract for goods of $500 or more requires a writing signed by the party to be charged; between merchants a written confirmation not objected to within 10 days suffices against the recipient.",
+    "keyFacts": [
+     "$50,000 contract",
+     "Buyer's email and Seller's emailed invoice",
+     "Buyer did not respond to invoice"
+    ],
+    "analysis": "Buyer's own email (signed if it identifies Buyer) and the merchant's confirmation invoice unobjected to satisfy the statute; not a viable defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Seller's performance \u2013 conforming tender and Buyer's duty to pay",
+    "rule": "Seller must tender conforming goods; buyer's payment is due on delivery per contract; nonpayment after conforming tender is breach.",
+    "keyFacts": [
+     "guitars were delivered to Buyer 11 days later",
+     "Buyer sent no payment to Seller",
+     "payment is due on delivery"
+    ],
+    "analysis": "Seller delivered within the 14 days, so tender was timely; Buyer's payment obligation arose on delivery and was not met, so Buyer breached.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Buyer's defense \u2013 non-conformity, rejection, revocation of acceptance (UCC 2-601, 2-602, 2-606, 2-608)",
+    "rule": "Buyer may reject nonconforming goods within a reasonable time after delivery (here contract's 10 days) and must notify seller; after acceptance, revocation requires substantial nonconformity that substantially impairs value and was hidden or induced by seller's assurances; mere dissatisfaction is not nonconformity.",
+    "keyFacts": [
+     "do not satisfy my customers' needs",
+     "email sent two weeks after delivery",
+     "customers buy other guitars instead",
+     "complaints within 10 days of delivery"
+    ],
+    "analysis": "No defect in quality or condition is alleged, only poor sales; the complaint is also outside the 10-day period, so Buyer is deemed to have accepted. No rejection or revocation right; weak defense.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Buyer's 'return' and refusal to pay \u2013 repudiation/ acceptance by conduct",
+    "rule": "Failure to reject within a reasonable time or acting inconsistently with the seller's ownership is acceptance (2-606); acceptance obligates buyer to pay the contract price; a buyer who refuses to pay breaches or repudiates.",
+    "keyFacts": [
+     "I am not paying for them. I am returning them at my expense",
+     "Buyer sent no payment"
+    ],
+    "analysis": "The email is a repudiation and the goods were accepted, so Buyer owes the price; Seller need not take the goods back since no return right exists under the contract.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Other Buyer arguments \u2013 good faith, unconscionability, ambiguity, implied condition",
+    "rule": "UCC imposes good faith (merchant standard of honesty and commercial reasonableness); unconscionable terms are not enforced; ambiguous terms are construed by usage of trade, course of dealing and performance.",
+    "keyFacts": [
+     "customary in the musical instrument industry",
+     "guitars delivered 11 days after",
+     "10 days of delivery"
+    ],
+    "analysis": "Terms are customary between merchants, so unconscionability fails; a Buyer dissatisfied with business results cannot recast 'quality' to include customer satisfaction.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Seller's remedies \u2013 action for price, resale/market damages, incidental damages, mitigation",
+    "rule": "Where buyer accepts goods or fails to pay price, seller may recover the price (2-709); alternatively resale damages (2-706) or market damages (2-708(1)), or lost profits for lost volume seller (2-708(2)), plus incidental damages (2-710) less expenses saved; seller must act reasonably to mitigate.",
+    "keyFacts": [
+     "invoice for $50,000",
+     "Buyer ... returning them at my expense",
+     "Seller sells through catalog at wholesale"
+    ],
+    "analysis": "Because the goods were accepted, Seller can recover the $50,000 price plus interest and incidental damages; if the goods are returned and resold, damages are the contract-resale difference (or lost profit if lost-volume seller). Consequential damages are unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Likely outcome: Seller prevails for $50,000 price. Student A's treatment of the 10-day term as a material alteration and of 14-day 'gap filler' is questionable; A omitted the acceptance/rejection analysis and action for price. B did not address unconscionability or good faith. Confirm the grader's expected view on whether to count repudiation as a separate issue."
+ },
+ {
+  "id": "june2020-q3",
+  "issues": [
+   {
+    "name": "Murder of Bob \u2013 first-degree (premeditation and deliberation)",
+    "rule": "Murder is an unlawful killing with malice (intent to kill, intent to cause serious bodily injury, depraved-heart recklessness, or felony murder); first degree requires willful, deliberate and premeditated killing, i.e. reflection beforehand, however brief.",
+    "keyFacts": [
+     "Doug decided to kill Bob",
+     "Bob had twice falsely accused Doug of shoplifting",
+     "went into Bob's store ... shooting him twice with a handgun"
+    ],
+    "analysis": "Doug formed the intent in advance, armed himself and shot twice: clear intent to kill and premeditation, so first-degree murder.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Heat of passion / adequate provocation \u2013 voluntary manslaughter",
+    "rule": "Intentional killing is reduced to voluntary manslaughter if committed in sudden passion from adequate provocation that would cause a reasonable person to lose control, with no time to cool off, and actual passion.",
+    "keyFacts": [
+     "Bob had twice falsely accused Doug of shoplifting",
+     "Doug decided to kill Bob"
+    ],
+    "analysis": "Past false accusations are not adequate provocation and Doug had time to cool and plan; a words-alone provocation does not suffice. The defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary (entry into the store with intent to kill)",
+    "rule": "Burglary (modern/CA): entering a structure with intent to commit a felony or theft therein; common law required breaking and entering a dwelling at night. Entry into an open store with felonious intent can suffice under modern statutes.",
+    "keyFacts": [
+     "Doug went into Bob's store ... killed Bob",
+     "did not intend to steal when he entered"
+    ],
+    "analysis": "Under the common law there is no burglary (no breaking, not a dwelling, open business). Under modern statutes, entry with intent to commit murder (a felony) can be burglary; a plausible additional charge, but the intent to steal arose only after the killing.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Taking of money from the register \u2013 larceny vs. robbery",
+    "rule": "Larceny is trespassory taking and carrying away of another's property with intent to permanently deprive; robbery adds taking from the person or presence by force or fear, with the force used to accomplish the taking (concurrent intent).",
+    "keyFacts": [
+     "After the shooting, Doug noticed the cash register",
+     "took all of the money out",
+     "Bob was already dead"
+    ],
+    "analysis": "Intent to steal arose after the killing and force was not used to take the money, so larceny/theft (or robbery under a continuous-transaction view in some states) is the more likely charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Robbery of Sally (purse)",
+    "rule": "Robbery is larceny from a person or presence by force or threat of immediate force.",
+    "keyFacts": [
+     "He pointed the gun at Sally, took her purse"
+    ],
+    "analysis": "Taking the purse at gunpoint satisfies robbery (armed robbery); larceny and assault merge into it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assault and battery of Sally (gun pointing; tying her hands)",
+    "rule": "Assault is an attempt to commit battery or intentional creation of reasonable apprehension of imminent harmful or offensive contact; battery is intentional harmful or offensive contact.",
+    "keyFacts": [
+     "pointed the gun at Sally",
+     "tied her hands behind her back"
+    ],
+    "analysis": "Pointing a gun is assault and binding her is an offensive touching (battery); merger issues with robbery for the lesser offenses.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Kidnapping and false imprisonment of Sally",
+    "rule": "False imprisonment is intentional unlawful confinement without consent; kidnapping is unlawful confinement plus movement (asportation) (CA requires substantial distance or increased risk) by force or fear.",
+    "keyFacts": [
+     "tied her hands behind her back",
+     "ordered Sally at gunpoint out of the store and into his car"
+    ],
+    "analysis": "Binding her is false imprisonment; ordering her at gunpoint into the car and driving away is kidnapping (also a basis for felony murder). False imprisonment merges into kidnapping.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Attempted murder / assault with deadly weapon on Officer Fran",
+    "rule": "Attempted murder requires specific intent to kill plus a substantial step beyond mere preparation; assault with a deadly weapon is the lesser charge.",
+    "keyFacts": [
+     "Doug fired several shots at Officer Fran"
+    ],
+    "analysis": "Firing several shots at the officer shows intent to kill and a direct act; attempted murder (and assault on a peace officer) likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Sally \u2013 felony murder (killing by police; agency vs. proximate cause)",
+    "rule": "Felony murder: killing in the commission or flight from an inherently dangerous felony (robbery, kidnapping) is first-degree murder; the majority 'agency' rule requires the killing by a felon or accomplice, while the proximate-cause rule (and California's provocative-act principle) holds the felon liable for deaths caused by resisting victims or police responding to his dangerous conduct.",
+    "keyFacts": [
+     "Officer Fran ... responded by firing her gun at Doug",
+     "one of her bullets ... hit Sally, killing her",
+     "Sally was kidnapped and in the car; he had not reached safety"
+    ],
+    "analysis": "Death occurred during flight and while Sally was being held, so felony murder fits, but under the agency rule a bullet fired by the officer breaks the link. Under proximate cause, Doug's gunfight and kidnapping make the death foreseeable. Likely liable under California's rule; a close call elsewhere.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Sally \u2013 implied malice / provocative act; involuntary manslaughter",
+    "rule": "Depraved-heart (implied malice) murder requires conscious disregard of a high risk of death; the provocative act doctrine holds a defendant liable for a killing by a third party in response to his acts that a reasonable person would see as likely to cause a lethal response; reckless killing without malice is involuntary manslaughter.",
+    "keyFacts": [
+     "fired several shots at Officer Fran",
+     "Sally ... hit",
+     "held at gunpoint in the car"
+    ],
+    "analysis": "Starting a shootout with a hostage in the car shows conscious disregard, so second-degree (or first-degree via felony murder) liability. At minimum, involuntary manslaughter if causation or malice fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Battery on Officer Fran and self-defense",
+    "rule": "Battery is harmful or offensive contact; self-defense requires reasonable belief of imminent unlawful force and proportional force, and is unavailable against a lawful arrest/to an initial aggressor who has not withdrawn.",
+    "keyFacts": [
+     "Doug got up and punched Officer Fran with his fist",
+     "Officer Fran tackled him and knocked the gun from his hand"
+    ],
+    "analysis": "The punch is battery (on a peace officer); the officer's force was lawful for the arrest of a fleeing, armed suspect and Doug was the aggressor, so self-defense fails. Resisting arrest is a further charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Likely outcome: first-degree murder of Bob; robbery and kidnapping of Sally; murder (felony murder or second degree) of Sally; attempted murder and battery on Fran. Both students muddled doctrine somewhere (A uses 'handcuffs'; B says Model Penal Code bars liability, which is inaccurate). Check treatment of burglary and robbery of the register as close calls."
+ },
+ {
+  "id": "june2020-q4",
+  "issues": [
+   {
+    "name": "Trespass to land \u2013 Woody (directing and acting through Chuck)",
+    "rule": "Trespass is an intentional physical invasion of land in another's possession without consent or privilege; intent is only to be on the land, and mistake about ownership is no defense. One who directs or procures another to trespass is directly liable as a principal.",
+    "keyFacts": [
+     "part of the system would have to extend underneath Neighbor's vacant lot",
+     "Woody knew that Neighbor was overseas for a year",
+     "Woody demanded that Chuck cut down the maple tree on Neighbor's lot"
+    ],
+    "analysis": "Woody knew the line, chose to build while Neighbor was away, and ordered the work, so he is liable for trespass by the underground system and entry for the tree; the buried septic system is also a continuing trespass.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Trespass to land \u2013 Chuck (mistake no defense)",
+    "rule": "A defendant need only intend the act of entering; a good-faith belief that the land is his own or the owner's is no defense, and following the principal's orders does not excuse one who commits the tort.",
+    "keyFacts": [
+     "Chuck saw the broken fence posts and suspected that they marked Woody's property line",
+     "told Woody that a part of the septic system ... would end up underneath the adjacent lot",
+     "Because Chuck needed the work, he cut down the tree, dug up the ground"
+    ],
+    "analysis": "Chuck personally dug and entered Neighbor's lot; his suspicion about the boundary makes his case worse. He is liable; being an independent contractor and acting for pay is not a defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tree cutting \u2013 injury to land (timber trespass/waste) and trespass to chattel",
+    "rule": "A standing tree is part of the realty; unauthorized cutting is a trespass to land causing physical harm, and the severed wood becomes personal property. California allows double or treble damages for wrongful injury to trees (Civ. Code 3346; CCP 733) and, if willful, punitive damages.",
+    "keyFacts": [
+     "cut down the maple tree on Neighbor's lot",
+     "Woody ... demanded"
+    ],
+    "analysis": "Cutting down the tree is an actionable trespass/injury to Neighbor's land against both Woody (ordered it) and Chuck (did it). Students treated it as trespass to chattel, which is imprecise but leads to the same liability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Conversion of the severed tree (burning the wood)",
+    "rule": "Conversion is an intentional exercise of dominion and control over another's chattel so serious as to require payment of full value; destroying or using the property qualifies.",
+    "keyFacts": [
+     "Woody later burned the wood from the tree as firewood",
+     "because he liked the ambiance"
+    ],
+    "analysis": "Woody took and burned the wood, destroying it, so he is liable for conversion for its full value. Chuck only felled the tree and did not take the wood, so conversion against him is weak (though he is liable for the cutting).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other claims suggested (private nuisance from outhouse odor; fence posts)",
+    "rule": "Private nuisance requires substantial, unreasonable interference with use and enjoyment of the plaintiff's land; trespass to chattel/conversion require interference with the plaintiff's personal property.",
+    "keyFacts": [
+     "Woody had an outhouse that created an offensive odor",
+     "broken fence posts"
+    ],
+    "analysis": "The odor is a distractor (no facts it affected Neighbor, who was away), and ownership/removal of the fence posts is unsupported. These are weak and not essential.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses \u2013 private necessity, mistake, lack of knowledge, following orders",
+    "rule": "Private necessity privileges entry to avoid serious imminent harm but requires payment for actual damage; mistake or good faith is not a defense to intentional torts; an agent who commits a tort is not excused by the principal's orders.",
+    "keyFacts": [
+     "outhouse created an offensive odor",
+     "Woody decided to install an underground septic system so that he could have an indoor bathroom",
+     "Chuck needed the work"
+    ],
+    "analysis": "Convenience and odor relief are not an emergency, so necessity fails; mistake about the boundary and Chuck's economic need are no defenses. Neither defendant has a viable defense.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Woody's vicarious liability for an independent contractor",
+    "rule": "A principal is generally not vicariously liable for an independent contractor's torts, but is directly liable if he directs, authorizes or ratifies the tortious act.",
+    "keyFacts": [
+     "He hired Chuck, an independent licensed contractor",
+     "Woody scolded Chuck ... and then demanded that Chuck cut down the maple tree"
+    ],
+    "analysis": "Respondeat superior does not apply to an independent contractor, but Woody is directly liable because he knew the line and commanded the entry and tree removal.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 compensatory, nominal, trespass and tree, restoration, punitive",
+    "rule": "Trespass allows nominal damages even without harm, plus actual harm (restoration cost or diminution in value, loss of use/rental value); conversion yields fair market value; punitive damages require malice, oppression or fraud shown by clear and convincing evidence; equitable relief (injunction to remove the encroachment) is available for a continuing trespass.",
+    "keyFacts": [
+     "underground septic system under Neighbor's vacant lot",
+     "maple tree cut and burned",
+     "Woody knew ... and decided to install the septic system during Neighbor's absence"
+    ],
+    "analysis": "Neighbor recovers the value of the tree (possibly multiplied under Civ. Code 3346), restoration or reasonable rental value for the encroachment, and likely an injunction to remove the system; punitive damages are likely given Woody's knowing, concealed conduct, and Chuck's knowing participation. Pain and suffering is unlikely given his absence.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Apportionment \u2013 joint and several liability, contribution and indemnity",
+    "rule": "Joint tortfeasors who act in concert are jointly and severally liable for indivisible harm; California's Prop. 51 several-only liability for non-economic damages does not protect intentional tortfeasors; indemnity is not available to a knowing, intentional wrongdoer, but contribution among tortfeasors may be allocated by fault.",
+    "keyFacts": [
+     "Neighbor sued Woody and Chuck",
+     "Woody demanded and later burned the wood; Chuck did the digging"
+    ],
+    "analysis": "Both are jointly and severally liable for the property damage. Woody, the instigator who profited, bears the greater share; Chuck is unlikely to obtain full indemnity because he acted with knowledge, though he may seek an apportionment. Punitive damages are assessed separately against each.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check expected treatment of the tree (trespass to land/chattel vs conversion) and whether the grader expects Prop 51 or equitable indemnity in apportionment. A's conclusion that Chuck is not liable for trespass to chattel is questionable; B's statement that Woody is not vicariously liable but directly liable is the better view."
+ }
+]

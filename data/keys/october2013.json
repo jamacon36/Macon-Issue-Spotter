@@ -1,0 +1,663 @@
+[
+ {
+  "id": "october2013-q1",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2; merchant status",
+    "rule": "UCC Article 2 governs contracts for the sale of goods; merchants are those who deal in goods of the kind or hold themselves out as having knowledge or skill, and merchant rules (firm offer, 2-201(2) confirmation, 2-207) apply to them.",
+    "keyFacts": [
+     "Olivia is a florist who specializes in roses",
+     "sell him as many roses as he needs for his wedding chapel",
+     "Ann emailed Olivia an order for \"1,000 white stems\" to decorate an event hall"
+    ],
+    "analysis": "Cut flowers are movable goods, so the UCC applies to both contracts. Olivia is a merchant; Juan and Ann are probably not merchants in flowers (a chapel and event host), though Juan is arguably not a merchant regarding roses.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Juan \u2013 formation: requirements contract, consideration and quantity (2-306)",
+    "rule": "A requirements contract measures quantity by the buyer's good-faith requirements, is not illusory, and the buyer may not demand quantities unreasonably disproportionate to stated estimates or prior requirements; a good-faith decrease in requirements is permitted.",
+    "keyFacts": [
+     "five-year written contract",
+     "as many roses as he needs for his wedding chapel",
+     "between 300 and 1,500 dozen roses annually"
+    ],
+    "analysis": "The contract is an enforceable requirements contract. Prior purchases (300 to 1,500 dozen) give a baseline; the contested question is whether Juan's reduction to zero because of budget concerns is a good-faith reduction of requirements versus a repudiation, given that he did not say he no longer needed roses.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Juan \u2013 Statute of Frauds",
+    "rule": "Sale of goods for $500 or more requires a writing signed by the party to be charged with a quantity term; contracts not performable within one year also require a writing.",
+    "keyFacts": [
+     "five-year written contract"
+    ],
+    "analysis": "The written five-year contract satisfies the Statute of Frauds; quantity is satisfied by the requirements formula.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Olivia/Juan \u2013 anticipatory repudiation (2-610)",
+    "rule": "A clear and unequivocal statement that a party will not perform repudiates; the aggrieved seller may await performance for a commercially reasonable time or resort to any remedy for breach, and may suspend her own performance.",
+    "keyFacts": [
+     "Although two years remain on the contract, Juan has just notified Olivia that he cannot continue to buy roses from her"
+    ],
+    "analysis": "Juan's notice that he can't continue buying is a definite repudiation of the remaining two years of performance, allowing Olivia to sue immediately or await performance; she may also resell and cancel.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Juan \u2013 Juan's excuses (impracticability, impossibility, frustration of purpose)",
+    "rule": "UCC 2-615 excuses a seller for impracticability; for buyers common law impracticability/frustration requires an unforeseen supervening event that makes performance radically different, and mere financial hardship or increased cost is foreseeable risk and not an excuse.",
+    "keyFacts": [
+     "Juan has just notified Olivia that he cannot continue to buy roses from her because of serious budget concerns"
+    ],
+    "analysis": "Budget troubles are an ordinary, foreseeable business risk and do not excuse performance; no defense likely, so Juan is in breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Juan \u2013 seller's remedies (resale 2-706, market differential 2-708(1), lost profits/lost volume 2-708(2), incidentals, mitigation)",
+    "rule": "Seller may resell and recover contract-resale differential plus incidentals, recover market-contract difference, or recover lost profit (including reasonable overhead) if a lost-volume seller; seller must mitigate and may suspend or cancel; consequential damages are not generally recoverable by sellers.",
+    "keyFacts": [
+     "Although two years remain on the contract",
+     "sold Juan between 300 and 1,500 dozen roses annually",
+     "Olivia ... specializes in roses"
+    ],
+    "analysis": "Olivia can recover lost profit on expected purchases for the two remaining years, measured by average past quantities, as a lost-volume seller if she could have made both sales; since roses are perishable and quantities uncertain, damages are partly speculative. She must mitigate by selling elsewhere.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Ann \u2013 formation, ambiguity of \"white stems\" and open price",
+    "rule": "UCC allows a contract despite open price, with a reasonable price at time of delivery (2-305); ambiguous terms are interpreted by course of dealing, usage of trade and the parties' meaning; where the parties attach materially different meanings and neither knows or has reason to know of the other's, there is no contract (Restatement 201; Peerless).",
+    "keyFacts": [
+     "emailed Olivia an order for \"1,000 white stems\"",
+     "specifying no particular price or flower",
+     "Ann assumed that Olivia would send roses",
+     "Olivia instead sent orchids, the only \"white stems\" available"
+    ],
+    "analysis": "The order is an offer with quantity; \"white stems\" is ambiguous but Olivia could reasonably read it as any white flower; Ann's meaning was roses, her specialty. Whether a contract formed depends on reasonable meaning, and Ann arguably could have clarified; price gap filled with reasonable price, and $5 (twice roses) may be disputed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Ann \u2013 acceptance by shipment of nonconforming goods (2-206)",
+    "rule": "An order to buy goods for prompt shipment is accepted by prompt shipment of conforming or nonconforming goods; shipment of nonconforming goods is both acceptance and breach unless seller seasonably notifies that it is only an accommodation.",
+    "keyFacts": [
+     "Olivia instead sent orchids",
+     "Ann assumed that Olivia would send roses"
+    ],
+    "analysis": "Olivia's shipment of orchids without notice of accommodation is an acceptance and, if roses were meant, a breach; if \"white stems\" included orchids, the shipment conforms.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Ann \u2013 Statute of Frauds (2-201)",
+    "rule": "Sale of goods of $500 or more needs a writing signed by the party to be charged (email can be a signed writing) with a quantity term; exceptions include goods accepted or received, merchant confirmation and admission.",
+    "keyFacts": [
+     "Ann emailed Olivia an order for \"1,000 white stems\"",
+     "billed Ann $5 per stem",
+     "she used the orchids for the event"
+    ],
+    "analysis": "Ann's own email, with quantity, is a writing signed by Ann (the party to be charged), and she also accepted and used the goods, so the statute is satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Olivia/Ann \u2013 Ann's acceptance of goods, failure to reject/notify, and cure of defects (2-602, 2-606, 2-607)",
+    "rule": "Buyer accepts by failing to reject within reasonable time or by doing an act inconsistent with seller's ownership; a buyer who accepts must pay at the contract rate and must give notice of breach within reasonable time or is barred from any remedy; buyer may recover damages for accepted nonconforming goods (2-714).",
+    "keyFacts": [
+     "When Ann received the white orchids, she was surprised, but had no time to inquire about substitutes",
+     "she used the orchids for the event"
+    ],
+    "analysis": "By using the orchids without objection Ann accepted them and must pay the contract price (or reasonable price), reduced by any warranty damages if the nonconformity is shown; her failure to give notice weakens any claim.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Olivia/Ann \u2013 mistake and defenses",
+    "rule": "Unilateral mistake is not a defense unless the other party knew or had reason to know of it; mutual mistake of a basic assumption makes a contract voidable; duress needs an improper threat.",
+    "keyFacts": [
+     "Ann assumed that Olivia would send roses",
+     "no time to inquire about substitutes"
+    ],
+    "analysis": "Ann's mistaken assumption was unilateral and not known to Olivia; duress lacks any wrongful threat; defenses likely fail except for the price dispute.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Olivia/Ann \u2013 remedy: price of accepted goods (2-709) and reasonable price",
+    "rule": "Seller may recover the price of goods accepted; if price is open, it is a reasonable price at time of delivery.",
+    "keyFacts": [
+     "Olivia subsequently billed Ann $5 per stem for the orchids, a price twice that of roses",
+     "Ann refused to pay the higher amount"
+    ],
+    "analysis": "Olivia is entitled to the price of the accepted orchids, but only a reasonable price, to be established by market price for orchids, not necessarily $5; Ann may owe less if $5 exceeds market.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Verify merchant status for Juan and Ann. B incorrectly concluded the Ann email was unsigned for SOF; A's discussion of substantial performance and duress is off-point."
+ },
+ {
+  "id": "october2013-q2",
+  "issues": [
+   {
+    "name": "Alma \u2013 solicitation",
+    "rule": "Solicitation is asking or encouraging another to commit a crime with intent that the crime be committed; it is complete upon the request and merges into the completed crime or conspiracy-based offenses.",
+    "keyFacts": [
+     "She asked her friend, Bob, a locksmith, to open a locked drawer in Ed's desk",
+     "obtain confidential documents"
+    ],
+    "analysis": "Alma's request to Bob is a solicitation of burglary or larceny, but because Bob agreed and the crime occurred it merges into the completed offense or conspiracy.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Alma and Bob \u2013 conspiracy",
+    "rule": "Conspiracy is an agreement between two or more persons to commit an unlawful act with intent to agree and to achieve the objective, plus (in most states) an overt act; it does not merge with the completed crime. Conspirators are liable under Pinkerton for foreseeable crimes in furtherance.",
+    "keyFacts": [
+     "Bob said he would help her",
+     "Alma took Bob to Ed's office, where he opened the locked desk drawer"
+    ],
+    "analysis": "Agreement (Bob's assent) plus overt act (going to the office and picking the lock) establish conspiracy for both, for burglary/larceny and possibly extortion; Pinkerton may extend liability to foreseeable crimes of co-conspirators.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary (Alma and Bob) \u2013 entry, license, intent at time of entry",
+    "rule": "Common-law burglary: breaking and entering the dwelling of another at night with intent to commit a felony; modern: unlawful entry of a structure with intent to commit a theft or felony. Entry by consent is not trespassory, but consent obtained for an unlawful purpose may not be valid; intent is measured at entry; intent to steal is negated by a claim of right.",
+    "keyFacts": [
+     "Alma took Bob to Ed's office",
+     "opened the locked desk drawer",
+     "confidential documents"
+    ],
+    "analysis": "Common-law burglary fails (office is not a dwelling, night not stated, no breaking into the structure). Under modern statutes, Bob had no license; Alma as an employee may have had license to enter but not for a criminal purpose, which a court may disregard. Intent to commit larceny at entry is the key; claim of right and intent to return documents are defenses. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larceny of the documents \u2013 intent to permanently deprive; claim of right",
+    "rule": "Larceny is trespassory taking and carrying away of another's personal property with intent to permanently deprive; a bona fide claim of right to the property negates intent, and intent to return in a short time negates permanence.",
+    "keyFacts": [
+     "removed the confidential documents from the drawer",
+     "use in embarrassing Ed into paying her what she thought he owed her"
+    ],
+    "analysis": "The documents were removed from the drawer (asportation satisfied by slight movement), but Alma wanted leverage rather than to keep documents, and she believed she was owed pay, not that the documents were hers; intent to permanently deprive is arguable but she may be convicted. Larceny merges into or is lesser than burglary.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Attempted extortion (Alma, and Bob as conspirator/accomplice)",
+    "rule": "Extortion is obtaining property by a threat of harm (including exposure/embarrassment); attempt requires intent plus a substantial step beyond preparation; claim of right to money owed is generally not a defense to extortion by threat.",
+    "keyFacts": [
+     "confidential documents for use in embarrassing Ed into paying her",
+     "Alma believed that Ed ... had cheated her out of overtime pay"
+    ],
+    "analysis": "Alma intended to threaten exposure to obtain money; stealing the documents may be only preparation rather than a substantial step because no threat was communicated; her belief she was owed money does not excuse the threat. Charge is plausible but close; Bob's liability depends on knowing the plan (accomplice or Pinkerton).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Accomplice liability and Pinkerton (Alma and Bob)",
+    "rule": "An accomplice who aids with intent that the crime be committed is liable for the crime and its natural and probable consequences; conspirators are liable for foreseeable crimes of co-conspirators in furtherance of the conspiracy (Pinkerton).",
+    "keyFacts": [
+     "Bob said he would help her",
+     "he opened the locked desk drawer",
+     "Just after Alma and Bob had removed the confidential documents"
+    ],
+    "analysis": "Both participated directly in the burglary/larceny and are principals; each liable for foreseeable acts of the other.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Felony murder of Diane (Alma and Bob) \u2013 causation and killing by non-felon",
+    "rule": "Felony murder: a killing in the perpetration of an inherently dangerous felony (burglary, etc.) is murder. Majority agency rule requires the killing to be committed by a felon or co-felon, not by a third party; proximate cause theory requires the death to be foreseeable consequence; the felony must be ongoing (before reaching temporary safety).",
+    "keyFacts": [
+     "Just after Alma and Bob had removed the confidential documents",
+     "Ed came into the office",
+     "he chased Bob onto a balcony and pushed him",
+     "Bob fell over the balcony railing and landed on Diane",
+     "Diane died instantly"
+    ],
+    "analysis": "Death occurred during or immediately after the burglary but resulted from Ed's push, not a co-felon; under agency rule, no felony murder liability. Under proximate-cause approach, Ed's reaction to the intruders might be foreseeable. Alternatively Bob/Alma could face involuntary manslaughter; strongest defense is superseding act by Ed and lack of malice. Close call, depends on theory.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 other homicide/battery theories and defenses (withdrawal, lack of intent)",
+    "rule": "Battery requires intent (or criminal negligence) to cause contact; involuntary manslaughter requires criminal negligence or an unlawful act causing death; withdrawal from a conspiracy requires timely communication before the crime and does not end liability for completed crimes.",
+    "keyFacts": [
+     "Bob was unharmed but Diane died instantly",
+     "Bob fell over the balcony railing and landed on Diane"
+    ],
+    "analysis": "Bob did not intend to touch or injure Diane and fell because Ed pushed him; battery and murder fail. Withdrawal is unavailable since the crimes were completed; involuntary manslaughter for causing death while committing the felony is possible but weak.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ed \u2013 assault and battery on Bob",
+    "rule": "Assault is intentionally placing another in reasonable apprehension of imminent harmful or offensive contact; battery is intentional harmful or offensive contact.",
+    "keyFacts": [
+     "he chased Bob onto a balcony and pushed him"
+    ],
+    "analysis": "Chasing and pushing Bob is intentional assault and battery unless justified.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ed \u2013 homicide of Diane (murder, transferred intent, manslaughter)",
+    "rule": "Murder requires malice: intent to kill, intent to inflict serious bodily harm, depraved-heart recklessness, or felony murder; transferred intent applies where defendant intends harm to one and kills another; involuntary manslaughter involves criminal negligence or unlawful act; misdemeanor battery supports unlawful-act manslaughter.",
+    "keyFacts": [
+     "pushed him. Bob fell over the balcony railing and landed on Diane",
+     "Startled, he chased Bob onto a balcony"
+    ],
+    "analysis": "Pushing a man at a balcony railing created a high risk of death; it shows at least criminal negligence and possibly implied malice (depraved heart), with Ed's intent toward Bob transferring to Diane. Because he was startled and did not intend to throw Bob over, involuntary manslaughter is the likelier outcome; murder is arguable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ed \u2013 defenses (defense of property, citizen's arrest, self-defense, provocation)",
+    "rule": "Defense of property permits reasonable nondeadly force only; deadly force is not allowed to protect property. Citizen's arrest permits reasonable force when a felony has in fact been committed in the person's presence; self-defense requires reasonable fear of imminent unlawful force; heat-of-passion requires adequate provocation.",
+    "keyFacts": [
+     "Startled, he chased Bob onto a balcony",
+     "removed the confidential documents from the drawer",
+     "Ed came into the office"
+    ],
+    "analysis": "Ed may claim defense of property/arrest to retake documents from burglars, but pushing a man toward a railing likely exceeds reasonable force; no threat to Ed supports self-defense; discovering intruders is probably not adequate provocation for voluntary manslaughter.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check agency vs. proximate cause approach for felony murder; claim-of-right and whether stealing documents is a substantial step toward extortion. A did not discuss necessity; B did not analyze the license/employee issue."
+ },
+ {
+  "id": "october2013-q3",
+  "issues": [
+   {
+    "name": "Governing law \u2013 services (common law) vs. goods (UCC)",
+    "rule": "UCC Article 2 governs sales of goods; mixed contracts are governed by the law of the predominant purpose (service vs. goods).",
+    "keyFacts": [
+     "Installco agreed to install new guardrails",
+     "County agreed to pay Installco $200,000"
+    ],
+    "analysis": "Contract is chiefly for installation labor on a road, so common law likely applies; same result is likely under UCC for conditions and repudiation, though UCC 2-609 assurance would also apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Contract formation",
+    "rule": "Contract requires offer, acceptance and consideration; definite terms.",
+    "keyFacts": [
+     "on May 1, County entered into a contract with Installco",
+     "County agreed to repave the road by June 1; Installco agreed to install new guardrails",
+     "$200,000"
+    ],
+    "analysis": "A valid written bilateral contract exists with mutual promises; formation is not seriously disputed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "County's promise to repave by June 1 \u2013 covenant vs. express condition vs. constructive condition",
+    "rule": "A promise is a covenant; an express condition must be strictly satisfied and is created by clear language; where order of performance is implied, earlier performance is a constructive condition to the other party's duty. Doubts are resolved in favor of covenant.",
+    "keyFacts": [
+     "County agreed to repave the road by June 1",
+     "Installco agreed to install new guardrails, which was expected to take three weeks, after County had completed repaving"
+    ],
+    "analysis": "The contract uses promissory language (\"agreed\"), so June 1 is likely a covenant, but completion of repaving must logically precede installation and is a constructive condition to Installco's duty; a minor delay would not excuse Installco, but a material delay would.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Parol evidence / time is of the essence and Installco's other job",
+    "rule": "Parol evidence is inadmissible to vary a fully integrated writing, but is admissible to explain ambiguity, show condition precedent to effectiveness, or show purpose; time is of the essence only if stated or circumstances show timing is vital and known to the other party.",
+    "keyFacts": [
+     "You knew when we signed the contract that we have another large guardrail installation job starting on August 1",
+     "do not have enough equipment to do both jobs simultaneously"
+    ],
+    "analysis": "Contract contains no time-is-of-essence clause; Installco will use County's knowledge of the Aug. 1 job to show timing mattered; prior statements may be admitted for materiality or interpretation, but are uncertain if the writing is integrated.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Material vs. minor breach by County (delay in repaving)",
+    "rule": "A material breach (considering loss of benefit, adequacy of compensation, forfeiture, likelihood of cure, good faith) discharges the other party's remaining duties; a minor breach only gives damages and does not excuse performance.",
+    "keyFacts": [
+     "County was far from completing the repaving",
+     "On July 1, County had not yet completed the repaving",
+     "On August 10, County finally completed repaving"
+    ],
+    "analysis": "County was more than a month late by July 1, knew of Installco's Aug. 1 commitment, and gave no schedule; the delay prevented Installco from doing both jobs, so likely material. County will argue the delay was minor and Installco should have waited until it would have conflicted (about July 10).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Installco's demand for adequate assurance and County's response",
+    "rule": "Under Restatement 251 (and UCC 2-609), when reasonable grounds for insecurity arise a party may demand adequate assurance, may suspend performance, and failure to provide it within a reasonable time is treated as repudiation.",
+    "keyFacts": [
+     "Please advise immediately as to your schedule for completion of the repaving",
+     "County responded with an email stating: \"We are doing our best.\""
+    ],
+    "analysis": "County's vague answer gave no schedule and likely was not adequate assurance; Installco could suspend, but July 1 is only 13 days after, which County may argue is not a reasonable time.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Waiver or excuse of condition by Installco's June 15 email",
+    "rule": "A party may waive a condition by words or conduct (including accepting late performance), but waiver of time can be retracted with reasonable notice.",
+    "keyFacts": [
+     "Installco sent County an email",
+     "Please advise immediately as to your schedule for completion",
+     "\"We are doing our best.\""
+    ],
+    "analysis": "County will argue Installco's inquiry shows willingness to accept late performance, but the email reserved the August 1 constraint and demanded a schedule, so no waiver.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Installco's July 1 repudiation \u2013 justified?",
+    "rule": "Anticipatory repudiation is a clear statement of refusal to perform; it is a breach unless justified by the other party's prior material breach or failure to give adequate assurance; a party may not repudiate prematurely and must allow reasonable time for cure.",
+    "keyFacts": [
+     "Installco received an offer to do a two-week guardrail installation job beginning immediately",
+     "Installco sent County an email stating that it no longer intended to perform the contract because of County's failure to complete repaving"
+    ],
+    "analysis": "Installco expressly refused to perform. County argues it was premature because repaving could still finish by about July 10 and Installco had an immediate two-week job that did not conflict; Installco responds County's material breach and failure to give assurance excused it. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Prevention / hindrance and good-faith (County's conduct)",
+    "rule": "A party who prevents or hinders the occurrence of a condition or the other's performance breaches the implied covenant of good faith and cannot rely on non-occurrence.",
+    "keyFacts": [
+     "County was far from completing the repaving",
+     "Installco ... do not have enough equipment to do both jobs"
+    ],
+    "analysis": "County's delay effectively prevented Installco from performing within its schedule; supports Installco's excuse.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedies \u2013 County's cover and damages; mitigation",
+    "rule": "Non-breaching party may recover cost of reasonable substitute performance over contract price (cover) plus incidental damages, subject to mitigation and foreseeability.",
+    "keyFacts": [
+     "County finally completed repaving ... located another company ... had to pay $300,000",
+     "contract price $200,000"
+    ],
+    "analysis": "If Installco breached, County recovers the $100,000 difference; if County's material breach excused Installco, County recovers nothing and may owe reliance or expectation damages to Installco.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Who prevails",
+    "rule": "Outcome depends on whether County's delay was a material breach and whether Installco's repudiation was justified.",
+    "keyFacts": [
+     "June 1 start date has passed",
+     "August 1 job",
+     "repaving finished August 10"
+    ],
+    "analysis": "Likely Installco prevails because County's long delay, known conflict, and failure to assure was a material breach, though County has a strong argument that Installco repudiated before the date performance was impossible.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Student answers disagree on whether June 1 is an express condition; check the common-law covenant/condition framework. A mischaracterizes the June 15 email as part of the contract."
+ },
+ {
+  "id": "october2013-q4",
+  "issues": [
+   {
+    "name": "Walt v. Rick \u2013 private nuisance",
+    "rule": "Private nuisance is a substantial and unreasonable interference with another's use and enjoyment of land, caused by defendant's intentional, negligent or ultra-hazardous conduct; unreasonableness is judged by gravity of harm versus utility, with the plaintiff's hypersensitivity and coming to the nuisance considered; remedies are damages and injunction.",
+    "keyFacts": [
+     "Rick hosted nightly rehearsals in his backyard",
+     "Walt could not conduct telephone conversations in his house even with the windows closed",
+     "He repeatedly asked Rick to lower the volume ... Rick refused"
+    ],
+    "analysis": "Nightly loud amplified music that prevents ordinary phone use is a substantial interference a normal person would find objectionable; Rick's refusal after requests makes it intentional; utility of band practice does not outweigh harm; Walt likely prevails (damages/injunction).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Walt v. Rick \u2013 assault (guitar swing)",
+    "rule": "Assault is intentional act causing reasonable apprehension of immediate harmful or offensive contact.",
+    "keyFacts": [
+     "Rick picked up another electric guitar, ran into Walt's yard, and charged at Walt, swinging at his head",
+     "Walt ducked and ran into his house"
+    ],
+    "analysis": "Rick intended to strike Walt and Walt's ducking and fleeing shows apprehension; assault established; no battery since contact was missed. Walt's earlier water-spraying does not justify deadly-force retaliation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Walt v. Rick \u2013 battery (attempted)",
+    "rule": "Battery requires harmful or offensive contact with the plaintiff.",
+    "keyFacts": [
+     "swinging at his head",
+     "Walt ducked"
+    ],
+    "analysis": "No contact occurred, so battery fails; assault is the proper claim.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Walt v. Rick \u2013 trespass to land",
+    "rule": "Trespass to land is an intentional physical entry onto land possessed by another without consent; intent is only to enter, not to harm.",
+    "keyFacts": [
+     "ran into Walt's yard"
+    ],
+    "analysis": "Rick intentionally entered Walt's yard uninvited; liability for trespass with nominal damages at least.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Rick v. Walt \u2013 battery and assault (water spray) and transferred intent",
+    "rule": "Battery requires intentional offensive or harmful contact (including contact through an object set in motion); assault requires apprehension of imminent contact; Rick must have been aware of the threatened contact.",
+    "keyFacts": [
+     "trying to spray Rick with water from his garden hose",
+     "He missed Rick with the water"
+    ],
+    "analysis": "Walt intended an offensive touching but missed, so no battery; assault depends on whether Rick saw the hose and anticipated being sprayed, which the facts do not state, so assault is doubtful.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Rick v. Walt \u2013 trespass to land (water entering yard)",
+    "rule": "Intentional physical invasion of land by person or object, even by water, is trespass.",
+    "keyFacts": [
+     "Walt was standing in his own yard",
+     "spray Rick with water",
+     "hit Cal ... and the amplifiers"
+    ],
+    "analysis": "Walt intended to send water into Rick's yard, a physical invasion; trespass likely established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Rick v. Walt \u2013 trespass to chattels / conversion (amplifiers destroyed); transferred intent",
+    "rule": "Trespass to chattels is intentional interference with possession causing damage; conversion is interference serious enough to require payment of full value; transferred intent applies among battery, assault, trespass to land, trespass to chattels and false imprisonment.",
+    "keyFacts": [
+     "The water also destroyed the amplifiers",
+     "Rick ... amplifiers that he owned"
+    ],
+    "analysis": "Walt intended to spray water into Rick's yard but not the amplifiers; intent to commit battery/assault on Rick transfers to trespass to chattels; destruction makes conversion appropriate with full value recovery. Close call whether transfer reaches conversion.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Walt's defenses \u2013 abatement of nuisance / self-help",
+    "rule": "A person may use reasonable self-help to abate a private nuisance after notice and request, using no more force than necessary and avoiding breach of peace; destruction of property is excessive.",
+    "keyFacts": [
+     "He repeatedly asked Rick to lower the volume",
+     "attempted to disrupt a rehearsal by trying to spray Rick with water"
+    ],
+    "analysis": "Walt may claim abatement privilege but spraying a person and electric equipment with water exceeds reasonable abatement and is unlikely to be protected; at most mitigates.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Cal v. Walt \u2013 battery via transferred intent (water and electric shock)",
+    "rule": "Intent to commit battery against one person transfers to an unintended victim; a defendant who commits battery is liable for all resulting harm, including unforeseeable consequences, such as electric shock.",
+    "keyFacts": [
+     "trying to spray Rick with water",
+     "hit Cal, another band member",
+     "Cal to suffer a severe electric shock when it contacted an electric guitar he was holding"
+    ],
+    "analysis": "Walt's intent to spray Rick transfers to Cal; contact with water is a battery, and the severe shock is recoverable damage resulting from the battery; strong claim.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cal v. Walt \u2013 assault",
+    "rule": "Assault requires Cal's awareness of an imminent contact before it occurs.",
+    "keyFacts": [
+     "hit Cal",
+     "Cal ... was holding an electric guitar"
+    ],
+    "analysis": "No facts show Cal saw the water coming; assault likely fails.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Cal v. Walt \u2013 trespass to chattels / conversion (guitar)",
+    "rule": "Intentional interference with possession of personal property causing damage is trespass to chattels; transferred intent applies; damage must be shown.",
+    "keyFacts": [
+     "an electric guitar he was holding",
+     "The water caused Cal to suffer a severe electric shock"
+    ],
+    "analysis": "Facts do not state the guitar was damaged or whose it was (Rick owned several guitars); claim depends on proof of damage, and conversion is unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Facts do not say whether Rick saw the hose, whether Cal's guitar was damaged or owned by Rick, or whether Cal was aware; question excludes negligence claims. Neither answer raised abatement privilege."
+ }
+]

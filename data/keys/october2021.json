@@ -1,0 +1,586 @@
+[
+ {
+  "id": "october2021-q1",
+  "issues": [
+   {
+    "name": "Solicitation",
+    "rule": "Solicitation is inviting, urging, or requesting another to commit a crime with the specific intent that the person commit it; complete upon the request, no agreement or overt act needed. Merges into the completed or attempted crime or conspiracy.",
+    "keyFacts": [
+     "Dave suggested to Fred that they rob a bank"
+    ],
+    "analysis": "Dave's suggestion completed solicitation of robbery. It likely merges into conspiracy or attempt, so it is a minor stand-alone charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Conspiracy – agreement, feigned agreement, bilateral vs. unilateral",
+    "rule": "Conspiracy is an agreement between two or more persons to commit a crime, with intent to agree and to achieve the unlawful objective; California also requires an overt act. Under the common law/bilateral view a feigned agreement with a person who lacks intent to commit the object crime is no conspiracy; the MPC unilateral view lets the sincere party be convicted.",
+    "keyFacts": [
+     "Fred agreed and said that he would go along with Dave",
+     "Unbeknownst to Dave, Fred did not actually want to rob the bank",
+     "Dave and Fred approached the bank carrying handguns"
+    ],
+    "analysis": "Fred only feigned agreement to rob (his aim was a terror bombing), so under the bilateral view there is only one guilty mind and no conspiracy. Under the MPC unilateral approach Dave is guilty, and approaching the bank armed supplies the overt act. Close call that depends on the jurisdiction.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Attempted robbery",
+    "rule": "Attempt requires specific intent to commit the crime plus a substantial step beyond mere preparation (MPC) or a direct act toward the crime (CA); robbery is trespassory taking and carrying away of another's property from the person or presence by force or fear with intent to permanently deprive. Attempt merges with no completed crime here.",
+    "keyFacts": [
+     "Dave and Fred approached the bank carrying handguns",
+     "walked in the bank's front door with their guns drawn",
+     "rob a bank"
+    ],
+    "analysis": "Dave intended robbery and walked in with a drawn gun, a substantial step beyond preparation. He will likely be convicted of attempted robbery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Robbery / larceny not completed",
+    "rule": "Robbery and larceny require a taking and carrying away (asportation) of property; absent that, only attempt lies.",
+    "keyFacts": [
+     "Dave and Fred running away with their guns drawn",
+     "grenade into the bank"
+    ],
+    "analysis": "No property was taken, so Dave cannot be convicted of completed robbery or larceny.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Burglary",
+    "rule": "Common law burglary is breaking and entering a dwelling of another at night with intent to commit a felony. Modern statutes (including California) cover entry into any structure with intent to commit a felony or theft.",
+    "keyFacts": [
+     "walked in the bank's front door",
+     "The next day",
+     "intent to rob"
+    ],
+    "analysis": "Common law burglary fails (bank, daytime). Under a modern statute entry with intent to rob is burglary, and Dave is chargeable.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Assault with a deadly weapon",
+    "rule": "Assault is an attempted battery or intentionally placing another in reasonable apprehension of imminent battery; aggravated if with a deadly weapon.",
+    "keyFacts": [
+     "walked in the bank's front door with their guns drawn",
+     "Bank guard Gus saw Dave and Fred running away with their guns drawn"
+    ],
+    "analysis": "Entering with guns drawn could put bank occupants in apprehension, supporting assault with a deadly weapon, though Dave never pointed at a specific person. Moderate strength.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Liability for the grenade explosion (Pinkerton / accomplice / malicious mischief)",
+    "rule": "A conspirator is liable for reasonably foreseeable crimes of co-conspirators in furtherance of the conspiracy (Pinkerton); an accomplice is liable only for the natural and probable consequences of the intended crime. Malicious mischief/arson/explosives offenses require malice or intentional damage; acts outside the scope of the agreement are not attributed.",
+    "keyFacts": [
+     "Fred also had a hand grenade in his jacket pocket that Dave did not know about",
+     "to Dave's astonishment, Fred removed the grenade",
+     "The explosion damaged the bank"
+    ],
+    "analysis": "The terrorist grenade throw was not in furtherance of the robbery and was not foreseeable to Dave, so Pinkerton should not reach it (and fails entirely if no conspiracy). Dave is not liable for the damage under malicious mischief; that Fred's act was unforeseeable is the better conclusion.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder and the death of a co-felon at the hands of a victim",
+    "rule": "Felony murder is a killing during the commission or attempt of an inherently dangerous or enumerated felony (robbery, burglary). Most jurisdictions, including California, limit liability under the agency or proximate cause approach so no felony murder when a victim or police officer kills a co-felon (Redline rule); a minority impose liability under proximate cause.",
+    "keyFacts": [
+     "Bank guard Gus saw Dave and Fred running away with their guns drawn and shot his gun at Fred, killing him",
+     "attempted robbery"
+    ],
+    "analysis": "The underlying felony was attempted robbery or burglary and the death occurred while fleeing, but Gus, a third party, killed Fred, Dave's co-felon. Under the Redline/agency rule Dave is not liable for felony murder. Proximate cause jurisdictions would likely find liability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation and implied-malice murder / manslaughter",
+    "rule": "Homicide requires actual and proximate causation; an intervening act is superseding if unforeseeable, but a victim's reasonable defensive response is foreseeable. Murder malice includes intent to kill, intent to inflict serious bodily harm, and depraved heart; involuntary manslaughter is criminal negligence or unlawful-act killing.",
+    "keyFacts": [
+     "Gus saw Dave and Fred running away with their guns drawn",
+     "Fred ... killed"
+    ],
+    "analysis": "Gus's response was foreseeable, so causation may be satisfied, but Dave lacked intent to kill. Depraved heart or involuntary manslaughter is a weak theory because Fred himself (not Dave) created the key danger and Gus's act was a justified defensive killing.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Jurisdictional splits (unilateral vs bilateral conspiracy; redline rule vs proximate cause) drive the outcomes; Answer A's common-law felony murder conclusion is aggressive. Check whether answers discussed Gus's justification."
+ },
+ {
+  "id": "october2021-q2",
+  "issues": [
+   {
+    "name": "Governing law (UCC Article 2) and merchant status",
+    "rule": "UCC Article 2 governs contracts for the sale of goods; a merchant deals in goods of the kind or holds itself out as having knowledge peculiar to them, triggering implied warranties and special rules.",
+    "keyFacts": [
+     "owner of the Marvelous Motors car dealership",
+     "buy a Model Snazzy XYZ car",
+     "$20,000"
+    ],
+    "analysis": "A car sale is a sale of goods under the UCC, and Sam and XYZ are merchants while Bret is a consumer.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation of the oral deal with Sam; statute of frauds",
+    "rule": "A UCC contract needs no particular formality; a sale of goods of $500 or more must be evidenced by a writing signed by the party to be charged (2-201). A dealer's statement of availability on a customer's specification can create a binding agreement; an offer may be accepted by any reasonable means.",
+    "keyFacts": [
+     "wanted to buy a Model Snazzy XYZ car that was any color other than red",
+     "Sam told Bret the car would be ready on Friday, January 31",
+     "document ... to buy the car for $20,000"
+    ],
+    "analysis": "The parties reached a deal for a non-red car; the later signed $20,000 writing satisfies the statute of frauds as to Bret's signature. Delivery of a red car did not conform to the specification.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Nonconforming tender / rejection and revocation of acceptance",
+    "rule": "Under perfect tender (2-601) a buyer may reject goods that fail to conform in any respect, within a reasonable time and with notice. After acceptance, a buyer may revoke if a nonconformity substantially impairs value, was difficult to discover or acceptance was induced by assurances, within a reasonable time and with notice (2-608).",
+    "keyFacts": [
+     "he discovered that it was bright red",
+     "Bret refused to accept the car",
+     "Sam offered to let Bret try out the car for three months",
+     "Bret decided to return the car",
+     "Sam refused to accept the car back"
+    ],
+    "analysis": "The red car did not conform to the order and Bret initially rejected it, but he then took the car on Sam's assurance. He can likely revoke acceptance because of the color problem (tickets) and the faulty transmission, and notice and timing were reasonable given the February tickets.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Fraud (fraud in the factum / inducement), duty to read, and parol evidence",
+    "rule": "Fraud in the factum (misrepresenting the nature of the document so the signer does not know its character) makes the contract void; fraud in the inducement makes it voidable by justifiable reliance on a material misrepresentation. A signer normally has a duty to read, but not where the other party misrepresented the document's nature. Parol evidence may be admitted to prove fraud.",
+    "keyFacts": [
+     "Bret then signed, without reading it, a document that Sam said was a temporary use license",
+     "The document was actually a contract ... to buy the car for $20,000"
+    ],
+    "analysis": "Sam intentionally misdescribed a sale contract as a temporary license; Bret's reliance was likely justified, so he can avoid the written contract and recover restitution and damages. The duty to read is the likely defense but yields to affirmative misrepresentation. Also unilateral mistake and unconscionability are alternative arguments.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Express warranty and parol evidence / merger",
+    "rule": "An affirmation of fact or promise that becomes part of the basis of the bargain creates an express warranty (2-313); a mere opinion or puffery does not. Warranty language cannot be disclaimed to the extent it is inconsistent with an express warranty (2-316(1)), and parol evidence of consistent additional terms or fraud is admissible (2-202).",
+    "keyFacts": [
+     "Sam told Bret his concern was unfounded",
+     "Sam's guarantee that Bret would not incur any speeding-related costs because of the car's color",
+     "three speeding tickets ... the bright red color of his car had caught their eye"
+    ],
+    "analysis": "Sam's express guarantee against speeding-related costs is a promise, not puffery, and induced Bret to take the car. It was breached because officers pointed to the color. The disclaimer cannot defeat it, and fraud allows the oral term in despite the writing.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Implied warranty of merchantability and disclaimer",
+    "rule": "A merchant seller impliedly warrants goods are fit for ordinary purposes (2-314). A disclaimer must mention merchantability and, if written, be conspicuous (2-316(2)); a disclaimer that is not conspicuous is ineffective, and unconscionable disclaimers fail.",
+    "keyFacts": [
+     "the car's faulty transmission",
+     "XYZ Automotive Company disclaims any and all warranties, express or implied",
+     "in the same size font as the rest of the printing"
+    ],
+    "analysis": "A faulty transmission makes the car unfit for ordinary purposes. The disclaimer neither mentions merchantability nor is conspicuous (same font), so it fails and the implied warranty stands.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Implied warranty of fitness for a particular purpose",
+    "rule": "Where the seller knows the buyer's particular purpose and the buyer relies on the seller's skill to select suitable goods, a warranty of fitness arises (2-315).",
+    "keyFacts": [
+     "any color other than red",
+     "believed drivers of red cars got more speeding tickets"
+    ],
+    "analysis": "Bret's purpose (a car that would not attract speeding tickets) was communicated, but he was choosing a specific model, not relying on Sam's judgment; weak claim at best.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedies against Sam – damages and rescission",
+    "rule": "Buyer may recover direct damages for accepted goods (2-714), incidental and foreseeable consequential damages (2-715), and cover or recovery of price on proper revocation; fraud permits rescission and restitution. Damages must be foreseeable and mitigated.",
+    "keyFacts": [
+     "Bret had to pay a total of $1,700 in fines",
+     "Bret had to pay $1,000 to have the car's faulty transmission repaired",
+     "$20,000"
+    ],
+    "analysis": "Bret can recover the $1,700 fines as consequential damages (foreseeable from the guarantee) and the $1,000 transmission repair as direct damages, and may rescind and recover any price paid. Sam may argue Bret's own speeding caused the tickets, a causation point of limited force.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Claims against XYZ – agency, rescission, and warranties",
+    "rule": "A principal is bound by an authorized or apparent agent's misrepresentations in the scope of the agency, and the seller of record is bound by the UCC warranties (merchantability, express). Third-party beneficiary rules are irrelevant where the buyer is a direct party.",
+    "keyFacts": [
+     "a contract between Sam and XYZ Automotive Company as the sellers, and Bret as the buyer",
+     "sells cars manufactured by XYZ Automotive Company",
+     "XYZ Automotive Company disclaims any and all warranties"
+    ],
+    "analysis": "XYZ is a named seller, so Bret is a party in privity with it. He can rescind for Sam's fraud (Sam acting as XYZ's dealer/agent) and, if he keeps the car, sue XYZ for breach of implied merchantability because the disclaimer was ineffective. Answer A's incidental-beneficiary theory is a misstep.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The facts have two possible theories (rescind for fraud, or affirm and sue on warranty); check the answers' treatment. Whether Sam is XYZ's agent is left open by the facts."
+ },
+ {
+  "id": "october2021-q3",
+  "issues": [
+   {
+    "name": "Larceny of the Smiths' bike (first incident)",
+    "rule": "Larceny is the trespassory taking and carrying away of the personal property of another with intent to permanently deprive. Slight movement suffices.",
+    "keyFacts": [
+     "Doug saw a blue bicycle in a garage at the Smith house",
+     "as he was taking the bike away",
+     "The responding police officer gave the bike back to the Smiths"
+    ],
+    "analysis": "Doug took and moved the Smiths' bike without consent, satisfying the actus reus; the contest is intent (see claim of right). Return of the bike by police does not undo a completed larceny.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Claim of right / mistake of fact negating intent",
+    "rule": "An honest belief, even if unreasonable, that the property belongs to oneself negates the intent to steal for larceny, robbery and burglary (claim of right). A delusion-based belief overlaps with insanity and, in California, mental-disorder evidence cannot be used for diminished capacity beyond actual-knowledge issues.",
+    "keyFacts": [
+     "firmly convinced that he owned all blue bicycles in the world",
+     "Doug became convinced the Smiths had stolen one of his bicycles"
+    ],
+    "analysis": "If Doug sincerely believed the bike was his, he lacked intent to permanently deprive another, which is a defense to the theft-based crimes; the State will say the belief is a delusion, so the real contest becomes insanity. Strong argument for Doug.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Robbery (force in taking the bike)",
+    "rule": "Robbery is larceny from the person or presence of another by force or fear with intent to permanently deprive, force being used to take or carry away the property.",
+    "keyFacts": [
+     "as he was taking the bike away he shoved Mr. Smith",
+     "accused them of theft"
+    ],
+    "analysis": "The shove while taking the bike is force during the taking, so robbery (merging larceny) is chargeable, subject to the claim-of-right defense that negates intent.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary (Smiths' garage)",
+    "rule": "Modern burglary is entry into a structure without consent with intent to commit a felony or theft therein; common law required a dwelling at night.",
+    "keyFacts": [
+     "saw a blue bicycle in a garage at the Smith house across the street",
+     "removed the bike from the Smiths' garage"
+    ],
+    "analysis": "Entry into the garage with intent to take the bike fits modern burglary (and Kira's entry on Doug's behalf makes a second burglary count), but again requires intent to steal, undermined by Doug's belief of ownership.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Assault and battery of Mr. Smith",
+    "rule": "Battery is the intentional, offensive or harmful touching of another without consent; assault is attempted battery or intentionally causing reasonable apprehension of imminent battery.",
+    "keyFacts": [
+     "he shoved Mr. Smith"
+    ],
+    "analysis": "The intentional shove is a battery. Claim of right gives no defense to battery, though insanity may.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Solicitation of Kira",
+    "rule": "Solicitation is inviting or urging another to commit a crime with intent that the person commit it; complete upon the request.",
+    "keyFacts": [
+     "Doug enlisted the help of Kira, a fourteen-year-old girl",
+     "He offered to pay Kira five dollars if she would get the bike for him",
+     "Kira knew nothing about Doug's dispute with the Smiths"
+    ],
+    "analysis": "Doug asked Kira to take property he did not own, but if he genuinely believed it was his, he lacked intent that a crime be committed. Kira's innocence does not matter to solicitation. Debatable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Conspiracy with Kira",
+    "rule": "Conspiracy requires an agreement between two or more persons with intent to commit an unlawful object (bilateral approach), plus an overt act in most jurisdictions.",
+    "keyFacts": [
+     "Kira agreed",
+     "Doug told Kira he owned the bike in the Smiths' garage and needed it back"
+    ],
+    "analysis": "Kira thought she was retrieving Doug's own bike and lacked criminal intent, so there is no conspiracy under the bilateral rule.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Larceny and burglary through an innocent agent; offenses involving a minor",
+    "rule": "A person who causes an innocent agent to commit the actus reus is the principal of the offense. Using or enticing a minor may also support child endangerment or contributing to the delinquency of a minor.",
+    "keyFacts": [
+     "Kira agreed. She went and removed the bike from the Smiths' garage",
+     "fourteen-year-old girl",
+     "She ... began to ride it across the street to deliver it to Doug"
+    ],
+    "analysis": "Kira took the bike unknowingly at Doug's instigation, making Doug the principal in larceny (and burglary) via an innocent agent, subject to his intent defense. Endangering a minor is a possible extra charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Homicide of Kira – causation",
+    "rule": "A defendant is liable only if his act was the actual (but-for) and proximate cause of death; an intervening act breaks the chain only if unforeseeable. A victim's own ordinary negligence is generally foreseeable.",
+    "keyFacts": [
+     "She failed to look for traffic and was hit by a car and killed",
+     "began to ride it across the street to deliver it to Doug"
+    ],
+    "analysis": "But for Doug sending Kira on the errand she would not have died; her carelessness crossing the street is a foreseeable response, so causation is likely met, though a court could view a negligent victim and driver as intervening.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder (felony murder) and involuntary manslaughter",
+    "rule": "Murder requires malice (intent to kill, intent to inflict serious harm, depraved heart, or felony murder in an inherently dangerous felony). Involuntary manslaughter is an unintentional killing by criminal negligence or an unlawful act not supporting murder.",
+    "keyFacts": [
+     "Kira ... was hit by a car and killed",
+     "accused them of theft",
+     "burglary"
+    ],
+    "analysis": "Doug did not intend death and sending a child to fetch a bike is not depraved indifference; felony murder fails because larceny is not inherently dangerous and the felony may be over (and Doug's mental state is doubtful). Involuntary manslaughter (criminal negligence/misdemeanor-manslaughter, or involuntary manslaughter in the commission of larceny) is the best homicide charge; a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Insanity – M'Naghten (cognitive) test",
+    "rule": "Under M'Naghten (California), a defendant is legally insane if because of mental disease he did not know the nature and quality of his act or did not know it was wrong; the defendant bears the burden of proof. Under an insane delusion, the defendant is judged on the facts as he believed them.",
+    "keyFacts": [
+     "serious mental illness",
+     "firmly convinced that he owned all blue bicycles in the world",
+     "The responding police officer ... told Doug to stay away from the Smiths' garage",
+     "Doug enlisted the help of Kira"
+    ],
+    "analysis": "Doug's delusion of ownership suggests he thought his act lawful, supporting insanity. The State will argue that being told to stay away and then using a child to do the taking shows he knew it was wrong. Also, he voluntarily stopped his medication. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Insanity – irresistible impulse, MPC/ALI and Durham tests",
+    "rule": "Irresistible impulse excuses a defendant who could not control his conduct because of mental disease; the MPC asks whether he lacked substantial capacity to appreciate wrongfulness or to conform conduct to law; Durham asks if the act was the product of mental disease. California uses only M'Naghten.",
+    "keyFacts": [
+     "The symptoms became more severe when he stopped taking medication",
+     "stopped taking his medication because of its unpleasant side effects"
+    ],
+    "analysis": "The delusions plausibly satisfy the volitional and product tests where those apply, but in California M'Naghten controls. The State will point to the voluntary decision to stop taking medication.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Answer A's text ends mid-sentence in the Product Rule (data truncation). Key reflects both M'Naghten-only California rule and other tests; note which the answers tied to jurisdiction."
+ },
+ {
+  "id": "october2021-q4",
+  "issues": [
+   {
+    "name": "Aspen Hospital – vicarious liability for Dr. Johnson (respondeat superior / ostensible agency / nondelegable duty)",
+    "rule": "An employer is vicariously liable for torts of an employee within the scope of employment. A hospital is also liable for an independent-contractor physician under ostensible agency (patient reasonably believes the doctor is the hospital's agent) or a nondelegable duty; an employer is not otherwise liable for an independent contractor.",
+    "keyFacts": [
+     "Dr. Johnson performed the surgery",
+     "abdominal surgery at Aspen Hospital",
+     "Aspen Hospital denied that it was responsible"
+    ],
+    "analysis": "The facts do not say whether Johnson was an employee, but he performed the surgery at Aspen and Paul would reasonably view him as the hospital's agent, so Aspen is likely vicariously liable for the negligently left clamp (and its surgical team's failure to count instruments). The hospital's denial is irrelevant.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Aspen Hospital – direct negligence / res ipsa loquitur",
+    "rule": "Res ipsa loquitur permits an inference of negligence where the injury is of a kind that ordinarily does not occur absent negligence, the instrumentality was in the defendant's exclusive control, and the plaintiff did not contribute; a retained surgical instrument is the classic case. A hospital may also be directly negligent for inadequate instrument-count procedures or staff supervision.",
+    "keyFacts": [
+     "one of the surgical clamps had been left inside Paul's abdomen",
+     "remove an ulcerated section of his large intestine"
+    ],
+    "analysis": "A clamp left inside after surgery is res ipsa, so breach is inferred against the surgical team and hospital; Paul was unconscious and did not contribute.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dr. Johnson – medical malpractice (duty, breach, causation)",
+    "rule": "A physician owes a duty to exercise the skill and care of a reasonably competent professional in the same specialty; breach must actually and proximately cause damages. Leaving a foreign object in a patient breaches the standard of care.",
+    "keyFacts": [
+     "Dr. Johnson performed the surgery",
+     "Dr. Johnson knew that one of the surgical clamps had been left inside Paul's abdomen and would likely cause future problems",
+     "severe abdominal pains",
+     "massive infection in Paul's abdomen"
+    ],
+    "analysis": "Johnson breached by leaving the clamp and then failing to correct it or warn Paul. The clamp caused the pain and massive infection, so he is liable for those injuries.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dr. Johnson – misrepresentation, concealment and failure to disclose",
+    "rule": "Fraud requires a false representation of material fact, scienter, intent to induce reliance, justifiable reliance and damages; a fiduciary such as a physician has a duty to disclose material facts. Concealment can also toll the limitations period.",
+    "keyFacts": [
+     "Dr. Johnson told Paul that there were no problems with the surgery and assured him that he would not have any issues with his abdomen in the future",
+     "Dr. Johnson knew that one of the surgical clamps had been left inside"
+    ],
+    "analysis": "Johnson knowingly lied about a material fact and breached his duty to disclose; Paul relied by not seeking earlier care, so fraud or fraudulent concealment is a strong claim supporting punitive damages and tolling of the limitations period.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dr. Johnson – battery / lack of informed consent",
+    "rule": "Battery requires an intentional harmful or offensive contact; a physician who exceeds the scope of consent or fails to disclose material risks may be liable for battery or negligent nondisclosure.",
+    "keyFacts": [
+     "Dr. Johnson knew ... would likely cause future problems",
+     "Paul experienced severe abdominal pains"
+    ],
+    "analysis": "Johnson's contact during surgery was consented to and he did not intend harm, so battery is weak; the nondisclosure is better handled as fraud or negligence.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Causation for later injuries (infection and lung damage) and subsequent medical negligence",
+    "rule": "An original tortfeasor is liable for foreseeable aggravation of the injury, including harm from subsequent negligent medical treatment (rescuer/treatment doctrine), unless the later negligence is extraordinary.",
+    "keyFacts": [
+     "The old surgical clamp caused a massive infection in Paul's abdomen",
+     "his lungs had been permanently damaged by a post-surgery pulmonary embolism",
+     "Valley View Hospital's nurses should have discovered the embolism two days earlier"
+    ],
+    "analysis": "Johnson and Aspen caused the infection and are also likely liable for the embolism/lung damage because the corrective surgery and ordinary hospital negligence are foreseeable results of the retained clamp.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Valley View Hospital – nurses' negligence and vicarious liability",
+    "rule": "A hospital is vicariously liable for negligence of its nurses and staff within the scope of employment; negligence requires a professional-standard duty, breach, but-for and proximate causation.",
+    "keyFacts": [
+     "Valley View Hospital's nurses should have discovered the embolism two days earlier than they did",
+     "if they had, his lungs would not have been damaged"
+    ],
+    "analysis": "The nurses breached the standard of care and the delay caused permanent lung damage, so Valley View is liable for that harm but not for the infection from the clamp or Dr. Norman's surgery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Valley View – Dr. Norman and the emergency surgery",
+    "rule": "A physician who treats competently is not liable; a hospital is liable only for negligent care.",
+    "keyFacts": [
+     "Dr. Norman immediately performed emergency abdominal surgery and removed an old surgical clamp",
+     "The old surgical clamp caused a massive infection"
+    ],
+    "analysis": "No negligence by Norman or Valley View in the emergency surgery is indicated; the infection is attributable to the clamp, not Valley View.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages, apportionment among tortfeasors, and defenses",
+    "rule": "Plaintiff may recover general (pain and suffering) and special (medical expenses, lost earnings) damages, plus punitive damages for malice or fraud. Successive tortfeasors causing an indivisible injury are jointly and severally liable for it; California limits several liability for noneconomic damages by fault. Plaintiff's comparative negligence and failure to mitigate reduce recovery.",
+    "keyFacts": [
+     "permanently damaged",
+     "Paul went to the emergency room"
+    ],
+    "analysis": "Paul can recover for the infection, pain, surgery, and lung damage, with Aspen and Johnson liable for all of it and Valley View only for the lung damage. Paul was not at fault and promptly sought care, so comparative negligence and avoidable-consequences defenses fail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Facts do not say whether Johnson was an Aspen employee or independent contractor. Check Answer A's independent-contractor analysis and Answer B's treatment of fraud versus negligence."
+ }
+]

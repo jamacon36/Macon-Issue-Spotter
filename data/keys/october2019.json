@@ -1,0 +1,765 @@
+[
+ {
+  "id": "october2019-q1",
+  "issues": [
+   {
+    "name": "Larceny of the jewelry",
+    "rule": "Larceny is the trespassory taking and carrying away of the personal property of another with intent to permanently deprive; custody (as opposed to possession) by an employee does not defeat trespass.",
+    "keyFacts": [
+     "Daniels secretly removed jewelry from the home and sold it for drugs",
+     "Nan did not notice"
+    ],
+    "analysis": "Secretly taking Nan's jewelry and selling it shows a taking without consent and intent to permanently deprive; larceny is clearly made out.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Embezzlement vs. larceny (entrustment)",
+    "rule": "Embezzlement is the fraudulent conversion of property already lawfully possessed by the defendant by virtue of a trust relationship; mere access or custody is not possession.",
+    "keyFacts": [
+     "Daniels was a hired caregiver with daily visits",
+     "secretly removed jewelry from the home"
+    ],
+    "analysis": "The jewelry was not entrusted to Daniels (she had mere access), so larceny, not embezzlement, is the proper charge; in California these are consolidated as theft.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Burglary (entry with intent to steal)",
+    "rule": "Common law burglary requires a breaking and entering of the dwelling of another at night with intent to commit a felony; modern/California burglary is entry into a structure with intent to commit theft or any felony, and consent to enter is not a defense in California where entry is with felonious intent (except for persons with an unconditional possessory right to enter).",
+    "keyFacts": [
+     "Daniels went to work at Nan's",
+     "secretly removed jewelry from the home"
+    ],
+    "analysis": "At common law there is no burglary because entry was permitted and in daytime; in California, if she entered with intent to steal, burglary is possible, but nothing shows intent at entry (formed later).",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Theft by false pretenses / larceny by trick \u2013 the $1,000",
+    "rule": "False pretenses is obtaining title to property by a knowingly false representation of past or existing fact with intent to defraud, victim relying on it. Larceny by trick is obtaining mere possession by fraud with intent to steal. Where title passes, it is false pretenses.",
+    "keyFacts": [
+     "Daniels told Nan that she had to quit and find another job because she had to make money quickly to pay past due bills for a previous lifesaving medical treatment",
+     "Unaware that the story was not true, Nan gave Daniels $1,000",
+     "Daniels used the $1,000 and went on a three-day drug binge"
+    ],
+    "analysis": "The medical-bills story was a false statement of present fact, Nan relied and gave title to the $1,000 outright, so false pretenses is the charge (also theft by false pretense in California). Intent to defraud shown by use for drugs.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "False pretenses / receipt in selling the jewelry",
+    "rule": "Selling stolen property to innocent buyers can constitute false pretenses if the seller falsely represents good title; but a thief cannot also be convicted of receiving what she stole.",
+    "keyFacts": [
+     "secretly removed jewelry from the home and sold it for drugs"
+    ],
+    "analysis": "Additional false pretenses charge is possible but duplicative of larceny and rests on facts not given about representations of title.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Homicide by omission \u2013 duty to act",
+    "rule": "Criminal liability for failure to act requires a legal duty (statute, contract, relationship, voluntary assumption of care, creating the peril) and the ability to perform.",
+    "keyFacts": [
+     "Smith hired Debra Daniels to take care of her grandmother, Nan",
+     "Smith told Daniels that this task was very important because Nan had previously ... almost died",
+     "she did not go to work, nor did she inform Nan or Smith"
+    ],
+    "analysis": "Daniels had a contractual duty and had assumed care of a dependent adult, and knew the specific danger, so her failure to prepare the pills is an omission supporting homicide liability.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation \u2013 actual and proximate (Nan's own overdose)",
+    "rule": "Defendant's act or omission must be a but-for cause and a proximate cause; a victim's foreseeable conduct is a dependent intervening cause that does not break the chain.",
+    "keyFacts": [
+     "Nan had previously gotten confused, taken the wrong number of pills",
+     "When Daniels failed to go to work and place the correct dosage ... Nan took too many pills",
+     "overdosed on her medication and died"
+    ],
+    "analysis": "But for Daniels's absence the pills would have been set out correctly; Nan's confusion was exactly the foreseeable risk Daniels was told to guard against, so causation is satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder \u2013 implied malice (depraved heart)",
+    "rule": "Murder requires malice: intent to kill, intent to inflict great bodily harm, wanton disregard for life (conscious disregard of a high risk of death), or felony murder.",
+    "keyFacts": [
+     "Daniels did not go to work, nor did she inform Nan or Smith",
+     "this task was very important because Nan had ... almost died",
+     "regularly needed money to buy drugs"
+    ],
+    "analysis": "No intent to kill; the State will argue depraved heart because she knew the risk, but absent proof she subjectively appreciated a high probability of death, this looks more like gross negligence than malice. Close call, with involuntary manslaughter the more likely result.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder",
+    "rule": "Killing in the perpetration of an inherently dangerous or enumerated felony is murder; the killing must be causally related to and during the felony.",
+    "keyFacts": [
+     "Daniels used the $1,000 and went on a three-day drug binge",
+     "false pretenses to obtain $1,000"
+    ],
+    "analysis": "False pretenses and larceny are not inherently dangerous or enumerated felonies, and the death was not in furtherance of them, so felony murder does not apply.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Degree of murder (first vs. second)",
+    "rule": "First-degree murder requires premeditation and deliberation or an enumerated felony; other malicious killings are second degree.",
+    "keyFacts": [
+     "she did not go to work",
+     "no intent to harm Nan"
+    ],
+    "analysis": "There was no premeditated plan to kill, so at most second-degree murder.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Involuntary manslaughter (criminal negligence / unlawful act)",
+    "rule": "Involuntary manslaughter is an unintentional killing by criminal (gross) negligence or during an unlawful act not amounting to a felony (misdemeanor-manslaughter, where recognized).",
+    "keyFacts": [
+     "Daniels ... after ingesting a large quantity of narcotics",
+     "did not go to work ... nor did she inform Nan or Smith",
+     "Nan took too many pills, overdosed on her medication and died"
+    ],
+    "analysis": "Abandoning a dependent adult whose life depended on her, after being warned, is gross negligence; involuntary manslaughter is the most likely homicide conviction.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Voluntary intoxication / addiction defense",
+    "rule": "Voluntary intoxication may negate specific intent (larceny, false pretenses) and, in California, express malice, but not general intent or implied malice/recklessness; addiction does not make intoxication involuntary.",
+    "keyFacts": [
+     "Daniels was a drug addict who regularly needed money to buy drugs",
+     "ingesting a large quantity of narcotics",
+     "she did not go to work"
+    ],
+    "analysis": "The intent to steal was clearly formed for drug money and she functioned competently; the defense likely fails for theft crimes and cannot negate recklessness/negligence for homicide.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Elder / dependent adult abuse and neglect",
+    "rule": "California Pen. Code 368 punishes theft or embezzlement from, and willful neglect or endangering of, an elder or dependent adult by a caretaker.",
+    "keyFacts": [
+     "hired Debra Daniels to take care of her grandmother, Nan",
+     "Nan was dependent on the pills dispenser"
+    ],
+    "analysis": "As a paid caretaker who stole from and abandoned a dependent adult, Daniels is also chargeable with elder abuse enhancements.",
+    "foundIn": [],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check: 'Nan' may not be statutorily 'dependent' but is elderly. Student A concluded no involuntary manslaughter but then argued recklessness; B mislabeled names (Debra/Jenn). Verify whether California-specific burglary rule is expected."
+ },
+ {
+  "id": "october2019-q2",
+  "issues": [
+   {
+    "name": "Governing law \u2013 Louis (UCC Article 2, goods)",
+    "rule": "UCC Article 2 governs contracts for the sale of goods (movable tangible things); common law governs services.",
+    "keyFacts": [
+     "wanting to buy some exotic ferns and unusual ornamental trees",
+     "Ella's Garden ... landscaping service and nursery"
+    ],
+    "analysis": "Ferns and trees are goods; Ella is a merchant, so the UCC applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation \u2013 offer, acceptance, consideration (Ella-Louis)",
+    "rule": "A price quote that is definite and communicated with intent to be bound is an offer that may be accepted; acceptance by any reasonable means forms a contract, supported by consideration.",
+    "keyFacts": [
+     "Ella took the call, checked her price list, and informed Louis that she would sell him the ferns and trees for $5,000",
+     "Louis excitedly agreed"
+    ],
+    "analysis": "Ella's quote is an offer (a specific quote on identified goods) and Louis's agreement is acceptance; a contract at $5,000 was formed before Ella discovered her mistake.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds (UCC 2-201)",
+    "rule": "A contract for goods of $500 or more requires a signed writing, subject to exceptions including goods for which payment has been made and accepted or goods received and accepted, specially manufactured goods, admission, and merchant's confirmation.",
+    "keyFacts": [
+     "informed Louis that she would sell him ... for $5,000 [oral phone call]",
+     "gave her $1,000 in cash",
+     "As Louis loaded his truck"
+    ],
+    "analysis": "The oral $5,000 contract falls within the statute, but Louis's $1,000 payment accepted by Ella and his taking possession of goods satisfy the part-performance exception, at least to the extent of payment accepted/goods received; Ella's statute of frauds defense likely fails or is limited to the unpaid portion.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Unilateral mistake \u2013 Ella's outdated price list",
+    "rule": "A unilateral mistake permits avoidance if it concerns a basic assumption, has a material effect, the mistaken party does not bear the risk, and the other party knew or had reason to know of the mistake or enforcement would be unconscionable; a negligent mistake, or one not palpable, ordinarily does not excuse.",
+    "keyFacts": [
+     "Ella realized that she had inadvertently referred to an outdated price list",
+     "the actual price should have been $6,000",
+     "Louis excitedly agreed",
+     "she could not sell him the ferns and trees for anything less than $6,000"
+    ],
+    "analysis": "A $1,000 (about 17%) clerical error is not so great that Louis must have known; Ella bore the risk by her own carelessness and enforcement is not unconscionable, so Ella likely cannot rescind and Louis is likely to prevail, though Louis's excitement is a point for Ella.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ella's demand for $6,000 \u2013 modification (UCC 2-209)",
+    "rule": "Under the UCC a modification needs no consideration but must meet good faith and requires the other party's assent; a unilateral demand for more binds only if the other agrees.",
+    "keyFacts": [
+     "Ella told Louis that she could not sell him the ferns and trees for anything less than $6,000",
+     "Louis loaded his truck"
+    ],
+    "analysis": "Louis has not agreed to $6,000 and need not; Ella's demand is not a binding modification and her refusal to perform at $5,000 would be a breach.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Louis's remedies and tender of payment",
+    "rule": "For seller's breach, buyer may obtain specific performance/replevin for unique goods, cover, or damages (UCC 2-711 to 2-716); payment by check is acceptable unless seller demands cash within reasonable time (UCC 2-511).",
+    "keyFacts": [
+     "gave her $1,000 in cash, and told her that he would give her a check for the rest",
+     "exotic ferns and unusual ornamental trees"
+    ],
+    "analysis": "Louis can demand delivery of the plants (they are unusual, so specific performance/replevin is plausible) or cover damages; he must be ready to pay the balance, and Ella could have insisted on cash.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Governing law \u2013 Sarah contract (predominant purpose test)",
+    "rule": "For mixed goods-services contracts, courts apply the predominant purpose test to decide whether the UCC or common law applies.",
+    "keyFacts": [
+     "redo Sarah's landscaping",
+     "weeding and trimming, walkway placement, and the purchase and installation of numerous plantings",
+     "$7,700 price"
+    ],
+    "analysis": "The contract is largely services (labor), so common law probably governs, though the plantings make the UCC arguable; the modification result differs under each.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Validity of the $7,700 contract and statute of frauds",
+    "rule": "A comprehensive written contract with agreed price and scope is enforceable and satisfies the statute of frauds.",
+    "keyFacts": [
+     "comprehensive written contract",
+     "specified a $7,700 price"
+    ],
+    "analysis": "The $7,700 contract is valid and enforceable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Sarah's frustration of purpose (wedding cancelled)",
+    "rule": "Frustration of purpose discharges duties where a supervening event destroys a principal purpose of the contract that was known to both parties, without fault and not allocated to the frustrated party by the contract.",
+    "keyFacts": [
+     "hired Ella's Garden to redo Sarah's landscaping specifically in preparation for the wedding",
+     "The comprehensive written contract, which does not mention the wedding",
+     "Sarah's daughter cancelled the wedding"
+    ],
+    "analysis": "The wedding is not mentioned in the written contract and nothing shows Ella knew it was the principal purpose; weddings are also cancelled with some foreseeability and the landscaping retains value. Defense likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Impossibility / impracticability",
+    "rule": "Duties are discharged by impossibility or impracticability only where performance becomes objectively impossible or extremely burdensome; a change in one party's wants does not suffice.",
+    "keyFacts": [
+     "Sarah no longer wants Ella's Garden to do the work"
+    ],
+    "analysis": "Performance by Ella remains entirely possible, so there is no discharge.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Modification to $5,500 \u2013 consideration (common law pre-existing duty rule)",
+    "rule": "At common law a modification of an executory contract requires new consideration; promising to do what one is already bound to do is not consideration, except Restatement 89 where unanticipated circumstances make the modification fair and equitable.",
+    "keyFacts": [
+     "Sarah told Ella that she would go forward with the contract ... if Ella would do the work for significantly less money, that is $5,500",
+     "Ella very reluctantly agreed"
+    ],
+    "analysis": "Ella gave nothing new for the price cut (she merely promised the same work); the wedding cancellation affects Sarah, not Ella's burdens, so the Restatement 89 exception does not apply and the modification fails at common law; Sarah owes $7,700.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Modification to $5,500 \u2013 UCC good faith / economic duress",
+    "rule": "Under UCC 2-209 a modification needs no consideration if made in good faith; modification extracted by threatening to breach in bad faith, or by economic duress (wrongful threat leaving no reasonable alternative), is voidable.",
+    "keyFacts": [
+     "Sarah no longer wants Ella's Garden to do the work",
+     "Ella very reluctantly agreed"
+    ],
+    "analysis": "If the UCC applied, the modification might bind since no consideration is needed, but Sarah's threat to walk away from a binding contract and Ella's reluctance raise good-faith/duress issues; likely voidable.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Accord and satisfaction / mutual rescission and new contract",
+    "rule": "Parties to an executory contract may mutually rescind and enter a new agreement; consideration exists where each gives up rights. An accord requires a good faith dispute.",
+    "keyFacts": [
+     "Sarah told Ella that she would go forward with the contract, though, if Ella would do the work for significantly less money",
+     "Ella very reluctantly agreed"
+    ],
+    "analysis": "Both parties had unperformed duties, so Ella could argue mutual rescission and a new contract at $5,500, but there was no bona fide dispute and no real new bargain; this argument is weak.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Sarah's anticipatory repudiation and Ella's remedies",
+    "rule": "A clear refusal to perform unless the contract price is changed is a repudiation, allowing the non-breaching party to suspend, await performance, or sue for expectation damages (contract price less cost saved), subject to mitigation; a lost-volume seller recovers lost profits despite resale.",
+    "keyFacts": [
+     "Sarah no longer wants Ella's Garden to do the work",
+     "Sarah told Ella that she would go forward ... if ... $5,500"
+    ],
+    "analysis": "Sarah repudiated; Ella may demand performance and sue for lost profit on the $7,700 contract (price less avoided costs), since she could have taken other jobs, though if the $5,500 modification fails Sarah may simply stand on the original duty to pay.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Constructive conditions of exchange",
+    "rule": "Where performance takes time, the longer performance (Ella's work) precedes the shorter (Sarah's payment) as a constructive condition.",
+    "keyFacts": [
+     "extensive work including weeding and trimming, walkway placement"
+    ],
+    "analysis": "Ella must perform before payment is due, so Sarah's payment duty has not matured.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "B misstates Sarah's price as $7,500 and treats Ella's demand as a 'modification'. A's conclusion on UCC vs common law outcome should be checked. Louis-Ella SOF analysis: confirm students recognised the partial-payment exception applies only to goods paid for and accepted."
+ },
+ {
+  "id": "october2019-q3",
+  "issues": [
+   {
+    "name": "Marilyn v. Ken \u2013 private nuisance",
+    "rule": "Private nuisance is a substantial and unreasonable interference with plaintiff's use and enjoyment of land she possesses; substantial means offensive to a normal person in the community; unreasonable means the gravity of harm outweighs the utility of defendant's conduct.",
+    "keyFacts": [
+     "The dogs do make a lot of noise and create a certain amount of stench",
+     "excrement that litters the land",
+     "no one is assigned to remove the dog waste",
+     "noxious smell ... swarms of flies"
+    ],
+    "analysis": "Noise, stench, and flies would offend a normal person, and Ken could cheaply cut the harm (waste removal, sound barriers), so the interference is likely unreasonable despite the facility's utility and 100 jobs.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Hypersensitive plaintiff / use (cats)",
+    "rule": "Nuisance is judged by an objective, normal-person standard; abnormal sensitivity of the plaintiff or her use (such as ten sensitive cats) is not considered.",
+    "keyFacts": [
+     "Her cats developed nervous disorders due to the constant barking",
+     "Marilyn owns ten Norwegian Forest cats",
+     "The house contains special features for cats"
+    ],
+    "analysis": "The cats' disorders will not alone establish a nuisance; the stench and flies (affecting people) are what show an objective interference.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Public nuisance and special injury",
+    "rule": "A public nuisance is an unreasonable interference with a right common to the public; a private party may sue only for harm different in kind from that suffered by the public.",
+    "keyFacts": [
+     "the suburbs expanded out towards his property",
+     "the cats developed nervous disorders"
+    ],
+    "analysis": "Claim of public nuisance is weak: odor and noise affect the neighborhood generally and Marilyn's special injury (cats) is arguably different in kind; private nuisance is the better claim.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ken's defenses \u2013 coming to the nuisance and utility of conduct",
+    "rule": "That plaintiff came to the nuisance is not a complete defense but is a factor in the reasonableness balancing and remedies; Ken's location, priority in time, social utility and lack of fault are weighed (California Right to Farm statute applies only to agricultural operations).",
+    "keyFacts": [
+     "found a large tract of land far beyond the reaches of the city",
+     "In the time since Ken built his facility, the suburbs expanded out towards his property",
+     "Marilyn found a perfect lot next to Ken's property",
+     "employs 100 people full time"
+    ],
+    "analysis": "Ken was there first and the suburbs came to him, which weighs on his side and against injunctive relief, but Ken can still reduce the harm cheaply, so Marilyn likely prevails on liability with limited remedy.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedies for nuisance \u2013 damages and injunction",
+    "rule": "Remedies are damages (past and permanent) and an injunction where legal remedy is inadequate, subject to balancing of hardships and public interest; courts may tailor relief (abatement measures) rather than shut the business.",
+    "keyFacts": [
+     "Marilyn's complaints to Ken failed to resolve matters",
+     "Ken's business now employs 100 people"
+    ],
+    "analysis": "A full injunction closing the facility is unlikely given the hardship; damages and an order to clean up waste and add sound-proofing are likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Marilyn v. Ken \u2013 negligence",
+    "rule": "Negligence requires duty, breach, causation and actual damages; a nuisance may be proven by negligent or intentional conduct.",
+    "keyFacts": [
+     "no one is assigned to remove the dog waste",
+     "Her cats developed nervous disorders"
+    ],
+    "analysis": "Ken's failure to manage waste and noise could be breach, and damage to the cats (property) could be actual harm; largely duplicates the nuisance claim.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ken v. Marilyn \u2013 trespass to land (water spray)",
+    "rule": "Trespass to land is an intentional entry onto land possessed by another, including by causing a substance to enter; liability does not require harm (nominal damages) and does not require knowledge of ownership.",
+    "keyFacts": [
+     "Marilyn sprays it with water from her hose",
+     "uses the water stream to move the piles of excrement away from the fence",
+     "sprayed air freshener on the dogs through the fence"
+    ],
+    "analysis": "Intentionally directing water and spray across the boundary is a trespass, though damages are nominal absent harm; her defenses are weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ken v. Marilyn \u2013 trespass to chattel (spraying the dogs)",
+    "rule": "Trespass to chattel is intentional interference with another's personal property causing dispossession, impairment of condition, quality or value, or actual harm.",
+    "keyFacts": [
+     "Whenever one of Ken's dogs gets close ... Marilyn sprays it with water from her hose",
+     "sprayed air freshener on the dogs"
+    ],
+    "analysis": "Spraying with water was intentional contact but did not cause demonstrable damage, so no liability for that; the air freshener caused deaths, which are damage.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Conversion of the two dogs",
+    "rule": "Conversion is an intentional exercise of dominion or control over chattel that so seriously interferes with the owner's rights that the defendant should pay full value; destruction of the chattel qualifies.",
+    "keyFacts": [
+     "sprayed air freshener on the dogs through the fence and unfortunately, two of the dogs died",
+     "most desirable puppies in the country"
+    ],
+    "analysis": "Killing two valuable dogs is a serious interference, so conversion (fair market value) lies as intentional spraying meets the intent element, even though death was unintended.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Marilyn's defenses \u2013 defense of property and self-help abatement of nuisance",
+    "rule": "One may use reasonable, non-deadly force to protect property from an immediate threat; self-help abatement requires notice and demand, reasonable means, no breach of the peace and no more than necessary, and damage to the nuisance-creator's property is excessive if disproportionate.",
+    "keyFacts": [
+     "When Marilyn's complaints to Ken failed to resolve matters, she independently tried several measures to create a buffer zone",
+     "Whenever one of Ken's dogs gets close to Ken's wire fence",
+     "sprayed air freshener on the dogs"
+    ],
+    "analysis": "The dogs were on Ken's side of the fence and not entering her land, so defense of property is weak; abatement might excuse the hose use after notice, but spraying dogs with air freshener is unreasonable and does not excuse the deaths, and lawful remedy was available by suit.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ken's damages and punitive damages; Ken's negligence claim",
+    "rule": "Conversion damages are the fair market value of the property; trespass to land permits nominal damages; punitive damages require malice, oppression or fraud; negligence claim limited by economic-loss rules.",
+    "keyFacts": [
+     "the most desirable puppies in the country",
+     "two of the dogs died"
+    ],
+    "analysis": "Ken recovers fair market value of the two dogs (possibly high, as breeding stock) and nominal damages for trespass; punitive damages unlikely; negligence is redundant.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Verify: whether 'special sensitivity' is intended issue (cats); the sequence of who came to the nuisance. Student B's 'negligence' sections claim no damages which seems wrong (death of dogs is property loss). Confirm Right to Farm Act is not expected."
+ },
+ {
+  "id": "october2019-q4",
+  "issues": [
+   {
+    "name": "Dara \u2013 conspiracy to commit burglary (and larceny)",
+    "rule": "Conspiracy is an agreement between two or more persons to commit a crime, with specific intent to achieve its objective, plus an overt act in modern/California law.",
+    "keyFacts": [
+     "Dara would wait in the getaway car while Don broke in and stole electronics",
+     "Dara and Don chose to break into Ned's home",
+     "Dara parked outside and Don crept toward the house"
+    ],
+    "analysis": "The pattern of prior burglaries and joint action on this night shows an agreement to burgle Ned's home; parking and approaching are overt acts, so conspiracy is established (conspiracy does not merge with attempt).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dara \u2013 accomplice liability (getaway driver)",
+    "rule": "An accomplice is one who, with intent that the offense be committed, aids, abets or encourages the principal; liable for the target crime and its natural and probable consequences. Accessory before the fact / principal in the second degree is covered.",
+    "keyFacts": [
+     "Dara would wait in the getaway car while Don broke in",
+     "Dara parked outside",
+     "Neither was armed during the break-ins"
+    ],
+    "analysis": "Driving Don to the target and waiting as the getaway driver is aiding with intent, so Dara is liable as an accomplice to Don's attempted burglary.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Pinkerton liability for Don's crimes",
+    "rule": "A conspirator is liable for crimes of co-conspirators committed in furtherance of the conspiracy that are reasonably foreseeable.",
+    "keyFacts": [
+     "Dara and Don chose to break into Ned's home",
+     "Don crept toward the house"
+    ],
+    "analysis": "Don's attempted burglary and attempted larceny are in furtherance of the conspiracy so Dara is liable for them; Don's death, however, was caused by the victim and not in furtherance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Attempted burglary \u2013 substantial step and specific intent",
+    "rule": "Attempt requires specific intent to commit the crime and a direct act toward it beyond mere preparation (substantial step, or 'last act' / 'dangerous proximity'); burglary is entering a structure with intent to commit a felony or theft inside (common law: breaking and entering the dwelling of another at night).",
+    "keyFacts": [
+     "Don crept toward the house",
+     "Ned saw that Don was right outside his dining room window",
+     "Don had not yet touched Ned's house when Ned shot him",
+     "Don broke in and stole electronics (pattern)"
+    ],
+    "analysis": "Intent to burgle is shown by the pattern and approach at night; approaching and standing at a window is probably a substantial step though close to preparation since Don had not touched the house. Dara, as accomplice/conspirator, is liable if the attempt is made out; the best close call is preparation versus perpetration.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Attempted larceny of electronics",
+    "rule": "Attempted larceny requires specific intent to take another's property and a substantial step; it merges in or is a lesser version of the burglary attempt.",
+    "keyFacts": [
+     "thousands of dollars' worth of electronics had been taken",
+     "Don broke in and stole electronics"
+    ],
+    "analysis": "Largely duplicative of attempted burglary; if charged, merges.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Dara's defenses to the attempt (impossibility, abandonment, preparation)",
+    "rule": "Factual impossibility is no defense to attempt; abandonment is no defense once the attempt is complete; mere preparation is a defense only if no substantial step has occurred.",
+    "keyFacts": [
+     "Don had not yet touched Ned's house when Ned shot him",
+     "Ned's alarm activated"
+    ],
+    "analysis": "Ned's interruption and the unachieved entry do not defeat attempt liability; Dara did not withdraw.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Dara \u2013 felony murder for Don's death (killing by victim)",
+    "rule": "Under the majority agency theory (and Cal. Washington), a felon is not liable for felony murder when a victim or bystander kills a co-felon, because the killer is not acting for the felons; the minority proximate cause theory would hold felons liable for foreseeable deaths. Attempted burglary is an enumerated felony for first-degree felony murder.",
+    "keyFacts": [
+     "Don crept toward the house",
+     "Ned ... shot Don through the window, killing him",
+     "Dara parked outside"
+    ],
+    "analysis": "The victim lawfully or unlawfully killed the co-felon, not a co-felon and not as Dara's agent, so under the majority/California rule felony murder does not apply to Dara; minority proximate-cause jurisdictions could convict. Notably Don's death was not in furtherance and Ned's act was an unforeseeable murderous reaction.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dara \u2013 other homicide theories (depraved heart, involuntary manslaughter) and causation",
+    "rule": "Implied-malice murder requires conscious disregard for life by the defendant; manslaughter requires criminal negligence or an unlawful act; the defendant's act must be the actual and proximate cause of death.",
+    "keyFacts": [
+     "Neither was armed during the break-ins",
+     "no one had been injured",
+     "Ned shot Don"
+    ],
+    "analysis": "Dara's conduct (unarmed, nonviolent burglaries, homes empty) does not show disregard for Don's life, and Ned's intentional killing is an intervening cause, so murder or manslaughter liability for Dara is weak.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ned \u2013 murder: intent to kill (express malice) and premeditation",
+    "rule": "Murder is the unlawful killing of a human with malice aforethought; express malice is intent to kill (inferred from using a deadly weapon); first degree requires premeditation and deliberation.",
+    "keyFacts": [
+     "Ned began looking forward to the prospect of shooting an intruder",
+     "He also placed loaded guns ... in every room",
+     "Ned entered the dining room, picked up a shotgun, and shot Don through the window"
+    ],
+    "analysis": "Shooting a shotgun at Don through a window, after planning and looking forward to shooting an intruder, is intent to kill with premeditation, supporting first-degree murder unless justified.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ned \u2013 defense of habitation / property (deadly force)",
+    "rule": "Deadly force is never permitted to protect property alone; defense of habitation allows deadly force only if the occupant reasonably believes the intruder is about to commit a forcible felony or threaten serious harm to occupants (California Pen. Code 198.5 presumes fear only when an intruder has unlawfully and forcibly entered the residence).",
+    "keyFacts": [
+     "Don had not yet touched Ned's house when Ned shot him",
+     "Ned saw that Don was right outside his dining room window",
+     "break-ins had occurred when the homeowners were not present, and that no one had been injured",
+     "Neither was armed"
+    ],
+    "analysis": "Don was outside, had not entered or touched the house, was unarmed, and past burglars had never hurt anyone; deadly force was not justified, and Ned's eagerness to shoot undermines reasonableness. Some jurisdictions do favor homeowners, but not here.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ned \u2013 self-defense / defense of others",
+    "rule": "Deadly force in self-defense requires a reasonable belief in imminent unlawful deadly force or great bodily harm; mere presence outside the house is not enough.",
+    "keyFacts": [
+     "Ned was inside his home",
+     "Don was right outside his dining room window",
+     "Neither was armed"
+    ],
+    "analysis": "No facts show any threat to Ned, so the defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ned \u2013 crime prevention / citizen's arrest / public authority",
+    "rule": "Deadly force may be used to prevent only forcible, violent felonies (or to arrest a fleeing felon after proper warning) when reasonably necessary; burglary of an empty dwelling is not forcible/violent unless occupants are endangered.",
+    "keyFacts": [
+     "break-ins had occurred when the homeowners were not present",
+     "Ned made no attempt to arrest or warn"
+    ],
+    "analysis": "Burglary of homes when no one was present and nonviolent history suggest no justification; Ned made no warning or arrest effort.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ned \u2013 mitigation: heat of passion and imperfect self-defense",
+    "rule": "Murder is reduced to voluntary manslaughter by heat of passion on adequate provocation, or (California) by an honest but unreasonable belief in the need for self-defense.",
+    "keyFacts": [
+     "Ned became obsessed with preventing his home from being broken into",
+     "Ned began looking forward to the prospect of shooting an intruder"
+    ],
+    "analysis": "His obsession and fear may support an honest but unreasonable belief for imperfect self-defense, but Ned was calm and prepared (he looked forward to shooting), not provoked in passion; mitigation is possible but unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check: California Penal Code 198.5 and Washington/Billa rule on killing of co-felon. Student A garbled impossibility doctrine; B treats imperfect self-defense through 'good faith belief'. Confirm the question intends first-degree vs second-degree emphasis."
+ }
+]

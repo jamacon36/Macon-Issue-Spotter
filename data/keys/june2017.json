@@ -1,0 +1,625 @@
+[
+ {
+  "id": "june2017-q1",
+  "issues": [
+   {
+    "name": "UCC Article 2 governs; merchant status",
+    "rule": "Article 2 governs sales of goods; merchant rules apply to those who deal in goods of the kind or hold themselves out as having special knowledge.",
+    "keyFacts": [
+     "old-looking football seemingly autographed by Bart Starr",
+     "bought for $100 at a flea market",
+     "Mary is a football fan",
+     "Dan and Ed are friends"
+    ],
+    "analysis": "A football is a good, so the UCC applies. None of the three is a merchant, so no merchant-only rules.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Formation of Mary-Dan contract",
+    "rule": "Contract needs offer, acceptance and consideration; under UCC 2-204 a contract can be made by any manner showing agreement.",
+    "keyFacts": [
+     "Dan offered Mary $10,000 for the ball",
+     "Mary wrote 'Dan agrees to buy Mary's Bart Starr football for $10,000 on or before December 1, 2016'",
+     "Dan signed"
+    ],
+    "analysis": "Dan's offer was accepted by Mary and the napkin states the terms; exchange of goods for price is consideration. A contract exists.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds \u2013 UCC 2-201",
+    "rule": "A sale of goods for $500 or more needs a writing indicating a contract, signed by the party against whom enforcement is sought, with quantity.",
+    "keyFacts": [
+     "$10,000 price",
+     "napkin signed in pen by Dan but not by Mary",
+     "Dan and Ed both signed the assignment/assumption document"
+    ],
+    "analysis": "Mary's suit is against Dan and Ed, who both signed (Dan the napkin and the later document, Ed the assumption document), so the statute is satisfied; Mary's lack of signature is irrelevant.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assignment and delegation to Ed; liability of Dan and Ed",
+    "rule": "A contract can generally be assigned and duties delegated unless performance is personal or prohibited (UCC 2-210); the delegating party remains liable unless the obligee agrees to a novation; a promisor who assumes duties is liable to the obligee as an intended third-party beneficiary, and an assignee takes subject to defenses against the assignor.",
+    "keyFacts": [
+     "Dan hereby assigns all of his rights to buy Mary's football to Ed; Ed hereby assumes all of Dan's obligations",
+     "signed by Dan and Ed, one copy sent to Mary",
+     "payment of money is not personal"
+    ],
+    "analysis": "Valid assignment of Dan's right and delegation of payment duty to Ed; Ed is bound to Mary by assumption and Dan stays liable since Mary never released him. Mary can sue both.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach \u2013 failure to pay by December 1",
+    "rule": "Buyer's failure to pay on time is a breach; payment and delivery are concurrent conditions, and the seller must show ability and willingness to tender. Lack of funds is no excuse.",
+    "keyFacts": [
+     "Dan was unable to come up with $10,000",
+     "Mary sued on December 2, 2016",
+     "Dan and Ed no longer wanted the ball"
+    ],
+    "analysis": "Neither Dan nor Ed paid by December 1, so there is breach absent a valid defense; Mary must show she was ready to tender the ball.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 mutual mistake",
+    "rule": "A contract is voidable by a party who was mistaken, along with the other party, about a basic assumption on which the contract was made that materially affects the exchange, unless the party seeking avoidance bears the risk of the mistake (conscious ignorance or allocation by the agreement).",
+    "keyFacts": [
+     "Mary and Dan both assumed it was a genuine autographed game ball used in 1967 Super Bowl",
+     "signature genuine but ball was a consumer product made after 2005",
+     "ball worth about $1,000 not $10,000",
+     "Mary bought it for $100 at a flea market; 'old-looking' and 'seemingly autographed'"
+    ],
+    "analysis": "Both parties shared a mistake on a basic assumption that made the deal ten times over its value, which favors rescission. Mary will argue Dan bore the risk (nothing warranted, sold as is/ 'seemingly') and conscious uncertainty; Ed, as assignee, takes subject to Dan's defense and shared the same mistake. A close call but likely rescission.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other defenses \u2013 frustration of purpose / misrepresentation / warranty",
+    "rule": "Frustration excuses a party where a supervening event destroys the principal purpose; the doctrine fits poorly with a mistake that existed at formation. Innocent misrepresentation or a description warranty (2-313) could also be raised.",
+    "keyFacts": [
+     "napkin only says 'Bart Starr football'",
+     "Mary only assumed the ball's history"
+    ],
+    "analysis": "Frustration is an imperfect fit (the mistake pre-dated the contract); no misrepresentation or warranty by Mary as to the game-ball status. Mutual mistake is the proper defense.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages \u2013 seller's remedy and from whom",
+    "rule": "Seller's damages for buyer's repudiation: contract price minus market price at time and place for tender (2-708(1)) or resale (2-706), plus incidental damages less expenses saved; action for the price only when goods cannot reasonably be resold (2-709); duty to mitigate. Dan and Ed are both liable.",
+    "keyFacts": [
+     "contract price $10,000",
+     "ball is worth about $1,000",
+     "Dan stays liable absent novation; Ed assumed the obligation"
+    ],
+    "analysis": "Mary would recover about $9,000 (price less $1,000 value) plus incidentals from Dan and Ed jointly, not the full $10,000 and not specific performance of the sale; if mistake succeeds she recovers nothing (perhaps restoration).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Answer A states damages as the full $10,000 and Answer B only from Ed; correct measure is price minus market and both Dan and Ed. Mutual-mistake outcome (risk allocation) is a close call."
+ },
+ {
+  "id": "june2017-q2",
+  "issues": [
+   {
+    "name": "Larceny \u2013 the cash",
+    "rule": "Larceny is trespassory taking and carrying away of personal property of another with intent to permanently deprive.",
+    "keyFacts": [
+     "Donna reached into the car and grabbed the purse",
+     "removed the cash from the wallet",
+     "threw the purse back into the car"
+    ],
+    "analysis": "Donna took and kept the cash without consent, intending to deprive permanently. Larceny of the cash is clear (except for the police-decoy consent issue).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larceny \u2013 the purse (no intent to permanently deprive)",
+    "rule": "Intent to permanently deprive is required; discarding or returning the item shows no such intent for the item itself.",
+    "keyFacts": [
+     "Donna threw the purse back into the car"
+    ],
+    "analysis": "Donna did not intend to keep the purse, so no larceny of the purse; only the cash is larceny.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Police decoy \u2013 consent and trespass; attempt",
+    "rule": "If the owner or police consent to the taking, the taking is not trespassory and larceny fails, though attempt remains (factual impossibility is no defense).",
+    "keyFacts": [
+     "Donna and Alice were not aware that the purse had been placed in the car by police officers as part of an undercover crime investigation",
+     "Officer Oscar observed everything"
+    ],
+    "analysis": "Placement by police may negate trespass (consent), so possible only attempted larceny; most courts treat a decoy offering mere opportunity as not consent. Close call.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Burglary / robbery",
+    "rule": "Common-law burglary requires breaking and entry of a dwelling of another at night with intent to commit a felony; modern statutes cover other structures; robbery requires taking from person or presence by force or fear.",
+    "keyFacts": [
+     "a parked car with its windows down",
+     "Donna reached into the car",
+     "no person present or force"
+    ],
+    "analysis": "A car is not a dwelling or structure under most statutes, no breaking, and no force or fear, so no burglary or robbery (some statutes cover vehicles).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Solicitation of Alice",
+    "rule": "Solicitation is asking or encouraging another to commit a crime with intent that the crime be committed; it merges into the completed offense or conspiracy.",
+    "keyFacts": [
+     "Donna said 'I want you to go to the corner and shout to me if you see a police officer coming'",
+     "Alice is twelve"
+    ],
+    "analysis": "Donna asked Alice to act as lookout for the larceny, intending the crime; solicitation is complete on asking. Merges if convicted of conspiracy or larceny.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Conspiracy (Donna and Alice)",
+    "rule": "Conspiracy is agreement between two or more persons to commit an unlawful act with intent, plus an overt act in some jurisdictions; MPC uses unilateral approach, common law requires two guilty minds.",
+    "keyFacts": [
+     "Alice said 'Look, Mom, there is a purse on the seat'",
+     "Alice walked to the corner and kept looking for police",
+     "Donna grabbed the purse"
+    ],
+    "analysis": "Implied agreement by conduct (Alice went to the corner), overt act by taking; but if Alice, a child, lacks capacity there may be no bilateral agreement; MPC unilateral approach would still reach Donna. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Donna's defense \u2013 entrapment",
+    "rule": "Entrapment: government inducement to commit a crime the defendant was not predisposed to commit; mere opportunity is not inducement.",
+    "keyFacts": [
+     "purse left on seat by police of an undercover investigation",
+     "Officer Oscar only observed"
+    ],
+    "analysis": "Police merely provided an opportunity and Donna acted readily (enlisting a lookout), showing predisposition; entrapment fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alice \u2013 accomplice liability (lookout)",
+    "rule": "An accomplice aids, abets or encourages with intent that the crime be committed; a lookout aids.",
+    "keyFacts": [
+     "Alice kept looking for police",
+     "she did not shout because no police appeared",
+     "Alice pointed out the purse"
+    ],
+    "analysis": "Alice served as lookout with apparent knowledge and intent, so accomplice to larceny of the cash; assistance need not succeed in the act (no warning was needed). Intent depends on what she understood.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alice \u2013 conspiracy and solicitation",
+    "rule": "Alice's remark about the purse is not a solicitation; any conspiracy depends on her agreement and capacity.",
+    "keyFacts": [
+     "'Look, Mom, there is a purse on the seat of that car'"
+    ],
+    "analysis": "Mere observation is not solicitation; conspiracy is arguable by implied agreement but weak given her age.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Alice's defense \u2013 infancy",
+    "rule": "At common law a child aged 7 to 14 is presumptively incapable of crime but the presumption can be rebutted by showing understanding of wrongfulness (Cal. Penal Code 26: clear proof).",
+    "keyFacts": [
+     "Alice is twelve-year-old",
+     "pointed out the purse and walked away to watch for police at mother's request"
+    ],
+    "analysis": "Rebuttable presumption: the state would argue she understood the wrongfulness from her pointing out the purse and keeping watch, but she acted at her mother's direction; arguable either way.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alice's other defenses \u2013 entrapment, parental coercion",
+    "rule": "Entrapment as above; duress requires threat; acting at a parent's direction is not itself a defense but bears on capacity.",
+    "keyFacts": [
+     "Alice acted at her mother's request",
+     "undercover police purse"
+    ],
+    "analysis": "Entrapment fails as to Alice as with Donna; no duress facts.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Neither answer discussed the police-decoy consent issue (trespass vs attempt). Check burglary conclusion for vehicles under modern statutes; B concluded burglary may be satisfied, which is doubtful."
+ },
+ {
+  "id": "june2017-q3",
+  "issues": [
+   {
+    "name": "Arson \u2013 malice",
+    "rule": "Common-law arson is the malicious burning of the dwelling of another; malice is intent to burn or reckless disregard of an obvious risk of fire.",
+    "keyFacts": [
+     "lit several firecrackers in his yard, and threw them at Heather's house",
+     "he wanted to wake her up to discuss",
+     "tools filled with gasoline stored in the wooden toolshed",
+     "Two of the firecrackers landed in the toolshed, setting it afire"
+    ],
+    "analysis": "Throwing lit firecrackers at a house with a wooden shed holding gasoline equipment shows reckless disregard of an obvious risk of fire, even though Tom only wanted to wake Heather; malice is likely (he used the hose, a mitigating fact).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Arson \u2013 dwelling or structure of another",
+    "rule": "Common law required a dwelling (including attached outbuildings/curtilage) of another; modern statutes cover any structure.",
+    "keyFacts": [
+     "wooden toolshed abutted Heather's house",
+     "Tom lives next door and does not own it"
+    ],
+    "analysis": "The shed abuts the house and falls within the curtilage/dwelling or modern structure definition, and it belongs to Heather, so the element is met.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Arson \u2013 'burning' requirement",
+    "rule": "Some actual burning (charring) of the structure is required; smoke or soot damage alone is insufficient, but any charring suffices.",
+    "keyFacts": [
+     "The inside of the toolshed suffered smoke damage",
+     "all items inside destroyed",
+     "Tom extinguished the fire before it spread",
+     "fire set the wooden shed afire"
+    ],
+    "analysis": "Key factual question: the shed was set afire, but only smoke damage is described and the contents (not the structure) were destroyed. If no charring of the structure, no arson; a wooden shed fire probably charred it, a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Attempted arson and lesser offenses",
+    "rule": "Attempt requires specific intent to commit the crime and a substantial step; alternative statutes punish reckless burning or malicious mischief.",
+    "keyFacts": [
+     "wanted to wake her up to discuss what he had seen",
+     "firecrackers thrown at a wooden house",
+     "Tom put out the fire"
+    ],
+    "analysis": "Attempt requires intent to burn, which Tom lacked (only wished to wake Heather), so attempted arson is weak; reckless burning or malicious mischief for the destroyed tools may fit better.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense \u2013 voluntary intoxication",
+    "rule": "Voluntary intoxication negates only specific intent; it is no defense to malice/recklessness crimes (arson is general intent or malice).",
+    "keyFacts": [
+     "took three pills, then four more, though box said no more than two every eight hours",
+     "never used Anxiety-Fix before",
+     "fell asleep, woke from nightmare"
+    ],
+    "analysis": "Tom's overdose was voluntary and arson requires only malice (reckless disregard), so intoxication is no defense (possibly relevant to attempt specific intent). He also acted purposefully, which undercuts incapacity.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 involuntary intoxication",
+    "rule": "Intoxication is involuntary if the substance is taken without knowledge of its intoxicating effect or under coercion; exceeding the dose is not involuntary, but unexpected effects of an unfamiliar medication may qualify.",
+    "keyFacts": [
+     "Anxiety-Fix is over-the-counter",
+     "never used before",
+     "instructions stated maximum two pills"
+    ],
+    "analysis": "Tom ignored label directions, so the intoxication is voluntary; involuntary-intoxication argument based on unfamiliar drug is weak.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 diminished capacity / emotional distress",
+    "rule": "Most jurisdictions limit mental-state defenses to insanity or specific-intent mens rea evidence; emotional upset is not a defense to a malice crime.",
+    "keyFacts": [
+     "saw Heather kissing another man",
+     "felt queasy",
+     "nightmare about Heather"
+    ],
+    "analysis": "Emotional distress and anxiety do not excuse arson; diminished capacity is generally unavailable for a general-intent/malice offense.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Heather \u2013 arson of her own dwelling for insurance",
+    "rule": "Common law allowed owners to burn their own property, but modern statutes criminalize burning one's own property with intent to defraud an insurer; arson requires a burning caused by the defendant.",
+    "keyFacts": [
+     "Heather had been having a hard time selling her house",
+     "her insurance would cover the loss",
+     "squirted flammable fluid on the windowsills of the house"
+    ],
+    "analysis": "No burning of the house resulted from Heather's act (the fire was put out), so completed arson of the house fails; shed damage was caused by Tom.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Heather \u2013 attempted arson",
+    "rule": "Attempt requires specific intent and an act beyond mere preparation (substantial step); abandonment is not shown.",
+    "keyFacts": [
+     "grabbed a can of lighter fluid",
+     "opened windows near the shed",
+     "squirted fluid on the windowsills",
+     "Tom extinguished the shed fire"
+    ],
+    "analysis": "Heather intended the house to burn and spread accelerant to the house next to a burning shed, a substantial step beyond preparation; attempted arson is likely, with fraud intent supporting modern statutes.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Heather \u2013 attempted insurance fraud / false pretenses",
+    "rule": "Attempted fraud requires specific intent to defraud and a step beyond preparation; burning the house to collect would be remote from filing a claim.",
+    "keyFacts": [
+     "insurance would cover the loss"
+    ],
+    "analysis": "No claim was filed and the act of burning is preparation, so attempted false pretenses is too remote.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Heather \u2013 malicious mischief",
+    "rule": "Malicious mischief is malicious destruction of the property of another.",
+    "keyFacts": [
+     "Heather's lighter fluid on windowsills",
+     "tools in the shed destroyed by Tom's fire",
+     "tools used by Tom; shed is Heather's"
+    ],
+    "analysis": "Heather did not destroy the shed or tools (fire did) and sprayed her own windowsills, so charge is weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Heather \u2013 accomplice or conspiracy with Tom",
+    "rule": "Accomplice liability requires aid or encouragement with intent that the principal commit the crime; no agreement here.",
+    "keyFacts": [
+     "Heather acted after Tom's fire",
+     "Tom and Heather unaware of each other's actions"
+    ],
+    "analysis": "Heather did not assist Tom's act or share intent about his fire; accomplice liability does not fit.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Burning/charring question is fact-dependent; reviewer should check this. Both answers' treatment of Heather's malicious mischief (A,B) is weak; Answer B treats tools as Tom's but tools are likely Heather's."
+ },
+ {
+  "id": "june2017-q4",
+  "issues": [
+   {
+    "name": "Betty \u2013 battery (intent and harmful/offensive contact)",
+    "rule": "Battery is an intentional act causing harmful or offensive contact with another; intent means purpose or substantial certainty of contact.",
+    "keyFacts": [
+     "Albert pushed her in order to get past her",
+     "Betty fell and hit her head, suffering a debilitating brain injury"
+    ],
+    "analysis": "Albert intended the push (contact), so intent is met even though he did not intend the brain injury; battery is clear.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Betty \u2013 causation and scope (slippery floor, unforeseen injury)",
+    "rule": "In intentional torts the defendant is liable for all harm proximately caused, including unforeseen consequences of the contact; the injury need not be intended.",
+    "keyFacts": [
+     "Albert dropped the watermelon making the floor slippery",
+     "Betty slipped on the spilled watermelon",
+     "hit her head"
+    ],
+    "analysis": "The fall was a natural result of pushing someone on a slick floor Albert created; Albert liable for full brain injury.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Betty \u2013 defenses (provocation)",
+    "rule": "Verbal provocation is not a defense to battery; self-defense requires threat of force.",
+    "keyFacts": [
+     "Betty loudly criticized him as 'clumsy'",
+     "Albert was humiliated"
+    ],
+    "analysis": "Humiliation or insult does not privilege Albert's push; may only bear on punitive damages.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Betty \u2013 damages",
+    "rule": "Compensatory damages (medical expenses, lost earnings and earning capacity, pain and suffering); punitive damages for malice or conscious disregard; nominal not needed.",
+    "keyFacts": [
+     "debilitating brain injury",
+     "Albert pushed to get past her"
+    ],
+    "analysis": "Large compensatory award; punitive damages possible but less likely because the push was impulsive rather than aimed at injury.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl \u2013 assault",
+    "rule": "Assault is an intentional act creating reasonable apprehension of imminent harmful or offensive contact.",
+    "keyFacts": [
+     "pushed it violently at Carl",
+     "Carl jumped out of the way",
+     "The cart missed Carl"
+    ],
+    "analysis": "Violently pushing a cart at Carl with intent to cause apprehension; Carl's dodge shows awareness. Assault established (miss is irrelevant).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl \u2013 damages",
+    "rule": "Assault damages are for emotional distress/apprehension; nominal damages available without actual harm; punitive damages possible.",
+    "keyFacts": [
+     "Carl was not hurt"
+    ],
+    "analysis": "No physical injury, so nominal and perhaps emotional distress damages; punitive possible given violence.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Duane \u2013 battery by transferred intent",
+    "rule": "Intent to commit assault or battery on one person transfers to an unintended victim for battery.",
+    "keyFacts": [
+     "The cart missed Carl, but struck Duane, an elderly shopper, on his back side",
+     "Albert intended to put Carl in apprehension"
+    ],
+    "analysis": "Albert's intent to assault Carl transfers to the battery of Duane, who need not have been aware of the contact.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Duane \u2013 eggshell plaintiff and damages",
+    "rule": "Defendant takes the plaintiff as he finds him and is liable for the full extent of harm, even if enhanced by a pre-existing condition; compensatory plus possible punitive.",
+    "keyFacts": [
+     "Duane, who had an unstable heart condition, suffered a heart attack as a result",
+     "elderly shopper"
+    ],
+    "analysis": "Albert is liable for the heart attack even though unforeseeable; medical costs, pain and suffering and other compensatory damages; punitive less likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Edna \u2013 trespass to chattels (mistake of owner)",
+    "rule": "Trespass to chattels is intentional interference with another's chattel causing damage; intent to do the act suffices, mistake about ownership is no defense (transferred intent from Betty's car).",
+    "keyFacts": [
+     "used his car key to leave a deep gouge in the finish on all four sides of the car",
+     "he believed was Betty's",
+     "car belonged to Edna"
+    ],
+    "analysis": "Albert intended to damage the car, so mistake as to owner is no defense; trespass to chattels established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Edna \u2013 conversion alternative",
+    "rule": "Conversion is an intentional interference so serious that the defendant must pay full value; extensive but repairable damage typically stays trespass.",
+    "keyFacts": [
+     "gouges on all four sides"
+    ],
+    "analysis": "Damage is likely trespass to chattels (repair cost), not conversion unless it makes the car worthless.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Edna \u2013 damages",
+    "rule": "Repair cost or diminution in value, loss of use, plus punitive damages if malicious.",
+    "keyFacts": [
+     "deep gouge on all four sides",
+     "finish damaged"
+    ],
+    "analysis": "Edna recovers repair cost (or diminution) and loss of use; punitive damages possible because act was deliberate vandalism, although Albert targeted Betty's car.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Answer A states Duane died, which is not in the facts. Reviewer may check whether punitive damages for transferred-intent victims is covered."
+ }
+]

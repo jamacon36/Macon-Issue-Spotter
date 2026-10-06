@@ -1,0 +1,534 @@
+[
+ {
+  "id": "october2012-q1",
+  "issues": [
+   {
+    "name": "Negligence \u2013 duty to Stephen (child entrant / attractive nuisance)",
+    "rule": "One who acts owes reasonable care to foreseeable plaintiffs (Cardozo majority); a possessor/contractor owes children reasonable care re artificial conditions under Restatement 339 attractive nuisance (possessor knows children likely to trespass, condition poses unreasonable risk of death/serious harm, children too young to appreciate danger, burden of eliminating is slight compared to risk).",
+    "keyFacts": [
+     "Stephen, ten-year-old son, came home from school and climbed into the excavated hole",
+     "excavation at Patricia's home",
+     "hole unattended"
+    ],
+    "analysis": "Stephen is Patricia's child at his own home, so highly foreseeable he would enter; a 10-year-old may not appreciate a cave-in risk and barricading/filling cost was slight. Duty (including attractive-nuisance duty) likely found. Neither student answer named attractive nuisance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence per se \u2013 violation of excavation safety statute",
+    "rule": "Violation of a statute establishes duty and breach if the statute was meant to protect against the type of harm and the plaintiff is within the protected class; absent excuse, violation is negligence per se.",
+    "keyFacts": [
+     "excavation violated statutory standards intended to protect workers from cave-ins",
+     "safety inspector determined"
+    ],
+    "analysis": "Harm (cave-in) is the type targeted, but Stephen is not a worker, so class-of-persons element is the close call; majority/strict view says not protected, though a court may read the statute to protect foreseeable entrants. Fallback is ordinary breach plus statute as evidence of negligence.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 breach by Contractor (reasonable care / Hand formula)",
+    "rule": "Breach is failure to act as a reasonably prudent contractor would; weigh burden of precautions against probability and gravity of harm; industry custom and statutes are evidence.",
+    "keyFacts": [
+     "excavation violated statutory standards",
+     "Contractor hired to build addition"
+    ],
+    "analysis": "Digging in violation of safety standards and failing to fence/secure the pit is unreasonable given the severe gravity of a cave-in and low cost of precautions; breach likely.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation \u2013 actual and proximate (Foreman's intervening conduct; rescue)",
+    "rule": "But-for actual cause; proximate cause requires foreseeable harm and consequences; a foreseeable intervening act (negligent failure to guard, rescue efforts) is not superseding. Rescue doctrine: a tortfeasor is liable for injuries to the victim from reasonable rescue attempts.",
+    "keyFacts": [
+     "Foreman stepped away to call his wife",
+     "Stephen buried",
+     "broken ribs as a result of the chest compressions"
+    ],
+    "analysis": "The cave-in is the direct, foreseeable result of the hazardous excavation; Foreman's lapse and his rescue (including rib injuries) are foreseeable and not superseding, so Contractor is liable for the ankle and ribs.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Respondeat superior \u2013 Contractor liable for Foreman",
+    "rule": "An employer is vicariously liable for torts of an employee committed within the scope of employment (not an independent contractor).",
+    "keyFacts": [
+     "Foreman shut down the work site",
+     "Foreman stepped away from the work site to call his wife"
+    ],
+    "analysis": "Foreman appears to be Contractor's employee supervising the site; a brief personal call during work is a minor detour, within scope. Contractor vicariously liable for Foreman's negligence.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict liability \u2013 abnormally dangerous activity",
+    "rule": "Strict liability for activity that is abnormally dangerous: high risk of serious harm not eliminable by reasonable care, and not a matter of common usage; harm must result from the risk that made it dangerous.",
+    "keyFacts": [
+     "excavation",
+     "cave-ins"
+    ],
+    "analysis": "Residential excavation is common and risk can be controlled by due care, so likely not abnormally dangerous; claim weak.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses \u2013 child's comparative negligence",
+    "rule": "A child is held to the standard of a child of like age, intelligence and experience; comparative negligence reduces recovery (contributory negligence bars in few states); parent's negligence is not imputed to child.",
+    "keyFacts": [
+     "ten-year-old",
+     "climbed into the excavated hole"
+    ],
+    "analysis": "A 10-year-old may be found unable to appreciate the cave-in danger; at most a small reduction.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages",
+    "rule": "Plaintiff must prove actual harm; defendant takes the plaintiff as found and is liable for all foreseeable resulting injuries.",
+    "keyFacts": [
+     "sprained ankle as a result of the cave-in",
+     "broken ribs as a result of the chest compressions",
+     "heart had stopped"
+    ],
+    "analysis": "Ankle, ribs and related pain, suffering and medical expenses recoverable against Contractor.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Foreman \u2013 negligence (duty and breach)",
+    "rule": "Duty of reasonable care to foreseeable plaintiffs; breach where a reasonable person would have secured or guarded a known hazard; statute violation may support negligence per se.",
+    "keyFacts": [
+     "Foreman shut down the work site",
+     "stepped away from the work site to call his wife",
+     "knew of inspector's cave-in finding"
+    ],
+    "analysis": "Having shut the site because of the cave-in hazard, Foreman unreasonably left the open pit unguarded when a simple barrier, a guard, or calling from the site would have avoided harm. Breach likely; causation satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Foreman \u2013 rescue; duty and standard in rescue (Good Samaritan)",
+    "rule": "No duty to rescue absent special relationship, but one who voluntarily undertakes rescue must act with reasonable care (emergency considered); many states have Good Samaritan statutes protecting emergency aid absent gross negligence.",
+    "keyFacts": [
+     "grabbed a shovel, jumped into the hole, freed Stephen",
+     "applied chest compressions to resuscitate him",
+     "broken ribs"
+    ],
+    "analysis": "Foreman had no duty to rescue (though his own negligence created the peril), and broken ribs are an ordinary risk of CPR, so no breach in the rescue itself; any Good Samaritan statute would further protect him.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Foreman \u2013 battery and implied consent / emergency privilege",
+    "rule": "Battery is intentional harmful or offensive contact; consent is implied in an emergency where the plaintiff is unconscious, a reasonable person would consent, and no contrary wishes are known.",
+    "keyFacts": [
+     "found that his heart had stopped",
+     "applied chest compressions",
+     "broken ribs"
+    ],
+    "analysis": "Foreman intended the contact, but Stephen was unconscious and in life-threatening condition, so emergency implied consent defeats battery; no liability.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Attractive nuisance and non-delegable duty not raised by either answer. Check negligence per se class-of-persons call."
+ },
+ {
+  "id": "october2012-q2",
+  "issues": [
+   {
+    "name": "Burglary \u2013 intent to commit a felony; claim of right",
+    "rule": "Common-law burglary: breaking and entering the dwelling of another at night with intent to commit a felony (or larceny) therein; modern statutes drop breaking/night requirements. Intent is measured at entry. A bona fide claim of right to the specific property negates intent to steal, but a belief in a debt (fungible money) generally does not.",
+    "keyFacts": [
+     "late one night",
+     "broke a window in the back door, and let herself in",
+     "pistol tucked in her waistband to scare him into paying",
+     "$500 owed by Victor"
+    ],
+    "analysis": "Breaking, entry, dwelling, and night are clear. Close call is intent: Ann believed she was owed money, which may negate intent to steal, but she intended to threaten Victor with a gun, supporting intent to commit assault with a deadly weapon/robbery/extortion, so burglary is likely chargeable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Robbery / attempted robbery \u2013 claim of right; force; taking after death",
+    "rule": "Robbery is larceny from the person or presence of another by force or fear with intent to permanently deprive; a good-faith claim of right to the specific property negates intent, but not for collection of an unliquidated or general debt in money. Force must precede or accompany the taking; attempted robbery is available when taking not completed by force.",
+    "keyFacts": [
+     "demanded the $500",
+     "Victor took $500 from a desk drawer and crossed the room",
+     "Ann picked up the $500 and left",
+     "gun at her waistband"
+    ],
+    "analysis": "Ann carried a gun to coerce payment and the money was taken from Victor's presence after the force/struggle, though Victor had already pulled out the money; claim of right (debt, fungible money) is weak but arguable. Alternatively, attempted robbery or larceny/extortion. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larceny (alternative)",
+    "rule": "Trespassory taking and carrying away of personal property of another with intent to permanently deprive; claim of right is a defense to intent.",
+    "keyFacts": [
+     "Ann picked up the $500 and left",
+     "Victor was dead"
+    ],
+    "analysis": "If robbery fails (e.g., no force at time of taking), taking the money without consent supports larceny, subject to the same claim-of-right defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Homicide \u2013 causation and malice (intent, depraved heart)",
+    "rule": "Murder is killing with malice aforethought: intent to kill, intent to inflict serious bodily harm, depraved-heart recklessness, or felony murder. Causation requires actual and proximate cause.",
+    "keyFacts": [
+     "lunged at Victor's arm",
+     "In the ensuing struggle, the gun fired, killing Victor",
+     "pistol"
+    ],
+    "analysis": "Ann's lunge was the but-for and proximate cause of the discharge, but she lacked intent to kill; absent felony murder, likely at most involuntary manslaughter (criminal negligence), subject to self-defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder",
+    "rule": "Killing committed in perpetration or attempted perpetration of an inherently dangerous felony (burglary, robbery, etc.) is murder; the killing must be causally connected to the felony and within its res gestae; many jurisdictions require the felony to be independent of the killing.",
+    "keyFacts": [
+     "broke a window and let herself in with a pistol",
+     "killing during struggle in Victor's living room",
+     "Victor's death after she demanded $500"
+    ],
+    "analysis": "If burglary or robbery is established, the death during the continuing felony supports felony murder (first degree in many states); the claim-of-right defense to the underlying felony is the key counter. Close call whether the victim's own act/justified killing breaks the chain.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Manslaughter \u2013 voluntary (imperfect self-defense) and involuntary",
+    "rule": "Voluntary manslaughter: intentional killing in heat of passion or under unreasonable belief in need for self-defense (imperfect self-defense, in some states); involuntary: killing from criminal negligence or unlawful-act misdemeanor.",
+    "keyFacts": [
+     "Victor pointed the gun at her and said he'd shoot her",
+     "Ann was frightened and lunged at Victor's arm",
+     "did not intend to shoot her"
+    ],
+    "analysis": "Ann did not intend to kill, so voluntary manslaughter is weak; involuntary manslaughter for the accidental discharge during struggle is the likely lesser offense if felony murder fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense \u2013 self-defense and initial aggressor",
+    "rule": "A person may use reasonable force, including deadly force, against an imminent threat of death or serious harm. An initial aggressor loses the right unless she withdraws or the victim escalates the force beyond that initially used (deadly vs. nondeadly). Self-defense is not unavailable merely because the felony murder rule is invoked, since a justified killing is not murder.",
+    "keyFacts": [
+     "Victor grabbed the gun and pointed it at her",
+     "\"I think I will just shoot you\"",
+     "He did not intend to shoot her",
+     "Ann had brought the gun to scare him"
+    ],
+    "analysis": "Ann was the aggressor and displayed a gun, but Victor escalated by seizing the gun and threatening to kill her, and she reasonably feared death; she likely may regain self-defense for the struggle, though a prosecutor will argue her felony and aggression bar it. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Battery / reckless driving \u2013 injuring the bicyclist",
+    "rule": "Battery (or assault/ vehicular offenses) requires intent to cause contact, or criminal negligence/recklessness for battery-type offenses; ordinary negligence is insufficient. Flight from a felony does not by itself supply intent.",
+    "keyFacts": [
+     "As she was speeding away, she struck and injured a bicyclist"
+    ],
+    "analysis": "No facts of intent; liability turns on whether speeding amounted to criminal negligence or recklessness; likely misdemeanor reckless driving/vehicular battery at most, with no felony-murder consequence since no one died.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Merger and lesser included offenses",
+    "rule": "Lesser included offenses merge into greater; underlying felony merges into felony murder for sentencing; larceny merges into robbery.",
+    "keyFacts": [
+     "burglary, robbery, larceny, murder all arising from one incident"
+    ],
+    "analysis": "Ann could be charged with all but convicted of only one of larceny/robbery and not both murder theories.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Facts also support assault with a deadly weapon (pointing/displaying gun), which neither answer discussed; check B's claim that felony murder bars self-defense (incorrect)."
+ },
+ {
+  "id": "october2012-q3",
+  "issues": [
+   {
+    "name": "Governing law and formation (offer, acceptance, consideration)",
+    "rule": "A sale of a service business is governed by common law (UCC only for goods predominantly). A contract requires offer, acceptance and consideration; the offeror is master of the offer, and acceptance must match its terms; signing a written offer manifests assent to its terms.",
+    "keyFacts": [
+     "Sam decided to sell his interior design business",
+     "Sam sent Betty the original and one copy",
+     "Betty signed the original ... and returned it ... along with payment",
+     "Sam never signed"
+    ],
+    "analysis": "The signed writing Sam sent is the offer, Betty's signed return is acceptance, and price versus business is consideration, so a contract formed on the written terms; whether those terms include the covenant is the issue.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Does the writing contain the covenant \u2013 prior agreement and parol evidence rule / integration",
+    "rule": "The parol evidence rule bars prior or contemporaneous agreements that contradict or add to a fully integrated writing; a partial integration allows consistent additional terms. A merger clause signals full integration, and courts ask whether the term would naturally be included. Exceptions: mistake, fraud, ambiguity, reformation.",
+    "keyFacts": [
+     "Betty insisted on a covenant ... not to compete",
+     "Sam drafted the following proposed language",
+     "Betty said: \"That's fine.\"",
+     "it did not contain a covenant",
+     "no merger clause stated"
+    ],
+    "analysis": "The agreed covenant was a prior agreement omitted from the signed writing; no merger clause appears and a non-compete is central, so it is arguably not fully integrated or at least the mistake exception applies. Evidence of the agreed language is admissible for reformation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mistake \u2013 reformation (mutual mistake / scrivener's error); Betty's failure to read",
+    "rule": "Where a writing fails to reflect the parties' actual prior agreement because of mutual mistake in expression (or one party's mistake known to the other), equity will reform the writing; a party's failure to read does not bar reformation when the other party's error caused the discrepancy.",
+    "keyFacts": [
+     "Sam had mistakenly sent her an unrevised version",
+     "Betty signed the original without reading it",
+     "Sam told Betty that he would revise the purchase agreement accordingly"
+    ],
+    "analysis": "Both parties intended the covenant to be in the final writing, and Sam's error in sending the wrong version caused the omission; reformation to add the covenant likely, with Sam arguing unilateral mistake and Betty's negligence in not reading.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds",
+    "rule": "Contracts for sale of land, not performable within one year, or for sale of goods over $500 must be in a writing signed by the party to be charged; part or full performance by the other party can take a contract out of the one-year provision; a writing with essential terms signed (including typed name or letterhead) suffices.",
+    "keyFacts": [
+     "covenant ... for a period of two years",
+     "Sam never signed the purchase agreement",
+     "Betty ... returned it to Sam along with payment of the purchase price"
+    ],
+    "analysis": "The two-year covenant cannot be performed within one year, so the SOF applies and Sam did not sign; but Betty fully performed and Sam's authorship of the document and acceptance of payment likely satisfy or excuse the writing requirement. Possibly also an issue if business assets include real property or goods.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Enforceability of covenant not to compete \u2013 reasonableness",
+    "rule": "A covenant ancillary to the sale of a business is enforceable if reasonable in time and geographic scope and necessary to protect the buyer's goodwill (California Bus. & Prof. Code 16601 permits such covenants).",
+    "keyFacts": [
+     "not to compete ... in the interior design business in Town for a period of two years",
+     "I don't want to have to compete with your ties to your former clients"
+    ],
+    "analysis": "A two-year, town-wide covenant incident to the sale of the business protects goodwill and is likely reasonable and enforceable.",
+    "foundIn": [],
+    "priority": "major"
+   },
+   {
+    "name": "Interpretation \u2013 did Sam violate the covenant (location of services vs. clients)",
+    "rule": "Contract terms are given their plain meaning; if ambiguous, extrinsic evidence of intent and purpose is admissible. Ambiguities are construed against the drafter in some courts.",
+    "keyFacts": [
+     "will not perform interior design services in Town",
+     "four large interior design jobs for clients who lived in Town",
+     "the jobs were on properties located outside Town"
+    ],
+    "analysis": "Literal language restricts performing services in Town, so work on properties outside Town arguably does not violate it; but Betty's stated purpose was protecting against Sam's ties to Town clients, and Sam drafted the language, making the ambiguity argument and construction against Sam close. Likely contested; plain reading favors Sam.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach and remedies",
+    "rule": "Breach is unjustified failure to perform; remedies include damages, specific performance or injunction against competition.",
+    "keyFacts": [
+     "Sam had recently undertaken four large interior design jobs"
+    ],
+    "analysis": "If the covenant covers client-based work, Sam breached; Betty could seek injunction and damages.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "A concluded Sam did not violate the clause without analyzing interpretation, so not credited for that issue; neither addressed reasonableness of the covenant."
+ },
+ {
+  "id": "october2012-q4",
+  "issues": [
+   {
+    "name": "Ethan v. Cathy \u2013 duty and breach (feeding stray cats after notice)",
+    "rule": "Everyone owes reasonable care to foreseeable plaintiffs; breach is failure to act as a reasonably prudent person, weighing burden against probability and gravity of harm (Hand formula). A landowner's conduct that attracts animals to neighbors' land may be negligent where the risk is known.",
+    "keyFacts": [
+     "Cathy regularly fed neighborhood cats",
+     "dozens of cats living around her property",
+     "Darla repeatedly asked Cathy not to feed the cats",
+     "might scratch one of the children",
+     "Cathy continued feeding the cats"
+    ],
+    "analysis": "Cathy had express notice that the cats were entering the daycare, fouling the sandbox and could scratch children; stopping feeding was costless while harm to toddlers was foreseeable and serious. Duty and breach likely found.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ethan v. Cathy \u2013 causation and damages",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeable harm without superseding event); damages must be actual.",
+    "keyFacts": [
+     "Ethan was scratched by one of the cats that Cathy fed",
+     "serious injury as a result ... infection"
+    ],
+    "analysis": "But for the feeding, the cats would not have congregated; a scratch and resulting infection are the very risk Darla warned of, so causation likely met. Uncertainty whether the specific cat was one Cathy fed is minor.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses \u2013 Ethan and Frank (child's negligence, assumption of risk, comparative fault)",
+    "rule": "A child is held to the standard of a child of like age and experience; a 2-year-old is generally incapable of negligence; assumption of risk requires knowing, voluntary encounter; comparative fault reduces recovery.",
+    "keyFacts": [
+     "two-year-olds, including Ethan and Frank",
+     "Frank ate sand while playing in the sandbox"
+    ],
+    "analysis": "Toddlers could not be contributorily negligent or assume risk, and parents had no notice of the cat issue; no defenses apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ethan v. Darla \u2013 duty (landowner/daycare operator to invitee child) and breach",
+    "rule": "A possessor owes invitees reasonable care to inspect and protect against known hazards; a daycare operator caring for young children has a heightened duty of supervision and protection. Breach is judged by reasonableness of precautions taken.",
+    "keyFacts": [
+     "Darla operated a daycare center next door for a number of two-year-olds",
+     "cats frequently came onto her property, defecated and urinated in a sandbox",
+     "Darla repeatedly asked Cathy not to feed the cats",
+     "poured ammonia into the sandbox"
+    ],
+    "analysis": "Darla knew of the cat hazard on her own premises; her only steps were asking Cathy and a repellent that did nothing to prevent scratches. She could have fenced, covered the sandbox or supervised, so breach is arguable; whether the ammonia step bears on Ethan's scratch is doubtful. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ethan v. Darla \u2013 causation (concurrent causes, Cathy's role)",
+    "rule": "Substantial-factor test applies where multiple causes; a defendant whose negligence is a substantial factor is liable even though another tortfeasor also contributed; liability apportioned under comparative fault.",
+    "keyFacts": [
+     "Ethan was scratched by one of the cats that Cathy fed",
+     "cats ... frequently came onto her property"
+    ],
+    "analysis": "Darla's failure to keep cats away or supervise contributed to the scratch, though Cathy is the main source of the danger; causation against Darla is plausible but weaker.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Frank v. Cathy \u2013 proximate cause and superseding intervening act (Darla's ammonia)",
+    "rule": "Defendant is liable only for foreseeable harms within the scope of the risk; an intervening act is superseding if unforeseeable and extraordinary, but foreseeable responses to the defendant's negligence (including third-party negligence) do not cut off liability.",
+    "keyFacts": [
+     "Learning that cats are repelled by the smell of ammonia, Darla poured ammonia into the sandbox",
+     "Frank ... sustained a serious injury as a result of ingesting ammonia",
+     "Darla repeatedly asked Cathy not to feed the cats"
+    ],
+    "analysis": "But-for causation exists since Darla acted to counter the cats, but the risk Cathy created (scratches, feces) is different from ammonia poisoning, and a daycare owner dosing a children's sandbox with chemical is extraordinary; likely superseding, so Cathy not liable. Counter: Darla's reaction to the nuisance was foreseeable. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Frank v. Darla \u2013 negligence (duty, breach, causation, damages)",
+    "rule": "A possessor/daycare operator must use reasonable care to keep premises safe for child invitees; introducing a toxic substance where toddlers play is unreasonable; causation and damages as above.",
+    "keyFacts": [
+     "poured ammonia into the sandbox",
+     "two-year-olds",
+     "Frank ate sand while playing in the sandbox and sustained a serious injury as a result of ingesting ammonia"
+    ],
+    "analysis": "Hand formula: the risk of toddlers touching or ingesting ammonia-laced sand was high and severe versus the lesser risk of cat scratches; Darla breached her duty and caused Frank's injury; she will likely be liable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict liability for abnormally dangerous activity (Frank v. Darla)",
+    "rule": "Strict liability for activities posing a high risk of serious harm not eliminable by due care and not of common usage; not required given the question is limited to negligence.",
+    "keyFacts": [
+     "poured ammonia into the sandbox"
+    ],
+    "analysis": "Placing ammonia in a sandbox is not a recognized abnormally dangerous activity; negligence is the better theory and the question asks only for negligence.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Question asks only negligence; the res ipsa, negligence per se and nuisance theories are not implicated. A treated strict liability, outside the call."
+ }
+]

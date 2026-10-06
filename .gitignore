@@ -1,0 +1,7 @@
+.DS_Store
+.claude/
+Questions Content/
+data/keys_v1/
+__pycache__/
+*.pyc
+.env

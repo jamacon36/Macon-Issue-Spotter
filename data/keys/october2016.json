@@ -1,0 +1,583 @@
+[
+ {
+  "id": "october2016-q1",
+  "issues": [
+   {
+    "name": "Larceny by Al (theft) \u2013 elements",
+    "rule": "Larceny is a trespassory taking and carrying away (asportation, any slight movement) of tangible personal property of another with intent to permanently deprive. Intent must exist at the time of the taking.",
+    "keyFacts": [
+     "Al: 'I have an idea for how to get some beer without paying for it'",
+     "Al picked up a six-pack and began walking toward the emergency exit",
+     "Al put the beer on the floor and ran out"
+    ],
+    "analysis": "Al entered with a plan to steal and picked up and carried the beer toward the exit, so taking, asportation and intent to permanently deprive are satisfied; putting it down afterward does not undo a completed larceny (at most it supports an attempt argument or a close call on asportation/ store consent).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Beth \u2013 accomplice liability for theft",
+    "rule": "An accomplice is one who, with the intent that the crime be committed, aids, abets, counsels or encourages the principal before or during the crime; she is liable for the target crime and its natural and probable consequences. Intent to promote requires purpose or knowledge plus assistance.",
+    "keyFacts": [
+     "Beth said she had no money; Al said he had an idea to get beer without paying",
+     "Al told her to park behind the store near the emergency exit",
+     "Beth drove Al and waited in the car near the exit"
+    ],
+    "analysis": "Beth knew of the plan to take beer without paying and supplied the getaway driver role, so she is likely an accomplice to larceny; her defense is that Al's words were ambiguous and she never expressly agreed to steal (close call on mens rea).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Conspiracy and Pinkerton liability",
+    "rule": "Conspiracy is an agreement between two or more to commit an unlawful act with intent to achieve it (overt act required in many jurisdictions, incl. CA). Co-conspirators are liable for reasonably foreseeable crimes of others in furtherance of the conspiracy (Pinkerton).",
+    "keyFacts": [
+     "Al's 'idea' and instruction to park by the emergency exit",
+     "Beth drove Al to the Friendly Market and waited"
+    ],
+    "analysis": "Agreement can be inferred from Beth's conduct after Al's disclosed plan, with driving as the overt act; however, Pinkerton will not reach Carla's shooting of Al or an unforeseeable violent crime.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Robbery \u2013 no force or fear",
+    "rule": "Robbery is larceny from the person or presence of another by force or intimidation, with force used to take or retain the property or to escape.",
+    "keyFacts": [
+     "Al picked up beer and walked toward the exit without incident",
+     "Carla shouted 'Stop, thief!' and Al put the beer down and ran"
+    ],
+    "analysis": "Al used no force or threat against anyone, so no robbery by Al; Beth, who can only be liable as accomplice, is therefore not guilty of robbery either.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Beth \u2013 murder: causation and malice",
+    "rule": "Murder is a killing with malice (intent to kill, intent to inflict serious injury, depraved-heart recklessness, or felony murder). Defendant's conduct must be actual and proximate cause; a foreseeable intervening act does not break causation but an unforeseeable, independent act may.",
+    "keyFacts": [
+     "Beth only drove Al and waited in the car",
+     "Carla, not Beth or Al, fired the fatal shot"
+    ],
+    "analysis": "Beth had no intent to kill or injure and driving to commit a petty theft is not extreme recklessness; Carla's deliberate shooting of a fleeing, unarmed shoplifter is arguably an unforeseeable superseding cause, so no murder.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder / Redline (agency) rule",
+    "rule": "Felony murder applies to a death in the commission of an enumerated or inherently dangerous felony (burglary, arson, rape, robbery, kidnapping, mayhem); larceny/shoplifting is not inherently dangerous. In the majority (agency/redline) view a co-felon is not liable when a non-felon (victim, police, bystander) kills a felon.",
+    "keyFacts": [
+     "Underlying crime was taking a six-pack of beer (larceny, not robbery)",
+     "The killer was Carla, the store's security guard, and the person killed was Al, the felon himself"
+    ],
+    "analysis": "Felony murder fails: no robbery or other dangerous felony, and under the redline/agency rule a killing by a non-felon of a co-felon is not attributable to Beth.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Beth \u2013 involuntary (misdemeanor/criminal negligence) manslaughter",
+    "rule": "Involuntary manslaughter is an unintended killing caused by criminal negligence or an unlawful act (misdemeanor-manslaughter) where the defendant's conduct proximately causes death.",
+    "keyFacts": [
+     "Beth helped Al commit a petty theft",
+     "Al was killed by Carla's shots"
+    ],
+    "analysis": "Likely not guilty: the death was not a foreseeable result of aiding a shoplifting and Carla's unjustified shooting breaks the chain; the state's contrary argument is weak.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Carla \u2013 murder: malice (intent to kill, premeditation, depraved heart)",
+    "rule": "Murder is an unlawful killing with malice aforethought: intent to kill (inferred from use of a deadly weapon on a vital area), intent to inflict serious bodily harm, or conscious disregard of extreme risk. First degree requires premeditation and deliberation (time to reflect, which can be short).",
+    "keyFacts": [
+     "Carla warned 'Stop or I'll shoot!', fired a warning shot, then 'took careful aim' and missed",
+     "She then 'paused, took careful aim' and shot again, killing Al"
+    ],
+    "analysis": "Careful aim at a fleeing person shows intent to kill; the pause before the final shot supports premeditation, though chase conditions make first-degree a close call and second-degree is the safer conclusion absent a defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carla \u2013 defense: crime prevention / deadly force to stop fleeing shoplifter",
+    "rule": "Deadly force is justified only to prevent or stop a forcible, dangerous felony that threatens life or great bodily harm, and only when reasonably necessary; non-deadly force only for misdemeanors/property crimes. A private citizen may arrest a fleeing felon but may not use deadly force against a non-violent felon or misdemeanant.",
+    "keyFacts": [
+     "Al put the beer down and ran out unarmed",
+     "Carla shot Al in the alley as he was about to turn a corner"
+    ],
+    "analysis": "The crime was a petty theft, completed or abandoned, and Al posed no threat; deadly force was unreasonable and the defense should fail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carla \u2013 apprehension of fleeing felon / defense of property",
+    "rule": "Force to arrest a fleeing felon must be reasonable; deadly force requires a dangerous felon posing a threat to others (Tennessee v. Garner for police, stricter for private persons). Defense of property never justifies deadly force.",
+    "keyFacts": [
+     "Carla was a security guard protecting the store's property",
+     "Al was unarmed and no longer on the premises"
+    ],
+    "analysis": "Shooting an unarmed fleeing shoplifter is not justified under either theory; at most a mistaken belief that Al committed robbery could support imperfect-defense mitigation.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carla \u2013 mitigation to voluntary manslaughter",
+    "rule": "Voluntary manslaughter results from adequate provocation (heat of passion) or, in some jurisdictions such as CA, an honest but unreasonable belief in the need to use deadly force (imperfect defense).",
+    "keyFacts": [
+     "Carla 'considered what to do' before chasing",
+     "Al had dropped the beer and fled"
+    ],
+    "analysis": "No adequate provocation (Al did nothing provoking) and she had time to cool; imperfect-defense argument is weak since she did not claim fear for her safety.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check whether grader expects redline vs proximate-cause approach to felony murder, and whether theft by Al is larceny or only attempt (beer put back down)."
+ },
+ {
+  "id": "october2016-q2",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2; merchant status",
+    "rule": "UCC Article 2 governs contracts for the sale of goods. A merchant deals in goods of the kind or holds herself out as having knowledge or skill peculiar to the goods; merchants are held to higher standards (good faith includes fair dealing in the trade).",
+    "keyFacts": [
+     "Dealer operates an antique shop",
+     "Contract is for sale of a handgun for $2,000"
+    ],
+    "analysis": "The handgun is a good, so the UCC applies; Dealer, an antique dealer, is a merchant as to antiques (Buyer is a non-merchant).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation \u2013 offer and acceptance",
+    "rule": "Under UCC 2-204 a contract may be made in any manner showing agreement, even if the moment of making is uncertain and terms are open, if there is a reasonable basis for giving a remedy. Offer and acceptance need not follow a formal pattern.",
+    "keyFacts": [
+     "Dealer showed Buyer photos of the handgun",
+     "The parties 'shake hands on a deal' for $2,000, payment upon delivery"
+    ],
+    "analysis": "The handshake manifests mutual assent to price, goods and payment on delivery; a contract was formed, and no real offer/acceptance dispute exists.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds (UCC 2-201)",
+    "rule": "A contract for goods of $500 or more requires a writing sufficient to indicate a contract, signed by the party to be charged, stating quantity. Exceptions: merchant confirmation (2-201(2)), admission, specially manufactured goods, payment or acceptance of goods.",
+    "keyFacts": [
+     "Price is $2,000, only a handshake",
+     "Dealer's signed note: 'Because you backed out of our deal, I will not sell you the handgun.'",
+     "Buyer sent a $2,000 check which Dealer returned"
+    ],
+    "analysis": "The handshake alone fails SOF, but Dealer (the party to be charged) signed a note acknowledging 'our deal' with the subject matter identified, which suffices as a writing even though it denies liability. The merchant-confirmation exception is not the proper basis because Buyer is not a merchant.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Buyer's inspection demand \u2013 repudiation vs. request / modification",
+    "rule": "Anticipatory repudiation requires a clear and unequivocal statement that a party will not perform, or insistence on terms not in the contract (UCC 2-610; cmt. 2). A request for a change is a proposed modification, which needs agreement but under UCC 2-209 no consideration if in good faith. A party with reasonable grounds for insecurity may demand adequate assurance (2-609).",
+    "keyFacts": [
+     "Buyer said he would not pay $2,000 unless she first allowed an expert appraisal",
+     "Dealer responded 'A deal's a deal. I'll expect my money when the handgun is delivered'"
+    ],
+    "analysis": "Buyer's conditional statement could be a repudiation (insisting on a term outside the contract), but it is arguably only a proposed modification that Dealer rejected, leaving the original contract intact; this is a close call and the answer turns on how definite the refusal was.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Retraction of repudiation (UCC 2-611)",
+    "rule": "A repudiating party may retract until the aggrieved party has cancelled, materially changed position, or otherwise indicated that she considers the repudiation final; retraction restores the contract and requires only that the aggrieved party receive any assurance demanded.",
+    "keyFacts": [
+     "Buyer's letter: 'Sorry. You're right. A deal's a deal.' with a $2,000 check",
+     "Dealer had not cancelled or relied before the letter; she responded by returning the check"
+    ],
+    "analysis": "Even if Buyer repudiated, he retracted before Dealer cancelled or changed position, so the contract was reinstated and Dealer's refusal to sell is itself a repudiation/breach; Dealer's 'because you backed out' excuse fails.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mistake as a defense",
+    "rule": "Mutual mistake as to a basic assumption at formation, not borne by the party seeking avoidance, makes a contract voidable; a party bears the risk where she was aware of limited knowledge and treated it as sufficient (conscious ignorance). Unilateral mistake only voids if the other party knew or caused it.",
+    "keyFacts": [
+     "Dealer bought the gun for $1,500 and discovered it belonged to a Gettysburg general, increasing value tenfold",
+     "Dealer is an antique dealer who researched only after the sale"
+    ],
+    "analysis": "The parties were ignorant of the provenance, but a dealer in antiques bears the risk of undiscovered value; Buyer did not know of the mistake, so mistake fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Impracticability / impossibility",
+    "rule": "Performance is excused only if made impracticable by an unforeseen event whose non-occurrence was a basic assumption; a mere increase in cost or loss of profit does not excuse (UCC 2-615).",
+    "keyFacts": [
+     "Dealer would lose $18,000 by selling at $2,000",
+     "The increase in value arose from Dealer's own later research"
+    ],
+    "analysis": "Loss of profit on a bad bargain is a foreseeable risk of the seller; no discharge.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Specific performance (UCC 2-716)",
+    "rule": "Specific performance of a sale of goods may be ordered where the goods are unique or in other proper circumstances; it is available where damages are inadequate, the contract terms are certain, and the remedy is feasible.",
+    "keyFacts": [
+     "Handgun was issued to a general who played a prominent role at Gettysburg",
+     "Dealer relisted the unique antique for $20,000"
+    ],
+    "analysis": "The historical provenance makes the handgun unique and not obtainable elsewhere (cover impossible), so a court is likely to grant specific performance, with Buyer tendering $2,000; damages (market minus contract price, 2-713) are the fallback.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alternative damages \u2013 market price differential",
+    "rule": "If the seller repudiates, the buyer may recover market price at the time he learned of the breach less contract price (UCC 2-713), plus incidental and consequential damages.",
+    "keyFacts": [
+     "Dealer offers the handgun at $20,000",
+     "Contract price was $2,000"
+    ],
+    "analysis": "If specific performance is denied, Buyer could recover roughly $18,000 in expectation damages.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Student A mislabels the SOF exception as a merchant's confirmatory memorandum; a simple signed admission by Dealer is the better analysis. Confirm treatment of the 'modification vs. repudiation' point."
+ },
+ {
+  "id": "october2016-q3",
+  "issues": [
+   {
+    "name": "Negligence \u2013 duty and standard of care",
+    "rule": "A professional owes a duty of reasonable care to foreseeable plaintiffs and must meet the skill and care of a reasonably prudent member of the profession in similar circumstances; a licensed practitioner is held to that professional standard.",
+    "keyFacts": [
+     "Barry is a licensed barber",
+     "Moe came to Barry's shop for a shave"
+    ],
+    "analysis": "Barry owes Moe, a paying customer, a duty to use the care of a reasonable licensed barber.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach \u2013 custom and the Hand formula (risk-utility)",
+    "rule": "Breach occurs when conduct falls below the standard of care; under the Hand formula, liability if burden of precaution is less than probability times magnitude of harm. Industry custom is relevant but not conclusive, and an entire industry may be negligent (T.J. Hooper).",
+    "keyFacts": [
+     "Barbers customarily prefer the straight razor and Barry has always used it",
+     "Electric razor 'totally eliminates the possibility' of cutting and has been 'scientifically established' to shave just as close",
+     "Barry declined because of expense, enjoyment of the blade, and reliability concerns"
+    ],
+    "analysis": "Custom favors Barry, but a precaution that eliminates the risk of throat cuts at only an expense and reliability burden is likely cheaper than the risk of serious lacerations, so a court could find breach; a close call because expense and reliability concerns are real.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach \u2013 conduct during the shave",
+    "rule": "Negligence may also be shown by failing to take reasonable precautions during the service, including foreseeing a customer's sudden movement.",
+    "keyFacts": [
+     "Moe suddenly jumped up halfway through the shave while checking his smartphone",
+     "Barry continued shaving with a straight razor while Moe used his phone"
+    ],
+    "analysis": "Barry could be negligent for shaving with a straight blade while Moe was distracted by his phone and without warning him to stay still; the argument is weaker than the equipment argument.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Causation \u2013 actual, proximate and superseding cause",
+    "rule": "Defendant's conduct must be the but-for and proximate cause of harm; a foreseeable intervening act by the plaintiff does not break the chain, while an unforeseeable superseding act can.",
+    "keyFacts": [
+     "Moe jumped up and the razor 'creates a fairly deep gash on Moe's throat'",
+     "Barry was holding a straight razor against Moe's throat"
+    ],
+    "analysis": "But for the razor, there would be no cut; customers moving suddenly is a foreseeable risk of straight-razor shaving, so Moe's movement is not a superseding cause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages",
+    "rule": "Plaintiff must prove actual harm.",
+    "keyFacts": [
+     "A 'fairly deep gash' on Moe's throat"
+    ],
+    "analysis": "Physical injury satisfies the damages element.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense \u2013 contributory / comparative negligence",
+    "rule": "Contributory negligence bars recovery in the few remaining jurisdictions; in comparative-fault states (pure, in California) the plaintiff's recovery is reduced by his percentage of fault.",
+    "keyFacts": [
+     "Moe jumped suddenly out of the chair, cheering at a baseball score on his smartphone, with a razor at his throat"
+    ],
+    "analysis": "Moe unreasonably moved with a blade at his throat; in California (pure comparative fault) damages are reduced, and the jury may allocate substantial fault to Moe.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 assumption of the risk",
+    "rule": "Express or implied primary assumption of risk bars recovery only where the plaintiff knowingly and voluntarily encountered an inherent, known risk; secondary assumption merges into comparative negligence.",
+    "keyFacts": [
+     "Moe voluntarily entered a barbershop for a straight-razor shave"
+    ],
+    "analysis": "Moe accepted the ordinary risk of a shave but not a barber's negligent failure to use safer means or a deep cut; the defense probably fails or merges into comparative fault.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Battery by Moe",
+    "rule": "Battery is an intentional harmful or offensive contact with another's person; intent is purpose or substantial certainty of the contact.",
+    "keyFacts": [
+     "Moe punched Barry, giving him a black eye"
+    ],
+    "analysis": "A deliberate punch resulting in a black eye is a battery; Moe's suggestion that it was a reflex to pain is weak because the facts show a purposeful punch.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Moe's defenses \u2013 self-defense and involuntary reaction",
+    "rule": "Self-defense permits reasonable force against a reasonably perceived imminent unlawful threat; force may not be excessive or retaliatory. An involuntary reflex lacks the volitional act needed for battery.",
+    "keyFacts": [
+     "Moe had just been gashed in the throat and then punched Barry",
+     "Barry's cut was accidental and Moe had already jumped away"
+    ],
+    "analysis": "A deep throat wound could cause reasonable fear of further harm, but the threat was ended and a punch seems retaliatory, so self-defense is likely to fail or at least be a close call; Moe's own earlier negligence is no defense to an intentional tort.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assault by Moe",
+    "rule": "Assault is an intentional act creating reasonable apprehension of imminent harmful or offensive contact.",
+    "keyFacts": [
+     "Moe punched Barry in the face"
+    ],
+    "analysis": "Assault likely merges with the battery unless Barry saw the blow coming; no facts show Barry apprehended it beforehand.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The conclusion on negligence is a close call; graders accept either with reasoning. Barry's own tort claim should not be diminished by Moe's negligence."
+ },
+ {
+  "id": "october2016-q4",
+  "issues": [
+   {
+    "name": "Governing law \u2013 mixed goods/services",
+    "rule": "Contracts predominantly for goods are governed by the UCC; contracts predominantly for services are governed by the common law (predominant purpose/thrust test; some courts apply the gravamen test to separate components).",
+    "keyFacts": [
+     "Contractor agrees to 'install' an innovative solar heating system for $50,000",
+     "State law requires installation by a certified technician"
+    ],
+    "analysis": "The installation is a significant specialized service and the contract is framed as an installation job, so common law is likely to govern, though a UCC argument exists because a system is supplied; outcomes largely the same.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation \u2013 consideration for the parking spaces",
+    "rule": "Consideration is a bargained-for exchange of legal detriment; the consideration need not flow to the promisor and may be a benefit conferred on a third person. The contract is a new written agreement (not a unilateral modification of a pre-existing duty) because both sides gave new exchange.",
+    "keyFacts": [
+     "Contractor will drop the price from $50,000 to $35,000 if Owner designates two parking spaces for Son for five years",
+     "Parties agreed in a valid written contract on November 13"
+    ],
+    "analysis": "The contract is valid; Owner's promise of parking for five years supports the $15,000 price reduction, so the terms (including the price discount for spaces) are enforceable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Contractor's breach \u2013 repudiation and demand for adequate assurance",
+    "rule": "A party commits anticipatory repudiation by a clear refusal or inability to perform; where reasonable grounds for insecurity arise, the other party may demand adequate assurance, and failure to give it within a reasonable time is a repudiation (Restatement 251). Time of performance may be material when the contract so emphasizes.",
+    "keyFacts": [
+     "Contractor must start November 17 and finish by January 1",
+     "Recital: 'Timely performance by Contractor is important to avoid any delay in the opening of Owner's restaurant'",
+     "Contractor said work will be delayed; Owner asked 'Can you still finish by then?'; Contractor: 'I don't know when we can start'",
+     "Owner terminated the contract"
+    ],
+    "analysis": "The contractor's notice of delay and failure to give assurance on request of finishing by year's end likely amount to repudiation, justifying termination and suit. Counterpoint: only two days passed, Owner terminated before the start date and gave no time to respond, and a delay in starting is not necessarily a material breach; close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Contractor's excuse \u2013 impossibility/impracticability",
+    "rule": "Performance is excused where an unforeseen event makes performance impracticable and the non-occurrence was a basic assumption not allocated to the party; death or incapacity of a person necessary to personal services may excuse, but not when substitutes are available or the risk was foreseeable and within the party's control.",
+    "keyFacts": [
+     "Tech, the only certified technician Contractor employs, was injured in a car accident",
+     "State law requires a certified solar technician to install the systems",
+     "Injury expected to delay start 'depends on how quickly Tech recovers'"
+    ],
+    "analysis": "Contractor chose to have only one certified technician and could hire or subcontract another certified installer; the injury is a foreseeable business risk and merely a delay, so the defense likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Time of the essence / materiality",
+    "rule": "Timing is a condition or material term only if the contract expressly makes time of the essence or the circumstances show it; courts may treat the recital as showing importance in construction contracts.",
+    "keyFacts": [
+     "Contractor 'promises to start on November 17 and complete by January 1'",
+     "Recital that timely performance is important to avoid delay in opening"
+    ],
+    "analysis": "The recital and fixed dates support treating timing as material, which strengthens Owner's right to terminate, but no express 'time is of the essence' clause exists.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedy \u2013 cover: $10,000 increased cost",
+    "rule": "A non-breaching party who reasonably covers may recover the difference between cover price and contract price, plus incidental/consequential losses, less costs saved.",
+    "keyFacts": [
+     "Owner contracted for $35,000 plus two parking spaces (price reduced $15,000 for the spaces)",
+     "Replacement system costs $60,000"
+    ],
+    "analysis": "Owner's effective contract price was $50,000 (35,000 plus the value of the parking concession she no longer must give), so cover difference is $10,000; if no allowance is made for the spaces the number could be $25,000. Cover is reasonable; the duty to mitigate is met.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedy \u2013 lost profits from delayed opening",
+    "rule": "Consequential damages must be foreseeable at contract formation (Hadley v. Baxendale), proven with reasonable certainty, and mitigated; lost profits of a new business are traditionally too speculative.",
+    "keyFacts": [
+     "Recital that timely performance 'is important to avoid any delay in the opening of Owner's restaurant'",
+     "The restaurant is new and opened in February instead of January 1"
+    ],
+    "analysis": "The recital shows Contractor knew delay would hurt the opening, supporting foreseeability, but the restaurant has no profit history so the 'new business' certainty rule probably bars recovery (some modern courts allow proof by expert evidence); close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedy \u2013 value of lost city tax break",
+    "rule": "Special consequential damages are recoverable only if the breaching party knew or had reason to know of the special circumstances at the time of contracting.",
+    "keyFacts": [
+     "City announced the tax breaks 'yesterday', after the November 13 contract",
+     "Owner told Contractor about them only on November 15, after formation"
+    ],
+    "analysis": "The tax break was not known or foreseeable at formation, so not recoverable, regardless of whether Contractor was told later.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Son's suit \u2013 third-party beneficiary status and vesting",
+    "rule": "An intended beneficiary may enforce a contract if his rights have vested (by manifestation of assent, reliance or suit) and his rights are subject to the promisor's defenses against the promisee.",
+    "keyFacts": [
+     "Son wanted two parking spaces for his business and the contract designates them for him for five years",
+     "Son sues Owner for failure to provide the spaces"
+    ],
+    "analysis": "Son is an intended (donee) beneficiary, but his right was exactly the benefit Contractor bargained for and Owner's promise was given in exchange for installation; since Contractor's breach discharged Owner's duty, Owner may assert it against Son.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Son's claim \u2013 Owner's defense of Contractor's breach",
+    "rule": "The promisor may assert against a third-party beneficiary any defense available against the promisee, including prior material breach by the promisee.",
+    "keyFacts": [
+     "Owner terminated because Contractor could not commit to timely performance",
+     "Owner never provided parking spaces"
+    ],
+    "analysis": "If Contractor was in material breach, Owner's duty to provide parking was discharged and Son recovers nothing; also Son shows no reliance/damages. If Owner's termination was wrongful, Son could recover.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check whether grader expects cover calc of $10,000 (60,000 minus 50,000) as the question suggests; the premature termination (two days before the start date) is a close call that neither answer discussed thoroughly."
+ }
+]

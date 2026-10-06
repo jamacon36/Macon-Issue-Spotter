@@ -1,0 +1,600 @@
+[
+ {
+  "id": "october2022-q1",
+  "issues": [
+   {
+    "name": "Albert – intentional tort (battery) not available",
+    "rule": "Battery requires intent to cause a harmful or offensive contact, or substantial certainty that it will result.",
+    "keyFacts": [
+     "Albert left his gun on the car seat under a towel",
+     "Drew ... used Albert's gun in an armed robbery during which Drew shot and wounded Storeowner"
+    ],
+    "analysis": "Albert never intended or knew to a substantial certainty that Storeowner would be shot; no battery claim lies against him.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Albert – negligence: duty to a remote plaintiff and third-party criminal acts",
+    "rule": "Duty is owed to foreseeable plaintiffs (Cardozo zone of danger; Andrews would extend to all). There is generally no duty to control third parties' crimes, but one who creates an unreasonable risk of foreseeable criminal misuse (such as leaving a firearm accessible) may owe a duty to those who foreseeably might be hurt.",
+    "keyFacts": [
+     "handgun",
+     "left his gun on the car seat under a towel",
+     "Several months later, Carl's roommate Drew ... used Albert's gun in an armed robbery"
+    ],
+    "analysis": "Anyone in the public could foreseeably be harmed by a stolen gun, so a duty plausibly exists, but the months-long gap and unknown victim make Storeowner a remote plaintiff under the Cardozo view. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Albert – breach: standard of care, negligence per se and Hand formula",
+    "rule": "A professional or reasonable person must act as a reasonable prudent person; violation of a statute designed to protect a class of persons from a type of harm is negligence per se absent excuse. The Hand formula finds breach if burden of precaution is less than probability times magnitude of harm.",
+    "keyFacts": [
+     "it is a crime in the state to leave an unattended firearm in a motor vehicle, unless it is kept in the locked trunk or kept in a locked container out of plain view",
+     "left his gun on the car seat under a towel instead of locking it in the trunk as he normally did",
+     "Because he was in a hurry"
+    ],
+    "analysis": "A towel does not meet the statutory requirement of a locked trunk or container. The statute aims to prevent theft and criminal misuse of firearms, so Storeowner (shot in a robbery) is in the protected class and harm; hurry is no excuse, and the low burden of locking the gun outweighs the risk, so breach is established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Albert – causation and superseding criminal acts",
+    "rule": "Actual cause is but-for or substantial factor; proximate cause requires foreseeable harm. Intervening criminal acts of third parties are superseding unless the very risk that made defendant's conduct negligent was that third party's act.",
+    "keyFacts": [
+     "Carl ... broke into the car and took the gun while Albert was inside the pharmacy",
+     "Several months later, Carl's roommate Drew, without Carl's knowledge, used Albert's gun in an armed robbery"
+    ],
+    "analysis": "But for leaving the gun accessible the robbery shooting would not have happened. Theft and misuse of an unsecured gun are the precise harm the statute targets, so Carl's and Drew's crimes are likely foreseeable and not superseding; the months of delay and two successive criminals make it a debatable point.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Albert – defenses and contribution",
+    "rule": "Defenses include comparative or contributory negligence, assumption of risk and superseding cause; joint tortfeasors with indivisible harm are jointly and severally liable with rights of contribution, and indemnity from intentional tortfeasors.",
+    "keyFacts": [
+     "Storeowner",
+     "Drew shot and wounded Storeowner"
+    ],
+    "analysis": "Storeowner was blameless and assumed no risk, so only superseding cause is a real defense (likely failing). Albert may seek contribution from Drew and Carl, but Storeowner can recover fully from Albert; mistake about statutory compliance (towel) is no defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Albert – damages",
+    "rule": "A plaintiff may recover medical expenses, lost earnings, property losses and pain and suffering caused by the tort.",
+    "keyFacts": [
+     "Drew shot and wounded Storeowner"
+    ],
+    "analysis": "Storeowner suffered a physical gunshot injury, so personal-injury damages (medical, pain and suffering, lost income) are recoverable if liability is shown.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bob – respondeat superior and scope of employment (frolic vs. detour)",
+    "rule": "An employer is vicariously liable for an employee's torts committed within the scope of employment; a minor deviation (detour) remains within scope, but a substantial personal deviation (frolic) takes the employee outside it.",
+    "keyFacts": [
+     "Bob sent Albert to a local restaurant to purchase take-out food",
+     "Albert drove five miles in the opposite direction to a pharmacy to pick up some medication that was being held for him",
+     "Bob provides Albert with a uniform, a car, and a handgun"
+    ],
+    "analysis": "The five-mile trip in the opposite direction for Albert's own medication is a personal errand, supporting a frolic and no vicarious liability; Storeowner will argue Albert was still carrying the job-required gun in the work car and mixed purposes. Close call, with the better view that the negligent leaving of the gun occurred during a frolic.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob – direct negligence (negligent hiring, retention, supervision and entrustment)",
+    "rule": "An employer is directly liable for negligently hiring, retaining, supervising or entrusting a dangerous instrumentality to an employee he knew or should have known was unfit; the harm must be caused by that unfitness.",
+    "keyFacts": [
+     "Albert has a license from the state to carry a gun",
+     "Albert has been a model employee",
+     "For two years Albert has worked full-time",
+     "a handgun registered to the dealership"
+    ],
+    "analysis": "Albert was licensed, trained, knew the law and had a flawless record, so Bob had no reason to know he was unfit and was not negligent in entrusting the gun. Storeowner's direct-negligence claim should fail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob – defenses and likely outcome",
+    "rule": "An employer may assert that the employee was outside the scope, that it exercised due care, and that criminal acts of third parties were superseding.",
+    "keyFacts": [
+     "Albert has been a model employee",
+     "Drew ... without Carl's knowledge"
+    ],
+    "analysis": "Bob likely prevails: no direct negligence, Albert's detour likely takes him outside scope, and the later criminal acts further attenuate causation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The scope-of-employment call is close (frolic vs. detour); the two answers reach opposite conclusions. Also check whether the statute applies to Bob as owner of the gun."
+ },
+ {
+  "id": "october2022-q2",
+  "issues": [
+   {
+    "name": "Governing law – common law (services)",
+    "rule": "The UCC governs sales of goods; employment and service contracts are governed by the common law.",
+    "keyFacts": [
+     "open RN position there paying $15,000 per month for 18 months"
+    ],
+    "analysis": "The contract is for services (nursing), so common-law contract principles apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Western Hospital – formation (offer, acceptance, definiteness)",
+    "rule": "An offer is a manifestation of present intent to be bound on definite terms that creates power of acceptance; acceptance may be by promise or performance as the offer invites; terms must be reasonably certain (parties, subject matter, price, duration).",
+    "keyFacts": [
+     "The Director of Western Hospital told Mark, \"We need you badly ... You are hired – come quickly!\"",
+     "18 months",
+     "$15,000 per month",
+     "Mark immediately quit his job at Eastern Hospital"
+    ],
+    "analysis": "The Director's statement is a definite offer of 18 months at $15,000; Mark accepted by quitting and relocating (or implicitly promising to come). Consideration exists (services for salary). Whether acceptance by performance or promise is a minor point. A binding employment contract formed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds – contract not performable within one year",
+    "rule": "A contract that by its terms cannot be performed within one year must be evidenced by a writing signed by the party to be charged; exceptions include promissory estoppel in many courts. Part performance by the employee does not generally satisfy the one-year provision.",
+    "keyFacts": [
+     "18 months",
+     "You are hired – come quickly!",
+     "Mark filled out a job application"
+    ],
+    "analysis": "An 18-month oral hire cannot be performed within a year, so the statute of frauds is Western's best defense unless a signed writing (the application or any writing) or promissory estoppel avoids it. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Promissory estoppel / reliance",
+    "rule": "A promise the promisor should reasonably expect to induce reliance, which does induce actual, detrimental, justifiable reliance, is enforceable to the extent necessary to avoid injustice; remedy may be limited to reliance damages.",
+    "keyFacts": [
+     "Mark immediately quit his job at Eastern Hospital",
+     "paid: (1) $3,000 ... (2) $3,000 ... (3) $4,000"
+    ],
+    "analysis": "Western's \"you are hired – come quickly\" invited Mark to quit and move, and he did, so promissory estoppel is a strong alternative to enforce the promise or at least recover reliance damages and defeat the statute of frauds.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Western's breach and defenses (mistake, condition, experience)",
+    "rule": "Failure to perform when due without excuse is breach; a party who assumes a risk or waives a condition cannot invoke mistake or failure of condition. Mutual mistake needs a basic assumption with risk not borne by the party seeking avoidance; unilateral mistake needs the other side to know or cause it.",
+    "keyFacts": [
+     "because you work for Eastern Hospital, we know that you are qualified",
+     "After reviewing the application, Western Hospital's Director told Mark that he did not have enough experience",
+     "The Director said he would call other hospitals on Mark's behalf"
+    ],
+    "analysis": "Western had represented that it already knew Mark was qualified and made the offer unconditional, so withdrawing it for lack of experience is a repudiation and material breach. Mistake and failure-of-condition defenses fail because Western assumed the risk.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mark's remedies – expectation damages and mitigation",
+    "rule": "Expectation damages equal the benefit of the bargain less costs avoided and earnings from reasonable mitigation; damages must be foreseeable, certain and mitigated. Emotional distress is not recoverable in contract.",
+    "keyFacts": [
+     "$15,000 per month for 18 months",
+     "Mark was offered a similar RN position at Central Hospital in Sacramento at $10,000 per month",
+     "Central Hospital agreed that he did not have to start work there until two months later",
+     "Because Mark was so upset"
+    ],
+    "analysis": "The salary loss is the $5,000 per month difference over the Central term (about $90,000 for 18 months), but Mark's two-month delay in starting at Central was voluntary and not reasonable mitigation, so Western will not owe for those two months; the delay due to being upset is not recoverable emotional distress. Western could argue the Central job mitigated the loss.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mark's remedies – relocation costs (consequential/reliance)",
+    "rule": "Foreseeable incidental and consequential damages caused by breach are recoverable (Hadley v. Baxendale), without double recovery of expectation and reliance.",
+    "keyFacts": [
+     "$3,000 to his New York landlord to end his apartment lease",
+     "$3,000 for a rental truck and gas",
+     "$4,000 for a one-month apartment lease in Sacramento"
+    ],
+    "analysis": "Western knew Mark was moving from out of state (\"come quickly\"), so about $10,000 of moving costs is foreseeable and recoverable (alternatively as reliance), though the $4,000 temporary lease may be challenged as excessive and costs he would have incurred anyway offset expectation. Possible additional recovery of any liability Mark owes Eastern is arguable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Eastern Hospital – breach of employment contract",
+    "rule": "Failure to perform a valid contract without legal excuse is breach; a quit before the term ends is a total breach (or anticipatory repudiation if before performance is due) giving the employer a damages claim.",
+    "keyFacts": [
+     "Mark signed a valid contract with Eastern Hospital in New York requiring that he work for 18 months for $10,000 per month",
+     "One year ago",
+     "Mark immediately quit his job at Eastern Hospital"
+    ],
+    "analysis": "The Eastern contract was valid and Mark abandoned it with about six months remaining, a clear breach; Western's later breach is no excuse. Mark's substantial performance for 12 months does not excuse the unjustified quitting.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Eastern Hospital – damages, mitigation and specific performance",
+    "rule": "Expectation damages equal the cost of reasonable cover above the contract price plus incidental costs; courts do not specifically enforce personal service contracts, and negative injunctions are limited to unique services.",
+    "keyFacts": [
+     "Eastern Hospital hire a new temporary RN on a 6-month contract at $12,500 per month",
+     "$10,000 per month",
+     "nationwide nursing shortage"
+    ],
+    "analysis": "Eastern's reasonable cover cost is $2,500 over six months, so $15,000 plus any incidental recruitment costs. Eastern cannot force Mark to work, and an injunction is unlikely since nursing services are not unique.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Answers' dollar computations differ; exact damages depend on Central's contract length (not stated) and treatment of Mark's two-month start delay. Eastern might also sue Western for tortious interference but the question only asks about Mark."
+ },
+ {
+  "id": "october2022-q3",
+  "issues": [
+   {
+    "name": "Andy – solicitation",
+    "rule": "Solicitation is asking, urging or encouraging another to commit a crime with the specific intent that the person commit it; complete upon the request. Merges into conspiracy or the completed crime.",
+    "keyFacts": [
+     "Andy told Bruce that they should go to a nearby store and get a console that worked",
+     "Out of work and out of money",
+     "you stay in the car and keep the motor running while I go grab us a new game console"
+    ],
+    "analysis": "Andy asked Bruce to drive him and wait, which could be solicitation of larceny or accomplice help, but his words never expressly requested a theft, so proof of intent that Bruce commit a crime is thin. Any solicitation merges into conspiracy or the completed robbery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Andy – conspiracy (agreement, bilateral vs. unilateral)",
+    "rule": "Conspiracy is an agreement between two or more persons to commit a crime, with intent to agree and to achieve the objective; most states, including California, require an overt act. Under the bilateral view both must have the requisite intent; under the MPC unilateral view one guilty party suffices.",
+    "keyFacts": [
+     "Andy told Bruce that they should go to a nearby store",
+     "you stay in the car and keep the motor running",
+     "Bruce ... asked Andy, \"What happened?\"",
+     "Bruce, who against Andy's wishes had turned off the car"
+    ],
+    "analysis": "Bruce's questions after the crime and turning off the engine suggest he never agreed to a theft, so a bilateral conspiracy is doubtful. Under the unilateral MPC rule Andy is guilty because he believed the two had agreed. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andy – larceny and robbery",
+    "rule": "Larceny is trespassory taking and carrying away of another's personal property with intent to permanently deprive. Robbery is larceny from the person or presence of another by force or fear; force used to retain the property or escape during the continuous taking suffices, and larceny merges into robbery.",
+    "keyFacts": [
+     "Andy took a box with a $1,000 game console and headed to the front door",
+     "You'd better get out of my way, or else",
+     "Andy pushed the guard, who lost his balance and fell, hitting his head",
+     "Andy jumped in the car"
+    ],
+    "analysis": "Andy took and carried away the console without paying, with intent to keep it, and used threat and force on the guard to retain it and escape, so he committed robbery (larceny merges). This is the key charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andy – burglary",
+    "rule": "Modern burglary is entry into a structure with intent to commit a theft or felony therein; entering a store open to the public with that intent counts in most states. Common law required a dwelling at night. California's shoplifting statute covers theft of $950 or less, so a $1,000 console leaves burglary available.",
+    "keyFacts": [
+     "Once in the store, Andy took a box with a $1,000 game console",
+     "go grab us a new game console",
+     "out of money"
+    ],
+    "analysis": "Andy planned to steal before entering (out of money, 'grab'), so modern burglary lies; common law burglary does not. Dispute about whether intent existed when he entered.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Andy – assault and battery on the guard",
+    "rule": "Assault is attempted battery or intentionally creating reasonable apprehension of imminent harmful or offensive contact; battery is intentional harmful or offensive contact. Aggravated battery may apply for serious bodily injury.",
+    "keyFacts": [
+     "You'd better get out of my way, or else",
+     "Andy pushed the guard, who lost his balance and fell, hitting his head on the floor"
+    ],
+    "analysis": "The threat and push are assault and battery, merging as to the push; the guard's head injury may support felony/aggravated battery. A guard's privilege to detain a shoplifter does not justify Andy's force.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Andy – defense of voluntary intoxication",
+    "rule": "Voluntary intoxication may negate the specific intent required for specific-intent crimes (larceny, robbery, burglary, conspiracy, solicitation) but not general-intent crimes (battery); in California it is relevant only to whether defendant actually formed the intent.",
+    "keyFacts": [
+     "spent the entire day drinking beer",
+     "Andy was clearly drunk",
+     "Andy took a box ... and headed to the front door",
+     "Let's get out of here before the cops come!"
+    ],
+    "analysis": "Andy was clearly drunk, but he formed a plan, took the item, forced his way out and fled before police arrived, showing actual intent. The defense is weak for theft crimes and unavailable against battery or assault.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bruce – conspiracy and Pinkerton liability",
+    "rule": "A conspirator is liable for all foreseeable crimes of co-conspirators in furtherance of the conspiracy (Pinkerton); conspiracy requires knowing agreement and intent to achieve the crime.",
+    "keyFacts": [
+     "Bruce drove them to the store",
+     "you stay in the car and keep the motor running",
+     "Bruce, who against Andy's wishes had turned off the car, asked Andy, \"What happened?\"",
+     "Out of work and out of money"
+    ],
+    "analysis": "The State will argue that being broke and told to wait with the motor running showed Bruce knew of a theft. His surprise and turning the car off suggest he had no intent to agree, so conspiracy (and Pinkerton liability for the robbery, burglary, battery) is doubtful.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bruce – accomplice liability",
+    "rule": "An accomplice aids, abets or encourages the principal with intent to facilitate the crime and is liable for the crime and its natural and probable consequences.",
+    "keyFacts": [
+     "Bruce drove them to the store in his car",
+     "keep the motor running",
+     "Bruce and Andy then drove away"
+    ],
+    "analysis": "Driving Andy there and waiting as the getaway driver is assistance, but accomplice liability requires intent that the crime occur; Bruce's ignorance (asked what happened; turned off the car) cuts against it. Liability only attaches to the escape if intent is found.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bruce – accessory after the fact",
+    "rule": "An accessory after the fact, knowing a felony has been committed, assists the felon to avoid arrest or prosecution; in California it is a separate offense.",
+    "keyFacts": [
+     "Let's get out of here before the cops come!",
+     "Just like I told you. I grabbed it and ran!",
+     "Bruce and Andy then drove away"
+    ],
+    "analysis": "Once told of the theft, Bruce knowingly drove Andy and the console away from the police, which is accessory after the fact even if he lacked prior intent. Likely his most solid charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bruce – receiving stolen property",
+    "rule": "Receiving stolen property requires receiving or possessing property known to be stolen, with intent to deprive the owner.",
+    "keyFacts": [
+     "I grabbed it and ran",
+     "Bruce and Andy then drove away"
+    ],
+    "analysis": "Bruce knew the console was stolen when he drove away, but he did not clearly take control of it; weak charge. A thief and his accomplices usually cannot be convicted of receiving.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bruce – defenses (lack of intent, withdrawal, intoxication)",
+    "rule": "Lack of knowledge or intent defeats conspiracy and accomplice liability; withdrawal requires timely, complete, communicated abandonment before the crime; voluntary intoxication can negate specific intent.",
+    "keyFacts": [
+     "Bruce, who against Andy's wishes had turned off the car",
+     "Bruce, \"What happened?\"",
+     "spent the entire day drinking beer"
+    ],
+    "analysis": "His best defense is lack of knowledge (he asked what happened and defied Andy by turning off the car). Withdrawal fails because it occurred after the theft, and intoxication is weak since he was sober enough to drive.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Facts support either view of Bruce's knowledge; the key turns on that inference. Check whether answers distinguished bilateral/unilateral conspiracy."
+ },
+ {
+  "id": "october2022-q4",
+  "issues": [
+   {
+    "name": "Governing law – common law (predominant purpose) and formation",
+    "rule": "Under the predominant purpose test, a mixed goods/services contract is governed by the UCC only if goods predominate; otherwise the common law applies. A contract requires offer, acceptance and consideration; a signed writing satisfies any statute of frauds.",
+    "keyFacts": [
+     "renovate the condominium's bathroom with new fixtures and tile; replace the flooring ... repaint",
+     "$100,000, of which $75,000 was for the cost of labor",
+     "Ellen signed an agreement with Contractor"
+    ],
+    "analysis": "With $75,000 of $100,000 for labor, services predominate and the common law governs; a signed written contract was formed and no statute-of-frauds problem exists.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Permit cost – parol evidence, integration and trade usage",
+    "rule": "A fully integrated writing bars prior or contemporaneous agreements that add to or contradict it, but extrinsic evidence of trade usage, course of dealing, or the meaning of ambiguous terms is admissible to interpret or supplement it. Trade usage binds a party who knows or should know of it.",
+    "keyFacts": [
+     "Ellen had understood and believed during her discussions with Contractor that the $100,000 price included all permits",
+     "Contractor had not mentioned the cost of the building permit because in his experience it was typically paid for by the owner and was not addressed in their agreement",
+     "building permit, which he had to obtain before starting work"
+    ],
+    "analysis": "The agreement is silent on permits, so the question is how to fill the gap. Ellen's pre-contract understanding ($100,000 all-in) is admissible to explain the price term, but Contractor will offer trade usage that owners pay; as a layperson Ellen may not be bound by an industry custom she did not know. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Permit cost – mutual misunderstanding / mistake and ambiguity",
+    "rule": "Where parties attach different meanings to a material term and neither knows or has reason to know the other's meaning, there is no mutual assent to that term (Raffles v. Wichelhaus); if one party knows the other's meaning, that meaning governs. A mistake of fact bars recovery only where the risk was not borne by the claimant.",
+    "keyFacts": [
+     "Ellen had understood and believed ... the $100,000 price included all permits",
+     "Contractor had not mentioned the cost of the building permit"
+    ],
+    "analysis": "Each side held a reasonable but different view; neither knew of the other's, which supports a court filling the gap by the more reasonable interpretation or allocating the cost to the drafting party. Likely outcome: court decides by trade usage/ambiguity rules; the result is uncertain, and it does not void the whole contract.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Permit cost – reformation, contractor's restitution and condition",
+    "rule": "Reformation corrects a writing that fails to express the parties' actual agreement because of mutual mistake. A party who confers a necessary benefit may recover its value in quasi-contract; a permit was needed to perform.",
+    "keyFacts": [
+     "Ellen refused to pay Contractor's bill for the cost of City's building permit, which he had to obtain before starting work"
+    ],
+    "analysis": "Ellen's reformation theory requires proof of an actual agreement that the price included permits, which is shaky. Contractor, conversely, may recover permit cost in restitution because it benefited Ellen's property. Treat as secondary theories.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Dylan – intended third-party beneficiary status",
+    "rule": "An intended beneficiary (Restatement 302) may enforce a contract if recognizing his rights is appropriate and the circumstances show the promisee intended to give him the benefit of the promised performance; an incidental beneficiary cannot sue. Rights vest on notice and assent, detrimental reliance, or suing.",
+    "keyFacts": [
+     "Ellen recently bought a small condominium in City for her son Dylan's use during college",
+     "Ellen told Contractor that Dylan was renting an apartment and would move into the condominium as soon as Contractor finished his work"
+    ],
+    "analysis": "Ellen told Contractor of Dylan's use and timing, so Dylan is likely an intended donee beneficiary; the risk is that the work benefits Ellen's property and he is only an incidental beneficiary. Dylan's extension of his lease is detrimental reliance supporting vesting. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dylan – breach for late completion and defenses against beneficiary",
+    "rule": "A beneficiary takes subject to the promisor's defenses against the promisee and the contract's terms; late performance is a material breach only if time is of the essence or the delay is substantial and defeats the contract's purpose.",
+    "keyFacts": [
+     "if the work was not completed within three months, a late fee would be deducted from the price",
+     "Contractor took six months to complete the renovations",
+     "The three-month delay required that Dylan extend his apartment lease"
+    ],
+    "analysis": "Doubling the completion time breached the three-month term, but the contract supplies only a price deduction for lateness, suggesting time was not of the essence and limiting remedies; Contractor's defenses (clause, impracticability) also bind Dylan.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dylan – damages (foreseeability, mitigation, liquidated damages)",
+    "rule": "Consequential damages are recoverable if foreseeable at contracting (Hadley v. Baxendale) and not avoidable; a liquidated damages clause that is a reasonable forecast of loss is enforceable and may limit recovery.",
+    "keyFacts": [
+     "Dylan was renting an apartment and would move into the condominium as soon as Contractor finished",
+     "The three-month delay required that Dylan extend his apartment lease"
+    ],
+    "analysis": "Because Contractor knew Dylan would move out of his apartment on completion, three months' extra rent is foreseeable and recoverable; the late-fee clause may be exclusive or an offset against price.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Contractor – force majeure / delay clause",
+    "rule": "A contract provision excusing delay from causes beyond a party's reasonable control is enforced according to its terms; the party must show the delay resulted from such a cause.",
+    "keyFacts": [
+     "Neither party shall be held liable or responsible to the other party for delay in performing any obligation ... when such delay is the result of causes beyond the reasonable control of that party",
+     "nationwide shortage of those materials, which arose after the agreement was signed",
+     "production and delivery issues for the flooring and tile"
+    ],
+    "analysis": "The post-signing nationwide shortage is a cause beyond Contractor's reasonable control, so the clause likely excuses the delay and bars the late fee, provided he could not reasonably find other suppliers. Strongest defense.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Contractor – impracticability and impossibility",
+    "rule": "Performance is excused if an unforeseen event makes it impracticable (excessively burdensome) or impossible, the event's nonoccurrence was a basic assumption, and the party did not assume the risk; temporary impracticability only suspends performance, and mere increased cost does not suffice.",
+    "keyFacts": [
+     "a nationwide shortage of those materials, which arose after the agreement was signed",
+     "Contractor took six months to complete"
+    ],
+    "analysis": "The shortage arose after signing and did not prevent performance, only delayed it; performance was possible so impossibility fails, and impracticability probably only excuses the delay, not the work itself. Contractor completed performance, so excuse matters only to late damages.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Contractor – frustration of purpose, divisibility and liquidated damages challenge",
+    "rule": "Frustration of purpose requires a supervening event destroying the principal purpose known to both parties; a late-fee clause is enforceable if a reasonable pre-estimate of loss, but unenforceable as a penalty. A divisible contract treats parts separately.",
+    "keyFacts": [
+     "a late fee would be deducted from the price",
+     "renovate the condominium's bathroom ... replace the flooring ... repaint"
+    ],
+    "analysis": "The renovation purpose was not frustrated (the condo remained usable), so frustration fails; divisibility is a weak argument since the work was completed late; the late-fee clause is likely enforceable unless an unreasonable penalty, though the delay excuse likely prevails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Question 3 asks only about Contractor's defenses for lateness; the force majeure clause is a central issue Answer B missed. The third-party-beneficiary classification is a close call that you may want to double-check."
+ }
+]

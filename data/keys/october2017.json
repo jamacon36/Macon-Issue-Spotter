@@ -1,0 +1,593 @@
+[
+ {
+  "id": "october2017-q1",
+  "issues": [
+   {
+    "name": "Negligence \u2013 duty (common carrier standard)",
+    "rule": "A defendant owes a duty of reasonable care to foreseeable plaintiffs; common carriers carrying passengers for hire owe the highest degree of care (in California, utmost care and diligence).",
+    "keyFacts": [
+     "Spacetrip sends paying clients to the moon aboard the Escapade",
+     "Paula purchased the trip and was a passenger"
+    ],
+    "analysis": "Spacetrip, which carries paying passengers, likely owes Paula the heightened duty of a common carrier; at minimum ordinary reasonable care.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 breach: Hand formula and industry custom",
+    "rule": "Breach occurs if the burden of an available precaution is less than the probability times gravity of harm (Hand formula). Compliance with industry custom or standards is relevant evidence but not conclusive.",
+    "keyFacts": [
+     "Parachute system is widely used and listed in the Rocket Industry Standards Manual as 'sufficient to provide adequate safeguards'",
+     "New rocket system is 'much more safely' but 'much more expensive' and 'not tested in real-life situations'",
+     "Spacetrip stuck with the tried-and-true system"
+    ],
+    "analysis": "Custom favors Spacetrip and the untested, expensive alternative cuts against a duty to adopt it; but given the catastrophic magnitude of harm and heightened carrier duty, a jury could find breach. This is a close call, with the investigation finding supporting breach only indirectly.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Res ipsa loquitur",
+    "rule": "Negligence may be inferred if the accident is of a type that ordinarily does not occur absent negligence, the instrumentality was in the defendant's exclusive control, and plaintiff did not contribute.",
+    "keyFacts": [
+     "All systems worked as designed on a clear day",
+     "A totally unpredictable violent storm blew the ship off course and the capsule crashed"
+    ],
+    "analysis": "The cause is known (an unforeseeable storm) so res ipsa adds little; a plaintiff would not rely on it.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Causation \u2013 actual cause and the 'might have led to a better outcome' evidence",
+    "rule": "Plaintiff must show that it is more likely than not that the defendant's breach was a but-for cause of harm.",
+    "keyFacts": [
+     "'Investigations ... indicate that the new rocket escape system might have led to a better outcome'"
+    ],
+    "analysis": "The 'might have' finding is speculative and may not satisfy the preponderance standard, a weakness in Paula's case; the answer should discuss actual cause critically.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Proximate cause \u2013 storm as superseding cause / act of God",
+    "rule": "A foreseeable intervening force does not break causation; an unforeseeable, extraordinary natural event can be a superseding cause unless the very risk that made the conduct negligent materialized.",
+    "keyFacts": [
+     "'totally unpredictable violent storm' blew the Escapade off course",
+     "The escape capsule is meant to protect against malfunctions during ascent"
+    ],
+    "analysis": "Spacetrip argues act of God; Paula counters that bad weather is a foreseeable hazard of flight and the escape system exists to protect against such failures, so the harm falls within the scope of the risk. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict liability \u2013 abnormally dangerous activity",
+    "rule": "A defendant is strictly liable for harm resulting from an abnormally dangerous activity: one involving a high risk of serious harm not eliminable by reasonable care, not of common usage, and inappropriate to the location, with harm arising from the dangerous propensity.",
+    "keyFacts": [
+     "Trip to the moon in a spaceship",
+     "Space exploration 'is dangerous'; Paula was critically injured"
+    ],
+    "analysis": "Commercial space tourism may be abnormally dangerous (uncommon, extreme risk), but courts usually decline to apply strict liability to consenting passengers in carriage and the harm came from the storm rather than the activity's inherent propensity; a weaker claim than negligence.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict products liability \u2013 design defect",
+    "rule": "Commercial sellers/manufacturers are strictly liable for defective products (design defect via consumer-expectation or risk-utility test with reasonable alternative design). Applies to sellers of products, not providers of services.",
+    "keyFacts": [
+     "Spacetrip operates and sells trips aboard the Escapade; it does not appear to sell the spaceship",
+     "The parachute system was a design choice when a safer alternative was available"
+    ],
+    "analysis": "The claim is weak because Spacetrip provides a transport service and did not sell a product to Paula (and manufacturer is not identified); if applicable, the safer but untested alternative design is a close call and state of the art is a defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Misrepresentation / warranty theories",
+    "rule": "A seller of services is liable for a false statement of fact justifiably relied on (negligent misrepresentation); express warranties arise from affirmations of fact forming the basis of the bargain.",
+    "keyFacts": [
+     "Contract statement: 'Spacetrip has taken all reasonable measures to provide a safe voyage'",
+     "Standards Manual says the system is sufficient"
+    ],
+    "analysis": "If Spacetrip did not in fact take all reasonable measures (e.g., by failing to adopt the safer system) the statement could support misrepresentation or breach of contract, but this adds little over negligence and the facts are thin.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense \u2013 express assumption of risk / contractual waiver",
+    "rule": "Express assumption of risk or exculpatory clause bars negligence claims only if clear and unambiguous about releasing the defendant's negligence and not contrary to public policy; carriers cannot generally exculpate themselves from negligence.",
+    "keyFacts": [
+     "Paula signed: 'Although Spacetrip has taken all reasonable measures ... I understand that space exploration is dangerous.'"
+    ],
+    "analysis": "The clause only acknowledges danger and does not release Spacetrip from its own negligence; it affirms that Spacetrip took reasonable measures. It is probably not a waiver, and public policy for common carriers weighs against enforcing one.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 implied/primary assumption of risk",
+    "rule": "A plaintiff who knowingly and voluntarily encounters an inherent risk of an activity cannot recover for harm from that risk (primary), but does not assume risks created by defendant's negligence (secondary merges into comparative fault).",
+    "keyFacts": [
+     "Paula 'wanted an adventure' and acknowledged space exploration is dangerous",
+     "The danger that materialized was a storm and failed capsule"
+    ],
+    "analysis": "Paula knowingly accepted inherent hazards such as weather, so Spacetrip has a plausible primary-assumption argument as to the storm; it does not extend to negligent choice of a less safe escape system.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 contributory/comparative negligence",
+    "rule": "Plaintiff's own unreasonable conduct bars or reduces recovery depending on the jurisdiction (California: pure comparative).",
+    "keyFacts": [
+     "No facts show Paula acted carelessly"
+    ],
+    "analysis": "No conduct by Paula supports this defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense \u2013 compliance with industry standards / state of the art",
+    "rule": "Compliance with custom and regulation is evidence of due care but not conclusive; state of the art is a defense mainly in design defect and failure-to-warn claims.",
+    "keyFacts": [
+     "System listed in Rocket Industry Standards Manual as 'sufficient to provide adequate safeguards'",
+     "New system untested"
+    ],
+    "analysis": "Strong evidence of reasonable care but not dispositive given how much safer the new system might have been.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check whether graders view strict liability (abnormally dangerous) and products liability as proper 'reasonable' causes of action; actual-cause weakness ('might have') is a key point."
+ },
+ {
+  "id": "october2017-q2",
+  "issues": [
+   {
+    "name": "Assault with a deadly weapon (Charles)",
+    "rule": "Assault is an attempted battery or an intentional act creating reasonable apprehension of immediate bodily harm; aggravated when committed with a deadly weapon such as a firearm. Assault is a general intent crime (act intentionally directed at another with knowledge facts would result in force).",
+    "keyFacts": [
+     "Andy pointed the gun at Charles, the cashier, and said 'Give me a drink or I'll shoot'",
+     "Charles hesitated; Andy fired at the ceiling"
+    ],
+    "analysis": "Pointing a loaded gun and threatening to shoot creates reasonable apprehension of immediate harm, so assault with a deadly weapon is established; intoxication is no defense to this general-intent crime.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Attempted robbery (armed)",
+    "rule": "Attempt requires specific intent to commit the target crime and an act beyond mere preparation. Robbery is the trespassory taking of personal property from the person or presence of another by force or fear with intent to permanently deprive.",
+    "keyFacts": [
+     "Andy demanded a drink from the cashier at gunpoint: 'Give me a drink or I'll shoot'",
+     "Andy fired the gun at the ceiling when Charles hesitated",
+     "He had intended to return to the bar but stumbled into the convenience store"
+    ],
+    "analysis": "The demand with a gun is an overt act beyond preparation and shows intent to take the drink by force, so attempted robbery (armed) is likely unless voluntary intoxication negates the specific intent to steal; completed robbery fails as no drink was taken.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Battery / assault with a deadly weapon on Vickie (transferred intent)",
+    "rule": "Battery is the unlawful application of force to another; intent may be transferred, and a reckless or intentional discharge of a firearm toward persons satisfies the mental state for assault/battery with a deadly weapon.",
+    "keyFacts": [
+     "Andy fired the gun; the bullet struck a metal pipe, bounced, and hit Vickie in the arm"
+    ],
+    "analysis": "Andy's intent to scare/assault Charles (or his reckless firing in a store full of customers) is transferred to Vickie, so battery (with a deadly weapon) is established; the ricochet does not break the causation.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Walter \u2013 causation",
+    "rule": "Defendant is liable if his act is the actual and proximate cause of death; a foreseeable response by third parties (such as panicked flight) is not a superseding cause but a coincidental, unforeseeable intervening act is.",
+    "keyFacts": [
+     "Customers rushed outside at the gunshot",
+     "A fleeing customer bumped Walter into the street where he was struck by a car and killed"
+    ],
+    "analysis": "Firing a gun in a store foreseeably causes panic and flight, and a bystander being pushed into the street and struck is a foreseeable consequence, so Andy likely proximately caused Walter's death; the independent driver is the only arguable superseding actor and is weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Walter and Vickie \u2013 implied malice (depraved heart)",
+    "rule": "Malice is express (intent to kill) or implied (conscious disregard for human life / extreme recklessness); the deadly weapon doctrine permits inferring intent to kill but not from firing into the ceiling alone. Intoxication does not negate implied-malice recklessness for voluntary intoxication in most jurisdictions.",
+    "keyFacts": [
+     "Andy fired a handgun inside a store with several customers",
+     "Andy said he never wanted to hurt anybody"
+    ],
+    "analysis": "No intent to kill, but firing a loaded gun in a crowded store is a conscious disregard of life, so implied-malice (second degree) murder is available; reckless-intoxication argument that he was too drunk to appreciate the risk is weak because voluntary intoxication supplies the recklessness.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder (attempted robbery) and its limits",
+    "rule": "A killing during the commission or attempt of an enumerated or inherently dangerous felony (robbery) is murder without separate malice; death must be a proximate result and in furtherance of or during the felony before the felon reaches a place of safety.",
+    "keyFacts": [
+     "Deaths occurred right after Andy's attempted armed robbery",
+     "The shot was fired to get the cashier to comply",
+     "Andy is still in the store area when customers fled"
+    ],
+    "analysis": "The shooting occurred during the attempted robbery, so first-degree felony murder (robbery is enumerated) is a strong theory for both deaths if Andy formed the intent to rob; if intoxication negates specific intent to rob, felony murder fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder of Vickie \u2013 causation (ricochet and hospital infection)",
+    "rule": "Foreseeable intervening events, including negligent medical treatment and infection, do not break causation unless grossly negligent or unforeseeable; the defendant takes the victim as found.",
+    "keyFacts": [
+     "The bullet ricocheted off a pipe and hit Vickie in the arm",
+     "Vickie contracted an infection at the hospital and later died"
+    ],
+    "analysis": "The ricochet is a direct result of firing the gun and a hospital infection is an ordinary risk of treating a gunshot wound, so Andy remains the proximate cause of Vickie's death.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Degrees of murder; premeditation",
+    "rule": "First-degree murder requires premeditation and deliberation or an enumerated felony murder; other malice murders are second degree.",
+    "keyFacts": [
+     "Andy 'flew into a rage', went to his car for his gun, 'got confused' and stumbled into the wrong store",
+     "He intended to return to the bar but instead entered the store"
+    ],
+    "analysis": "The deaths were not intended, so premeditation fails; first-degree liability exists only via felony murder, and otherwise second-degree.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Involuntary manslaughter (alternative)",
+    "rule": "Involuntary manslaughter is an unintentional killing resulting from criminal negligence or an unlawful act not amounting to a felony inherently dangerous; if malice is lacking, this is the fallback.",
+    "keyFacts": [
+     "Andy fired a gun inside a store with customers present and Walter and Vickie died"
+    ],
+    "analysis": "If malice or felony murder fails, criminal negligence or reckless discharge of a firearm supports involuntary manslaughter for both deaths.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 voluntary intoxication",
+    "rule": "Voluntary intoxication can negate specific intent (attempt, premeditation, express malice) but not general-intent crimes, implied malice, or recklessness; in California it does not negate implied malice but may bear on actual malice and the intent for attempted robbery.",
+    "keyFacts": [
+     "Andy 'had a large number of drinks and became intoxicated'",
+     "'Andy claims he was so drunk he did not know what he was doing'",
+     "He stumbled into the wrong business"
+    ],
+    "analysis": "Intoxication might negate the specific intent for attempted robbery and premeditation (and thereby felony murder) but is no defense to assault, battery, or implied-malice murder; his purposeful acts (retrieving the gun, threatening, firing) cut against total unconsciousness.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 heat of passion (provocation) / mitigation",
+    "rule": "Voluntary manslaughter requires adequate provocation that would cause a reasonable person to lose control, no cooling off, and actual provocation.",
+    "keyFacts": [
+     "Andy 'flew into a rage' after the bartender refused to serve him"
+    ],
+    "analysis": "A refusal of further drinks is not adequate provocation, and the conduct was aimed at someone else; the defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check treatment of intoxication in felony murder (negating intent for the predicate felony) and whether to use common-law or California approach for implied malice and intoxication."
+ },
+ {
+  "id": "october2017-q3",
+  "issues": [
+   {
+    "name": "Governing law \u2013 separate UCC and common-law contracts",
+    "rule": "UCC Article 2 governs sales of goods; contracts predominantly for services (installation, cleaning) are governed by the common law. Separate agreements are analyzed separately.",
+    "keyFacts": [
+     "Written contract to purchase vinyl floor tiles for $10,000",
+     "Separate oral agreements the next day to install for $5,000 and two weeks later to clean weekly for a year for $5,000"
+    ],
+    "analysis": "The tile contract is a sale of goods under the UCC (FloorCo a merchant, Owner a non-merchant); installation and cleaning are services under the common law.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Statute of Frauds \u2013 cleaning and installation agreements",
+    "rule": "Under the common-law one-year provision, a contract that by its terms cannot be performed within one year of its making must be in writing signed by the party to be charged. Oral installation is outside SOF; many courts hold full performance by one party (Owner paid) takes the contract out of the one-year provision.",
+    "keyFacts": [
+     "Cleaning contract is oral: weekly for one year, agreed two weeks after the tile contract, before tiles were delivered or installed",
+     "Owner paid $20,000 for tiles, installation and the year of cleaning"
+    ],
+    "analysis": "The cleaning year must begin after installation, so it cannot be completed within a year of the making and SOF applies; but Owner has fully performed her side by paying, which in the majority view makes the oral contract enforceable (otherwise FloorCo gets only a refund). Installation of a week's work is outside SOF.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tiles \u2013 breach by delivering non-conforming Bravo tiles (perfect tender)",
+    "rule": "Under UCC 2-601, the buyer may reject goods that fail in any respect to conform to the contract (perfect tender); a description of goods (brand) is an express warranty (2-313). Substitution of different goods without consent is a breach.",
+    "keyFacts": [
+     "Contract was for beige colored Acme brand tiles",
+     "FloorCo delivered Bravo tiles, 'a more expensive and higher quality' brand, visually identical",
+     "FloorCo emailed that evening: 'We assume you are delighted by our substituting the much better Bravo tiles'"
+    ],
+    "analysis": "Delivery of a different brand breaches the contract and the perfect tender rule, so Owner may reject (with timely notice) or accept, but the breach is unlikely to cause harm because the tiles are better and identical in appearance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Rejection, acceptance, cure and revocation",
+    "rule": "A buyer must reject within a reasonable time and seasonably notify the seller (2-602); failure to reject, or acting inconsistently with the seller's ownership, is acceptance (2-606). A seller may cure where it had reasonable grounds to believe the tender would be acceptable (2-508(2)); acceptance may be revoked only for substantial impairment of value.",
+    "keyFacts": [
+     "Tiles delivered on scheduled date; email sent that evening explaining the substitution",
+     "The Bravo tiles are visually identical and better"
+    ],
+    "analysis": "Owner may promptly reject and demand the Acme tiles, but FloorCo's argument that it reasonably believed the better tiles acceptable gives it a right to cure within a reasonable time; after acceptance, Owner cannot revoke because there is no substantial impairment.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tiles \u2013 remedies and modification argument",
+    "rule": "Damages for accepted nonconforming goods equal the difference between value as accepted and as warranted (2-714); a UCC modification needs good faith but no consideration, though a modification requires the other party's assent (2-209).",
+    "keyFacts": [
+     "Higher-quality, more expensive tiles at the original price",
+     "Facts silent on whether Owner assented to substitution"
+    ],
+    "analysis": "Owner suffers no loss because Bravo tiles are worth more, so damages are zero; there was no assent to modify, so FloorCo is in breach but exposed only to nominal damages, and Owner's remedy is practically rejection and cure or acceptance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Delegation of installation duty to Irving",
+    "rule": "Duties may be delegated unless the contract prohibits it, the performance is personal or requires particular skill or trust, or the obligee has a substantial interest in personal performance; the delegator remains liable, and the obligee may sue the delegate only if he assumed the duty. A novation requires the obligee's consent.",
+    "keyFacts": [
+     "FloorCo 'arranged for and paid Irving, who is an independent contractor flooring installer, to install your vinyl tiles'",
+     "No contract term prohibits delegation; installation of floor tiles is routine work"
+    ],
+    "analysis": "Installing tiles is not a unique personal service, so delegation is permissible without Owner's consent; FloorCo stays liable for Irving's performance and Owner has no right to object unless the delegate performs badly (then sues FloorCo, and perhaps Irving as intended third-party beneficiary of his promise). Owner has no novation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cleaning \u2013 anticipatory repudiation and Owner's remedies",
+    "rule": "A clear statement that a party will not perform is an anticipatory repudiation (UCC 2-610; Restatement 250), entitling the other party to sue immediately or await performance, to cover and recover damages, and to restitution; repudiation may be retracted until the aggrieved party changes position or treats it as final.",
+    "keyFacts": [
+     "Email: 'we will not be cleaning your floors this year and will refund your $5,000 immediately'",
+     "Owner paid $5,000 for a year of cleaning"
+    ],
+    "analysis": "FloorCo's email is an unequivocal repudiation; Owner may recover restitution of $5,000, plus expectation damages for any higher cost of a substitute cleaner (cover) and mitigate; a refund is not a rescission without her agreement.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cleaning \u2013 FloorCo's excuse: impossibility/impracticability",
+    "rule": "Performance is excused only when it becomes impossible or impracticable through an unforeseen event making the non-occurrence a basic assumption; failure of a particular source of supply does not excuse unless the source was specified in the contract.",
+    "keyFacts": [
+     "The new Vinyl-Clean machine's manufacturer ceased production and canceled the order due to a design defect",
+     "The contract was to clean the floors weekly for a year; the machine was FloorCo's own choice ('it would like to use this new machine')"
+    ],
+    "analysis": "The specific machine was not a term of the contract, and other equipment is available; the defense of impossibility/impracticability or frustration should fail, so FloorCo is in breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cleaning \u2013 specific performance unavailable",
+    "rule": "Courts will not order specific performance of personal service contracts (involuntary servitude, supervision difficulty) and will deny equity where damages are adequate.",
+    "keyFacts": [
+     "Owner is 'eager to have a professional company' clean her floors"
+    ],
+    "analysis": "Owner's remedy is damages (cover cost minus contract price) and restitution, not an order to clean.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Duty to mitigate / cover",
+    "rule": "A non-breaching party must take reasonable steps to avoid loss, such as hiring a replacement, and may recover the cost over the contract price.",
+    "keyFacts": [
+     "FloorCo offered to refund $5,000",
+     "Owner can hire another cleaning company"
+    ],
+    "analysis": "Owner should hire a substitute cleaner and recover any extra cost plus incidental damages.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check SOF analysis for the cleaning contract (one-year provision runs from making; many states excuse where one party has fully performed). Student B wrongly concluded SOF was not implicated and wrongly said no breach; student A wrongly framed delegation as 'assignment of rights'."
+ },
+ {
+  "id": "october2017-q4",
+  "issues": [
+   {
+    "name": "Trespass to land",
+    "rule": "Trespass to land is an intentional physical invasion of land in the possession of another without consent or privilege; intent is only to enter the land, and a mistake as to ownership or right to enter is no defense.",
+    "keyFacts": [
+     "Dan entered the cabin using the key under the mat",
+     "The cabin belonged to Polly, not Jill",
+     "Dan stayed overnight"
+    ],
+    "analysis": "Dan intentionally entered Polly's cabin, believing it Jill's; his reasonable mistake does not negate the tort, so trespass is established unless a privilege applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Interference with the bookshelves (fixtures) \u2013 trespass/damage to land",
+    "rule": "Removing or damaging fixtures attached to the land is harm to real property (trespass to land), not conversion of a chattel; damages equal repair or diminution in value.",
+    "keyFacts": [
+     "'built-in wooden bookshelves' removed from the wall",
+     "Dan burned the shelves in the fireplace"
+    ],
+    "analysis": "The shelves were built in, so they were part of the realty; their destruction is an additional trespass/physical harm to Polly's cabin rather than conversion, a nuance many answers miss, though they treat it as trespass to chattels or conversion.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Trespass to chattels / conversion of the books",
+    "rule": "Trespass to chattels is intentional interference with another's personal property causing harm or dispossession; conversion is interference so serious (destruction, taking) that the defendant must pay full value. Mistaken belief of ownership is no defense.",
+    "keyFacts": [
+     "'He also threw in some books that were on the shelves to keep the fire going'",
+     "The books were burned and so destroyed",
+     "Dan's note did not mention the books"
+    ],
+    "analysis": "Burning Polly's books destroyed them, so conversion is established (full fair market value), and trespass to chattels adds nothing; Dan's mistake as to whose books they were is irrelevant.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Conversion of the wood from the shelves (as personal property once severed)",
+    "rule": "Once fixtures are severed they become personalty, and destroying them is conversion measured by value.",
+    "keyFacts": [
+     "Dan removed the shelves and burned them"
+    ],
+    "analysis": "Alternatively, the removed and burned shelves are treated as conversion with damages at fair market value (or cost to replace the shelves), which both students analyzed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defense \u2013 consent (from Jill) and mistake",
+    "rule": "Consent must come from the person entitled to possession; consent by a non-owner is invalid. Reasonable mistake is no defense to intentional property torts.",
+    "keyFacts": [
+     "Jill had told Dan he could use the cabin should the need arise",
+     "The cabin looked 'exactly like Jill's' and the key was under the mat",
+     "The cabin belonged to Polly"
+    ],
+    "analysis": "Jill had no authority over Polly's cabin and Dan's consent theory fails; the look-alike cabin supports good faith (relevant to punitive damages) but not liability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 private necessity",
+    "rule": "Private necessity is a qualified privilege to enter or use another's property to prevent serious harm to oneself or others when reasonably necessary; the actor must pay for any actual harm caused (Vincent v. Lake Erie) and the owner may not resist.",
+    "keyFacts": [
+     "Sudden blizzard with horrific winds on a trail 'far from civilization'",
+     "Dan 'knew that, without shelter, he was likely to succumb to hypothermia and die'",
+     "He burned the bookshelves and some books to stay warm"
+    ],
+    "analysis": "The privilege applies to entry and to use of the shelves and books for warmth, defeating liability for the trespass itself (no punitive damages), but Dan remains liable for actual damage to the property destroyed; question of whether burning the books was necessary (other fuel?) is a close point.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 compensatory for property destroyed",
+    "rule": "For a privileged use under private necessity, plaintiff recovers actual damages: value of destroyed chattels (fair market value at time and place) and repair or replacement cost of real property damage; nominal damages may be awarded for trespass without harm.",
+    "keyFacts": [
+     "Polly's shelves and books missing",
+     "Dan's note apologizes for the shelves and omitted the books"
+    ],
+    "analysis": "Polly may recover the value of the books and cost to restore or replace the shelves (and any wall damage), but not rental value of the night's stay or anything for a privileged entry with no harm; nominal damages for trespass alone.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 emotional distress and punitive damages",
+    "rule": "Punitive damages require malice, oppression or fraud; emotional distress damages for property torts are limited. Good-faith conduct and privilege defeat punitive damages.",
+    "keyFacts": [
+     "Polly was 'outraged that a stranger would use her cabin without her permission'",
+     "Dan left a note with his phone number and apology"
+    ],
+    "analysis": "Dan acted in good faith to save his life and tried to notify the owner; punitive damages are not available, and Polly's outrage is not recoverable emotional distress in a property tort absent special circumstances.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Both students treated the built-in bookshelves as chattels; the key notes the fixture nuance (the foundIn for that issue is empty because neither answer addressed it). Student A invents use of Polly's stationery (not in facts); ignore that."
+ }
+]

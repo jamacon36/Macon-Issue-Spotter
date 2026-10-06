@@ -1,0 +1,763 @@
+[
+ {
+  "id": "november2020-q1",
+  "issues": [
+   {
+    "name": "Dave \u2013 Embezzlement (or larceny/theft by employee-partner)",
+    "rule": "Embezzlement is the fraudulent conversion of property of another that is already lawfully in the defendant's possession, with intent to defraud. Larceny requires a trespassory taking from another's possession; an employee with mere custody commits larceny, one with possession commits embezzlement. A partner can be guilty of stealing partnership funds.",
+    "keyFacts": [
+     "Dave waited on customers in front",
+     "routinely enter less than the actual amount paid into the cash register and keep the difference"
+    ],
+    "analysis": "Dave had access to and control of the receipts and skimmed money belonging to the partnership; embezzlement (or modern consolidated theft) is the best charge. His partner-ownership 'claim of right' fails because the receipts belong to the partnership and he concealed the skimming. Larceny and embezzlement are alternative, not cumulative.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dave \u2013 Solicitation",
+    "rule": "Solicitation is inviting, urging or asking another to commit a crime with the specific intent that the other commit it. It is complete upon the request and merges into the completed crime or a conspiracy in many jurisdictions (Cal.: Pen. Code 653f).",
+    "keyFacts": [
+     "Dave suggested to Bob that when Jayne came in Friday he should grab her purse and run away",
+     "he and Bob could later split the money"
+    ],
+    "analysis": "Dave asked Bob to commit larceny/robbery and intended it be done, so solicitation is complete even though Bob said only that he would think about it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dave \u2013 Conspiracy",
+    "rule": "Conspiracy is an agreement between two or more persons with intent to agree and intent to achieve the unlawful objective; modern/California law also requires an overt act by one conspirator. Agreement may be inferred from conduct.",
+    "keyFacts": [
+     "Bob said that he would think about it",
+     "Bob took Jayne's purse and ran toward the door",
+     "split the money"
+    ],
+    "analysis": "Bob's initially equivocal response is a close call, but his later taking of the purse as Dave proposed supports an implied agreement and is an overt act. Dave's information about Jayne's routine shows intent. Conspiracy does not merge into the completed crime.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dave \u2013 Accomplice liability for Bob's crimes (larceny/robbery/burglary)",
+    "rule": "An accomplice (aider and abettor) is one who, with intent that the crime be committed, solicits, encourages, or aids the principal. He is liable for the target crime and, in California, for its natural and probable consequences.",
+    "keyFacts": [
+     "Dave knew from his conversations with Jayne that she withdrew $250 each Friday",
+     "suggested Bob grab her purse"
+    ],
+    "analysis": "Dave counseled the plan and supplied the key information, so he is an accomplice to the taking of the purse and anything that is a natural and probable result of it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dave \u2013 Pinkerton / vicarious liability for Phil battery and Arlene's death",
+    "rule": "Under Pinkerton, a conspirator is liable for all crimes of co-conspirators that are reasonably foreseeable and in furtherance of the conspiracy (not followed in all states; accomplice natural-and-probable-consequences doctrine in California).",
+    "keyFacts": [
+     "Bob knocked Phil over",
+     "Bob collided with Arlene... she hit her head... and died"
+    ],
+    "analysis": "Violence while fleeing a purse snatching is arguably foreseeable, so Dave could be charged with the battery of Phil. Liability for Arlene's death is closer; it turns on whether the death, and any felony murder theory, was foreseeable. Courts may be reluctant to extend to murder; manslaughter more plausible.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Merger of solicitation / conspiracy with completed crime",
+    "rule": "Solicitation merges into the completed or attempted offense; conspiracy generally does not merge with the substantive crime.",
+    "keyFacts": [
+     "solicitation",
+     "completed larceny"
+    ],
+    "analysis": "Dave cannot be convicted of both solicitation and the completed crime as accomplice; conspiracy may be charged additionally.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Dave \u2013 Robbery and felony murder via accomplice liability",
+    "rule": "Robbery is larceny from a person or presence by force or fear (force used to retain/escape can suffice in some states). Felony murder: death during a dangerous enumerated felony (robbery, burglary) is murder; accomplices/co-conspirators are liable if the death is in the res gestae of the felony.",
+    "keyFacts": [
+     "Bob knocked Phil over and ran outside",
+     "collided with Arlene while looking back to see if anyone was following him"
+    ],
+    "analysis": "If the purse snatching plus force on Phil is robbery (or the entry was burglary), Arlene's death during flight is felony murder for Bob and potentially Dave. This is a stretch for Dave but a charge a prosecutor could reasonably bring; the stronger answer flags it.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Bob \u2013 Larceny of the purse",
+    "rule": "Larceny is the trespassory taking and carrying away of tangible personal property of another with intent to permanently deprive.",
+    "keyFacts": [
+     "Bob walked past her table, took Jayne's purse and ran toward the door"
+    ],
+    "analysis": "All elements met; Bob took Jayne's purse without consent and intended to keep it/split the cash.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Robbery",
+    "rule": "Robbery is larceny from the person or immediate presence of the victim by force or intimidation (force may be used to take or to retain/escape in many jurisdictions).",
+    "keyFacts": [
+     "set her purse down on a table",
+     "tried to block the door",
+     "Bob knocked Phil over"
+    ],
+    "analysis": "The purse was in Jayne's immediate presence, but no force or fear was used on her; force was used on Phil, who tried to stop him, after the taking. Majority/CL view is no robbery (larceny) unless force is used to retain the property against a person; arguable under the modern 'escape' theory and California law. Both answers rejected robbery without discussing the force on Phil.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Burglary",
+    "rule": "Common law burglary requires breaking and entering a dwelling at night with intent to commit a felony; modern/California law covers entry into any structure with intent to commit theft or a felony.",
+    "keyFacts": [
+     "D&E's Delicious Donuts",
+     "Bob walked past her table"
+    ],
+    "analysis": "Entry into an open store is not CL burglary; under the modern statute it is burglary only if Bob had the intent to steal when he entered. Facts that he only said he would 'think about it' make the timing of his intent a close call.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bob \u2013 Assault and battery of Phil",
+    "rule": "Battery is the intentional unlawful application of force causing harmful or offensive contact; assault is an attempted battery or intentional act creating reasonable apprehension of imminent battery.",
+    "keyFacts": [
+     "Phil... tried to block the door",
+     "Bob knocked Phil over"
+    ],
+    "analysis": "Bob intentionally knocked Phil down to escape; battery clearly established, assault merges.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Battery/assault of Arlene",
+    "rule": "Battery requires intent (or reckless/criminal negligence in some states) to apply force; transferred intent does not apply as no intent to hit anyone else.",
+    "keyFacts": [
+     "While Bob was running down the street and looking back",
+     "collided with Arlene, knocking her to the ground"
+    ],
+    "analysis": "Bob did not intend to hit Arlene; battery by recklessness or as part of fleeing is arguable. Likely merges into the homicide charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bob \u2013 Causation of Arlene's death",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeable, no superseding event).",
+    "keyFacts": [
+     "Arlene hit her head on the sidewalk and died",
+     "running... looking back to see if anyone was following"
+    ],
+    "analysis": "But for Bob's flight Arlene would not have died; a collision with a pedestrian while fleeing is foreseeable; no intervening cause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Murder (malice: intent, depraved heart)",
+    "rule": "Murder is unlawful killing with malice aforethought: intent to kill, intent to inflict serious bodily harm, depraved-heart recklessness, or felony murder.",
+    "keyFacts": [
+     "looking back to see if anyone was following him",
+     "collided with Arlene"
+    ],
+    "analysis": "No intent to kill or seriously injure. Running while looking backward is negligent or perhaps reckless but not extreme indifference to human life; depraved heart is unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Felony murder",
+    "rule": "A killing in the commission or attempt (including flight) of an inherently dangerous enumerated felony (burglary, robbery, etc.) is murder, subject to the merger and res gestae limits. Larceny alone is not an enumerated felony.",
+    "keyFacts": [
+     "took Jayne's purse and ran",
+     "knocked Phil over",
+     "Arlene... died"
+    ],
+    "analysis": "If the taking is only larceny, no felony murder. If it is robbery (force on Phil) or burglary, Arlene's death in immediate flight is within the res gestae and Bob faces felony murder (first degree in California). Both answers dismissed felony murder without analyzing the robbery/burglary theory.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Involuntary manslaughter",
+    "rule": "Involuntary manslaughter is an unintentional killing by criminal negligence/recklessness or in commission of an unlawful act (misdemeanor or non-dangerous felony).",
+    "keyFacts": [
+     "running down the street... looking back",
+     "Arlene... died"
+    ],
+    "analysis": "Even if murder fails, Bob's reckless flight supports involuntary manslaughter.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob \u2013 Conspiracy/accomplice liability for Dave's crimes",
+    "rule": "A conspirator/accomplice is liable for crimes of co-participants in furtherance of the plan.",
+    "keyFacts": [
+     "Dave... split the money"
+    ],
+    "analysis": "Bob is a co-conspirator and may be charged with conspiracy; Dave's embezzlement is unrelated to the plan, so Pinkerton gives no added liability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check robbery (force on Phil during escape), burglary and felony murder analysis; both answers missed or dismissed them. Pinkerton vs. California natural-and-probable-consequences for Dave."
+ },
+ {
+  "id": "november2020-q2",
+  "issues": [
+   {
+    "name": "Governing law \u2013 common law (services contract)",
+    "rule": "UCC Article 2 governs sale of goods; contracts predominantly for services, including painting where the customer supplies materials, are governed by common law.",
+    "keyFacts": [
+     "offered him $3,000... repaint the interior walls",
+     "John said that he would supply Karl with all the paint"
+    ],
+    "analysis": "The main object is labor, and John supplies the paint, so common law applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Statute of Frauds \u2013 John/Karl painting contract",
+    "rule": "SOF requires a writing for land sales, one-year contracts, suretyship, marriage, executor and UCC goods over $500; services contracts that can be performed within a year are outside the statute.",
+    "keyFacts": [
+     "orally agreed",
+     "within the next three weeks"
+    ],
+    "analysis": "Painting to be completed within three weeks falls outside the statute, so the oral agreement is enforceable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation of John\u2013Karl contract (offer, acceptance, consideration)",
+    "rule": "A valid contract needs an offer, acceptance and consideration; offer is definite and communicated.",
+    "keyFacts": [
+     "offered him $3,000 if Karl would 'within the next three weeks, repaint the interior walls'",
+     "Karl orally agreed"
+    ],
+    "analysis": "Offer with price, subject and time; unqualified acceptance and exchange of promises, so a contract formed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mutual mistake / latent ambiguity about condo location",
+    "rule": "Where parties attach different meanings to a material term and neither knows or has reason to know of the other's meaning, there may be no contract (Peerless/Raffles); under the objective theory the court asks what a reasonable person would understand.",
+    "keyFacts": [
+     "Karl... thinking that the condo was in the same city",
+     "In fact, the condo was 250 miles away",
+     "my small condo where my niece Martha lives"
+    ],
+    "analysis": "Karl misunderstood the location; John said nothing about it. The objective view favors a contract, so a court likely finds assent, but this issue is a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl's unilateral mistake",
+    "rule": "Unilateral mistake is a defense only if material and the other party knew or had reason to know of it, or enforcement would be unconscionable; the mistaken party generally bears the risk if he did not inquire.",
+    "keyFacts": [
+     "Karl... learned for the first time that the condo was 250 miles away",
+     "he would not be able to paint a condo 250 miles away for $3,000"
+    ],
+    "analysis": "Karl bore the risk of failing to ask where the condo was; no evidence John knew. Mistake probably fails as a defense, and Karl's real objection is cost.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Martha as third-party beneficiary of John\u2013Karl contract",
+    "rule": "A third party may enforce if she is an intended beneficiary: recipient of performance whom the promisee intended to benefit (donee or creditor); incidental beneficiaries cannot enforce. Rights vest on reliance, assent, or suit (Restatement 2d 302, 311).",
+    "keyFacts": [
+     "my niece Martha lives",
+     "Martha had suggested to John that the condo needed repainting"
+    ],
+    "analysis": "Martha is identified in the offer, but this may merely describe the condo; John also planned to give her the condo, supporting donee intent. Likely an intended donee beneficiary, though arguable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Vesting and rescission by John and Karl before Martha relied",
+    "rule": "Promisor and promisee may modify or rescind the contract without the beneficiary's consent until her rights vest by reliance, assent or suit. A mutual rescission ('Let's forget the whole thing') discharges the duties.",
+    "keyFacts": [
+     "John told Karl, 'Let's forget about the whole thing'",
+     "Martha was disappointed to hear... she told him that she would pay someone else"
+    ],
+    "analysis": "John and Karl agreed to end the contract before Martha knew or relied (her hiring another painter came afterward), so her rights had not vested. Martha's claim against Karl is probably barred. Mere disappointment is not assent or reliance.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl's excuse \u2013 impossibility / impracticability",
+    "rule": "Performance is excused if rendered impracticable by an event whose nonoccurrence was a basic assumption, without fault; loss of a particular means of performance or increased cost does not suffice unless extreme.",
+    "keyFacts": [
+     "Karl's painting truck with all his equipment was destroyed in an accident that was not Karl's fault",
+     "he very much doubted that he would be able to replace his truck"
+    ],
+    "analysis": "Loss of the truck is a personal inconvenience; a painter can borrow or rent equipment, so impracticability probably fails. Raising location/lodging cost was a mistake issue, not discharge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Repudiation / breach by Karl",
+    "rule": "A clear and unequivocal statement that a party will not perform is an anticipatory repudiation, letting the other party suspend performance and sue; doubt about ability may justify a demand for adequate assurance.",
+    "keyFacts": [
+     "Karl called John to tell him that he would not be able to paint the condo",
+     "he very much doubted that he would be able to replace his truck"
+    ],
+    "analysis": "Karl effectively refused to perform on the original terms before the due date, so breach/repudiation. His statement that he would perform only with travel expenses is a repudiation or an attempted modification.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl's demand for additional money (modification / pre-existing duty)",
+    "rule": "At common law a modification requires new consideration unless unforeseen difficulties; John's rejection means no modification occurred.",
+    "keyFacts": [
+     "he would not be able to paint a condo 250 miles away for $3,000 unless John paid all his travel and lodging expenses"
+    ],
+    "analysis": "John did not agree, so no modification; Karl's demand does not excuse nonperformance.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Martha's damages against Karl",
+    "rule": "Expectation damages are the cost of cover plus incidental damages less the contract price; consequential damages must be foreseeable and certain.",
+    "keyFacts": [
+     "she told him that she would pay someone else $3,000",
+     "paid him an additional $12,000 to install a new kitchen floor, new kitchen appliances, and new bathroom fixtures"
+    ],
+    "analysis": "Cover cost equals the contract price, so little or no damages; the $12,000 renovation is not foreseeable consequential loss to Karl and was Martha's own choice.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Martha v. John \u2013 Promise to give the condo (contract / unilateral contract)",
+    "rule": "A contract needs mutual assent and consideration; a gratuitous promise is unenforceable; a promise conditioned on the performance of an act may be a unilateral contract if the act is bargained for.",
+    "keyFacts": [
+     "John promised Martha that he would give her the condo when she graduates",
+     "she will do in a few months"
+    ],
+    "analysis": "The promise to give the condo on graduation is arguably a gift promise; graduation is more a condition than bargained-for consideration, so no enforceable contract likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Promissory estoppel \u2013 Martha v. John",
+    "rule": "A promise is enforceable to the extent necessary to avoid injustice where the promisor should reasonably expect reliance, the promisee actually and reasonably relied, to her detriment.",
+    "keyFacts": [
+     "On various occasions, John promised Martha",
+     "she paid someone else $3,000",
+     "paid him an additional $12,000"
+    ],
+    "analysis": "John should foresee that Martha would improve the condo; she relied by spending $15,000. Reliance on the repainting is somewhat less clear. Promissory estoppel is her best claim and relief is typically limited to reliance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds \u2013 promise to convey land; part performance",
+    "rule": "A contract for the sale of an interest in land must be in a signed writing; exceptions include part performance (possession, payment, improvements) and promissory estoppel.",
+    "keyFacts": [
+     "owned by her uncle, John",
+     "no writing",
+     "the condo"
+    ],
+    "analysis": "The oral promise to convey the condo is within the statute. Martha lived there and made improvements, which can support part performance or estoppel, but possession preceded the promise, a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Remedies against John \u2013 specific performance versus reliance",
+    "rule": "Specific performance of a land promise requires an enforceable contract; promissory estoppel may allow reliance damages only.",
+    "keyFacts": [
+     "John told her that he could no longer afford to give her the condo and instead would be selling it",
+     "$15,000"
+    ],
+    "analysis": "If the contract is enforceable, Martha could seek conveyance; otherwise recover $15,000 in reliance (and perhaps restitution/improvements).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "John's defenses \u2013 lack of consideration, gratuitous promise, hardship",
+    "rule": "Gratuitous promises lack consideration; changed financial circumstances do not discharge a duty; reliance must be reasonable.",
+    "keyFacts": [
+     "John told her that he could no longer afford to give her the condo"
+    ],
+    "analysis": "John will argue the promise was a gift, unsupported by consideration, and unenforceable; financial inability is not an excuse and is not impracticability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Foreseeability and reasonableness of Martha's reliance",
+    "rule": "Reliance must be foreseeable to the promisor and reasonable.",
+    "keyFacts": [
+     "Martha had suggested to John that the condo needed repainting",
+     "At her painting contractor's suggestion, she paid him an additional $12,000"
+    ],
+    "analysis": "Improvements to property one expects to own are foreseeable; the extras were undertaken at the contractor's suggestion, not John's, which may make them less foreseeable.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Vesting/rescission before reliance is the key point on the Martha v. Karl claim; check promissory estoppel scope for $12,000 renovations."
+ },
+ {
+  "id": "november2020-q3",
+  "issues": [
+   {
+    "name": "Alice \u2013 Strict products liability (manufacturing defect)",
+    "rule": "A commercial supplier is strictly liable for injury caused by a product that is defective when it leaves its control and is used in a reasonably foreseeable manner. A manufacturing defect is a departure from the manufacturer's own intended design.",
+    "keyFacts": [
+     "frame... composed of aluminum tubes welded together",
+     "several of the tubes had not been properly welded together",
+     "never seen such sloppy welds"
+    ],
+    "analysis": "Poor welds deviated from design and caused the frame to collapse; the defect existed when the bike was sold, so strict liability is established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alice \u2013 Causation and damages",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeable harm), plus actual injury.",
+    "keyFacts": [
+     "without warning, the frame collapsed, causing her to crash and suffer serious injuries"
+    ],
+    "analysis": "The defect caused the collapse and crash; no intervening cause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alice \u2013 Negligence (duty, breach, res ipsa loquitur)",
+    "rule": "A manufacturer owes a duty of reasonable care in design, assembly and inspection; breach may be shown through res ipsa loquitur where the defect would not exist without negligence and the product was in the defendant's control.",
+    "keyFacts": [
+     "Manufacturer produces and sells fully-assembled bikes",
+     "sloppy welds"
+    ],
+    "analysis": "Failure to weld properly and inspect is a breach; res ipsa supports negligence given control and the mechanic's statement.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alice \u2013 Implied warranty of merchantability",
+    "rule": "UCC 2-314: goods sold by a merchant must be fit for ordinary purposes; a defective frame breaches it, privity is not required in modern law for personal injury.",
+    "keyFacts": [
+     "Alice purchased one of Manufacturer's commuter bikes",
+     "frame collapsed"
+    ],
+    "analysis": "A bike whose frame breaks in normal use is not merchantable; Alice bought directly, so privity is satisfied. Notice timing aside, claim viable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses to Alice's claims",
+    "rule": "Strict liability: assumption of risk and unforeseeable misuse; negligence: comparative negligence (California pure comparative).",
+    "keyFacts": [
+     "riding it to work"
+    ],
+    "analysis": "Alice was using the bike as intended and unaware of the defect, so no valid defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bill \u2013 Strict liability: design defect",
+    "rule": "A product is defectively designed if it fails the consumer-expectations test, or if its risks outweigh benefits (risk-utility; California shifts burden to defendant), considering feasible safer alternatives.",
+    "keyFacts": [
+     "reduced the thickness of the carbon tubing by one millimeter in comparison to its competitors",
+     "made the bike less stable",
+     "considerably weaker and subject to breakage"
+    ],
+    "analysis": "Intentionally thinner tubing to save weight made the entire line more breakable, and competitors' thicker tubing is a feasible alternative. Manufacturer will argue weight benefits for racing; reviews show risk was known. Design defect likely, and the break is a design rather than manufacturing defect since the bike was built as designed.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill \u2013 Failure to warn",
+    "rule": "A supplier must warn of known or knowable non-obvious risks that could be dangerous in foreseeable use.",
+    "keyFacts": [
+     "Several reviews... suggested... considerably weaker and subject to breakage"
+    ],
+    "analysis": "Manufacturer knew from reviews of the breakage risk and gave no warning (none indicated), so a warning defect is plausible.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill \u2013 Negligence",
+    "rule": "Manufacturer must use reasonable care in design; knowledge of safety risks and trading safety for performance can be a breach; industry custom is relevant but not conclusive.",
+    "keyFacts": [
+     "In order to make its racing bikes lighter than any other",
+     "Many of Manufacturer's competitors also produce racing bikes with carbon frames"
+    ],
+    "analysis": "Cutting material below competitors' thickness despite warnings is below reasonable care; competitors' use of carbon only shows carbon itself is acceptable, not thinner tubes.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill \u2013 Causation and defect existing at sale",
+    "rule": "The defect must exist when the product left the manufacturer and cause the injury; use over six months does not defeat claim absent substantial change.",
+    "keyFacts": [
+     "Six months later during a race, the frame on Bill's bike collapsed",
+     "one of the carbon fiber tubes... had cracked and broken in half"
+    ],
+    "analysis": "Investigation shows the tube failed; thin tubing is the likely cause. Manufacturer may argue racing stress or wear and the six months of use.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill \u2013 Implied warranties (merchantability, fitness for particular purpose)",
+    "rule": "Merchantability: fit for ordinary purposes of such goods. Fitness: seller knows buyer's particular purpose and that the buyer relies on the seller's skill to select goods.",
+    "keyFacts": [
+     "road racing bikes",
+     "Bill... during a race"
+    ],
+    "analysis": "Racing is the ordinary purpose of a racing bike, so merchantability is breached; a separate fitness warranty adds little since Bill chose a standard model and the seller did not select goods for him.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses to Bill's claims (assumption of risk, misuse, comparative fault)",
+    "rule": "Comparative negligence/assumption of risk may reduce recovery; foreseeable use is not misuse.",
+    "keyFacts": [
+     "during a race"
+    ],
+    "analysis": "Racing is the intended use for a racing bike; Bill had no known danger, though reviews were public so Manufacturer may argue he knew the risk of lighter frames.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "B's Bill analysis mistakenly refers to faulty welding. California risk-benefit test (Barker) with burden-shifting is worth confirming."
+ },
+ {
+  "id": "november2020-q4",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2 (goods) and merchants",
+    "rule": "UCC Article 2 governs contracts for the sale of goods, including specially manufactured goods; merchants are held to a higher standard and special rules apply to them.",
+    "keyFacts": [
+     "Seller is in the business of building and selling musical instruments",
+     "specially manufacture a custom banjo"
+    ],
+    "analysis": "A custom banjo is a good, so UCC applies; Seller is a merchant, and Buyer, a professional musician, is probably a merchant or at least unsophisticated, a close call that matters little.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Statute of Frauds \u2013 specially manufactured goods exception",
+    "rule": "UCC 2-201: a contract for goods of $500 or more requires a signed writing, but there is an exception for goods specially made for the buyer that are not suitable for sale to others in the ordinary course, where the seller has substantially begun manufacture or made commitments before notice of repudiation.",
+    "keyFacts": [
+     "for $15,000",
+     "specially manufacture",
+     "Buyer's name engraved on the neck",
+     "Halfway into the project",
+     "Seller could only sell it for $5,000"
+    ],
+    "analysis": "No writing, but the engraved banjo is not suitable for resale to others, and Seller was halfway done when Buyer repudiated, so the exception applies. Buyer will not prevail. Other exceptions (admission, part performance, written confirmation) are unavailable on the facts.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Price modification \u2013 2-209 good faith, no consideration needed",
+    "rule": "Under UCC 2-209, an agreement modifying a contract needs no consideration if made in good faith; the SOF applies to the modified contract if within the statute.",
+    "keyFacts": [
+     "Halfway into the project, Seller and Buyer agreed to increase the price of the banjo to $20,000 due to an increase in the cost of materials"
+    ],
+    "analysis": "A cost increase is a good-faith reason, and Buyer agreed; no duress suggested. Modified contract is also removed from SOF by the special-manufacture exception. Buyer's consideration argument (common law preexisting duty) fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Touring case \u2013 whether an express/implied term (course of dealing, usage, parol evidence)",
+    "rule": "Terms may be supplemented by course of performance, course of dealing (sequence of previous transactions) and usage of trade; a single prior transaction generally does not create a course of dealing; parol evidence rule applies to integrated writings only; implied terms do not exist for a free extra given earlier.",
+    "keyFacts": [
+     "Ten years ago... written contract did not mention a touring banjo case",
+     "Seller gave one to Buyer along with the banjo at no additional cost",
+     "agreed that for $15,000 Seller would specially manufacture"
+    ],
+    "analysis": "The case was a gratuity ten years ago, a single transaction that is not a course of dealing, and the present agreement is oral, with no case mentioned. No evidence of trade usage. Buyer has no basis to claim breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Buyer's rejection \u2013 perfect tender and wrongful rejection/repudiation",
+    "rule": "Under the perfect tender rule a buyer may reject goods failing in any respect to conform to the contract; failure to deliver an unpromised accessory is not nonconformity, and wrongful rejection is a breach by the buyer.",
+    "keyFacts": [
+     "Buyer refused to accept it because Seller had not included a touring banjo case"
+    ],
+    "analysis": "The banjo conformed to the contract; Buyer's refusal was a wrongful rejection (breach), so Seller prevails.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Seller's damages \u2013 resale (2-706) and contract price",
+    "rule": "Seller may recover contract price minus resale price (made in good faith and in a commercially reasonable manner), plus incidental damages, less expenses saved; alternative market-differential or lost-profit measures.",
+    "keyFacts": [
+     "agreed to increase the price... to $20,000",
+     "Seller could only sell it for $5,000"
+    ],
+    "analysis": "Contract price $20,000 less resale $5,000 yields $15,000; the $15,000 figure is not the original price, so the modification matters. Resale was reasonable given the engraved name.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Seller's incidental damages \u2013 $1,000 commission",
+    "rule": "Under UCC 2-710, incidental damages include commercially reasonable expenses incurred in stopping delivery, transporting, care and custody, and in connection with the return or resale of goods.",
+    "keyFacts": [
+     "Seller had to pay a $1,000 commission to a musical instrument dealer who found the new purchaser"
+    ],
+    "analysis": "A commission to find a buyer for a custom item is a reasonable resale expense, so Seller recovers an additional $1,000, total $16,000; Buyer may argue it is excessive.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other measures \u2013 reliance, restitution, lost profits",
+    "rule": "Reliance and restitution are alternatives only when expectation cannot be shown; a lost-volume seller may claim lost profits under 2-708(2).",
+    "keyFacts": [
+     "Seller is in the business of building and selling musical instruments"
+    ],
+    "analysis": "Expectation via 2-706 is adequate; no down payment appears. Lost-volume status is possible but unnecessary on the facts.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Neither answer discussed lost-volume seller status or the SOF requirements (substantial beginning of manufacture) in detail; A mislabels incidental damages as consequential."
+ }
+]

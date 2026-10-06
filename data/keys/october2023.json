@@ -1,0 +1,647 @@
+[
+ {
+  "id": "october2023-q1",
+  "issues": [
+   {
+    "name": "Governing law \u2013 services (common law)",
+    "rule": "UCC Art. 2 governs sales of goods; contracts predominantly for services are governed by the common law (predominant purpose test).",
+    "keyFacts": [
+     "install her own brewery equipment",
+     "$100,000",
+     "Otto agreed to paint the building's walls"
+    ],
+    "analysis": "Jack installs Helga's own equipment and Otto paints murals; both are predominantly services, so common law applies.",
+    "foundIn": [
+     "B",
+     "C"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Liquidated damages \u2013 penalty vs. reasonable forecast",
+    "rule": "A liquidated damages clause is enforceable if damages were difficult to estimate at formation and the amount is a reasonable forecast of probable loss (Restatement 356); a clause disproportionate to anticipated or actual harm is an unenforceable penalty.",
+    "keyFacts": [
+     "Jack might need to turn down other jobs",
+     "$50,000 in liquidated damages if she terminates",
+     "contract price $100,000",
+     "before construction begins",
+     "much more profitable year-long contract"
+    ],
+    "analysis": "Lost opportunity from turning down jobs is hard to estimate, which favors validity, but $50,000 is half the price for a 4-week job, applies to any pre-construction termination regardless of timing, and Jack in fact replaced the work immediately. Likely an unenforceable penalty; close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Was there a breach/trigger for the clause (termination before construction)",
+    "rule": "Liquidated damages are owed only if the triggering breach occurs; repudiation/termination by a party without excuse is a breach; non-breaching party then limited to the clause if valid, else actual (expectation) damages less mitigation.",
+    "keyFacts": [
+     "Helga told Jack that the contract obviously was over",
+     "Jack showed up to install",
+     "sued Helga for breach"
+    ],
+    "analysis": "Helga's statement is a repudiation; whether it is 'termination before construction begins' is arguable since Jack had arrived. If the clause fails, Jack gets expectation damages (profit) reduced by avoided costs; his new contract may show little loss.",
+    "foundIn": [
+     "B",
+     "C"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Assignment of rights vs. delegation of duties",
+    "rule": "Contract rights are generally assignable and duties delegable absent a contrary term, unless the assignment materially changes the obligor's duty, risk or burden, or violates law/policy; the delegator remains liable.",
+    "keyFacts": [
+     "The contract did not have any provisions concerning assignment or delegation",
+     "Otto left the country and assigned Helga's contract to one of his art students, Max"
+    ],
+    "analysis": "Otto purported to assign the whole contract, i.e., delegate his duty to paint. Silence means the general rule of delegability applies, subject to the personal-services exception.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Personal services / unique skill exception",
+    "rule": "Duties that involve personal skill, judgment, taste or reputation cannot be delegated without the obligee's consent; the obligee may refuse substituted performance.",
+    "keyFacts": [
+     "highly-skilled and famous German muralist",
+     "Max, who was training to be a muralist",
+     "Helga refused to let Max paint"
+    ],
+    "analysis": "Helga contracted for a famous muralist's artistry; a student is not a substitute. Delegation is ineffective and Helga may refuse Max. Otto remains bound (no novation) and his departure may be repudiation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mutual mistake",
+    "rule": "Contract is voidable by a party adversely affected where both parties were mistaken about a basic assumption existing at formation that materially affects the exchange, and the party does not bear the risk of the mistake.",
+    "keyFacts": [
+     "he discovered, much to his and to Helga's surprise, that the building's floor would not support the heavy brewery equipment"
+    ],
+    "analysis": "Both were unaware at formation of the floor's weakness, a basic assumption. But Helga owned the building and arguably bore the risk (conscious ignorance/greater knowledge), and Jack as contractor might also have inspected. Close call; likely Helga bears risk.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Impracticability / impossibility",
+    "rule": "Performance is excused where an unforeseen event, whose non-occurrence was a basic assumption, makes performance extremely and unreasonably burdensome; mere increased cost is not enough unless extreme and risk was not assumed.",
+    "keyFacts": [
+     "The cost to build additional support for the floor was prohibitive"
+    ],
+    "analysis": "Installation is possible, but only at prohibitive cost to fix a pre-existing condition. A pre-existing defect is better analyzed as mistake; cost increase alone usually fails, and the owner of the building likely bore the risk.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Frustration of purpose",
+    "rule": "Excuses a party when an unforeseen supervening event destroys the principal purpose of the contract known to both parties, without fault and where risk was not assumed.",
+    "keyFacts": [
+     "Helga decided to open a German-themed restaurant and beer garden",
+     "install her own brewery equipment"
+    ],
+    "analysis": "Helga's purpose of running the beer garden is not destroyed (she can fix the floor or buy lighter equipment); the problem is cost and a pre-existing condition. Weak defense.",
+    "foundIn": [
+     "B",
+     "C"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Jack's mitigation / damages",
+    "rule": "Non-breaching party must mitigate and damages are net of savings; a lost-volume seller may recover profits despite replacement work if he could have performed both.",
+    "keyFacts": [
+     "That same week, Jack entered into a much more profitable year-long contract"
+    ],
+    "analysis": "Jack's immediate replacement contract undercuts claimed loss unless he could have performed both; supports penalty finding and limits recovery.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Check close calls: penalty analysis and risk allocation for floor mistake."
+ },
+ {
+  "id": "october2023-q2",
+  "issues": [
+   {
+    "name": "Paul \u2013 negligence: landowner duty to trespasser",
+    "rule": "Common law: no duty to undiscovered trespassers; to known or anticipated trespassers on a limited area, duty to warn of or make safe artificial, concealed dangers known to the possessor (Rest. 2d 335; California applies Rowland reasonable-care duty regardless of status, with trespass relevant to reasonableness).",
+    "keyFacts": [
+     "sneak onto Don Denardi's farm",
+     "pried the fence back",
+     "old swimming pool",
+     "surrounded by thick brush",
+     "empty for years",
+     "Denardi had kicked a few local kids out of the empty pool"
+    ],
+    "analysis": "Denardi knew trespassers (skateboarders) used the pool, so Paul is arguably an anticipated trespasser on a limited area, and the hidden, brush-covered empty pool is a known artificial danger with no warning. Likely duty and breach; counter: Paul entered through a hole in a fence and was an unforeseeable trespasser on that part of the farm. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Paul \u2013 attractive nuisance",
+    "rule": "A possessor is liable to children who, due to youth, cannot appreciate the danger of an artificial condition the possessor knows children are likely to trespass upon, where risk outweighs burden of eliminating it.",
+    "keyFacts": [
+     "home from college for spring break",
+     "kicked a few local kids out of the empty pool"
+    ],
+    "analysis": "Paul is a college student who can appreciate danger of a pit; doctrine does not apply.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Paul \u2013 breach, causation, damages",
+    "rule": "Breach is failure to use reasonable care; actual (but-for) and proximate cause; damages of broken leg.",
+    "keyFacts": [
+     "fell into an old swimming pool and broke his leg"
+    ],
+    "analysis": "If duty exists, failure to warn or fence/fill the pool is breach; the fall is direct and foreseeable cause of the broken leg.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Paul \u2013 defenses: comparative negligence and assumption of risk",
+    "rule": "Comparative negligence reduces recovery by plaintiff's fault (pure comparative in CA; contributory bars in few states); implied assumption of risk requires knowing and voluntary encounter of the specific risk.",
+    "keyFacts": [
+     "sneak onto",
+     "pried the fence back",
+     "thick brush",
+     "exploring"
+    ],
+    "analysis": "Paul's trespass, nighttime exploration and entry through a damaged fence suggest fault; he did not know of the pool, so assumption of risk fails. Recovery likely reduced.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Owen \u2013 battery by Denardi",
+    "rule": "Intentional harmful or offensive contact with another's person without consent; contact with something closely connected to the person (pocket/coat) suffices; privilege defenses.",
+    "keyFacts": [
+     "Denardi reached out and stepped towards Owen",
+     "retrieved the wallet from Owen's coat pocket",
+     "tripping and spraining his wrist"
+    ],
+    "analysis": "Reaching into Owen's coat pocket is a touching; the fall from stepping back was not a direct contact by Denardi but flows from his act. Intent to touch is shown, so prima facie battery subject to privilege.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Owen \u2013 assault by Denardi",
+    "rule": "Intentional act causing reasonable apprehension of imminent harmful or offensive contact.",
+    "keyFacts": [
+     "reached out and stepped towards Owen",
+     "Owen stepped back"
+    ],
+    "analysis": "Owen's stepping back shows apprehension of imminent contact; prima facie assault, subject to privilege.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Owen \u2013 Denardi's defenses: defense of property / recapture of chattel",
+    "rule": "A possessor may use reasonable non-deadly force to prevent a tort against property or to recapture chattel in fresh pursuit after a demand to return, if the force is reasonable and not likely to injure.",
+    "keyFacts": [
+     "Denardi saw Owen take the wallet",
+     "asked Owen to return the wallet, he refused",
+     "retrieved the wallet"
+    ],
+    "analysis": "Denardi demanded return, was refused, and used only reaching and retrieving, which is reasonable; Owen's injury resulted from his own retreat. Defense likely succeeds, so Owen's claims fail. Student B's 'ownership because on my property' is a presumption only.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Denardi v. Paul \u2013 trespass to land",
+    "rule": "Intentional entry upon land possessed by another without consent or privilege; liable for any damage.",
+    "keyFacts": [
+     "sneak onto Don Denardi's farm",
+     "pried the fence back",
+     "chain link fence"
+    ],
+    "analysis": "Paul intentionally entered by breaking through the fence without consent; clear trespass.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Denardi v. Paul \u2013 trespass to chattels / conversion (fence)",
+    "rule": "Trespass to chattels is intentional interference with possession causing damage or deprivation; conversion requires serious interference warranting forced sale for full value. A fence attached to realty may instead be damage to land.",
+    "keyFacts": [
+     "pried the fence back to make the hole large enough"
+    ],
+    "analysis": "Bending the fence is damage to property, supporting trespass to chattels or trespass to land damages for repair; conversion is unlikely because the fence was not taken or destroyed. Student answers overstate conversion.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Denardi v. Owen \u2013 trespass to land",
+    "rule": "Entry without consent or privilege; implied license to approach house via driveway is limited to legitimate purposes and may be revoked.",
+    "keyFacts": [
+     "Owen entered Denardi's property by walking up the driveway towards the house",
+     "decided to sneak onto Don Denardi's farm"
+    ],
+    "analysis": "Owen came to sneak and explore at night, exceeding any implied invitation to approach the house; trespass likely, though driveway use makes it a closer call than Paul.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Denardi v. Owen \u2013 trespass to chattels / conversion (wallet)",
+    "rule": "Conversion is intentional exercise of dominion over another's chattel seriously interfering with owner's rights; refusal to return on demand can supply conversion; trespass to chattels is lesser interference. Finder's rights are inferior to the owner's.",
+    "keyFacts": [
+     "Owen noticed a wallet lying on the ground and put it in his coat pocket",
+     "When Denardi asked Owen to return the wallet, he refused",
+     "Denardi then retrieved the wallet"
+    ],
+    "analysis": "Pocketing and refusing return after demand is dominion; wallet recovered within moments so damages are nominal and conversion is a close call (likely trespass to chattels). Ownership of wallet by Denardi is assumed (found on his land).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "California applies Rowland duty rather than trespasser categories; conversion for fence and Owen's trespass via driveway are debatable."
+ },
+ {
+  "id": "october2023-q3",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2",
+    "rule": "UCC Article 2 governs transactions in goods (movable things at identification); merchants are held to good faith and trade standards.",
+    "keyFacts": [
+     "Pow ... a company that sells fireworks",
+     "Pow agreed to sell Delta 2,000 fireworks"
+    ],
+    "analysis": "Fireworks are goods, so the UCC applies; Pow is a merchant.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Formation despite open price term and contemplated writing",
+    "rule": "UCC 2-204: a contract exists if parties intended to contract and there is a reasonably certain basis for a remedy, even if terms such as price are left open; a contemplated later writing is not a condition unless parties so intend.",
+    "keyFacts": [
+     "Dan stated that he would have his accounts manager send over a written contract memorializing the terms",
+     "Delta agreed to \"pay the market price\"",
+     "Pow delivered the fireworks"
+    ],
+    "analysis": "Quantity, subject matter, delivery and price formula (market price) were agreed; the writing was only to memorialize. Contract formed by oral agreement and confirmed by performance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds \u2013 UCC 2-201",
+    "rule": "Contracts for sale of goods of $500 or more require a writing signed by the party to be charged stating quantity; exceptions include goods received and accepted (to extent of acceptance), part payment, specially manufactured goods, admission, merchant's confirmation.",
+    "keyFacts": [
+     "Delta never sent a written contract",
+     "bill for $38,000",
+     "Delta accepted delivery of the fireworks and used them"
+    ],
+    "analysis": "No signed writing exists, but Delta received and accepted the fireworks, satisfying 2-201(3)(c). SOF is no defense for the goods accepted. The invoice from Pow is not signed by Delta.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Price term \u2013 'market price' and UCC gap-filler",
+    "rule": "UCC 2-305: if price is not settled, or is to be fixed by market standard, it is a reasonable price at the time for delivery; a price set by a party must be fixed in good faith. Indefiniteness does not defeat the contract.",
+    "keyFacts": [
+     "the parties did not agree to a specific price",
+     "pay the market price",
+     "bill for $38,000",
+     "Cosmo Inc., Pow's competitor, for $35,000"
+    ],
+    "analysis": "Price is determinable by the market at delivery (April 20). Delta must pay the market price. The $38,000 bill is Pow's assertion; a single competitor's $35,000 quote does not prove market price, but it raises a fact question about the $3,000 difference.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Delta's obligation: acceptance and seller's action for the price",
+    "rule": "A buyer who accepts goods must pay at the contract rate (2-607); the seller may recover the price of accepted goods (2-709); buyer who fails to reject within reasonable time has accepted.",
+    "keyFacts": [
+     "Delta accepted delivery",
+     "used them at the grand opening",
+     "then refused to pay"
+    ],
+    "analysis": "Delta accepted and consumed the goods without rejecting, so it must pay the contract price, i.e., the market price at delivery, likely $38,000 unless Delta proves a lower market price. Close on amount.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Consideration \u2013 adequacy not reviewed",
+    "rule": "Courts do not inquire into adequacy of consideration; mutual promises of goods for price suffice; only unconscionability, fraud or duress matter; UCC contracts need no consideration to modify but initial formation still requires bargain.",
+    "keyFacts": [
+     "there was insufficient consideration",
+     "could have purchased the same fireworks from Cosmo Inc., Pow's competitor, for $35,000"
+    ],
+    "analysis": "Pow promised fireworks and Delta promised the market price: a bargained-for exchange. That a competitor was cheaper goes only to adequacy, not existence of consideration. Argument fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Good faith / merchant standards",
+    "rule": "UCC 1-304 imposes good faith in performance; merchants must observe reasonable commercial standards of fair dealing, including in setting open price terms.",
+    "keyFacts": [
+     "Pow ... bill for $38,000",
+     "$35,000"
+    ],
+    "analysis": "Pow must charge a good-faith market price; a $3,000 variance alone is not bad faith but could support reduction if Delta proves lower market price.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Confirm 2-201(3)(c) and 2-305 treatment; amount ($38k vs $35k) is a fact question."
+ },
+ {
+  "id": "october2023-q4",
+  "issues": [
+   {
+    "name": "Dan \u2013 battery/assault on Ted",
+    "rule": "Battery: unlawful application of force to the person of another (general intent); assault: attempted battery or intentional causing of reasonable apprehension of imminent battery.",
+    "keyFacts": [
+     "in a jealous rage punched Ted, knocking him down"
+    ],
+    "analysis": "Intentional punch causing Ted to fall is battery (likely aggravated/felony battery depending on injury). Assault merges with battery; assault alone is thin because Ted may not have seen it coming.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses to Ted battery: provocation, defense of others",
+    "rule": "Heat of passion only mitigates murder to manslaughter; defense of others requires reasonable belief another faces unlawful imminent force and force proportional.",
+    "keyFacts": [
+     "Ted kissed her on the cheek",
+     "Dan ... was very jealous"
+    ],
+    "analysis": "A kiss on the cheek is neither unlawful force nor adequate provocation; no defense to battery. Student A confuses provocation as a battery defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Larceny of the gold chain",
+    "rule": "Larceny: trespassory taking and carrying away of another's personal property with intent to permanently deprive.",
+    "keyFacts": [
+     "Dan saw a gold chain around Ted's neck",
+     "pulled it off and put it in his own pocket"
+    ],
+    "analysis": "All elements met; intent to permanently deprive inferred from pocketing.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Robbery of the chain",
+    "rule": "Robbery is larceny from person or presence by force or intimidation; force must be used to accomplish the taking, with intent to steal formed before or during the force.",
+    "keyFacts": [
+     "in a jealous rage punched Ted",
+     "While Ted was on the ground, Dan saw a gold chain"
+    ],
+    "analysis": "The punch arose from jealousy; intent to steal arose only afterward. Many courts therefore find only larceny plus battery, but some treat taking from a victim downed by force as robbery. Close call, leans larceny.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary (entry into backyard)",
+    "rule": "Burglary: breaking and entering structure/dwelling of another with intent to commit felony or theft therein (common law: dwelling, nighttime).",
+    "keyFacts": [
+     "house party",
+     "otherwise empty backyard",
+     "entered the backyard"
+    ],
+    "analysis": "Dan, a guest at the party, entered a backyard (not a structure) without breaking and without felonious intent at entry. Burglary not supportable. Student B's burglary analysis is wrong.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Battery/assault on Vicky",
+    "rule": "Intentional unlawful force; here covering her mouth and nose to the point of unconsciousness.",
+    "keyFacts": [
+     "put his hand over her mouth and nose and she passed out"
+    ],
+    "analysis": "Intentional use of force that rendered her unconscious is battery, likely aggravated battery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "False imprisonment of Vicky",
+    "rule": "Unlawful confinement of a person without consent within bounded area by force, threat or unconsciousness.",
+    "keyFacts": [
+     "carried her ... over his shoulder",
+     "drove them to Dan's apartment",
+     "tried to leave"
+    ],
+    "analysis": "Dan intentionally confined Vicky, unconscious and then restrained at his apartment against her wish.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Kidnapping",
+    "rule": "Kidnapping: unlawful confinement plus movement (common law: asportation out of country; modern/California: substantial movement by force) or secreting.",
+    "keyFacts": [
+     "carried her to the front yard",
+     "Rick drove them to Dan's apartment",
+     "So the neighbors would not hear her"
+    ],
+    "analysis": "Dan moved an unconscious, unwilling victim from the yard to his apartment by car by force; satisfies modern asportation. Student A wrongly rejects it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Homicide \u2013 causation (preexisting condition)",
+    "rule": "Defendant is the actual and proximate cause of death even if victim's unforeseen physical condition contributes (take the victim as found); only unforeseeable independent intervening acts break causation.",
+    "keyFacts": [
+     "Dan was unaware that Vicky was also taking other medications",
+     "stopped her heart and Vicky died"
+    ],
+    "analysis": "Dan's sedative was but-for cause; the drug interaction is a preexisting condition and does not break proximate cause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder (kidnapping)",
+    "rule": "Killing in perpetration of an inherently dangerous felony (kidnapping, burglary, robbery, etc.) is murder (first degree in many states); the felony continues until the felon reaches temporary safety and kidnapping continues while victim is held.",
+    "keyFacts": [
+     "To keep her quiet",
+     "So the neighbors would not hear her",
+     "tried to leave",
+     "mixed a strong sedative in Vicky's water"
+    ],
+    "analysis": "The kidnapping was ongoing and the sedative was given to maintain the confinement, so the death occurred in perpetration; felony murder (first degree in CA) is strongest. Student B wrongly says temporary safety reached by arriving at the apartment; continuing confinement and sedation negate that.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder \u2013 implied malice (depraved heart) / intent to inflict serious harm",
+    "rule": "Malice exists if defendant acts with intent to kill, intent to cause serious bodily injury, or extreme recklessness/conscious disregard of life.",
+    "keyFacts": [
+     "mixed a strong sedative in Vicky's water"
+    ],
+    "analysis": "Dosing a person with a strong sedative without knowing her medical conditions arguably shows conscious disregard of life; Dan can argue he only intended to quiet her. Alternative route to second-degree murder.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Involuntary manslaughter",
+    "rule": "Unintentional killing by criminal negligence/recklessness or during unlawful act (misdemeanor-manslaughter) absent malice.",
+    "keyFacts": [
+     "strong sedative",
+     "stopped her heart"
+    ],
+    "analysis": "Lesser alternative if jury finds no malice; gross negligence in drugging a victim and the unlawful battery/confinement support it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dan \u2013 defenses (heat of passion, mistake, intoxication)",
+    "rule": "Provocation mitigates murder only if adequate, no cooling off; mistake of fact negates mens rea only if it negates an element and is reasonable for general intent; voluntary intoxication only for specific intent.",
+    "keyFacts": [
+     "jealous rage",
+     "embraced, Ted kissed her on the cheek",
+     "Dan was unaware that Vicky was also taking other medications"
+    ],
+    "analysis": "Passion had cooled and a kiss is inadequate provocation for killing Vicky; unawareness of the medications is not a mistake that negates malice or felony-murder liability. No viable defenses; there is no evidence Dan drank.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Rick \u2013 accomplice liability (kidnapping/false imprisonment)",
+    "rule": "An accomplice aids, abets or encourages a crime with intent to facilitate it; mere knowledge or presence is insufficient in many courts, though knowing aid to a crime may suffice for intent in some; liability extends to natural and probable consequences.",
+    "keyFacts": [
+     "Dan told Rick that Vicky was drunk",
+     "Rick did not believe Dan's story",
+     "he drove them to Dan's apartment anyway and then left"
+    ],
+    "analysis": "Rick suspected something wrong and provided the transportation, which facilitated the kidnapping. Disbelief shows knowledge but not necessarily intent to further the crime; Rick will argue he was a friend giving a ride. Close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Rick \u2013 liability for the killing",
+    "rule": "Accomplices are liable for crimes that are natural and probable consequences of the target crime and for felony murder of co-felons while the felony continues; withdrawal/lack of intent may defeat.",
+    "keyFacts": [
+     "then left",
+     "Dan mixed a strong sedative in Vicky's water"
+    ],
+    "analysis": "Rick left before the drugging, and the specific death was not foreseeable to him; murder liability is unlikely unless felony-murder applies to a kidnapping accomplice. Student B stretches foreseeability.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Rick \u2013 accessory after the fact / defenses",
+    "rule": "Accessory after the fact knowingly assists a felon who has completed a felony to avoid arrest or punishment; ongoing crimes make helper a principal/accomplice instead. Defenses: lack of knowledge or intent.",
+    "keyFacts": [
+     "Rick did not believe Dan's story",
+     "drove them to Dan's apartment anyway"
+    ],
+    "analysis": "The kidnapping was ongoing when Rick helped, and he did not help Dan avoid apprehension, so accessory after the fact is a poor fit. His main defense is absence of intent or knowledge of any crime.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Felony-murder temporary-safety and Rick's liability are contestable; robbery-vs-larceny close call."
+ }
+]

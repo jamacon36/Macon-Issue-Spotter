@@ -1,0 +1,647 @@
+[
+ {
+  "id": "june2021-q1",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2; merchant status",
+    "rule": "UCC Article 2 governs sales of goods; a merchant deals in goods of the kind or holds himself out as having knowledge or skill about them. Merchant-only rules (firm offer, 2-205) apply only to merchants.",
+    "keyFacts": [
+     "Seller owns a van used in her plumbing business",
+     "sell my old van",
+     "Buyer, who runs a lawn service company"
+    ],
+    "analysis": "Van is a good, so UCC applies. Neither a plumber nor a lawn-service owner is a merchant of vans; casual sale of used equipment. Firm-offer and other merchant rules do not apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Monday email \u2013 offer",
+    "rule": "An offer is a manifestation of willingness to enter a bargain, definite and communicated, giving the offeree power to conclude a contract by acceptance. UCC offers need only quantity; price may be left open.",
+    "keyFacts": [
+     "I would sell my old van to you for $15,000 cash. [Signed] Seller"
+    ],
+    "analysis": "Definite as to item, price, parties; 'would sell' could be argued as an invitation but is most likely an offer.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Buyer's first email \u2013 not an acceptance; no counteroffer",
+    "rule": "An acceptance must unequivocally assent to the offer; an inquiry or request for time is not a rejection or counteroffer.",
+    "keyFacts": [
+     "I'm interested. If you can give me until Sunday to decide, I'll have my mechanic stop over"
+    ],
+    "analysis": "Buyer expressed interest and asked for time only; it is neither an acceptance nor a rejection, so the original offer remains open.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Seller's promise to hold open until Sunday \u2013 firm offer / option contract",
+    "rule": "UCC 2-205 firm offer requires a signed writing by a merchant; a non-merchant's promise to hold an offer open is irrevocable only if supported by consideration (option contract) or reliance (Restatement 87(2)). Otherwise the offer is freely revocable before acceptance.",
+    "keyFacts": [
+     "Your mechanic can stop over any time. You can have until Sunday to decide. [Signed] Seller"
+    ],
+    "analysis": "Seller is not a merchant, and no consideration was paid for the option, so no firm offer; the question is whether the mechanic inspection or reliance makes the promise binding. Hence the offer is revocable only by effective revocation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Reliance making the offer irrevocable (option via detrimental reliance)",
+    "rule": "An offer that the offeror should reasonably expect to induce substantial action by the offeree before acceptance, and which does, is binding as an option to the extent necessary to avoid injustice (Restatement 87(2)).",
+    "keyFacts": [
+     "mechanic checked over the van",
+     "Buyer... told the mechanic to order the new tires"
+    ],
+    "analysis": "Buyer arranged an inspection and ordered tires in reliance on the Sunday deadline; the reliance was foreseeable given Seller invited the inspection. Substantial reliance is arguable (tires on another's van), which supports irrevocability.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tuesday evening email \u2013 whether a revocation",
+    "rule": "A revocation must be communicated and clearly manifest the offeror's intent not to sell; indirect revocation arises when the offeree learns reliably that the offeror has acted inconsistently with the offer (Dickinson v. Dodds). Revocation is effective upon receipt.",
+    "keyFacts": [
+     "Jones Dry Cleaning just said they might be interested at $17,000",
+     "Buyer did not read the email"
+    ],
+    "analysis": "The email only mentions a possible interested party and does not say Seller will sell elsewhere, so it is not a revocation; Buyer's failure to read it is irrelevant. Offer remained open.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Buyer's Wednesday letter \u2013 acceptance and the mailbox rule",
+    "rule": "An acceptance in a manner reasonable in the circumstances is effective on dispatch (mailbox rule), unless the offer provides otherwise; under UCC 2-206 any reasonable medium. An acceptance of an option may be effective on receipt in some jurisdictions. Variation on terms: payment 'cash' vs. 'check'.",
+    "keyFacts": [
+     "Buyer mailed a letter... 'I agree to buy the van for $15,000. I'll drop off the check on Saturday'",
+     "offered... $15,000 cash"
+    ],
+    "analysis": "Buyer mailed an acceptance Wednesday before any revocation; it is effective upon dispatch, within the Sunday deadline. Letter is a reasonable medium given email offer. The mention of paying by check instead of cash is a minor variance that does not make the response a counteroffer (non-merchants, 2-207; 2-511 lets Seller require cash) but is a close issue.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Thursday 'Sold the van' email \u2013 attempted revocation too late",
+    "rule": "A revocation is effective on receipt and is ineffective after acceptance; where the offer is irrevocable, it is also ineffective.",
+    "keyFacts": [
+     "On THURSDAY, Seller sent an email... 'Sold the van to Jones Dry Cleaning'",
+     "On FRIDAY, Seller received the letter"
+    ],
+    "analysis": "Acceptance was effective Wednesday, before the Thursday revocation was received; the later sale to Jones is a breach, not a revocation. Even if acceptance were effective upon receipt (Friday), the offer was kept open by reliance.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds \u2013 UCC 2-201",
+    "rule": "A contract for goods of $500 or more requires a writing sufficient to indicate a contract of sale, signed by the party to be charged, stating quantity.",
+    "keyFacts": [
+     "$15,000",
+     "signed emails"
+    ],
+    "analysis": "The emails signed by Seller state the item, quantity and price and indicate an agreement to sell, so a writing signed by Seller exists; electronic signatures qualify. Satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Consideration",
+    "rule": "A contract requires a bargained-for exchange of promises.",
+    "keyFacts": [
+     "sell my old van... for $15,000"
+    ],
+    "analysis": "Van for money is clear consideration.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Breach \u2013 repudiation and failure to deliver",
+    "rule": "A seller who fails to deliver conforming goods or repudiates breaches the contract.",
+    "keyFacts": [
+     "Sold the van to Jones Dry Cleaning",
+     "Seller fails to deliver the van to Buyer"
+    ],
+    "analysis": "Seller breached by selling to Jones and refusing to deliver.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Seller's defenses \u2013 impossibility / impracticability",
+    "rule": "Impossibility requires supervening unforeseen event; a seller's own sale to a third party is voluntary and no excuse.",
+    "keyFacts": [
+     "Seller fails to deliver the van",
+     "$17,000"
+    ],
+    "analysis": "Seller created the inability to perform by selling the van; a higher offer is not impracticability. Defense fails.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Buyer's remedies \u2013 cover/market damages, reliance, specific performance",
+    "rule": "UCC 2-712 cover or 2-713 market-contract differential plus incidental/consequential; specific performance only for unique goods (2-716); reliance as alternative when expectation is hard to prove.",
+    "keyFacts": [
+     "van needed a new set of tires",
+     "Buyer... told the mechanic to order the new tires"
+    ],
+    "analysis": "A used van is not unique, so damages are the cost of cover or market price over $15,000 (the $17,000 sale price supports about $2,000), plus incidental costs such as the inspection; tire purchases are not recoverable in addition unless wasted.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Whether the mechanic's inspection/tire order is substantial reliance, and whether Buyer's acceptance on Wednesday is effective on dispatch, are the key close calls; 'check vs. cash' variance not raised by either answer."
+ },
+ {
+  "id": "june2021-q2",
+  "issues": [
+   {
+    "name": "Strict liability \u2013 abnormally dangerous activity",
+    "rule": "One engaged in an abnormally dangerous activity is strictly liable for harm resulting from the activity's dangerous propensity: high risk of serious harm that cannot be eliminated by reasonable care, activity not common in the community, and inappropriate to the location (Restatement 2d 520).",
+    "keyFacts": [
+     "a store the size of a large supermarket that stocks a large volume and wide variety of fireworks",
+     "located in an otherwise entirely residential neighborhood",
+     "extensive safety measures",
+     "fire broke out... caused an explosion"
+    ],
+    "analysis": "Storing a large volume of explosives in a residential area poses a risk of catastrophic harm that safety measures cannot eliminate, and the use is inappropriate for the location. Strict liability applies and is Neighbor's best theory; Neighbor was a foreseeable victim and injury arose from the explosion risk. Counter: retail storage is commonplace/valuable (mixed).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Private nuisance",
+    "rule": "Substantial and unreasonable interference with the use and enjoyment of land; intentional, negligent, or abnormally dangerous conduct required.",
+    "keyFacts": [
+     "his home... back yard... adjacent to Fireworks Shack",
+     "residential neighborhood"
+    ],
+    "analysis": "Placing a huge fireworks store next to homes is a substantial interference with neighbors' enjoyment, and its utility may not outweigh the harm; but a one-time explosion causing personal injury fits poorly, and nuisance requires intentional/negligent/ultrahazardous conduct.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Public nuisance",
+    "rule": "An unreasonable interference with a right common to the public; a private plaintiff needs special harm different in kind from the public.",
+    "keyFacts": [
+     "entirely residential neighborhood",
+     "severely injured Neighbor"
+    ],
+    "analysis": "Danger to the neighborhood is a public right; Neighbor's severe injury is special harm unlike others. Plausible but secondary.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Negligence via res ipsa loquitur",
+    "rule": "Res ipsa permits an inference of negligence where the accident is of a type that ordinarily does not occur without negligence, instrumentality was in the defendant's exclusive control, and plaintiff was not at fault.",
+    "keyFacts": [
+     "fire broke out in the store and caused an explosion",
+     "failed to identify... any evidence that Fireworks Shack was in any way negligent"
+    ],
+    "analysis": "The question assumes no negligence evidence, but res ipsa might still allow an inference; however, the fire marshal's finding of full precautions rebuts it. Weak theory, mostly the issue is that the question rules it out.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Strict products liability against Fireworks Shack as retailer",
+    "rule": "Commercial retailers in the chain of distribution are strictly liable for harm caused by defective products (manufacturing, design, warning defects).",
+    "keyFacts": [
+     "stocks a large volume and wide variety of fireworks",
+     "A thorough investigation... has failed to identify the source of the fire"
+    ],
+    "analysis": "Retailer is within the chain, but Neighbor must show a product defect caused the explosion; source unidentified, so proof is difficult, though circumstantial evidence (fireworks exploding on their own) might allow an inference.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Intentional torts and trespass (assault, battery, IIED, trespass to land)",
+    "rule": "Intentional torts require intent or substantial certainty; trespass requires an intentional act that causes a physical invasion of land.",
+    "keyFacts": [
+     "fire broke out",
+     "explosion that severely injured Neighbor"
+    ],
+    "analysis": "No facts show intent to cause contact or invasion, so these torts fail; trespass could be argued only if debris entered Neighbor's land, but there was no intentional act causing entry.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Defenses and damages",
+    "rule": "Strict liability defenses: assumption of risk or comparative fault; damages include special and general damages; punitive damages require malice or oppression.",
+    "keyFacts": [
+     "Neighbor, who was in the back yard of his home"
+    ],
+    "analysis": "Neighbor was merely in his own yard and did not assume the risk; compensatory damages available, punitive damages unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "B's trespass analysis wrongly treats intent as irrelevant; strict liability is the main call-of-the-question issue."
+ },
+ {
+  "id": "june2021-q3",
+  "issues": [
+   {
+    "name": "Karl \u2013 Solicitation of Martha",
+    "rule": "Solicitation is requesting, urging or commanding another to commit a felony with intent that the other commit it; complete on the request and merges into conspiracy or the completed crime.",
+    "keyFacts": [
+     "Karl asked Martha to come with him",
+     "wanted her to chase after the dog in Rich's house in order to distract Rich",
+     "You'd better do what I say or Sonny is going to be badly hurt"
+    ],
+    "analysis": "Karl asked Martha to help burglarize Rich's house with intent she do so; solicitation completed even before she agreed, and merges into later offenses.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl \u2013 Conspiracy to commit burglary/theft",
+    "rule": "Conspiracy requires an agreement between two or more persons with intent to agree and to achieve the unlawful aim; California adds an overt act. Duress of one party does not negate the agreement.",
+    "keyFacts": [
+     "Martha agreed to help Karl",
+     "went to Rich's house with the dog",
+     "let the dog run into the house"
+    ],
+    "analysis": "Martha agreed (even though coerced), so an agreement existed; overt acts occurred. Under the unilateral approach even a coerced party does not matter; conspiracy likely. Pinkerton makes Karl liable for acts of Martha.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl \u2013 Burglary (entry by trick)",
+    "rule": "Common law burglary: breaking and entering of the dwelling of another at night with intent to commit a felony; modern/California: entry into any structure with intent to commit theft or a felony, no breaking or nighttime requirement. Entry by fraud or deception can constitute constructive breaking.",
+    "keyFacts": [
+     "let the dog escape into Rich's house",
+     "pretend the dog was lost",
+     "Karl went to Rich's bedroom to look for jewelry",
+     "That afternoon"
+    ],
+    "analysis": "Entry was obtained by a ruse, with intent to steal; common-law burglary fails (afternoon, no actual breaking), but modern burglary (first degree, residence) is satisfied. Rich opening the door does not equal consent to entry for theft.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl \u2013 Larceny / grand theft of the ring",
+    "rule": "Larceny is the trespassory taking and carrying away of property of another with intent to permanently deprive; grand theft in California when value exceeds $950. Merges into burglary only for punishment purposes.",
+    "keyFacts": [
+     "found a valuable diamond ring and put it in his pocket",
+     "worth $5,000"
+    ],
+    "analysis": "All elements met; value of $5,000 makes it grand theft.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl \u2013 Threat against Martha/Sonny (assault, criminal threats, coercion)",
+    "rule": "Assault requires attempted battery or intentional creation of reasonable apprehension of immediate battery against the victim; a threat of future harm to a third person may be criminal threat/extortion.",
+    "keyFacts": [
+     "You'd better do what I say or Sonny is going to be badly hurt"
+    ],
+    "analysis": "The threat is conditional, future and directed at Sonny, so assault of Martha is weak; criminal threats or coercion (and possibly extortion) are more apt.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Karl \u2013 Battery of Rich via the dog",
+    "rule": "Battery is an unlawful application of force; the actor may use an instrument or animal; intent can be implied from conduct, or reckless/criminal negligence.",
+    "keyFacts": [
+     "the dog ran past Rich and knocked him down"
+    ],
+    "analysis": "Karl released the dog intending a distraction; battery or assault by the dog is arguable, but the force was not intended; likely reached only as part of homicide analysis.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Karl \u2013 Causation of Rich's death",
+    "rule": "Actual and proximate cause; defendant is liable for natural and probable consequences, an intervening act is superseding if unforeseeable.",
+    "keyFacts": [
+     "the dog ran past Rich and knocked him down. Rich hit his head on a table and died"
+    ],
+    "analysis": "But for the ruse using the dog Rich would not have died; the dog's knocking over a distracted homeowner is foreseeable, so proximate cause likely satisfied (dog is not independent actor).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl \u2013 Murder: implied malice (depraved heart)",
+    "rule": "Implied malice exists where the defendant intentionally commits an act with high probability of death with conscious disregard of life.",
+    "keyFacts": [
+     "let the dog escape into Rich's house",
+     "Rich... died"
+    ],
+    "analysis": "No intent to kill or seriously injure; unleashing a dog to distract a homeowner is not a very high risk of death, so depraved-heart malice is unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Karl \u2013 Felony murder (burglary)",
+    "rule": "A killing in the perpetration of an enumerated inherently dangerous felony (burglary) is murder (first degree in California) if death is caused during the felony and is foreseeable and not independent of the felony.",
+    "keyFacts": [
+     "Rich hit his head... and died while Karl was in the bedroom",
+     "burglary"
+    ],
+    "analysis": "Burglary is enumerated, death occurred during the felony and was caused by the instrumentality of the scheme (dog), so felony murder is the strongest murder theory (first degree in California).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Karl \u2013 Involuntary manslaughter",
+    "rule": "An unintentional killing from criminal negligence or an unlawful act not amounting to a dangerous felony.",
+    "keyFacts": [
+     "the dog ran past Rich and knocked him down"
+    ],
+    "analysis": "If murder fails, Karl's reckless act supports involuntary manslaughter.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Karl \u2013 Defenses",
+    "rule": "Karl has no apparent defenses; mistake, necessity and duress are not supported.",
+    "keyFacts": [
+     "Karl told Martha about his plan"
+    ],
+    "analysis": "No viable defense for Karl.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Martha \u2013 Conspiracy and accomplice liability for burglary and theft",
+    "rule": "An accomplice intentionally aids a principal in the crime; a person who knowingly assists the burglary by distraction is liable as an aider and abettor, and for natural and probable consequences.",
+    "keyFacts": [
+     "Martha ran after the dog and distracted Rich while Karl went to the bedroom",
+     "Martha agreed to help Karl"
+    ],
+    "analysis": "Martha knew the plan and intentionally distracted Rich, enabling Karl, so prima facie guilt for conspiracy, burglary and theft as accomplice; her motive (fear for Sonny) does not negate intent, but duress as a defense is what matters.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Martha \u2013 Duress defense",
+    "rule": "Duress excuses a crime (other than homicide) if the defendant reasonably believed that she faced an imminent threat of death or serious bodily harm to herself or a close family member and had no reasonable opportunity to escape; in California the threat must be immediate and the defense is unavailable for murder.",
+    "keyFacts": [
+     "You'd better do what I say or Sonny is going to be badly hurt",
+     "Karl then looked at her",
+     "That afternoon, Karl and Martha went to Rich's house"
+    ],
+    "analysis": "Karl threatened serious harm to Martha's son, but the threat was not clearly immediate (she had hours before the burglary and could have called police), so duress is a close call; it is likely to fail as to the death-related charges.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Martha \u2013 Liability for Rich's death (felony murder, manslaughter) and duress",
+    "rule": "A participant in a felony is liable for felony murder; duress is not a defense to murder (or felony murder).",
+    "keyFacts": [
+     "Rich hit his head on a table and died",
+     "the dog"
+    ],
+    "analysis": "Martha is a burglary participant and the dog was hers, so felony murder liability through Karl's burglary is possible; duress cannot excuse murder. Involuntary manslaughter is the likelier charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check California specifics: immediacy of the duress threat, duress not a defense to murder, and felony murder where death is caused by a dog."
+ },
+ {
+  "id": "june2021-q4",
+  "issues": [
+   {
+    "name": "Governing law \u2013 common law",
+    "rule": "Contracts for services or non-goods are governed by common law.",
+    "keyFacts": [
+     "financial aid plan",
+     "$10,000 grant"
+    ],
+    "analysis": "Grants conditioned on public interest employment are not sales of goods; common law applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Amy \u2013 Offer and acceptance; revocation of PILS's offer",
+    "rule": "An offer is revocable until acceptance; an offer of financial aid conditioned on enrollment is accepted by the student's assent/enrolment. The facts are ambiguous whether Amy accepted.",
+    "keyFacts": [
+     "more students accepted offers of admission",
+     "PILS withdrew its offers to 15 of the students to whom it had already made offers",
+     "Amy had already rejected her offers of admission from all the other schools"
+    ],
+    "analysis": "If Amy accepted PILS's offer, a contract exists and PILS's withdrawal is a breach; if not, the offer was revocable. The facts that Amy rejected other offers suggest she relied and likely accepted; this is a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Consideration \u2013 grant with repayment condition",
+    "rule": "Consideration requires bargained-for exchange; a conditional gift may not be supported by consideration, but a student's promise to enroll and accept the condition can be consideration.",
+    "keyFacts": [
+     "receives a $10,000 grant",
+     "If grantee does not accept and retain full-time employment... the grant must be immediately repaid in full"
+    ],
+    "analysis": "Amy's agreement to enroll and take on the repayment obligation arguably is bargained for; PILS will say the plan is a gratuitous offer.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Irrevocability through reliance / promissory estoppel (Amy)",
+    "rule": "An offer or promise that induces reasonable, foreseeable detrimental reliance is binding to the extent necessary to avoid injustice (Restatement 87(2), 90).",
+    "keyFacts": [
+     "Amy had already rejected her offers of admission from all the other schools she had applied to once she received the offer from PILS"
+    ],
+    "analysis": "PILS should have expected applicants to turn down other schools; Amy's reliance was reasonable and substantial, supporting estoppel and possibly irrevocability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds",
+    "rule": "Contracts that by their terms cannot be performed within one year need a writing, but full performance by one side may take it out.",
+    "keyFacts": [
+     "$10,000 grant... for each year of law study at PILS (up to a total of $30,000)",
+     "five continuous years following graduation"
+    ],
+    "analysis": "A three-year grant with a five-year condition cannot be performed within a year, so a writing is needed; the Plan is written, so satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Amy \u2013 Damages",
+    "rule": "Expectation damages put plaintiff where she would have been had the contract been performed; reliance damages are available under promissory estoppel; duty to mitigate; consequential damages must be foreseeable.",
+    "keyFacts": [
+     "Amy sued PILS for $30,000",
+     "Amy had already rejected her offers"
+    ],
+    "analysis": "Expectation is the value of the grant ($30,000) minus mitigation (e.g., aid or tuition savings elsewhere), and likely overstated; reliance damages (lost admission opportunities, reapplication costs, extra tuition) are the better measure. Late-cycle loss of other schools is foreseeable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Michael \u2013 Repayment as an express condition; substantial performance and forfeiture",
+    "rule": "An express condition must ordinarily be strictly satisfied, but a court may excuse non-occurrence to avoid disproportionate forfeiture (Restatement 229) where the condition is not a material part of the exchange; substantial performance applies to promises, not usually conditions.",
+    "keyFacts": [
+     "accept and retain full-time employment in a qualified public interest job as a lawyer for a minimum of five continuous years",
+     "After 4\u00bd years at this position"
+    ],
+    "analysis": "Michael worked 4.5 of 5 years (90%) and PILS achieved most of its purpose; full $30,000 repayment would be a severe forfeiture. A court could excuse the shortfall. Also the clause is ambiguous and construed against the drafter PILS.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Michael \u2013 Excuse: impracticability / impossibility / frustration",
+    "rule": "Performance (or condition) is excused by a supervening event whose non-occurrence was a basic assumption, without the party's fault, rendering performance impracticable.",
+    "keyFacts": [
+     "the job was terminated for lack of funds",
+     "After an eight-week job search, Michael was unable to find a qualified public interest lawyer job"
+    ],
+    "analysis": "Michael lost the job through no fault of his own, yet job loss is a foreseeable risk of a 'retain' condition that PILS allocated to the grantee, so impracticability is weak; courts may still excuse because of the short remaining period.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Michael \u2013 Mitigation and substitute performance",
+    "rule": "Substitute or good-faith efforts and mitigation reduce damages; a party must act reasonably in seeking comparable performance.",
+    "keyFacts": [
+     "eight-week job search",
+     "accepted a job offer from a community center counseling troubled adolescents, which pays $15,500 annually"
+    ],
+    "analysis": "Michael searched reasonably, but the community center job was not 'a lawyer' position and thus not qualified; it shows good faith but does not satisfy the condition.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Penalty / liquidated damages and unconscionability of full repayment",
+    "rule": "A liquidated damages clause is enforceable if damages are hard to estimate and the amount is a reasonable forecast; a disproportionate sum is a penalty.",
+    "keyFacts": [
+     "the grant must be immediately repaid in full"
+    ],
+    "analysis": "Requiring repayment of the entire $30,000 whether Michael worked 5 days or 4.5 years looks like a penalty, supporting reduction or non-enforcement; counter: it is a condition, not damages, and money was a loan-like benefit.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Restitution / unjust enrichment",
+    "rule": "Restitution prevents unjust enrichment where a benefit has been conferred; partial performance offsets.",
+    "keyFacts": [
+     "Michael attended PILS with the help of $30,000"
+    ],
+    "analysis": "Michael received $30,000 and gave 4.5 years of public interest service, which was the bargained benefit; a proportional repayment (about 10%) is the most equitable outcome.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Facts do not clearly say Amy accepted PILS's offer; the answers disagree. Michael: strict-condition vs. forfeiture excuse and proportional repayment is the likely examiner's focus."
+ }
+]

@@ -1,0 +1,630 @@
+[
+ {
+  "id": "june2012-q1",
+  "issues": [
+   {
+    "name": "UCC Article 2 governs; merchants",
+    "rule": "Contracts for the sale of goods (movable, identifiable things) are governed by UCC Article 2; merchants (those who deal in the goods or hold themselves out as knowledgeable) are subject to special merchant rules (firm offers, 2-207, 2-201).",
+    "keyFacts": [
+     "Chip manufactures computers",
+     "Part X",
+     "1,000 units at $20 each",
+     "Company B is a manufacturer of the part"
+    ],
+    "analysis": "A computer part is a good and both parties are merchants, so UCC Article 2 and its merchant provisions apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Offer vs. invitation to negotiate",
+    "rule": "An offer is a manifestation of present intent to be bound, with reasonably definite terms (under UCC, quantity is the key term), communicated to the offeree and creating power of acceptance. A solicitation sent to many that merely invites offers is not an offer.",
+    "keyFacts": [
+     "We will buy from the first manufacturer to commit itself",
+     "sent to several manufacturers",
+     "1,000 units of Part X at $20 each by July 31",
+     "commitment must be made by July 8"
+    ],
+    "analysis": "The July 1 letter says Chip 'will buy' from the first to commit on stated price, quantity and date; it limits who can accept (first one) and is an offer, not just a request for bids. Sending to several does not defeat that.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Company A's July 3 response is not an acceptance",
+    "rule": "Acceptance requires a definite, unequivocal expression of assent in a manner invited by the offer; a statement that one 'might' be able to perform is not a commitment and does not consume the offer.",
+    "keyFacts": [
+     "Company A told Chip that it might be able to supply 1,000 units"
+    ],
+    "analysis": "A's noncommittal statement is no commitment, so Chip had not yet contracted with anyone and the offer was still open on July 4 and July 7.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Revocation and the firm offer rule (UCC 2-205)",
+    "rule": "An offer is generally revocable at will until accepted, and revocation is effective on receipt. Under UCC 2-205, a merchant's signed written offer that gives assurance it will be held open is irrevocable for the stated time (max three months) without consideration. The assurance must be that the offer will be held open; a mere deadline for acceptance may not suffice.",
+    "keyFacts": [
+     "Please disregard the letter we sent on July 1",
+     "July 4 letter",
+     "commitment is made to us by July 8",
+     "July 7 Company B delivered a letter"
+    ],
+    "analysis": "Chip sent a signed merchant writing with a July 8 deadline, but it never promises to keep the offer open, so the firm-offer argument is a close call. Also the July 4 letter is arguably equivocal ('may be in a position... disregard') and may not be a clear revocation. Best result: B can argue the offer was irrevocable through July 8 or that the July 4 letter was not an unequivocal revocation, so the offer remained open on July 7; the contrary view is that the offer was revoked on receipt July 4.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Acceptance by B: timeliness and manner",
+    "rule": "Under UCC 2-206 an offer invites acceptance in any reasonable manner; under 2-207(1) a definite and seasonable expression of acceptance operates as acceptance even if it states different or additional terms, unless acceptance is expressly made conditional on assent to them. Acceptance by letter is effective on dispatch if reasonable.",
+    "keyFacts": [
+     "We accept your offer and will supply you with 1,000 units",
+     "delivered a letter to Chip",
+     "July 7",
+     "commitment is made to us by July 8"
+    ],
+    "analysis": "B's July 7 letter was a definite promise to supply 1,000 units on the offer's terms and arrived before the July 8 deadline, and it is not expressly conditioned on Chip's assent to the warranty, so it is a valid acceptance if the offer was still open.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Consideration",
+    "rule": "A bargained-for exchange of legal detriment; mutual promises to sell and to buy suffice.",
+    "keyFacts": [
+     "supply 1,000 units",
+     "$20 each"
+    ],
+    "analysis": "B's promise to supply in exchange for Chip's promise to buy at $20 each is consideration.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Statute of Frauds (UCC 2-201)",
+    "rule": "A contract for the sale of goods for $500 or more requires a writing signed by the party to be charged showing a contract and stating quantity; between merchants a written confirmation suffices unless objected to in 10 days.",
+    "keyFacts": [
+     "1,000 units at $20 each ($20,000)",
+     "July 1 letter",
+     "July 7 letter"
+    ],
+    "analysis": "The price is $20,000, but Chip's signed letter and B's signed acceptance state quantity, so the writing requirement is met.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Warranty term: UCC 2-207 additional/different terms",
+    "rule": "Where an acceptance states terms additional to or different from the offer, between merchants additional terms become part of the contract unless the offer limits acceptance to its terms, they materially alter it, or objection is made (2-207(2)). Different terms: majority knock-out rule, minority treats them as additional.",
+    "keyFacts": [
+     "we cannot expect you to warrant it against manufacturing defects",
+     "We warrant the part against manufacturing defects",
+     "on the terms specified herein"
+    ],
+    "analysis": "Chip's offer said it would not expect a warranty, and B's acceptance added one. A warranty benefits Chip and is unlikely to be a hardship-causing material alteration, and Chip has not objected, so it likely becomes part of the contract. Counterargument: the offer's no-warranty statement is a 'different' term and limits acceptance to its terms, so the warranty is knocked out or excluded.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Implied warranty of merchantability and disclaimer",
+    "rule": "UCC 2-314 implies a warranty of merchantability in sales by merchants unless excluded by a conspicuous disclaimer mentioning merchantability (2-316). Express warranties arise from affirmations that become part of the basis of the bargain (2-313).",
+    "keyFacts": [
+     "we cannot expect you to warrant it against manufacturing defects",
+     "warrant the part against manufacturing defects"
+    ],
+    "analysis": "Chip's letter only recites that it does not expect a warranty; it does not conspicuously disclaim merchantability, so an implied warranty against defects may exist regardless of whether B's express warranty becomes part of the contract.",
+    "foundIn": [],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Firm-offer issue is a close call (letter gives a deadline for acceptance but no express promise to hold the offer open); key assumes the exam expects discussion of both sides. Verify whether the July 4 letter is clearly a revocation. Neither answer addressed implied warranty/disclaimer."
+ },
+ {
+  "id": "june2012-q2",
+  "issues": [
+   {
+    "name": "Bob: Battery and aggravated battery",
+    "rule": "Battery is the unlawful application of force to another's person; aggravated if committed with a deadly weapon or causing serious bodily injury. Bob is liable as a principal and as an aider of Abe.",
+    "keyFacts": [
+     "grabbed by Abe and Bob",
+     "dragged into an alley",
+     "beat Van severely with brass knuckles"
+    ],
+    "analysis": "Bob took part in grabbing, dragging, and beating Van with brass knuckles, so he is liable for aggravated battery (and mayhem or great bodily injury enhancements if injuries warrant); no consent or privilege.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob: Assault",
+    "rule": "Assault is an attempted battery or intentional creation of reasonable apprehension of immediate harmful contact.",
+    "keyFacts": [
+     "suddenly grabbed",
+     "each much taller and larger than he"
+    ],
+    "analysis": "Assault is chargeable though largely merged into the completed battery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Bob: False imprisonment and kidnapping",
+    "rule": "False imprisonment is unlawful confinement without consent; kidnapping is forcible movement of the victim (asportation) a substantial distance, in CA not merely incidental to the crime and increasing risk of harm over that inherent in the crime (plus aggravated kidnapping for robbery).",
+    "keyFacts": [
+     "grabbed",
+     "dragged into an alley",
+     "Van is short and small"
+    ],
+    "analysis": "Dragging Van into an alley to beat and rob him is confinement; whether kidnapping lies depends on distance and increased risk (alley away from view); close call, with kidnapping to commit robbery a possible charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob: Robbery (and larceny)",
+    "rule": "Robbery is a trespassory taking and carrying away of another's personal property from his person or presence by force or fear with intent to permanently deprive. Larceny is a lesser included offense and merges.",
+    "keyFacts": [
+     "took several items from him, including a ring",
+     "gave Charles the ring"
+    ],
+    "analysis": "Property was taken from Van by force after a beating, with intent to permanently deprive (they gave the ring away), so robbery; larceny is lesser included.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob: Conspiracy and accomplice/Pinkerton liability",
+    "rule": "Conspiracy is an agreement between two or more people to commit a crime with intent, plus (in most jurisdictions, including CA) an overt act. Co-conspirators are liable for reasonably foreseeable crimes in furtherance (Pinkerton); an accomplice who aids with intent is liable for the principal's crimes.",
+    "keyFacts": [
+     "Abe and Bob",
+     "each much taller",
+     "brass knuckles"
+    ],
+    "analysis": "The coordinated seizure, beating with brass knuckles and robbery supports an inferred agreement and overt acts; Bob is liable for conspiracy and for Abe's acts either way.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob: Defenses",
+    "rule": "Defenses include consent, duress, self-defense, withdrawal; none applies where the defendant is the aggressor.",
+    "keyFacts": [
+     "suddenly grabbed",
+     "severely"
+    ],
+    "analysis": "No viable defense is raised by the facts.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Charles: Receiving stolen property",
+    "rule": "Receiving stolen property requires receipt or control of property known to be stolen with intent to deprive the owner (CA PC 496 requires knowledge only).",
+    "keyFacts": [
+     "Charles had been standing nearby watching the attack",
+     "Abe and Bob gave Charles the ring"
+    ],
+    "analysis": "Charles watched the robbery, so he knew the ring was stolen; accepting it makes him chargeable, with intent to deprive the owner (not returning it) as the contested element.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Charles: Accomplice liability / mere presence",
+    "rule": "An accomplice must intend to and in fact aid, encourage or counsel the crime; mere presence or failure to prevent is not enough. Intent to assist can be inferred from conduct.",
+    "keyFacts": [
+     "standing nearby watching the attack"
+    ],
+    "analysis": "Charles did nothing before or during the attack, and there is no prior agreement, so no accomplice or conspiracy liability for the attack.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Charles: Accessory after the fact",
+    "rule": "An accessory after the fact, knowing a felony was committed, harbors, conceals or aids the felon to avoid arrest, with intent to help.",
+    "keyFacts": [
+     "After the attack, Abe and Bob gave Charles the ring"
+    ],
+    "analysis": "Accepting the ring did not help Abe and Bob avoid arrest and the facts show no intent to help them; weak charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Charles: Conspiracy and duress defense",
+    "rule": "Duress requires a threat of imminent death or serious bodily harm that would cause a reasonable person to commit the crime; conspiracy requires an agreement and intent.",
+    "keyFacts": [
+     "Abe and Bob",
+     "each much taller and larger"
+    ],
+    "analysis": "Charles was handed the ring and there was no threat, so duress is weak; there was no agreement beforehand, so conspiracy fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Van: Causation and murder malice",
+    "rule": "Murder is an unlawful killing with malice aforethought: intent to kill, intent to cause serious bodily harm, depraved-heart recklessness, or felony murder. Causation is satisfied by but-for and proximate cause.",
+    "keyFacts": [
+     "He quickly pulled out his knife",
+     "Van immediately stabbed Abe, killing him instantly"
+    ],
+    "analysis": "Van caused Abe's death and intentionally stabbed him with a knife, so intent to kill/serious injury is evident; felony murder does not apply. Whether the killing is justified or mitigated is the real issue.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Van: Premeditation (first vs. second degree)",
+    "rule": "First degree murder requires premeditation and deliberation (a weighing of the decision, which may be quick); otherwise murder is second degree.",
+    "keyFacts": [
+     "decided to carry a knife for protection",
+     "held it behind his back",
+     "suddenly felt fear and rage"
+    ],
+    "analysis": "The prosecution can argue carrying the knife and concealing it show planning, but the sudden fear and rage and immediate stab suggest a spontaneous reaction, so second degree murder is more likely if the killing is not mitigated.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Van: Heat of passion voluntary manslaughter",
+    "rule": "Voluntary manslaughter is an intentional killing in the heat of passion upon provocation that would cause a reasonable person to lose self-control, with insufficient cooling time.",
+    "keyFacts": [
+     "suddenly felt fear and rage",
+     "Abe put his hands into his pocket",
+     "Van immediately stabbed Abe"
+    ],
+    "analysis": "Seeing his earlier attacker and perceiving a reach for the brass knuckles could be adequate provocation, with no time to cool; but the pocket reach alone may not be provocation a reasonable person would find sufficient. A plausible mitigation to manslaughter.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Van: Self-defense, mistaken belief, and imperfect self-defense",
+    "rule": "Deadly force is justified when the defendant honestly and reasonably believes he faces imminent unlawful deadly force; a reasonable mistake still counts. Imperfect self-defense (honest but unreasonable belief) reduces murder to voluntary manslaughter in CA (and some states). Many states require retreat only where safe; the aggressor cannot claim it.",
+    "keyFacts": [
+     "He had earlier been beaten severely with brass knuckles",
+     "Van believed Abe was reaching for his brass knuckles",
+     "Abe had been reaching for a bus pass",
+     "Not noticing Van"
+    ],
+    "analysis": "Given the earlier brass-knuckle beating, Van's belief may be honest and arguably reasonable, but Abe did not notice him, the threat was not apparent, and Van armed himself and held the knife in hiding; a jury could find the belief unreasonable. Likely outcome is imperfect self-defense/manslaughter; full acquittal is a stretch.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Van: Other defenses (crime prevention, trauma, retreat) and involuntary manslaughter",
+    "rule": "Deadly force may be used to prevent forcible felonies only when reasonably necessary; trauma does not excuse unless it establishes insanity or reduces mental state; involuntary manslaughter requires unintended killing by criminal negligence or unlawful act.",
+    "keyFacts": [
+     "Van was traumatized by the attack",
+     "decided to carry a knife for protection"
+    ],
+    "analysis": "Van's trauma may support the subjective element but his stabbing was intentional so involuntary manslaughter is unlikely; the carrying-for-protection fact might also raise a concealed-weapon charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Three-part question; CA law (imperfect self-defense, PC 496, 207/209 kidnapping) assumed. Double-check kidnapping asportation analysis for Bob and the weight given to Charles's duress claim."
+ },
+ {
+  "id": "june2012-q3",
+  "issues": [
+   {
+    "name": "Ned v. Carl: Assault (orange)",
+    "rule": "Assault is an intentional act creating reasonable apprehension of imminent harmful or offensive contact.",
+    "keyFacts": [
+     "Carl threw an orange at Ned",
+     "grazed his pant leg"
+    ],
+    "analysis": "A thrown orange at close range would cause apprehension if Ned saw it coming; but Ned's apprehension is not clearly shown, and the heat of the argument matters.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ned v. Carl: Battery (orange)",
+    "rule": "Battery is an intentional harmful or offensive contact with the plaintiff's person (including things closely attached to the body, like clothing).",
+    "keyFacts": [
+     "grazed his pant leg without injuring him"
+    ],
+    "analysis": "A thrown orange touching Ned's pant leg is an offensive contact; damages nominal though liability exists.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl's defenses: self-defense/provocation, consent",
+    "rule": "Self-defense permits reasonable force against a reasonably apprehended imminent battery; mutual combat or consent can be a defense; words alone do not justify force.",
+    "keyFacts": [
+     "Ned took several steps toward Carl",
+     "loud argument"
+    ],
+    "analysis": "Carl can argue Ned's advance in an angry argument made him fear a battery and a thrown orange is proportionate; this is likely sufficient given Ned's step toward him, although Carl was an equal participant in the argument.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Ned: Assault",
+    "rule": "Intentional act causing reasonable apprehension of imminent harmful or offensive contact; words alone generally insufficient but words plus an advancing movement can suffice.",
+    "keyFacts": [
+     "Ned took several steps toward Carl",
+     "loud argument"
+    ],
+    "analysis": "Stepping toward Carl in an angry argument could create apprehension, though several steps in an argument is a close call; Carl responded with an orange, which suggests apprehension.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Ned: Battery (punch)",
+    "rule": "Intentional harmful or offensive contact with another's person.",
+    "keyFacts": [
+     "Ned punched Carl in the stomach"
+    ],
+    "analysis": "The punch is a clear battery; Carl suffered at least offensive contact.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ned's defenses to battery: self-defense",
+    "rule": "Self-defense requires a reasonable apprehension of imminent harm and force proportionate to the threat; a response by deadly or greater force to minor force is excessive.",
+    "keyFacts": [
+     "Carl threw an orange at Ned and grazed his pant leg without injuring him",
+     "Ned punched Carl in the stomach"
+    ],
+    "analysis": "A glancing orange did not justify a punch to the stomach, so the defense fails (excessive force); Ned was also arguably the initial aggressor.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Ned: Defamation (libel)",
+    "rule": "Defamation requires a defamatory statement of fact about plaintiff, publication to a third party, falsity, fault (at least negligence for a private figure on a matter of private concern, actual malice for public figures/ matters of public concern for presumed or punitive damages) and damage to reputation. Libel is written; in many states libel per se (on its face, injuring in occupation) allows presumed damages.",
+    "keyFacts": [
+     "Ned published an account of the incident",
+     "calling Carl a \"coward and a liar\"",
+     "a substantial decrease in business consulting thereafter",
+     "Ned is the publisher of a local newspaper"
+    ],
+    "analysis": "Printing that Carl is a liar in a newspaper was published to third parties, and 'liar' can reflect on a business consultant's honesty. The key issues are whether the statement is fact or opinion and the harm: Carl's business loss supports special damages and arguably per se status.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defamation: opinion/privilege and fault",
+    "rule": "Pure opinion or rhetorical hyperbole is not actionable; statements implying undisclosed false facts are. The fair-report privilege protects accurate reports of public proceedings, not embellishments.",
+    "keyFacts": [
+     "calling Carl a \"coward and a liar\"",
+     "published an account of the incident"
+    ],
+    "analysis": "'Coward' is largely opinion, while 'liar' may imply false facts; the supermarket scuffle isn't an official proceeding, so fair report privilege does not apply, and Ned acted with at least negligence in labeling Carl. Likely success on 'liar' at most.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carl v. Ned: IIED",
+    "rule": "IIED requires extreme and outrageous conduct, intent or recklessness, and severe emotional distress.",
+    "keyFacts": [
+     "calling Carl a \"coward and a liar\""
+    ],
+    "analysis": "A single insulting newspaper description, with no showing of severe emotional distress, is not outrageous; claim is weak.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Homeowners v. Superstore: Private nuisance",
+    "rule": "Private nuisance is a substantial and unreasonable interference with use and enjoyment of land, judged by what an ordinary person would find offensive and by balancing gravity against utility.",
+    "keyFacts": [
+     "bright lights in its parking lot that turn on in response to loud noises",
+     "several times a week, especially during the night",
+     "loss of sleep and various adverse health consequences",
+     "For safety reasons"
+    ],
+    "analysis": "Repeated nighttime lighting causing sleeplessness and health effects is a substantial interference, but Superstore's safety purpose and the reasonableness of an easy fix (shades, motion settings) cut against it; likely nuisance since the lights could be adjusted at small cost.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Homeowners v. Superstore: Public nuisance",
+    "rule": "Public nuisance is an unreasonable interference with a right common to the general public; private plaintiffs need special harm different in kind from the public.",
+    "keyFacts": [
+     "neighboring homeowners complain"
+    ],
+    "analysis": "The neighbors' harm is not clearly different in kind from the general public's, so public nuisance is weaker.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Homeowners v. Superstore: Negligence and trespass",
+    "rule": "Negligence requires duty, breach, causation, damages; trespass requires physical invasion, which light generally is not.",
+    "keyFacts": [
+     "installed bright lights",
+     "have caused neighboring homeowners to complain"
+    ],
+    "analysis": "Superstore's duty to avoid unreasonable harm to neighbors and a design that triggers on noise could be negligent; trespass by light is unlikely, nuisance is the better claim.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Verify the exam's expected treatment of whether Carl's 'bump' and orange throw count as assault and whether defamation is libel per se in CA (Civ. Code 45a). Neither answer discussed truth as a defense or presumed damages in detail."
+ },
+ {
+  "id": "june2012-q4",
+  "issues": [
+   {
+    "name": "Homicide, omission and duty of care",
+    "rule": "A person is criminally liable for an omission only where there is a legal duty (e.g., special relationship, contract, voluntary assumption of care). A physician who accepts a patient owes a duty of care to him.",
+    "keyFacts": [
+     "Donna was the physician on duty",
+     "Alvin described his symptoms to Nick",
+     "Without examining Alvin",
+     "sent him home"
+    ],
+    "analysis": "Donna had a duty as the ER physician; she also acted affirmatively by diagnosing and discharging him. A duty exists, and the question becomes the required mental state.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation (actual and proximate; intervening act)",
+    "rule": "Actual cause is but-for; proximate cause requires the death to be a foreseeable result with no superseding intervening cause. Dependent intervening events that are the very risk created do not break the chain.",
+    "keyFacts": [
+     "If Alvin had been examined by Donna, he would not have collapsed",
+     "Alvin collapsed behind the wheel of his car",
+     "struck a truck, and died instantly"
+    ],
+    "analysis": "The facts say he would not have collapsed had he been examined, so but-for is met; the collapse while driving was a foreseeable result of sending a heart-attack patient home, so a superseding cause is unlikely (the third-party accident and Alvin's own driving are not independent unforeseeable acts).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder: implied malice (depraved heart / conscious disregard)",
+    "rule": "Malice includes intent to kill, intent to inflict serious injury, felony murder, or a reckless indifference to human life (CA: subjective awareness and conscious disregard of a high risk of death). Second degree murder is malice without premeditation.",
+    "keyFacts": [
+     "eager to go home",
+     "had already worked a fourteen-hour shift",
+     "relying on Nick\u2019s statement of his symptoms",
+     "well-known symptoms of a heart attack"
+    ],
+    "analysis": "Donna lacked intent to kill, and her conduct is negligent or reckless rather than showing subjective awareness of a high risk of death; murder would be an aggressive and unlikely charge, though the prosecutor could argue she knew of the risk and ignored it to leave.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other murder theories ruled out (intent to kill, felony murder, first degree, voluntary manslaughter)",
+    "rule": "First degree requires premeditated intent; felony murder requires a felony; voluntary manslaughter requires intent and provocation.",
+    "keyFacts": [
+     "Donna was the physician on duty"
+    ],
+    "analysis": "No facts support intent, premeditation, a felony or provocation, so these charges do not apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Involuntary manslaughter (criminal or gross negligence)",
+    "rule": "Involuntary manslaughter is an unintentional killing by criminal (gross) negligence, a deviation from reasonable care so extreme as to show disregard for human life, or by an unlawful act.",
+    "keyFacts": [
+     "Without examining Alvin",
+     "relying on Nick\u2019s statement",
+     "Nick, an experienced screening nurse",
+     "eager to go home"
+    ],
+    "analysis": "Diagnosing without examining a patient with classic heart-attack symptoms, out of fatigue and a wish to leave, may be gross negligence; reliance on Nick's report and mere fatigue point toward ordinary negligence, so the main call is whether it is criminal-level. Involuntary manslaughter is the most defensible charge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Donna's defenses (reliance on Nick, ordinary negligence, causation)",
+    "rule": "Ordinary civil negligence is not enough for criminal liability; a defendant may argue reasonable reliance on a trained professional and lack of the required mental state.",
+    "keyFacts": [
+     "experienced screening nurse",
+     "relying on Nick\u2019s statement of his symptoms"
+    ],
+    "analysis": "Donna can say she reasonably relied on an experienced nurse, but the facts that she did not examine him and wanted to leave weaken this.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Key concludes involuntary manslaughter (gross negligence) is the most reasonable charge and second-degree murder is a stretch; both students concluded differently (A: murder and involuntary manslaughter; B: involuntary manslaughter). Double-check against the reviewer's standard on implied-malice awareness."
+ }
+]

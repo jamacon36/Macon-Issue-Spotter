@@ -1,0 +1,498 @@
+[
+ {
+  "id": "june2016-q1",
+  "issues": [
+   {
+    "name": "Negligence \u2013 landlord's duty of care",
+    "rule": "Negligence requires duty, breach, actual and proximate cause, and damages. A landlord retains control of common areas and building systems and owes tenants and their invitees a duty of reasonable care to inspect for and repair or warn of dangerous conditions (modern rule: reasonable care to all foreseeable entrants).",
+    "keyFacts": [
+     "Tenant rents space in a Cityville office building from Landlord",
+     "basement hallways and wiring are building-wide, not within Tenant's leased space",
+     "Tenant working late in the building"
+    ],
+    "analysis": "Landlord controlled the basement, hallways and wiring serving all tenants, so he owed Tenant, a foreseeable plaintiff, a duty of reasonable care. Duty is clear.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach \u2013 accumulated newspapers (actual knowledge)",
+    "rule": "Breach is failure to act as a reasonable person would; weigh burden of precaution against probability and gravity of harm (Learned Hand). A landlord with actual or constructive notice of a hazard in a common area must remedy it in reasonable time.",
+    "keyFacts": [
+     "old newspapers left by a previous tenant three years ago",
+     "hallways nearly impassable",
+     "Landlord was aware of this, but hadn't gotten around to cleaning them up",
+     "fire marshal: newspapers a principal source of fuel"
+    ],
+    "analysis": "Landlord knew of a large fire load for three years; removal was cheap and fire risk grave. Origin by a prior tenant is no excuse once Landlord had notice. Breach is very likely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach \u2013 faulty wiring (constructive notice / duty to inspect)",
+    "rule": "A landlord must make reasonable inspections of building systems; liability for a latent defect requires actual or constructive notice (defect existed long enough or reasonable inspection would reveal it).",
+    "keyFacts": [
+     "Fire apparently originated in basement",
+     "Apparent cause: faulty wiring",
+     "no fact says Landlord knew of the wiring problem"
+    ],
+    "analysis": "No fact shows Landlord knew of the wiring; Tenant must argue a reasonable inspection would have found it, and that the newspaper pile blocked inspection. Closer call than the newspapers, but breach still likely because of the newspapers.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence per se \u2013 hallway ordinance",
+    "rule": "Violation of a safety statute or ordinance establishes duty and breach if the plaintiff is in the protected class and the harm is of the type the statute was meant to prevent (Cal. Evid. Code 669 adds presumption of negligence; excuse is a rebuttal).",
+    "keyFacts": [
+     "ordinance punishes permitting any article to remain in a hallway so as to impede entering or leaving",
+     "hallways nearly impassable",
+     "Tenant unconscious, carried out by firefighter"
+    ],
+    "analysis": "Landlord violated the ordinance and Tenant is in the protected class (occupants needing egress), but the ordinance targets obstructed exit, not fire spread; Tenant was not blocked from leaving. Probably not the type of harm, but arguable (obstruction may have slowed rescue, and fuel load). Falls back on common-law breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Res ipsa loquitur",
+    "rule": "Res ipsa permits inference of negligence when the harm ordinarily does not occur absent negligence, the instrumentality was in defendant's exclusive control, and plaintiff did not contribute.",
+    "keyFacts": [
+     "building wiring and basement under Landlord's control",
+     "fire destroyed the building"
+    ],
+    "analysis": "Fire from defective wiring in an area under Landlord's control supports an inference, an alternative way to prove breach if the wiring notice is doubtful.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Actual cause",
+    "rule": "But-for: harm would not have occurred absent defendant's negligence (substantial factor where multiple causes).",
+    "keyFacts": [
+     "Fire marshal: 'Apparent cause: faulty wiring'",
+     "newspapers 'probably resulted in rapid spread'",
+     "report is hedged ('apparently', 'probably')"
+    ],
+    "analysis": "But for the newspapers and wiring neglect, the fire would not have spread so rapidly; the marshal's report is evidence, hedged language goes to weight. Satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Proximate cause \u2013 fire, smoke inhalation and loss of contents",
+    "rule": "Defendant is liable for harms that are the foreseeable result of the risk his negligence created; pre-existing conditions are not superseding causes.",
+    "keyFacts": [
+     "fire fed by newspapers",
+     "Tenant overcome by smoke",
+     "building and all its contents destroyed",
+     "wiring cause (not a superseding event)"
+    ],
+    "analysis": "Fire spread, smoke injury and property destruction are exactly the foreseeable risks of faulty wiring plus a fuel pile. The prior tenant leaving the papers is not superseding.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Proximate cause \u2013 broken leg (rescuer/ intervening negligence)",
+    "rule": "Rescue is foreseeable ('danger invites rescue'); negligence of rescuers in the course of rescue is a foreseeable, dependent intervening cause that does not cut off the original tortfeasor's liability (Landlord liable for aggravation). The firefighter's rule bars rescuers' suits, not the rescued party's.",
+    "keyFacts": [
+     "firefighter found Tenant unconscious",
+     "while carrying Tenant out, dropped him, breaking Tenant's leg"
+    ],
+    "analysis": "Firefighter's negligent drop is a foreseeable consequence of the fire, so not a superseding cause; Landlord is liable for the broken leg (Tenant may also sue the firefighter/city).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other theories \u2013 breach of lease covenants, nuisance, strict liability",
+    "rule": "Tenant might also plead breach of the lease/implied covenant of quiet enjoyment or habitability (weak for a commercial lease and fire), or nuisance; strict liability does not apply to a landlord's building fire.",
+    "keyFacts": [
+     "Tenant rents space",
+     "lease relationship"
+    ],
+    "analysis": "Negligence (and negligence per se) is the strongest theory; alternative theories add little and may be limited by the lease.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages \u2013 personal injury (compensatory)",
+    "rule": "Compensatory damages place plaintiff in pre-tort position: medical expenses, lost earnings, and pain and suffering; plaintiff takes the injuries as they are (eggshell).",
+    "keyFacts": [
+     "overcome by smoke, unconscious",
+     "broken leg"
+    ],
+    "analysis": "Tenant recovers medical costs, lost income, and pain and suffering/emotional distress for smoke inhalation and the broken leg.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 property and economic loss",
+    "rule": "Property damage is measured by the fair market value of destroyed personal property (and consequential business loss if proved with certainty and foreseeable).",
+    "keyFacts": [
+     "The building and all its contents were destroyed",
+     "Tenant working late (business use)"
+    ],
+    "analysis": "Tenant can recover value of destroyed contents and provable business interruption losses; punitive damages are unlikely absent malice or conscious disregard (arguable given Landlord's knowledge of the hazard).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses \u2013 comparative negligence, assumption of risk",
+    "rule": "Plaintiff's own unreasonable conduct reduces recovery (pure comparative negligence in California); assumption of risk requires knowing, voluntary encounter of the risk.",
+    "keyFacts": [
+     "Tenant was working late",
+     "no facts show Tenant knew of the wiring or newspapers"
+    ],
+    "analysis": "No facts show Tenant fault or knowledge of the hazard; defenses fail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check strength of constructive-notice analysis for the wiring and whether the negligence per se type-of-harm analysis is a close call. Res ipsa and lease-based theories were not argued by either answer."
+ },
+ {
+  "id": "june2016-q2",
+  "issues": [
+   {
+    "name": "UCC Article 2 governs",
+    "rule": "The UCC Article 2 applies to transactions in goods (movable tangible things at identification).",
+    "keyFacts": [
+     "1939 Denny Wilson card",
+     "sale for $550"
+    ],
+    "analysis": "A baseball card is a good, so Article 2 applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Merchant status of Sara and Bill",
+    "rule": "A merchant deals in goods of the kind or by occupation holds himself out as having knowledge or skill peculiar to the goods (2-104); a casual collector is not.",
+    "keyFacts": [
+     "Sara is a doctor who ... averaging 15 transactions a week",
+     "recognized expert in the 1939-50 era",
+     "Bill operates a store that regularly sells baseball cards"
+    ],
+    "analysis": "Bill is clearly a merchant. Sara, though a doctor, regularly trades for profit and is a recognized expert, so she is probably a merchant too; this matters for the confirmation rule and 2-207.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Formation of the oral contract \u2013 disputed offer and acceptance",
+    "rule": "Under UCC 2-204 a contract may be made in any manner showing agreement; an inquiry or invitation to negotiate is not an offer. Bill must prove the oral agreement by credible evidence.",
+    "keyFacts": [
+     "Bill claims he phoned Sara and offered ... $550, and that Sara accepted",
+     "Sara: Bill only asked, 'Would you consider taking $550'",
+     "'Okay, send me something in writing'"
+    ],
+    "analysis": "Bill's version is a contract; Sara's version could be an invitation and a non-committal 'Okay.' Credibility issue for the fact finder; Bill must prove an agreement and the writing does not itself prove it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds \u2013 UCC 2-201(1)",
+    "rule": "A contract for the sale of goods of $500 or more must be evidenced by a writing sufficient to show a contract, signed by the party against whom enforcement is sought, stating quantity.",
+    "keyFacts": [
+     "$550 price (over $500)",
+     "Sara claims the phone agreement was unenforceable",
+     "Sara never signed anything"
+    ],
+    "analysis": "The price exceeds $500, so the oral agreement is unenforceable against Sara unless an exception applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Merchant confirmation exception \u2013 2-201(2)",
+    "rule": "Between merchants, a written confirmation sufficient against the sender, received within a reasonable time, satisfies the statute against the recipient unless she objects in writing within 10 days of receipt. 'Signed' includes any symbol adopted to authenticate, such as a letterhead. It removes the SOF defense only; the sender must still prove the oral contract.",
+    "keyFacts": [
+     "unsigned, typed letter confirming the contract, identifying the parties, the card and the price",
+     "letterhead identifying Beyer's Baseball Cards and Collectibles",
+     "Sara received and read the letter but did not respond"
+    ],
+    "analysis": "Letterhead suffices as authentication, both are merchants, Sara read it and did not object, so the SOF defense fails. Bill still must prove the phone agreement actually occurred.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Added term \u2013 certificate of authenticity (UCC 2-207)",
+    "rule": "Additional terms in a confirmation between merchants become part of the contract unless the offer limits acceptance, they materially alter it, or objection is made; silence does not assent to material new terms.",
+    "keyFacts": [
+     "Seller shall provide a certificate of authenticity",
+     "Certificates cost $100 and significantly increase a card's value",
+     "the parties had not discussed this before",
+     "Sara did not respond"
+    ],
+    "analysis": "The term is a material alteration (cost and value), so it is excluded despite Sara's silence. The contract is for an uncertified card.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach \u2013 Sara sold the card to another buyer",
+    "rule": "Seller's failure to deliver or repudiation (2-610) is breach, giving buyer remedies under 2-711 and following.",
+    "keyFacts": [
+     "Sara said she had sold the card to another party for $575"
+    ],
+    "analysis": "If a contract exists, Sara breached by selling to someone else.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 market price minus contract price (2-713) and the $250 claim",
+    "rule": "Buyer's damages for non-delivery are market price at the time he learned of the breach less contract price, plus incidental and consequential damages (2-715), less expenses saved; the market must be for goods as contracted.",
+    "keyFacts": [
+     "Bill sought $250 based on $800 FMV of a certified card",
+     "Sara resold for $575",
+     "contract price $550"
+    ],
+    "analysis": "Because the certificate is not a term, market value is for an uncertified card (about $575 per the resale), so damages are about $25 plus incidental or provable consequential damages, not $250.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Specific performance / buyer's other remedies",
+    "rule": "Specific performance or replevin is available for unique goods (2-716), but not against a good-faith purchaser who has taken delivery; buyer may also cover (2-712) and must mitigate.",
+    "keyFacts": [
+     "a 1939 Denny Wilson card",
+     "Sara recognized expert, collectibles",
+     "Sara already sold the card"
+    ],
+    "analysis": "A rare card may be unique, but Bill sues only for damages and the card was already sold, so equitable relief is unlikely.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Incidental and consequential damages",
+    "rule": "Incidental costs (2-715(1)) and foreseeable consequential losses proven with certainty (2-715(2)).",
+    "keyFacts": [
+     "no facts of expenses or lost resale"
+    ],
+    "analysis": "No facts show these; Bill gets none unless he proves them.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Both answers wrongly suggest the confirmation proves or binds the contract; 2-201(2) only removes the SOF defense. Reviewer should check the market-value/$25 computation."
+ },
+ {
+  "id": "june2016-q4",
+  "issues": [
+   {
+    "name": "Defamation elements \u2013 defamatory statement",
+    "rule": "Defamation: a defamatory statement of or concerning plaintiff, published to a third party who understands it, with fault and damage. A statement is defamatory if it tends to harm reputation.",
+    "keyFacts": [
+     "note: 'Ms. Smith is a cokehead'",
+     "photo of Shelly snorting cocaine that looks exactly like Cindy",
+     "Cindy campaigning for State Senate"
+    ],
+    "analysis": "Calling a political candidate a cocaine user (with a photo) is defamatory.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Of and concerning Cindy \u2013 mistaken identity photo",
+    "rule": "The statement must be understood by recipients as referring to the plaintiff; it can be by implication or extrinsic facts (photo identical to plaintiff).",
+    "keyFacts": [
+     "photograph was very clear and looked exactly like Cindy",
+     "very few people know that Cindy has a twin",
+     "Newspaper reported it received the photograph of 'Cindy Smith'"
+    ],
+    "analysis": "Readers would understand the caption/photo as Cindy; Debbie meant it to refer to Cindy, so the element is met against both defendants.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Falsity and truth defense",
+    "rule": "Plaintiff public figure must prove falsity; truth is a defense, judged by the sting or gist as understood.",
+    "keyFacts": [
+     "Ms. Smith is a cokehead",
+     "photo is genuinely of Shelly, who is addicted to cocaine"
+    ],
+    "analysis": "Shelly (a Smith) used cocaine, but the statement as communicated (about Cindy) is false; Debbie's truth argument fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Publication by Debbie and liability for Newspaper's republication",
+    "rule": "Publication is communication to a third party; the original defamer is liable for foreseeable republication.",
+    "keyFacts": [
+     "Debbie sent the photo and anonymous note to Newspaper",
+     "the day before the election",
+     "Newspaper published the photograph"
+    ],
+    "analysis": "Sending the note is itself publication; it was foreseeable that Newspaper would print it, so Debbie is liable also for the printed publication.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Libel, damages and causation (loss of election)",
+    "rule": "Written defamation is libel with general damages presumed; in public-concern cases presumed and punitive damages need actual malice, otherwise actual damages must be proven; causation must connect the statement to the harm.",
+    "keyFacts": [
+     "Cindy was very distressed",
+     "subsequently lost the election",
+     "published the day before the election"
+    ],
+    "analysis": "Libel; against Debbie (actual malice) damages are presumed, and the timing supports causation of reputation and distress harm; proving the election loss was caused by the story is harder.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Constitutional limits \u2013 public figure/public concern and actual malice (Debbie)",
+    "rule": "A public official or figure must prove actual malice (knowledge of falsity or reckless disregard) by clear and convincing evidence (NYT v. Sullivan); candidates are public figures and speech about a candidate's fitness is a public concern.",
+    "keyFacts": [
+     "Cindy is campaigning for election to State Senate",
+     "Debbie dislikes Cindy and does not want Cindy to win",
+     "Debbie sent the old photo of Shelly with 'Ms. Smith is a cokehead'"
+    ],
+    "analysis": "Cindy is a public figure; Debbie knew the photo was of Shelly and that it would be taken as Cindy, so she acted with knowing falsity. Actual malice is met.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Privileges asserted by Debbie",
+    "rule": "A qualified privilege (public interest, common interest) is lost by abuse, such as knowledge of falsity or malice.",
+    "keyFacts": [
+     "Debbie anonymously sent to Newspaper to defeat Cindy"
+    ],
+    "analysis": "Any privilege is abused because Debbie knew the charge was false and acted from spite.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Newspaper \u2013 defamatory meaning, caption as question or opinion",
+    "rule": "Statements phrased as questions or opinions are actionable if they imply false assertions of fact.",
+    "keyFacts": [
+     "'Cokehead for State Senate?'",
+     "caption with clear photo"
+    ],
+    "analysis": "The photo and caption imply that Cindy uses cocaine; not protected opinion.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Newspaper \u2013 of and concerning, publication, republisher liability",
+    "rule": "One who republishes defamation is liable as a publisher, even if the source was another; honest mistake about identity is not a defense to the elements.",
+    "keyFacts": [
+     "Newspaper published the photograph the same day",
+     "published to its readers",
+     "Newspaper unaware that Cindy had a twin"
+    ],
+    "analysis": "Elements are met as to Newspaper because readers would think it is Cindy and republishers are treated as original publishers; the dispute is fault.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Newspaper \u2013 fault: actual malice standard",
+    "rule": "As a public figure, Cindy must prove Newspaper knew the statement was false or had serious doubts (reckless disregard); negligence is insufficient; failure to investigate or reliance on an anonymous source alone is usually not reckless unless obvious reasons to doubt.",
+    "keyFacts": [
+     "Newspaper unaware that Cindy had an identical twin sister",
+     "anonymous tip delivered the day before the election",
+     "photograph very clear and looked exactly like Cindy",
+     "Newspaper reported it received it anonymously"
+    ],
+    "analysis": "Newspaper had no reason to doubt the clear photo and did not know of the twin; at most negligent verification, which is not actual malice. Rushing to print an anonymous tip is a closer call but probably not reckless. Cindy likely loses against Newspaper.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Newspaper \u2013 damages and defenses",
+    "rule": "Without actual malice, no presumed or punitive damages; qualified privilege/newsworthiness for election reporting; California requires a retraction demand (Civ. Code 48a) to recover general damages from a newspaper.",
+    "keyFacts": [
+     "Newspaper reported the photograph as 'Cindy Smith' received anonymously",
+     "election the next day"
+    ],
+    "analysis": "Cindy cannot recover presumed damages and would struggle to show actual malice. Retraction statute may also limit recovery; privilege is secondary.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Check the Debbie 'of and concerning' framing (intent to refer to Cindy) and the close call on Newspaper recklessness; the California retraction statute (Civ. Code 48a) was not raised by either answer."
+ }
+]

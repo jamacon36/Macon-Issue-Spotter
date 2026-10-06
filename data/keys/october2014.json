@@ -1,0 +1,517 @@
+[
+ {
+  "id": "october2014-q1",
+  "issues": [
+   {
+    "name": "Governing law \u2013 services (common law)",
+    "rule": "UCC Article 2 governs sales of goods; contracts predominantly for services, such as house cleaning, are governed by common law.",
+    "keyFacts": [
+     "clean my four-bedroom, four-bath house",
+     "once a week for the next month"
+    ],
+    "analysis": "Cleaning is a service, so common law applies; the UCC firm-offer/modification rules do not.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Offer \u2013 advertisement as offer",
+    "rule": "Advertisements are generally invitations to negotiate, but are offers if they are sufficiently definite, specify the quantity/terms, and leave nothing further for negotiation (e.g., 'first to apply will be accepted').",
+    "keyFacts": [
+     "Wanted: Someone to clean my ... house",
+     "pay $35 per hour",
+     "No interview or references necessary. The first to apply will be accepted."
+    ],
+    "analysis": "Ad is specific on work, schedule, price, and who may accept (first applicant) and says no further negotiation is needed, so likely an offer.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Acceptance \u2013 Carl's first call",
+    "rule": "Acceptance is an unequivocal manifestation of assent to the offer's terms, in a manner invited by the offer; under the mirror-image rule it must match the offer. Contract forms upon acceptance.",
+    "keyFacts": [
+     "Carl called her the next day",
+     "I accept on the terms you have offered",
+     "She included her phone number"
+    ],
+    "analysis": "Carl timely accepted by phone as invited; a contract was formed on the original terms (2500 sq ft) before Zena's correction, so Zena was bound unless a defense applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Zena's mistake / correction of terms",
+    "rule": "A unilateral mistake allows avoidance only if the other party knew or had reason to know of it, or enforcement would be unconscionable. A mistake in drafting an offer generally does not stop a completed acceptance.",
+    "keyFacts": [
+     "there was a mistake in the advertisement",
+     "my house is actually 3000 square feet"
+    ],
+    "analysis": "Carl had no reason to know of the mistake at acceptance and a 500 sq ft difference is not unconscionable, so Zena cannot avoid the contract on mistake; the mistake was in any case revealed after acceptance.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Modification \u2013 consideration and assent",
+    "rule": "At common law a modification needs mutual assent and consideration (or a recognized substitute such as reliance, or unforeseen circumstances); the mistake correction is a modification request, not a rejection or new offer if the contract was already formed. Payment is hourly.",
+    "keyFacts": [
+     "Let me think a moment",
+     "I agree to clean for you on the terms you described",
+     "An extra 500 square feet does not matter to me"
+    ],
+    "analysis": "If a contract was already formed, Zena's proposal to a larger house was a modification; Carl's later assent plus the additional work (or the fact that pay is hourly) gives consideration. Alternatively, Carl's 'let me think' is not a rejection, and a new contract on the 3000 sq ft terms was formed. Either way a binding contract exists.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Alternative: counteroffer/lapse of the original offer",
+    "rule": "If the first acceptance is treated as ineffective because Zena's statement terminated the offer, her statement of the new terms is a new offer which may remain open for a reasonable time; an offer is revoked only by communication before acceptance.",
+    "keyFacts": [
+     "Zena replied, 'I have a call on another line, and I'll call you right back.'",
+     "When she called Carl two minutes later"
+    ],
+    "analysis": "Zena never withdrew the offer before Carl's acceptance, and two minutes is a reasonable time to consider; Carl's second statement accepted the revised terms before her revocation.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Revocation too late",
+    "rule": "An offeror may revoke an offer any time before acceptance; revocation is effective on receipt. Once the contract is formed, a party cannot unilaterally withdraw.",
+    "keyFacts": [
+     "I'm sorry, but I've changed my mind and I think I'll do my own cleaning"
+    ],
+    "analysis": "Zena's revocation came after Carl's acceptance, so it is ineffective and operates as an anticipatory repudiation/breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds",
+    "rule": "Contracts for marriage, suretyship, land, goods over $500, executors, or that cannot be performed within one year must be in writing.",
+    "keyFacts": [
+     "once a week for the next month"
+    ],
+    "analysis": "Performable within a month and a service contract: no writing is required.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Breach and remedies",
+    "rule": "Repudiation of a binding contract is a total breach; the non-breaching party recovers expectation damages (lost profit) subject to mitigation.",
+    "keyFacts": [
+     "Carl sues Zena for breach of contract",
+     "$35 per hour",
+     "once a week for the next month"
+    ],
+    "analysis": "Zena is liable to Carl for expectation damages: wages for the work he would have done (hourly rate x hours over the month) less costs saved and amounts earned in mitigation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Pure Bar-exam fact pattern about ad-as-offer and the revocation/modification timing. Student A analyzed modification; B analyzed counteroffer. Both are acceptable paths to the same conclusion (Zena liable)."
+ },
+ {
+  "id": "october2014-q2",
+  "issues": [
+   {
+    "name": "Interspousal tort immunity",
+    "rule": "At common law spouses could not sue each other in tort; virtually all modern jurisdictions (including California) have abolished interspousal immunity.",
+    "keyFacts": [
+     "Homer and Wanda are husband and wife",
+     "Spouses cannot sue each other in tort"
+    ],
+    "analysis": "Motion on ground 1 should be denied; spouses may sue for negligence and intentional torts.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Directed verdict standard",
+    "rule": "A directed verdict (judgment as a matter of law) is granted only if, viewing the evidence in the light most favorable to the non-movant, no reasonable jury could find for the plaintiff on the claim.",
+    "keyFacts": [
+     "At the close of evidence, Homer moved for a directed verdict"
+    ],
+    "analysis": "The question is whether Wanda's evidence permits a reasonable jury to find negligence and battery; if so the motion is denied.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Negligence \u2013 duty and standard of care",
+    "rule": "Everyone owes a duty to act as a reasonable person under the circumstances to foreseeable plaintiffs; an amateur doing a task is held to the standard of a reasonable person (or a reasonably competent repairer), not the standard of his own lack of skill.",
+    "keyFacts": [
+     "Homer insisted on attempting to fix it himself, despite having no knowledge of how the furnace worked",
+     "Wanda wanted to call a licensed repair person"
+    ],
+    "analysis": "Homer owed Wanda a duty of reasonable care when repairing a furnace in their shared home; his inexperience does not lower the standard.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 breach (circumstantial evidence / res ipsa loquitur)",
+    "rule": "Res ipsa loquitur permits an inference of breach where the accident is of a type that ordinarily does not occur without negligence, the instrumentality was in the defendant's exclusive control, and the plaintiff did not contribute.",
+    "keyFacts": [
+     "Homer informed Wanda that he had fixed it",
+     "the fire appeared to have originated in the furnace",
+     "Homer was the only one who worked on the furnace"
+    ],
+    "analysis": "A fire originating in a furnace just repaired by an unskilled person supports an inference of negligence; evidence is sufficient to reach the jury, so ground 2 fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 causation",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeable harm, no superseding cause).",
+    "keyFacts": [
+     "found that [the house] had been destroyed by fire",
+     "fire appeared to have originated in the furnace"
+    ],
+    "analysis": "Fire from a negligently repaired furnace is the foreseeable result; jury could find but-for and proximate causation. The firefighter's statement is some evidence of origin.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 damages",
+    "rule": "Plaintiff must prove actual harm; property damage qualifies.",
+    "keyFacts": [
+     "destroyed by fire"
+    ],
+    "analysis": "The destruction of the house is compensable damage (subject to ownership issues).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Wanda's comparative fault / assumption of risk",
+    "rule": "Contributory negligence (complete bar in a few states), pure comparative negligence (reduces damages, CA), and assumption of risk require knowing, voluntary encounter; these are defenses for the jury, not grounds for a directed verdict.",
+    "keyFacts": [
+     "Wanda wanted to call a licensed repair person, but Homer insisted"
+    ],
+    "analysis": "Wanda objected, so little fault; at most reduces recovery, so does not warrant directed verdict.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Battery \u2013 elements and intent",
+    "rule": "Battery is an intentional act causing harmful or offensive contact with another. Intent means purpose or substantial certainty of contact; motive (a good one, to calm her) is irrelevant.",
+    "keyFacts": [
+     "Homer slapped her to calm her down",
+     "his intent was to calm her down, not to cause her any harm"
+    ],
+    "analysis": "Homer intended the slap, which is an offensive/harmful contact; his benign motive is no defense, so ground 3 fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Battery \u2013 defenses (consent/privilege)",
+    "rule": "No consent or privilege exists to slap a spouse to calm her; self-defense and defense of property require threat of harm (verbal provocation is no justification).",
+    "keyFacts": [
+     "Wanda started yelling at Homer for 'burning the house down'"
+    ],
+    "analysis": "Yelling is no privilege to use force; no defense, so the battery claim goes to the jury and the motion is denied.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Answer B's strict-liability analysis (abnormally dangerous activity) is wrong; furnace repair is not abnormally dangerous. Answer B treats last clear chance and contributory negligence more than necessary. Neither answer discussed directed verdict standard."
+ },
+ {
+  "id": "october2014-q3",
+  "issues": [
+   {
+    "name": "Conspiracy to kidnap (Frank)",
+    "rule": "Conspiracy is an agreement between two or more persons to commit an unlawful act with the intent to achieve the objective; many jurisdictions (incl. CA) require an overt act. Each conspirator is liable under Pinkerton for foreseeable crimes of co-conspirators in furtherance of the conspiracy.",
+    "keyFacts": [
+     "they hatched a scheme to kidnap a famous actor, Art",
+     "Steve and Frank located Art's house"
+    ],
+    "analysis": "Agreement plus overt acts (locating house, kidnapping) are present, so Frank is guilty of conspiracy; Steve's mental illness may affect his capacity to agree, but at least Frank is a conspirator (and bilateral/unilateral approaches).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Kidnapping and accomplice liability",
+    "rule": "Kidnapping is the unlawful movement or confinement of a person without consent, by force or fraud. An accomplice who aids/encourages with intent to facilitate the crime is liable as a principal; accomplices are liable for the target crime and the natural and probable consequences of it.",
+    "keyFacts": [
+     "kidnapped him and took him to a remote location",
+     "They would then release him"
+    ],
+    "analysis": "Both committed the kidnapping; intent to eventually release and the benign motive is no defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Battery of Art (Frank liable?)",
+    "rule": "Battery is unlawful application of force to another. Frank is liable for it only through Pinkerton/natural and probable consequences doctrine, or as an accomplice if he aided it. Frank had left; Steve's beating was an independent act.",
+    "keyFacts": [
+     "while Frank was out, Steve beat Art",
+     "Frank knew Steve was mentally ill, he was not aware of the severity"
+    ],
+    "analysis": "Close call: beating of a captive during a kidnapping is arguably foreseeable, particularly with a violent mentally ill co-felon, but it was not planned and happened while Frank was away; Steve's panic is arguably outside the scheme. A court could go either way; Pinkerton likely supports liability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Robbery / larceny of wallet (Frank liable?)",
+    "rule": "Robbery is trespassory taking and carrying away of the personal property of another from the person or presence by force or fear with intent to permanently deprive; larceny is the same without force. Frank is liable only through Pinkerton/foreseeability or a plan.",
+    "keyFacts": [
+     "Steve beat Art and took his wallet",
+     "In a panic"
+    ],
+    "analysis": "Steve committed robbery (force then taking, intent to steal). Whether Frank is liable depends on foreseeability and furtherance; the original scheme was to show acting skills, not to steal, so a theft was arguably beyond the conspiracy's scope - strong defense for Frank.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Withdrawal / scope of conspiracy",
+    "rule": "A conspirator is not liable for acts outside the scope of the agreement or after effective withdrawal (notice to co-conspirators and prevention); mere absence is not withdrawal.",
+    "keyFacts": [
+     "while Frank was out"
+    ],
+    "analysis": "Frank did not withdraw; but robbery/beating arguably outside scope.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Felony murder \u2013 police officer's death",
+    "rule": "Felony murder: a killing during the commission of or flight from an inherently dangerous felony (kidnapping, robbery); the killing must be a foreseeable result of the felony and be proximately caused by the felony; co-felons are liable for deaths caused by a co-felon. Under the agency/proximate-cause view, the officer's death must be caused by the felons.",
+    "keyFacts": [
+     "a police officer followed Steve",
+     "Steve ... driving greatly in excess of the speed limit",
+     "the officer's car spun out of control and he died"
+    ],
+    "analysis": "Kidnapping and robbery are enumerated; flight from the felony is within the felony until safety is reached, as Steve had not reached safety and was fleeing the police. A police officer's death in the chase is foreseeable. Frank can be liable for first-degree felony murder (kidnapping is first-degree felony murder in CA).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation \u2013 chase death",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeable, no superseding cause); in high-speed chases, a pursuer's death is usually foreseeable.",
+    "keyFacts": [
+     "During the high speed chase, the officer's car spun out of control"
+    ],
+    "analysis": "But-for the flight, the officer would not have died; the officer's own driving is a foreseeable response, not a superseding cause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Second-degree (implied malice) murder / manslaughter",
+    "rule": "Implied-malice murder requires a conscious disregard of a high risk of death (depraved heart); involuntary manslaughter requires criminal negligence or misdemeanor/unlawful act. The speeding was by Steve and Frank is liable only through Pinkerton/foreseeable crimes.",
+    "keyFacts": [
+     "driving greatly in excess of the speed limit",
+     "attempted to escape"
+    ],
+    "analysis": "If felony murder fails, Steve's reckless speeding supports second-degree murder or involuntary manslaughter; Frank's liability for it depends on foreseeability.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Steve \u2013 insanity defense",
+    "rule": "Insanity: M'Naghten (does not know nature of act or that it is wrong), irresistible impulse, MPC (lack of substantial capacity to appreciate wrongfulness or conform conduct), Durham (product of mental disease); in CA, M'Naghten. Burden is on defendant. Voluntary non-use of medication is not an excuse for failure to take it if the illness is not the cause.",
+    "keyFacts": [
+     "inmate who had to take antipsychotic medication to prevent paranoia",
+     "he stopped taking his antipsychotic medication",
+     "he went in and out of paranoia"
+    ],
+    "analysis": "Steve's paranoia is intermittent and he knew the nature of the kidnapping and that it would be discovered ('believing the kidnapping... had been discovered' shows he knew it was wrong); insanity likely fails under M'Naghten but is stronger under MPC/irresistible impulse for bad days.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Steve \u2013 duress",
+    "rule": "Duress requires an immediate threat of death or serious bodily injury, and a reasonable belief that the defendant must commit the crime; threat must be real and not a delusion in most jurisdictions.",
+    "keyFacts": [
+     "he developed a belief that Frank had supernatural powers and that he had to do what Frank said or Frank would kill him"
+    ],
+    "analysis": "The belief arises from delusion, not an actual threat; duress fails. The delusion might support insanity or diminished capacity instead.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Steve \u2013 mistake of fact (consent) / lack of specific intent",
+    "rule": "Kidnapping is a general intent crime; a reasonable good-faith belief in the victim's consent negates the lack-of-consent element; diminished capacity may negate specific intent where recognized.",
+    "keyFacts": [
+     "Steve believed that Art was going with them willingly"
+    ],
+    "analysis": "Steve's belief in consent is unreasonable given forced abduction from home (and a mistake of fact on kidnapping is weak); belief that Art was willing may negate the mental state for a kidnapping if credited, but both planned the kidnapping and agreed to 'release him' afterwards; defense likely fails.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Question 1 and 2 are about Frank; Q3 about Steve's defenses (insanity, duress, mistake, diminished capacity). Student A's recitation about 'Steve Frank's liability' is a typo-like confusion. Check whether the corrected labels fit; answer B's voluntary manslaughter label for criminal negligence is incorrect (should be involuntary)."
+ },
+ {
+  "id": "october2014-q4",
+  "issues": [
+   {
+    "name": "Governing law \u2013 services",
+    "rule": "Common law governs service/construction contracts; UCC governs sales of goods.",
+    "keyFacts": [
+     "Bill was to build a building",
+     "Ellen was to do the electrical work"
+    ],
+    "analysis": "Construction and subcontracting are services, so common law applies.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Doug as third-party beneficiary of Bill-Ellen contract",
+    "rule": "A third party can enforce a contract only if an intended beneficiary (intent to benefit shown by the promisor's performance running to the beneficiary, or the circumstances) whose rights have vested (knowledge/ reliance/assent) before rescission; incidental beneficiaries have no rights.",
+    "keyFacts": [
+     "Bill, in turn, entered into a contract with Ellen",
+     "Ellen was to do the electrical work for the building"
+    ],
+    "analysis": "Doug is likely only an incidental beneficiary, since Ellen contracted with Bill to perform and the contract does not show intent to confer on Doug; some argue Doug is an intended (creditor) beneficiary since performance was to improve Doug's building. Either way, Doug's remedy is against Bill, who is in privity; Ellen is likely not liable to Doug.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ellen's breach \u2013 repudiation",
+    "rule": "A party who abandons performance without legal excuse commits a total breach. Excuses such as impracticability, impossibility, or frustration require unforeseen events, and mere unprofitability or increased cost is not an excuse.",
+    "keyFacts": [
+     "Ellen decided she could not profitably do the electrical work for $15,000 and quit"
+    ],
+    "analysis": "Ellen had no excuse: her loss of profit is a foreseeable, ordinary business risk; the ~33% increase is not impracticability. Her quitting midstream was a material breach. The 'ten-times' rule in B is not a legal rule.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill's expectation damages \u2013 cover",
+    "rule": "Expectation damages place the non-breaching party where performance would have; for breach by a contractor, damages are reasonable cost of cover (difference between cost to complete and the unpaid contract balance), given mitigation.",
+    "keyFacts": [
+     "Ellen ... after receiving $3,000 in progress payments",
+     "Roger demanded $20,000 to complete the work",
+     "Bill looked diligently for an electrical contractor to complete the work at the lowest cost"
+    ],
+    "analysis": "Bill paid $3,000 + $20,000 = $23,000 for work worth $15,000 under the contract: damages $8,000 (assuming $3,000 compensated for work Ellen actually completed); Bill reasonably mitigated by hiring the only available contractor.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Consequential damages \u2013 lost on-time bonus (Hadley v. Baxendale)",
+    "rule": "Consequential damages are recoverable only if foreseeable at the time of contracting (the breaching party knew or had reason to know of special circumstances), and are proved with reasonable certainty and unavoidable.",
+    "keyFacts": [
+     "At the time she entered into the contract, Ellen was not aware of Bill's on-time bonus, but learned about it before she was to begin the job",
+     "did not receive the on-time bonus"
+    ],
+    "analysis": "Ellen learned of the bonus after the contract was formed (but before work began), so the lost bonus was not foreseeable at formation; Bill cannot recover the $10,000. Close call: some argue that learning before performance suffices, but traditional rule is knowledge at time of contracting. Delay in a building is also a generally foreseeable loss; the bonus is special.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Liability for Doug's damages / pass-through, and incidental damages",
+    "rule": "Incidental damages (costs of finding substitute) are recoverable; damages that Bill owes Doug are consequential and subject to the same foreseeability limit.",
+    "keyFacts": [
+     "Bill completed construction late"
+    ],
+    "analysis": "Ellen's liability for Bill's exposure to Doug depends on foreseeability at contracting; delay damages from a late building are generally foreseeable, but the bonus-related portion is not. Bill may recover search costs.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Condition \u2013 bonus precedent to Doug's payment",
+    "rule": "An express condition (on-time completion) must be strictly satisfied to trigger the duty to pay the bonus; impracticability or Ellen's breach by a subcontractor does not excuse Bill's failure to satisfy it as against Doug.",
+    "keyFacts": [
+     "$10,000 'on-time bonus' if he were to complete construction by a specified date"
+    ],
+    "analysis": "Bill failed the condition so Doug owes no bonus; Bill's remedy is against Ellen, but limited by foreseeability.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The $8,000 figure assumes Bill pays Roger $20k only for the work left, with Ellen having done $3k worth; the exam may expect $8,000 or $5,000 as alternative. Answer B hedges: says $5,000 then $8,000. The Doug-as-beneficiary issue is the call of Q1; the key's conclusion (Ellen not liable to Doug) should be double-checked. Whether Ellen's later knowledge of bonus (before beginning job) matters is a close call."
+ }
+]

@@ -1,0 +1,534 @@
+[
+ {
+  "id": "june2022-q1",
+  "issues": [
+   {
+    "name": "Trespass to land (Ray's liability)",
+    "rule": "Trespass to land is an intentional physical entry onto land possessed by another without consent or privilege. Intent need only be to enter, not to do harm or know it is another's land; liability exists even without actual damage (nominal damages).",
+    "keyFacts": [
+     "fenced and signs were posted stating: NO TRESPASSING",
+     "Ray climbed the fence and started crossing the construction site",
+     "Owen, the property owner"
+    ],
+    "analysis": "Ray voluntarily and intentionally entered Owen's land without consent or privilege (no necessity or other defense). Ray is liable for trespass; damages likely nominal absent harm to the land. This is the only intentional tort Ray committed against Owen.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Strict liability \u2013 abnormally dangerous activity (blasting)",
+    "rule": "A defendant engaged in an abnormally dangerous activity (high risk of serious harm that cannot be eliminated by reasonable care and not common in the area; not appropriate to the location) is strictly liable for harm that results from the activity's inherent danger. Under Restatement (2d) 520B possessors are generally not strictly liable to trespassers for such activity.",
+    "keyFacts": [
+     "Owen was about to blow up a tree stump to clear the land",
+     "the explosives accidentally exploded",
+     "Flying dirt and construction debris hit Owen and Ray"
+    ],
+    "analysis": "Blasting is the classic abnormally dangerous activity and the injury (flying debris) is the very risk that makes it dangerous, so Ray argues strict liability even though the explosion was accidental. Owen's best counter is that Ray was a trespasser, to whom many jurisdictions deny strict liability (and that the site was remote and fenced); likely outcome is uncertain, and negligence is the safer theory for Ray.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 landowner duty to a (known) trespasser",
+    "rule": "A possessor owes a trespasser no duty beyond refraining from willful/wanton harm, except that to known or anticipated trespassers he owes a duty to warn of or make safe known, hidden, artificial dangers and to use reasonable care in active operations. California applies general reasonable care to landowners (Rowland v. Christian), with the plaintiff's trespass relevant to breach/comparative fault.",
+    "keyFacts": [
+     "Owen ... saw Ray and yelled at him to stop",
+     "Ray climbed the fence",
+     "hole in the ground that should have been covered"
+    ],
+    "analysis": "Owen actually saw Ray, so Ray is a known trespasser, and the hole and explosives are artificial conditions/activities Owen controlled; Owen therefore owed a duty at least to warn or make safe and to use reasonable care in his blasting operations. The NO TRESPASSING signs warned against entry but not of hidden hazards.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 uncovered hole (breach and causation)",
+    "rule": "Breach is failure to act as a reasonably prudent person (Hand formula B < PL). Defendant is liable for foreseeable harm actually caused; a fleeing plaintiff's fall into a hazard is foreseeable and the chase is not a superseding cause.",
+    "keyFacts": [
+     "his foot got caught in a hole in the ground that should have been covered",
+     "Ray fell and broke his leg",
+     "Owen started chasing Ray"
+    ],
+    "analysis": "A hole that should have been covered is an artificial hazard Owen failed to make safe; covering it was cheap and a fall was foreseeable, especially when Owen himself was chasing a person across the site. Likely breach and causation as to the broken leg, though Ray's trespass reduces recovery.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligence \u2013 leaving explosives unattended; causation of explosion injuries",
+    "rule": "Leaving dangerous instrumentalities unattended falls below reasonable care where the risk of serious harm is obvious; an intervening accidental event is not superseding when it is the very risk that made the conduct negligent.",
+    "keyFacts": [
+     "As Owen started chasing Ray, he left the explosives unattended",
+     "the explosives accidentally exploded",
+     "Ray was seriously injured as a result"
+    ],
+    "analysis": "Owen's failure to secure explosives before chasing Ray is a clear breach; the accidental explosion is within the foreseeable risk, so actual and proximate cause are met and Owen is liable for Ray's serious injuries.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Negligent rescue / aggravation of injuries (contaminated rag)",
+    "rule": "One who voluntarily undertakes aid (or who created the peril) must use reasonable care; the original tortfeasor is liable for foreseeable aggravation of harm caused by rescue or medical treatment, including negligent treatment.",
+    "keyFacts": [
+     "he wrapped one of Ray's wounds with a rag",
+     "The rag was contaminated with dirt and bacteria",
+     "which led to an infection in the wound, worsening Ray's injuries"
+    ],
+    "analysis": "Because Owen created the peril and then undertook aid, he had to act reasonably; using a dirty rag instead of waiting for medical help (though he did call for it) is arguably negligent, but stopping bleeding with a rag in an emergency may be reasonable (close call). Even if not independently negligent, the infection is a foreseeable aggravation for which the original tortfeasor is liable. Owen may also invoke emergency/good-faith aid arguments.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 contributory/comparative negligence",
+    "rule": "Contributory negligence bars recovery in a few jurisdictions; most (including California) use comparative fault, reducing damages by plaintiff's percentage. Strict liability and negligence are both subject to comparative fault; last clear chance is a contributory-negligence doctrine.",
+    "keyFacts": [
+     "Ray climbed the fence",
+     "NO TRESPASSING",
+     "Ray wanted to take a shortcut home"
+    ],
+    "analysis": "Ray was negligent in climbing a fenced, posted site, but Owen's much greater negligence (unattended explosives, uncovered hole) means that under California pure comparative negligence Ray recovers reduced damages. A contributory-negligence jurisdiction would bar him unless last clear chance applies (Owen is arguably more at fault, and willful/wanton conduct defeats the defense).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 assumption of the risk",
+    "rule": "Primary/secondary assumption of risk requires that plaintiff knew and appreciated the specific risk and voluntarily encountered it; merged into comparative fault in California.",
+    "keyFacts": [
+     "fenced and signs were posted",
+     "Ray climbed the fence"
+    ],
+    "analysis": "Ray knew he was trespassing but there is no fact that he knew of blasting or the hole, so he did not assume those specific risks; defense likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Restatement 520B point (no strict liability to trespassers) is the main close call. California's Rowland approach vs. traditional trespasser rules may differ; students used traditional rules."
+ },
+ {
+  "id": "june2022-q2",
+  "issues": [
+   {
+    "name": "Tony \u2013 burglary",
+    "rule": "Common-law burglary: breaking and entering the dwelling of another at night with intent to commit a felony. Modern statutes (and California Penal Code 459) require entry into a structure with intent to commit theft or a felony; in California entry into a place open to the public with that intent still suffices, whereas jurisdictions requiring unauthorized entry may find consent.",
+    "keyFacts": [
+     "Tony entered the store through the open door",
+     "closed and locked the door behind him",
+     "he decided to confront Grace and take the necklace"
+    ],
+    "analysis": "Common law fails (no breaking, not a dwelling). Under modern/California law Tony entered a commercial structure with intent to take the necklace by force (robbery/theft), so burglary is chargeable; where the store was open to the public and consent counts, it is a close call. Locking the door after entry is not a breaking.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tony \u2013 robbery / attempted robbery",
+    "rule": "Robbery is a trespassory taking and carrying away of another's personal property from the person or presence by force or fear with intent to permanently deprive; attempt is specific intent plus an overt act beyond mere preparation. Taking by force is required for completed robbery.",
+    "keyFacts": [
+     "grabbed her wrist and shouted, \"You're not going anywhere until you give me the necklace. Don't make me hurt you.\"",
+     "Grace was standing behind a counter, wearing the diamond necklace",
+     "Frightened for her safety, Grace broke free"
+    ],
+    "analysis": "Tony never obtained the necklace, so he is guilty of attempted (not completed) robbery: intent to take it by force, with force and threats as the overt acts. Grace's necklace was a completed gift, so it was hers; Tony's possible belief it was his is addressed under claim of right.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tony \u2013 larceny (attempted) / claim of right",
+    "rule": "Larceny requires a trespassory taking and carrying away with intent to permanently deprive; an honest (even unreasonable) belief that one owns the property negates specific intent (claim of right), but not the use of force/threats, and is not a defense where the belief is not genuine.",
+    "keyFacts": [
+     "Tony gave his girlfriend, Grace, a diamond necklace",
+     "had deep sentimental value to Tony",
+     "Tony asked Grace to return the necklace, but she refused"
+    ],
+    "analysis": "No larceny since no taking/asportation occurred. Tony may argue a claim of right (the gift was his grandmother's and he wanted it back), which could negate the intent for theft/robbery, but a completed gift is Grace's property and self-help by force is not allowed; a weak defense and a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Tony \u2013 assault and battery",
+    "rule": "Assault: attempted battery or intentional creation of reasonable apprehension of imminent harmful or offensive contact (battery requires harmful/offensive contact). Both are general intent crimes.",
+    "keyFacts": [
+     "grabbed her wrist",
+     "Don't make me hurt you"
+    ],
+    "analysis": "Grabbing Grace's wrist is an offensive touching (battery) and the threat while grabbing placed her in fear of imminent harm (assault); each is easily established.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Tony \u2013 false imprisonment (and kidnapping/extortion alternatives)",
+    "rule": "False imprisonment is unlawful confinement of a person without consent, by force or threat, with no reasonable means of escape; extortion/attempted extortion involves obtaining property by threat of future harm.",
+    "keyFacts": [
+     "closed and locked the door behind him",
+     "You're not going anywhere"
+    ],
+    "analysis": "Locking the door and verbally preventing her from leaving confined Grace, supporting false imprisonment (a possible back exit and brief duration make it a close call); extortion is a weak fit because the threat was of immediate force (robbery), not future harm.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Tony \u2013 defense: voluntary intoxication",
+    "rule": "Voluntary intoxication may negate specific intent (e.g., intent to permanently deprive, felony intent for burglary, attempt) but is no defense to general intent crimes (assault, battery) or recklessness.",
+    "keyFacts": [
+     "drank heavily",
+     "In a fit of intoxicated rage, he decided to confront Grace and take the necklace"
+    ],
+    "analysis": "Intoxication is voluntary; it may reduce the specific-intent crimes (attempted robbery, burglary) only if he could not form the intent, which is doubtful since he planned the confrontation, and it is no defense to assault, battery, or false imprisonment.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Grace \u2013 assault, battery, and attempted murder charges (shooting Tony)",
+    "rule": "Assault with a deadly weapon and battery (including aggravated) require intentional use of a deadly weapon; attempted murder requires specific intent to kill (or implied malice theories where permitted) plus an overt act.",
+    "keyFacts": [
+     "grabbed a handgun that she kept hidden behind the counter",
+     "fired a shot at Tony",
+     "The bullet hit Tony in the stomach, seriously injuring him"
+    ],
+    "analysis": "Shooting at Tony supports assault with a deadly weapon, battery causing serious injury, and attempted murder (intent to kill inferred from firing a handgun at the torso). Each charge is subject to self-defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Grace \u2013 defense: self-defense (deadly force)",
+    "rule": "Deadly force is justified if the defendant reasonably believed she faced imminent death or serious bodily harm and force was necessary; non-aggressor, no deadly force to protect property alone, retreat rules (no retreat in own place of business/majority). Imperfect self-defense (unreasonable but honest belief) reduces liability in California.",
+    "keyFacts": [
+     "You're not going anywhere ... Don't make me hurt you",
+     "locked the door",
+     "Frightened for her safety",
+     "Tony ... grabbed her wrist"
+    ],
+    "analysis": "Tony was the initial aggressor, locked her in, grabbed her and threatened harm, supporting a reasonable fear of imminent serious harm; but Tony was unarmed and the threat was vague and tied to a necklace, so proportionality of deadly force is a close call. She was in her own store, so no retreat duty. Likely self-defense succeeds or at least imperfect self-defense mitigates.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "A's self-defense discussion was truncated in the source text. A mislabels assault with deadly weapon as 'aggravated battery'. B calls Tony's conduct completed robbery (no taking occurred) and uses merger incorrectly."
+ },
+ {
+  "id": "june2022-q3",
+  "issues": [
+   {
+    "name": "Governing law \u2013 UCC Article 2; merchants",
+    "rule": "UCC Article 2 governs contracts for the sale of goods; merchants are those who deal in goods of the kind or hold themselves out as having specialized knowledge, triggering merchant rules.",
+    "keyFacts": [
+     "selling various products, including board games",
+     "production of a popular board game",
+     "purchase by Big Mart of as many units"
+    ],
+    "analysis": "The contract is for movable goods (board games), so the UCC applies; both Big Mart (retailer) and Helen (producer) are merchants.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Formation \u2013 output contract, quantity term and good faith (2-306)",
+    "rule": "Under UCC 2-306 an output contract measures quantity by the seller's good-faith output, not unreasonably disproportionate to any stated estimate; the obligation of good faith limits the output; and it is not illusory.",
+    "keyFacts": [
+     "as many units as Helen can produce each month during the next six months",
+     "she estimates she can produce 10,000 units per month for six months",
+     "That estimate was included in a valid written contract"
+    ],
+    "analysis": "This is an output contract with a stated 10,000-unit estimate and a duty of good-faith production. Helen cannot reduce output by choosing not to hire workers or by vacation; her production far below the estimate, caused by lack of effort, is a failure of good faith and diligence, not merely a permissible estimate shortfall.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of Frauds (UCC 2-201)",
+    "rule": "Contracts for the sale of goods of $500 or more require a signed writing with a quantity term; output contracts satisfied by writing stating a quantity or the parties' stated estimate.",
+    "keyFacts": [
+     "valid written contract",
+     "$10 each"
+    ],
+    "analysis": "The contract is written and valid and is far above $500, so SOF is satisfied; not a live defense.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Installment contract; substantial impairment and material breach (2-612)",
+    "rule": "In an installment contract a buyer may cancel the whole contract if a nonconformity substantially impairs the value of the whole and cannot be cured; otherwise, only the installment can be rejected.",
+    "keyFacts": [
+     "only produced 8,000 units during the first three months",
+     "During the fourth month, Helen produced only 2,000 more units",
+     "Big Mart now wants to get out of the contract"
+    ],
+    "analysis": "Output of 10,000 in four months against an estimate of 40,000 (about 25%) is a substantial impairment of the whole contract, particularly given the lack of reasonable cure and Helen's failure to respond; Big Mart can cancel and sue for breach of the whole.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Prospective inability to perform \u2013 adequate assurance (2-609) / anticipatory repudiation",
+    "rule": "A party with reasonable grounds for insecurity may demand written adequate assurance and suspend its own performance; failure to provide it within a reasonable time (not over 30 days) is a repudiation.",
+    "keyFacts": [
+     "Big Mart demanded in writing that Helen confirm her ability to produce more, but she did not reply"
+    ],
+    "analysis": "Low output gave Big Mart reasonable grounds for insecurity, its written demand was proper, and Helen's silence for a reasonable time constitutes repudiation, independently justifying cancellation and damages.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 impossibility/impracticability (2-615)",
+    "rule": "Performance is excused by a supervening event not within basic contract assumptions that makes performance impracticable; self-induced difficulty, or a risk the party assumed or controlled, does not qualify.",
+    "keyFacts": [
+     "because she can easily hire more employees, which is true in her area",
+     "she failed to hire the employees she could have",
+     "Helen often went away on vacation"
+    ],
+    "analysis": "Helen's inability stemmed from her own failure to hire, not an unforeseen event; she even represented hiring was easy. Defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense \u2013 substantial performance / waiver / estimate-only",
+    "rule": "Substantial performance is not a UCC defense (perfect tender); installment rule 2-612 controls. Waiver or course of performance requires intentional relinquishment; accepting installments and not objecting does not by itself waive the right to cancel.",
+    "keyFacts": [
+     "Big Mart demanded in writing",
+     "only produced 8,000 units"
+    ],
+    "analysis": "Helen may say the 10,000 figure was only an estimate and Big Mart did not object earlier; the contract made good-faith output (including the estimate) the measure and Big Mart reserved rights through its written demand, so these defenses likely fail.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Damages \u2013 liquidated damages clause (2-718)",
+    "rule": "Liquidated damages are enforceable if reasonable in light of anticipated or actual harm, difficulty of proof of loss, and inconvenience of other remedies; an unreasonably large sum is an unenforceable penalty. A valid clause generally limits the injured party to that sum unless the contract says otherwise.",
+    "keyFacts": [
+     "lost profits could be difficult to predict",
+     "$25,000 liquidated damages clause in favor of Big Mart"
+    ],
+    "analysis": "Lost profits were hard to estimate and no substitute supplier existed, and $25,000 is small relative to the expected profit (about $10 per unit on tens of thousands of units), so it is not a penalty and is likely enforceable; a point for the reviewer is whether it is the exclusive remedy and whether Big Mart may obtain more.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Damages \u2013 expectation, cover, and consequential/lost-profit remedies (2-711 to 2-715)",
+    "rule": "Buyer may cancel and recover damages: cover price difference (2-712), market price difference (2-713), incidental/consequential damages including foreseeable lost resale profits (2-715), reasonably certain.",
+    "keyFacts": [
+     "no other party can provide the games",
+     "Big Mart wants to sell Helen's game for $20",
+     "price of $10 each"
+    ],
+    "analysis": "Cover is unavailable because Helen is the sole source; Big Mart's resale margin ($10/unit) shows lost-profit damages but certainty is difficult, which justifies the liquidated sum; if the clause is invalid, Big Mart would have to prove lost profits on undelivered units.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Remedy \u2013 specific performance (2-716)",
+    "rule": "Specific performance is available where goods are unique or in other proper circumstances, such as inability to cover.",
+    "keyFacts": [
+     "no other party can provide the games"
+    ],
+    "analysis": "Sole-source goods support specific performance, but Big Mart seeks to exit the contract and a liquidated damages clause suggests an adequate remedy, so specific performance is unlikely or unnecessary.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Whether liquidated damages are exclusive and how that interacts with expectation damages is the contested part of Q2. Facts do not say whether 30 days passed before the assurance deadline."
+ },
+ {
+  "id": "june2022-q4",
+  "issues": [
+   {
+    "name": "Carol \u2013 solicitation",
+    "rule": "Solicitation is inciting, urging or requesting another to commit a crime with intent that the crime be committed; it merges into the completed offense or conspiracy.",
+    "keyFacts": [
+     "Carol suggested that Brian come to the bank and pass a note to the clerk",
+     "demanding $1,000"
+    ],
+    "analysis": "Carol urged Brian to rob the bank, so she committed solicitation, but it merges into conspiracy/robbery liability once Brian acts.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Conspiracy (Carol and Brian)",
+    "rule": "Conspiracy is an agreement between two or more people to commit an unlawful act with intent to achieve its object; most modern statutes (California) also require an overt act. Co-conspirators are liable for foreseeable crimes in furtherance (Pinkerton).",
+    "keyFacts": [
+     "Carol would distract the bank's security guard",
+     "Brian arrived at the bank, passed the clerk the note"
+    ],
+    "analysis": "Agreement (inferred from Carol's plan and Brian's execution), shared intent to commit robbery, and overt acts are present; both are guilty of conspiracy to commit robbery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Accomplice liability for robbery (Carol)",
+    "rule": "An accomplice who intentionally aids, abets, or encourages the principal is liable for the crime and for foreseeable offenses; encouragement and inside information suffice, and accessory before the fact is treated as a principal.",
+    "keyFacts": [
+     "Carol told Brian that the clerk ... was new and easily flustered",
+     "Carol suggested"
+    ],
+    "analysis": "Carol planned the robbery, selected the clerk, and offered to distract the guard, so she is liable as accomplice for robbery of the bank (and for burglary of her own employer's bank under the modern view).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Brian \u2013 robbery (and burglary)",
+    "rule": "Robbery: trespassory taking of another's property from the person or presence by force or fear with intent to permanently deprive; fear can result from a demand note. Burglary (modern): entry of a structure with intent to commit a felony/theft; entry into open building suffices in California.",
+    "keyFacts": [
+     "pass a note to the clerk ... demanding $1,000",
+     "received $1,000",
+     "Brian arrived at the bank"
+    ],
+    "analysis": "A note demanding money, handed to a flustered clerk, implies a threat sufficient for robbery by fear; burglary also fits under the modern/California rule though not at common law (no breaking, not a dwelling, daytime). Larceny (including by trick or false pretenses) is a fallback if no threat is shown.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder (killing of customer by guard)",
+    "rule": "Felony murder: killing during commission of an inherently dangerous felony such as robbery (including flight to safety) is murder. Under the majority agency rule the killing must be committed by the felon or accomplice; the proximate-cause minority holds felons liable for deaths foreseeably caused by others. California requires the killing to be committed by the felon or accomplice, though liability may rest on provocative-act doctrine.",
+    "keyFacts": [
+     "As Brian was leaving, the security guard became suspicious and withdrew his gun",
+     "The gun accidentally discharged, and the bullet struck and killed a bank customer"
+    ],
+    "analysis": "The robbery is still ongoing as Brian is leaving. Under the agency rule, the guard (a non-felon) accidentally shot a bystander, so felony murder likely does not apply; under the proximate-cause approach it would. The guard's act was an accident, not a response to being shot at, which weakens the provocative-act theory. This is a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder/manslaughter \u2013 malice, causation, and superseding cause",
+    "rule": "Murder requires malice (intent to kill, GBH, depraved heart, or felony); involuntary manslaughter involves criminal negligence or an unlawful act. Defendant's conduct must be actual and proximate cause; a foreseeable intervening act is not superseding, though an accidental discharge by a third party may be.",
+    "keyFacts": [
+     "the security guard became suspicious and withdrew his gun",
+     "accidentally discharged"
+    ],
+    "analysis": "Without felony murder, depraved-heart murder is weak (Brian did not intend or expose people to extreme risk with a weapon); involuntary manslaughter is plausible if the guard's reaction is foreseeable. Brian can argue the guard's accident was an unforeseeable superseding cause; likely a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carol \u2013 $20 from the cash drawer (larceny vs. embezzlement); return no defense",
+    "rule": "Larceny requires taking from possession of another; embezzlement is fraudulent conversion of property already lawfully possessed (an employee generally has mere custody of employer's cash at larceny jurisdictions); the intent to take is complete at taking and later return is not a defense.",
+    "keyFacts": [
+     "Carol removed $20 for herself from the cash drawer at her own assigned bank teller window",
+     "thinking that no one would notice",
+     "she reconsidered and returned the $20"
+    ],
+    "analysis": "Carol took bank money with intent to keep it, so she committed larceny or embezzlement (custody vs. possession split), and returning it later does not erase the crime (restitution is not a defense, only mitigation). Brian is not liable for this because it was not in furtherance of the robbery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Carol \u2013 defense: withdrawal from conspiracy",
+    "rule": "Withdrawal requires affirmative act communicated to co-conspirators before the crime is committed, and liability for the conspiracy remains; withdrawal after the object is achieved is ineffective.",
+    "keyFacts": [
+     "Carol would distract the bank's security guard",
+     "During the commotion that followed, Carol removed $20"
+    ],
+    "analysis": "Carol did not notify Brian or stop the plan; the robbery was already completed, so withdrawal fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Brian \u2013 defense: necessity/duress",
+    "rule": "Necessity requires imminent natural harm, no legal alternative, and harm avoided greater than harm caused; economic hardship does not qualify.",
+    "keyFacts": [
+     "lost his job and needed money for rent"
+    ],
+    "analysis": "Inability to pay rent is not an emergency justifying robbery; defense fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The felony-murder rule (agency vs proximate cause) and whether an accidental shooting by a non-felon guard counts under California law is a close call; answer key conclusion is that majority rule likely precludes felony murder."
+ }
+]

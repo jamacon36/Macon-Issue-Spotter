@@ -1,0 +1,676 @@
+[
+ {
+  "id": "july2018-q1",
+  "issues": [
+   {
+    "name": "UCC Article 2 governs; merchants",
+    "rule": "Sales of goods are governed by UCC Article 2. Both parties here are merchants (farmer who regularly sells tomatoes; sauce company that regularly buys), so merchant rules apply.",
+    "keyFacts": [
+     "sell ... 5,000 bushels of tomatoes",
+     "Best Sauce-Maker Company",
+     "Stan, a farmer"
+    ],
+    "analysis": "Tomatoes are goods and both are merchants, so UCC 2 governs, including good-faith modification, adequate assurance, retraction, cover and resale rules.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Modification / waiver of delivery date (May 15 email and 'Okay')",
+    "rule": "Under UCC 2-209 a modification of a goods contract needs no consideration but must meet the good-faith requirement; a signed writing is required if the contract as modified is within the statute of frauds. Alternatively a party may waive a term (e.g., time) and later retract the waiver only on reasonable notice if the other has not materially relied.",
+    "keyFacts": [
+     "Delivery will be two weeks late",
+     "Best replied: 'Okay.'",
+     "valid written contract"
+    ],
+    "analysis": "The delay was caused by weather (good faith) and Best assented in writing (email), so the delivery date was likely modified or waived to about July 15. Best therefore cannot treat the delay itself as a breach.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Anticipatory repudiation (May 22 statements)",
+    "rule": "A repudiation is an unequivocal statement or act showing that a party will not or cannot perform; under UCC 2-610 the aggrieved party may wait a commercially reasonable time, resort to remedies, and suspend its own performance. Doubt or equivocal statements are not a repudiation.",
+    "keyFacts": [
+     "Stan would be unable to fulfill all his contracts",
+     "Won't know until June 10 whether I'll have enough tomatoes"
+    ],
+    "analysis": "Stan's statement is equivocal; he did not say he would not perform, so it is not a repudiation by itself, though it raises reasonable doubt.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Demand for adequate assurance (UCC 2-609)",
+    "rule": "When reasonable grounds for insecurity arise, a party may in writing demand adequate assurance of due performance and suspend its own performance; failure to provide assurance within a reasonable time (not over 30 days) is a repudiation. Between merchants, reasonableness is judged by commercial standards.",
+    "keyFacts": [
+     "an employee of Delta Bank ... told Best that rains had damaged Stan's tomato crops",
+     "We need a firm commitment by May 27",
+     "Stan did not contact Best by May 27"
+    ],
+    "analysis": "Grounds for insecurity existed (bank report plus Stan's own equivocation). But the demand was oral rather than written, and May 27 (5 days, over a month before the July 1/15 delivery date) is arguably unreasonably short given Stan said he would not know until June 10. Close call; the better view is no repudiation by silence by May 27, though many answers conclude the reverse.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Retraction of repudiation (UCC 2-611) and Best's cover",
+    "rule": "A repudiating party may retract until the aggrieved party has cancelled, materially changed position, or otherwise indicated it considers the repudiation final. If retraction is effective, the aggrieved party must accept performance and the contract continues.",
+    "keyFacts": [
+     "On June 3, Best contracted to buy the 5,000 bushels ... from Agro-Farm",
+     "On June 6, Stan told Best: 'Worry was for nothing. I'll be able to deliver all 5,000 bushels.'",
+     "Too late."
+    ],
+    "analysis": "If Stan's silence was a repudiation, Best materially changed position on June 3 by contracting with Agro-Farm, so the June 6 retraction came too late. If the demand was invalid or the time unreasonable, Stan gave assurance within a reasonable time (June 6, 15 days later), there was no repudiation, and Best's cover and refusal to accept is itself a repudiation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Who breached; impracticability defense",
+    "rule": "Impracticability (UCC 2-615) excuses a seller only if a supervening event whose non-occurrence was a basic assumption makes performance impracticable; ordinary crop-failure risk of a farmer is generally assumed unless the contract is limited to crops from a particular source, and the seller must allocate fairly among customers.",
+    "keyFacts": [
+     "heavy rains in March-May slowed tomato ripening",
+     "unable to fulfill all his contracts",
+     "Won't know until June 10"
+    ],
+    "analysis": "Stan has not claimed excuse, and nothing shows his supply was destroyed or the contract was source-limited, so impracticability is weak. Conclusion: a close call between Best breaching by wrongful cover/repudiation (if the demand was invalid) and Stan breaching by failing to give assurance; the stronger reading on these facts is that Best's oral, 5-day demand did not trigger 2-609 so Best breached.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Best's damages if Stan breached",
+    "rule": "Buyer's remedies: cover under 2-712 (reasonable purchase in good faith without unreasonable delay) with damages of cover price minus contract price plus incidental and consequential damages less expenses saved; or market-contract differential under 2-713.",
+    "keyFacts": [
+     "Best contracted to buy ... from Agro-Farm for $110 per bushel",
+     "$100 per bushel"
+    ],
+    "analysis": "Cover damages are ($110-$100) x 5,000 = $50,000, plus any incidental costs. Cover appears reasonable. No consequential damages shown.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Stan's damages if Best breached",
+    "rule": "Seller's remedies for buyer's repudiation: resale under 2-706 (good faith, commercially reasonable, with reasonable notice for a private sale) giving contract price minus resale price plus incidentals less expenses saved; or market differential (2-708(1)); or lost profit if lost-volume seller (2-708(2)). Seller must mitigate.",
+    "keyFacts": [
+     "Stan sold the 5,000 bushels to a vegetable wholesaler for $95 per bushel",
+     "Concerned about quickly finding another buyer"
+    ],
+    "analysis": "Contract $100 minus resale $95 = $5 x 5,000 = $25,000 plus incidentals. Stan resold promptly; a potential problem is lack of notice to Best of the resale, and whether the resale was commercially reasonable. Stan's recovery is capped by his duty to mitigate.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mitigation; consequential and incidental damages",
+    "rule": "Damages are limited by the duty to mitigate; consequential damages must be foreseeable (Hadley) and proved with reasonable certainty; incidental damages cover reasonable expenses of cover or resale.",
+    "keyFacts": [
+     "Best replied: 'Too late. We made other arrangements. You owe us $50,000.'"
+    ],
+    "analysis": "Both parties mitigated by cover and resale. No facts show consequential damages for either side; only incidentals if proved.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Real close call on who breached: oral 2-609 demand and 5-day deadline cut against Best; Stan's silence cuts against Stan. Check grader expectation on writing requirement of 2-609 and 2-706 resale notice."
+ },
+ {
+  "id": "july2018-q2",
+  "issues": [
+   {
+    "name": "Proposition 8 and general relevance (Cal. Evid. Code 210, 350, 352)",
+    "rule": "In California criminal cases, Proposition 8 (Cal. Const. art. I, 28(f)(2)) makes all relevant evidence admissible, subject to Evid. Code 352 and statutory hearsay and privilege rules (hearsay, 352 and constitutional limits remain). Evidence is relevant if it has any tendency in reason to prove a disputed fact; the court may exclude if probative value is substantially outweighed by undue prejudice, confusion or time.",
+    "keyFacts": [
+     "Deb was charged in a California state court with battery of a spouse or live-in companion",
+     "Answer according to California law"
+    ],
+    "analysis": "Each item is relevant to identity or alibi; the questions turn on hearsay, character-evidence statutes and authentication.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "911 tape - authentication and secondary evidence; multiple hearsay",
+    "rule": "A recording must be authenticated (Evid. Code 1400-1401) and satisfy the secondary evidence rule (Evid. Code 1521). A recording containing a statement by a declarant is two layers of hearsay: the recording/record and the declarant's statement; each layer needs an exception (Evid. Code 1201).",
+    "keyFacts": [
+     "The prosecution properly authenticated the 911 tape",
+     "stipulated that the 911 recording was a business record of the police department, but that Vic's statements on it were specifically not covered"
+    ],
+    "analysis": "Authentication is conceded and the stipulation covers the outer layer (business record, 1271), but Vic's statements inside the tape need their own exception.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Vic's statement - spontaneous statement (Evid. Code 1240)",
+    "rule": "A statement is admissible as a spontaneous statement if it describes an act or event perceived by the declarant and was made while under the stress of excitement caused by perceiving it; availability of the declarant is irrelevant. It may not exceed a short period after the event.",
+    "keyFacts": [
+     "beaten when he stepped out of his car",
+     "called 911 about two minutes after the beating and reported that Deb ... had beaten him"
+    ],
+    "analysis": "A beating is a startling event and two minutes is short; no facts rebut stress, so the statement likely qualifies and is admissible for its truth, including the identification of Deb.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Vic's statement - prior inconsistent statement (Evid. Code 1235, 770)",
+    "rule": "A prior statement by a testifying witness is not excluded as hearsay if inconsistent with his trial testimony and the witness is given an opportunity to explain or deny it (Evid. Code 770). Evasiveness, claimed lack of memory and refusal to answer can be treated as inconsistent. Statements admitted under 1235 are substantive evidence.",
+    "keyFacts": [
+     "He reluctantly took the stand. He refused to identify Deb in open court as the perpetrator",
+     "He admitted making the 911 call in which he reported that Deb ... had beaten him"
+    ],
+    "analysis": "Vic's refusal to identify Deb is inconsistent with his earlier accusation, and he is present and subject to examination, so the 911 statement is likely admissible under 1235 as well. Court could find that mere silence is not inconsistent, but California cases treat evasiveness as inconsistency.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Vic's statement - other exceptions that fail (contemporaneous, past physical harm 1370, past condition)",
+    "rule": "Contemporaneous statement (1241) must explain the declarant's own conduct as it occurs. Evid. Code 1370 (threat or infliction of physical injury) requires unavailability of the declarant, a statement at or near the time, trustworthy circumstances, and a writing/recording or report to emergency personnel. A witness who testifies, even reluctantly, is not unavailable.",
+    "keyFacts": [
+     "He admitted making the 911 call",
+     "Vic ... took the stand"
+    ],
+    "analysis": "1241 does not fit as Vic was describing past acts, and 1370 fails because Vic is available. The statement is nonetheless admissible under 1240 (and 1235), so these are only alternative theories; unavailability by refusal to testify is possible if Vic persists after court order.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Confrontation Clause",
+    "rule": "The Sixth Amendment bars testimonial hearsay of a declarant who does not testify unless unavailable and previously cross-examined (Crawford). Statements to 911 operators to meet an ongoing emergency are nontestimonial (Davis v. Washington); if the declarant testifies at trial and is subject to cross-examination, there is no violation (California v. Green).",
+    "keyFacts": [
+     "He admitted making the 911 call",
+     "Vic ... took the stand"
+    ],
+    "analysis": "Vic testified and can be cross-examined, so there is no Confrontation Clause problem; also, a call within minutes seeking help is likely nontestimonial, though a call identifying the assailant after the attack ended is a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Sam's testimony - propensity evidence in domestic violence cases (Evid. Code 1109)",
+    "rule": "Character evidence is generally inadmissible to prove conduct (Evid. Code 1101(a)), but in a prosecution for domestic violence, evidence of the defendant's other acts of domestic violence is admissible to show propensity, subject to Evid. Code 352, notice to the defense, and a presumption against acts more than 10 years old. 'Domestic violence' includes abuse of a cohabitant.",
+    "keyFacts": [
+     "a man who had been Deb's live-in boyfriend eight years earlier",
+     "Deb had threatened to choke him to death if he left her, and that she had beaten him several times",
+     "All evidence pertaining to Sam's testimony had been properly disclosed"
+    ],
+    "analysis": "Sam's testimony about batteries on a former cohabitant is admissible under 1109. Eight years is within the 10-year period, notice was given, and the acts are similar and not unduly inflammatory, so 352 does not bar them; the court should have admitted them. Under 352 the court weighs remoteness, similarity, and prejudice.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Sam's testimony - alternative non-character theories (1101(b)) and hearsay",
+    "rule": "Other-acts evidence may be admitted under Evid. Code 1101(b) to prove motive, intent, identity, common plan or absence of mistake, but only if sufficiently similar and probative. Deb's own threats offered against her are party admissions (Evid. Code 1220).",
+    "keyFacts": [
+     "Deb had threatened to choke him to death if he left her"
+    ],
+    "analysis": "1101(b) theories are weak (identity requires a signature method; common plan is thin), so admissibility rests on 1109. Deb's threat to Sam is not hearsay because it is a party admission.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Computer print-out - relevance and authentication",
+    "rule": "Evidence must be authenticated by evidence sufficient to sustain a finding that it is what the proponent claims (Evid. Code 1400-1401); a witness with knowledge can authenticate. Computer-generated printouts are presumed accurate (Evid. Code 1552) when the printed representation of computer information is offered, and the opponent bears the burden to show it was inaccurate.",
+    "keyFacts": [
+     "She offered a print-out of a list of file names, which contained the dates and times they were created",
+     "her computer clock was set to the correct time and keeping time accurately"
+    ],
+    "analysis": "The printout is relevant to Deb's alibi (she was at her office 20 miles away). Deb's testimony that she was using that computer and that the clock was accurate supports authentication, and the 1552 presumption of accuracy applies; any doubts (who was at the keyboard, remote access) go to weight rather than admissibility.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Computer print-out - hearsay and secondary evidence rule",
+    "rule": "Hearsay is a statement by a person (Evid. Code 225, 1200); automatically generated machine data (timestamps) are not statements and are not hearsay. A printout of computer data is an original under the secondary evidence rule (Evid. Code 255, 1521).",
+    "keyFacts": [
+     "a list of file names, which contained the dates and times they were created"
+    ],
+    "analysis": "The timestamps are generated by the machine, not a human declarant, so they are not hearsay, and the printout is an original or duplicate; the printout should be admitted.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Check whether grader expects 1235 prior-inconsistent theory for the 911 tape and 1370 unavailability analysis; student A missed 1235."
+ },
+ {
+  "id": "july2018-q3",
+  "issues": [
+   {
+    "name": "Conflict of interest - joint representation of co-defendants",
+    "rule": "A lawyer may not represent clients with actual conflicts, or where there is a significant risk (CA) / material limitation (ABA) of conflict, unless the lawyer reasonably believes he can provide competent and diligent representation and each client gives informed consent, confirmed in writing (CA 1.7: informed written consent; ABA 1.7: informed consent confirmed in writing). Joint representation of criminal co-defendants carries serious risk (plea/cooperation, divergent defenses, differing culpability).",
+    "keyFacts": [
+     "Betty and Sheila ... charged with armed robbery",
+     "Lou agreed to represent them in their criminal cases",
+     "joint arraignment"
+    ],
+    "analysis": "Co-defendants' interests can diverge (cooperation deals, shifting blame, different roles), so joint representation is a significant risk requiring informed written consent; here a reasonable-belief finding is doubtful. Lou did not obtain valid informed consent (below), so he is subject to discipline.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Inadequate disclosure and consent; retainer's vague conflict clause",
+    "rule": "Informed consent requires disclosure of the relevant circumstances and the material risks and reasonably available alternatives, including that confidences are not protected between joint clients and that the lawyer may have to withdraw from both if the conflict ripens. CA also requires written disclosure of relationships and updated consent when a potential conflict becomes actual; a boilerplate advance waiver is not informed consent.",
+    "keyFacts": [
+     "From time to time, Lawyer may represent someone whose interests may not align with that of Clients",
+     "Lawyer will make every effort to inform Clients of any potentially conflicting representations",
+     "Both ... signed the retainer agreement"
+    ],
+    "analysis": "The clause is generic and promises only to 'make every effort' to inform; it does not describe the specific co-defendant conflict or its risks. Signing it is not informed consent, so Lou violated the conflict rules and duty of communication.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Personal/relationship conflict - Lou is Betty's uncle",
+    "rule": "A lawyer must disclose in writing a personal or family relationship that creates a significant risk the representation will be materially limited (CA 1.7(b), (c)); under ABA the lawyer's personal interest can create a material-limitation conflict requiring informed consent.",
+    "keyFacts": [
+     "hire Betty's uncle, Lou, as their lawyer"
+    ],
+    "analysis": "Lou's family loyalty to Betty may lead him to favor her over Sheila, especially if their interests diverge. No disclosure to Sheila is shown, so this is an additional violation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Confidentiality and privilege between joint clients",
+    "rule": "A lawyer owes a duty of confidentiality (B&P 6068(e); Rule 1.6/1.6 CA) and, with joint clients, must explain that information shared by one may have to be shared with the other and that there is no privilege between them in later disputes.",
+    "keyFacts": [
+     "Both of them emphatically denied that they robbed anyone",
+     "met with Lou together"
+    ],
+    "analysis": "No disclosure of loss of confidentiality as between co-clients was made. No actual breach of confidentiality is shown, so this folds into the informed-consent defect.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Competence",
+    "rule": "A lawyer must provide competent representation: the legal knowledge, skill, thoroughness and preparation reasonably necessary (Rule 1.1). A lawyer lacking competence may accept the matter only if he can become competent through study without undue delay or associate a competent lawyer. California discipline requires intentional, reckless, repeated failure or gross negligence (Rule 1.1(a) 'intentionally, recklessly, with gross negligence, or repeatedly').",
+    "keyFacts": [
+     "Lou is an estate planning attorney and has never represented defendants in criminal cases before",
+     "angered the court ... because of his unfamiliarity with criminal procedure",
+     "the court relieved Lou"
+    ],
+    "analysis": "Lou took an armed robbery case with no criminal experience, did not associate co-counsel, and appeared unprepared at the arraignment. This violates the ABA competence rule, and likely the CA standard as well (reckless/grossly negligent undertaking).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Contingent fee in a criminal case",
+    "rule": "A contingent fee may not be charged in a criminal case (ABA 1.5(d)(2); Cal. Rule 1.5(d)(2)). A fee whose payment depends on the outcome is contingent, even if a flat amount rather than a percentage.",
+    "keyFacts": [
+     "If Clients are unsuccessful at trial, Clients will owe only costs advanced by Lawyer and zero fees",
+     "If Clients are successful either before or at trial, Lawyer will be paid $10,000"
+    ],
+    "analysis": "Lou's fee is payable only on a successful outcome in a criminal case, which is prohibited. The agreement is also deficient as a contingent-fee writing (no explanation of what 'successful' means, e.g. plea or reduced charge, or how work is compensated if the representation ends early).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Fee agreement requirements and reasonableness",
+    "rule": "A fee must not be unconscionable or illegal (CA Rule 1.5) / unreasonable (ABA 1.5); factors include time, skill, results, customary fee and lawyer's experience. CA B&P 6147/6148 require a written fee agreement (except small, corporate, routine matters) stating the basis of the fee. ABA prefers writing and communication of the basis of the fee.",
+    "keyFacts": [
+     "Lawyer will be paid $10,000 plus any costs incurred",
+     "Betty and Sheila each signed"
+    ],
+    "analysis": "The agreement is written and signed, satisfying the writing requirement, but the $10,000 contingent fee for an inexperienced lawyer is questionable and the terms for early termination are missing. Reasonableness depends on work performed; for an incompetent lawyer on a case ended after a single arraignment, any large fee is suspect.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Advancing costs and clients' repayment duty",
+    "rule": "A lawyer may advance court costs and expenses, with repayment contingent on outcome (ABA 1.8(e)); in CA a lawyer may advance costs (Rule 1.8.5) and clients may remain liable for them, but may not otherwise give financial assistance to induce employment.",
+    "keyFacts": [
+     "Lawyer will advance the costs ... Clients are ultimately responsible for repaying Lawyer for all costs"
+    ],
+    "analysis": "Advancing costs with clients remaining responsible is permitted in CA; under ABA it is permitted as costs contingent on outcome or for indigent clients, and here repayment is required regardless of outcome. Likely permissible; at most a minor ABA issue.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Termination, discharge and collecting $2,000 after being relieved",
+    "rule": "On discharge a lawyer must withdraw, return client papers and property, and refund unearned fees (Rule 1.16). A discharged lawyer under an unenforceable fee contract can at most recover reasonable value (quantum meruit), and a fee must not be unconscionable or illegal; Lou may not demand payment unrelated to his actual services.",
+    "keyFacts": [
+     "the court relieved Lou",
+     "Lou had not incurred any costs by that point",
+     "asked Betty and Sheila to pay him a total of $2,000 ... for his time"
+    ],
+    "analysis": "The agreement allowed no fee unless clients succeeded and only costs otherwise; Lou had incurred no costs and was removed for incompetence after two days. Demanding $2,000 is contrary to the agreement and is an unconscionable/illegal fee request, subjecting him to discipline; he should also return files promptly.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Check CA 2018 rule numbering (1.5, 1.7, 1.8.5, 1.16). Student answers differ on whether Lou's disclosure obligations are 'consent' or 'disclosure' for personal conflicts; also on the legality of costs advances."
+ },
+ {
+  "id": "july2018-q4",
+  "issues": [
+   {
+    "name": "Community property presumption; end of marital community",
+    "rule": "Property acquired during marriage is presumptively community property (CP) (Fam. Code 760); property acquired before marriage, by gift/bequest, or with separate property (SP) and rents/profits of SP is SP. Earnings and accumulations after the date of separation are SP (Fam. Code 771); the date of separation is when one spouse has a subjective intent to end the marriage with objective conduct consistent with it. The marital community runs 2012 to 2016 on these facts.",
+    "keyFacts": [
+     "married in 2012",
+     "Wilma and Harry permanently separated",
+     "Harry moved out",
+     "instituted dissolution proceedings in 2018"
+    ],
+    "analysis": "Marriage began 2012 and the community ended on separation in 2016 (not the 2018 filing). Earnings after 2016 are SP; the CP presumption applies to property acquired between 2012 and 2016.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Townhouse - original character and Wilma's SP interest",
+    "rule": "Property acquired before marriage is SP. Retirement benefits are apportioned between SP and CP by the time rule (marital service over total service); where all service preceded marriage, the pension is entirely SP. Property bought with SP funds takes the SP character (source rule).",
+    "keyFacts": [
+     "She retired in 2010 and received a pension",
+     "She used the lump sum as a down payment on a townhouse",
+     "The title to the townhouse and the mortgage are in Wilma's name"
+    ],
+    "analysis": "Wilma earned the pension before marriage, so the pension and the lump sum are SP and the townhouse (bought 2010-2011 before marriage) is SP. Title in her name alone confirms this.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Townhouse - community contribution (Moore/Marsden pro tanto interest)",
+    "rule": "When CP funds pay down principal on SP-acquired real property during marriage, the community acquires a pro tanto ownership interest. In re Marriage of Moore / Marsden: the community share = (CP principal payments / total principal payments incl. down payment and prior principal) x appreciation, plus the community is reimbursed in some cases; interest, taxes and insurance are maintenance and not counted. Anti-Lucas (Fam. Code 2640) reimbursement does not apply because the home is not CP.",
+    "keyFacts": [
+     "used funds from Harry's account to pay the mortgage on the townhouse",
+     "Harry opened an account at Valley Bank in his name and deposited his salary",
+     "Harry ... stopped making mortgage payments"
+    ],
+    "analysis": "Harry's salary is CP even though deposited in his sole-name account, so the CP paid mortgage principal from 2012 to 2016 and acquired a pro rata interest in the townhouse's appreciation (a Moore/Marsden share) rather than changing the title character. Wilma retains the rest; at most Harry gets half of the community's share.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Townhouse - transmutation, joint use, post-separation payments and debt",
+    "rule": "A transmutation requires a writing with an express declaration signed by the adversely affected spouse (Fam. Code 852); living in the home or paying with CP is not enough. Post-separation payments by a spouse with SP funds increase his or her SP share but community interest remains; the mortgage debt incurred before marriage is Wilma's SP debt.",
+    "keyFacts": [
+     "in which they both lived",
+     "stopped making mortgage payments"
+    ],
+    "analysis": "No writing, so there was no transmutation; the home stays Wilma's SP subject to the community's pro tanto share. Post-2016 payments are from Wilma's SP funds (her pension) and increase the SP share. Wilma is solely liable on the mortgage, which was incurred premaritally, and no 2640 reimbursement is available.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Motorboat - presumption and title in one spouse's name",
+    "rule": "Property acquired during marriage is presumptively CP regardless of title in one spouse's name; the burden is on the party claiming SP to trace to an SP source. A transmutation needs a writing (Fam. Code 852); the 'joint title' form presumption (Fam. Code 2581) does not apply to title in one name.",
+    "keyFacts": [
+     "In 2013, Wilma and Harry bought a motorboat",
+     "title was taken in Wilma's name",
+     "they would both use the boat"
+    ],
+    "analysis": "The 2013 boat was acquired during marriage and is presumed CP; Wilma's sole title and the shared use do not change the character, and no writing transmutes it.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Motorboat - commingled account, tracing, family expense presumption and exhaustion",
+    "rule": "Where SP and CP are commingled in an account, the spouse claiming SP must trace: (1) direct tracing / 'direct-in, direct-out' shows SP funds were available and used (intent), or (2) exhaustion / recapitulation shows that CP funds were all spent on family expenses, so the remainder is SP. Family expenses are presumed paid from CP first (See v. See); if SP is used for them without a reservation of reimbursement, it is a gift to the community.",
+    "keyFacts": [
+     "funds from Wilma's account",
+     "Wilma's pay from her accounting work did not cover all their expenses and her monthly pension installments paid the rest",
+     "They paid all their household expenses from Wilma's account"
+    ],
+    "analysis": "Her account held SP pension installments and CP freelance earnings. Because CP earnings were insufficient for household expenses, the CP was exhausted each month and any remaining balance was SP; if the boat was bought with those remaining SP funds it is Wilma's SP. But she bears the burden, records are lacking and the timing of purchase within the month is unknown, so the boat may instead be CP (Harry would take half). Close call; the exhaustion argument is Wilma's best theory.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Motorboat - fiduciary duty and undue advantage",
+    "rule": "Spouses owe fiduciary duties (Fam. Code 721); when one spouse obtains an advantage in a transaction with the other, undue influence is presumed and may be rebutted. This matters mainly for transmutations or gifts.",
+    "keyFacts": [
+     "Wilma was an accountant",
+     "title was taken in Wilma's name",
+     "Harry ... worked in a local store"
+    ],
+    "analysis": "Harry may argue Wilma used her financial sophistication to place the boat in her name; there is no transaction in which Harry gave up an interest, so the argument is weak but could affect how a court weighs her tracing.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Personal injury settlement - characterization",
+    "rule": "Damages for personal injury are CP if the cause of action arose during marriage (Fam. Code 780); they are SP of the injured spouse only if the cause arose after separation (Fam. Code 781). The settlement being received after separation does not change the character; what matters is when the cause of action arose.",
+    "keyFacts": [
+     "In 2014, Harry was injured when a driver, Dana, negligently struck him",
+     "In 2017, Harry settled his claim against Dana for $30,000",
+     "In 2016, Wilma and Harry permanently separated"
+    ],
+    "analysis": "The injury and cause of action arose in 2014, during the community, so the $30,000 settlement is CP although received in 2017 after separation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Personal injury settlement - allocation on dissolution",
+    "rule": "On dissolution, CP personal injury damages are assigned to the injured spouse unless the justice of the case requires another allocation (Fam. Code 2603); the court considers the circumstances, including the time elapsed, amounts the community spent on the injury, and the other spouse's needs. Unspent traceable funds are required to be awarded first to the injured spouse; the CP also may recover medical expenses it paid (Fam. Code 781(b)).",
+    "keyFacts": [
+     "Harry settled his claim against Dana for $30,000",
+     "Harry instituted dissolution proceedings"
+    ],
+    "analysis": "Harry, as the injured spouse, should receive the entire $30,000 unless justice requires giving some to Wilma (e.g., if the funds were spent or CP paid expenses); no such facts are given, so Harry likely keeps all, though Wilma could claim a share (e.g., for the family's expenses or any community medical costs).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Verify date-of-separation approach: both answers say 2016 for end of community; check whether the grader expects the mortgage Moore/Marsden formula and Fam. Code 2603 allocation."
+ },
+ {
+  "id": "july2018-q5",
+  "issues": [
+   {
+    "name": "Standing, justiciability and state sovereign immunity",
+    "rule": "Plaintiff needs injury in fact, causation and redressability; ripeness/mootness also apply. The 11th Amendment bars federal damages suits against a state (and its arms) by citizens of another state, but prospective injunctive relief is available against officials under Ex parte Young.",
+    "keyFacts": [
+     "Peter has lost nearly all of his State X customers over the last 5 years",
+     "They have now filed suit in Federal Court in State X"
+    ],
+    "analysis": "Both Peter and Corporation have concrete economic injuries traceable to the preference and redressable by invalidating it, so standing is satisfied. Damages against State X (or RR as an arm of the state) would face sovereign immunity; injunctive relief against officials is available.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Dormant Commerce Clause - discrimination",
+    "rule": "A state law that discriminates against interstate commerce, facially or in purpose or effect, is virtually per se invalid unless the state shows an important interest that cannot be served by nondiscriminatory means; a nondiscriminatory law that burdens interstate commerce is invalid if the burdens clearly exceed the local benefits (Pike). Out-of-state and corporate plaintiffs may sue.",
+    "keyFacts": [
+     "manufacturers with factories in State X shall have first choice of space on RR",
+     "Peter, a citizen of State Y",
+     "cannot guarantee timely delivery of ripe melons"
+    ],
+    "analysis": "The Act gives in-state manufacturers priority for the principal rail freight carrier, burdening Peter's interstate shipping of melons and Corporation's shipment of refrigerators. It is facially discriminatory in favor of in-state factories (although Peter, as a grower and not a manufacturer, is disadvantaged), and it would be invalid under strict scrutiny but for the market participant exception.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Market participant exception",
+    "rule": "When a state acts as a market participant (buying, selling or operating a business) rather than as a regulator, it may prefer its own citizens without violating the dormant Commerce Clause (Hughes v. Alexandria Scrap; Reeves v. Stake; White v. Mass. Council of Constr. Employers). The exception does not reach conditions that regulate markets downstream or outside the state's own market (South-Central Timber).",
+    "keyFacts": [
+     "State X bought Railroad (RR), which was in bankruptcy",
+     "RR ... largest rail carrier in State X",
+     "the governor stated that it would ensure continued freight rail service for State X industry"
+    ],
+    "analysis": "State X owns and operates the railroad and allocates its own freight space, so it is acting as a market participant even though it favors its own manufacturers. Peter and Corporation may argue the preference regulates downstream markets (melon and refrigerator sales), but the restriction is on use of the state's own service, so the DCC claim most likely fails. Close call because RR carries 70% of state freight and Congress has not consented.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Privileges and Immunities Clause of Article IV (Peter)",
+    "rule": "Art. IV, 2 bars a state from discriminating against nonresident citizens regarding fundamental rights, such as the ability to pursue a livelihood and engage in commerce, absent a substantial reason and a substantially related means. Corporations and aliens cannot invoke it; the market participant exception does not automatically apply (United Building v. Camden).",
+    "keyFacts": [
+     "Peter, a citizen of State Y",
+     "lost nearly all of his State X customers",
+     "State X manufacturers"
+    ],
+    "analysis": "Peter, as an individual citizen of State Y, may invoke the clause. The Act discriminates against residents of other states only indirectly (by favoring factory location rather than residence) and concerns use of a state-owned service; but commercial opportunity/livelihood is a covered interest. The better result is that the state's justification (rescuing and preserving rail service for its industry) is weak as to nonresidents, so this is Peter's best claim, but it is uncertain; state's response is that discrimination is by factory location and the state is proprietary.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Privileges and Immunities - Corporation cannot sue",
+    "rule": "The Article IV Privileges and Immunities Clause protects only natural-person citizens, not corporations.",
+    "keyFacts": [
+     "Corporation manufactures refrigerators in State Y"
+    ],
+    "analysis": "Corporation cannot bring a P&I claim.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Equal Protection",
+    "rule": "Classifications that do not involve a suspect or quasi-suspect class or fundamental right receive rational basis review; the challenger must show no rational relation to a legitimate government interest. Corporations are persons under the Equal Protection Clause.",
+    "keyFacts": [
+     "manufacturers with factories in State X shall have first choice of space on RR",
+     "RR's transport rates are generally lower than other rail carriers"
+    ],
+    "analysis": "Distinguishing in-state factory owners from others is economic and subject to rational basis; preserving rail service and helping the state's industry is a legitimate interest, so the Act likely survives (though purely protectionist aims are suspect, the state's own enterprise is a reasonable basis). Both Peter and Corporation likely lose.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Substantive and procedural due process",
+    "rule": "Economic regulation violates substantive due process only if arbitrary, with no rational basis. Procedural due process requires notice and hearing before deprivation of a protected property or liberty interest by an adjudicative act, not for generally applicable legislation.",
+    "keyFacts": [
+     "Peter and Corporation have repeatedly been forced to give up reserved space on RR",
+     "lost customers"
+    ],
+    "analysis": "Rational basis is satisfied, so there is no substantive due process violation. Although they lose reserved space, the Act is legislation of general applicability and any right to space is at most contractual, so procedural due process claims likely fail.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Contracts Clause",
+    "rule": "Art. I, 10 prohibits a state from substantially impairing existing contractual obligations; private contracts get deferential review (legitimate public purpose, reasonable means), while state impairment of its own contracts receives stricter scrutiny (U.S. Trust). Applies only to existing contracts impaired by legislation.",
+    "keyFacts": [
+     "Peter and Corporation have repeatedly been forced to give up reserved space on RR",
+     "Before its purchase by State X, Peter exclusively used RR"
+    ],
+    "analysis": "If reserved space was a contract with RR (now state-owned), the Act substantially impairs it; the state would need to show a reasonable and necessary means to an important purpose, which may be doubtful. But the facts do not show existing contracts, and the Act predates relevant bookings, so the claim is speculative and likely fails.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Grader may expect only DCC/MPE, P&I, EP and DP. Contracts Clause and 11th Amendment included as extras; verify. P&I outcome for Peter is debatable."
+ }
+]

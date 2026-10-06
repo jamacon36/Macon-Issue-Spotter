@@ -1,0 +1,543 @@
+[
+ {
+  "id": "june2013-q1",
+  "issues": [
+   {
+    "name": "Angela/Bart: Trespass",
+    "rule": "Criminal trespass is entering another's land without consent or privilege (and, in some states, after notice such as a fence or sign).",
+    "keyFacts": [
+     "Unable to open the ranch gate",
+     "climbed the fence, crossed the yard",
+     "opened the door to the barn, and stepped inside"
+    ],
+    "analysis": "They entered Chris's fenced ranch and barn without permission, so trespass is established; suspicion of animal abuse is not a legal privilege.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Angela/Bart: Burglary",
+    "rule": "Common law burglary is a breaking and entering of the dwelling of another at night with intent to commit a felony therein; modern statutes (CA PC 459) cover entry into any structure with intent to commit larceny or any felony. Intent must exist at the time of entry.",
+    "keyFacts": [
+     "opened the door to the barn",
+     "stepped inside",
+     "suggested that they go there to investigate",
+     "animal rights activists"
+    ],
+    "analysis": "Opening a closed barn door is a breaking and entering, and a barn on the ranch is a protected structure under modern law (curtilage at common law). But their purpose was to investigate abuse, not to commit larceny or a felony, so the intent element fails; the nighttime and dwelling elements also are unclear at common law. Burglary is unlikely.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Angela/Bart: Conspiracy",
+    "rule": "Conspiracy requires an agreement between two or more people to commit a crime with intent to achieve the objective (plus an overt act in most states); an agreement to do a lawful act is not enough.",
+    "keyFacts": [
+     "She told Bart",
+     "suggested that they go there to investigate",
+     "Angela and Bart climbed the fence"
+    ],
+    "analysis": "They agreed to enter the ranch; the only unlawful objective is trespass, and there is no agreed felony, so conspiracy to commit burglary is weak; at most conspiracy to trespass.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Angela/Bart: Solicitation",
+    "rule": "Solicitation is asking or encouraging another to commit a crime with intent that the crime be committed; it merges into the completed offense.",
+    "keyFacts": [
+     "suggested that they go there to investigate"
+    ],
+    "analysis": "Angela's suggestion to enter the ranch could be solicitation of trespass, but it merges and is minor.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Angela/Bart: Death of the motorist (causation, involuntary manslaughter)",
+    "rule": "Homicide requires actual and proximate cause. Involuntary manslaughter is an unintended killing by criminal negligence (reckless disregard of a substantial risk) or an unlawful act (misdemeanor-manslaughter). A foreseeable response to the defendant's conduct is not a superseding cause.",
+    "keyFacts": [
+     "Angela and Bart fled, letting out the horses",
+     "A motorist ... swerved to miss the stampeding horses, crashed into a tree, and died",
+     "The noise startled the horses"
+    ],
+    "analysis": "Releasing horses next to a road, even in panicked flight, created a foreseeable risk that horses would stray and endanger drivers, so causation is met; whether it is criminally negligent is a close call because they fled after being shot at (panic). Involuntary manslaughter is the most plausible charge, though they may argue the horses' release was unintentional or a reasonable reaction and the rifle shot was a superseding cause. Murder lacks malice; felony murder requires an underlying felony such as burglary, which fails.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bart: Accomplice and Pinkerton liability",
+    "rule": "An accomplice who intentionally aids a crime is liable for it; co-conspirators are liable for crimes of the conspiracy that are reasonably foreseeable (Pinkerton).",
+    "keyFacts": [
+     "Angela and Bart",
+     "Angela and Bart fled, letting out the horses"
+    ],
+    "analysis": "Bart participated equally, so his liability mirrors Angela's for any crimes committed (trespass, possibly manslaughter); liability for the horse release depends on whether it was in furtherance of the plan or his own act.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses of Angela and Bart: necessity/lack of intent",
+    "rule": "Necessity requires imminent harm, no lawful alternative, and a lesser harm; mistake of fact negates specific intent; a good motive is not a defense.",
+    "keyFacts": [
+     "she suspected that the horses were being abused",
+     "she saw people going in and out of the barn at all hours"
+    ],
+    "analysis": "Mere suspicion of abuse is no imminent harm and they could have called authorities, so necessity fails; lack of felonious intent helps defeat burglary.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Chris: Assault (pointing a rifle) and attempted battery",
+    "rule": "Assault is an attempted battery or intentional creation of reasonable apprehension of imminent harmful contact; assault with a deadly weapon is aggravated. Pointing a firearm at someone is an assault even if there is no intent to fire.",
+    "keyFacts": [
+     "Chris, who was carrying a rifle, pointed it at Angela and Bart",
+     "accidentally caused it to discharge",
+     "The bullet hit the side of the barn"
+    ],
+    "analysis": "Chris intentionally pointed a rifle at two intruders, who reasonably feared being shot; an accidental discharge doesn't negate the assault, so assault with a deadly weapon is chargeable. Attempted murder fails for lack of specific intent to kill.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Chris: Defense of property / self-defense",
+    "rule": "One may use reasonable nondeadly force to protect property and may use deadly force only against imminent threat of death or great bodily harm or a forcible felony; threatening deadly force counts as deadly force.",
+    "keyFacts": [
+     "Surprised to see intruders",
+     "carrying a rifle",
+     "found ... a large amount of stolen electronic equipment"
+    ],
+    "analysis": "Chris faced unarmed trespassers (nothing indicates a threat to his life), so pointing a loaded rifle is likely excessive. Chris will argue surprise and honest fear; the unarmed intruders and mere trespass undermine it. A reasonable-belief self-defense argument is possible but weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Chris: Homicide of the motorist",
+    "rule": "Murder requires malice (intent to kill, intent to cause serious injury, or depraved-heart recklessness); involuntary manslaughter requires criminal negligence or an unlawful act. Foreseeable intervening acts do not break causation, though the intervening free acts of others may.",
+    "keyFacts": [
+     "Chris ... pointed it at Angela and Bart and accidentally caused it to discharge",
+     "The noise startled the horses",
+     "Angela and Bart fled, letting out the horses",
+     "crashed into a tree, and died"
+    ],
+    "analysis": "Chris's reckless handling of a rifle supplies but-for causation; proximate cause is contestable because the horses were let out by Angela and Bart's own acts and the motorist's crash is attenuated, though a jury could find the stampede foreseeable. Malice is doubtful (accidental discharge); involuntary manslaughter (gross negligence in pointing a loaded rifle) is the realistic charge.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Chris: Receiving/possessing stolen property",
+    "rule": "Receiving or possessing stolen property requires possession or control of property known to be stolen with intent to deprive the owner; knowledge may be inferred from circumstances.",
+    "keyFacts": [
+     "a large amount of stolen electronic equipment",
+     "people going in and out of the barn at all hours of the day and night",
+     "horse ranch owned by Chris"
+    ],
+    "analysis": "A large amount of stolen goods in Chris's barn and constant traffic support an inference that he knew of and possessed them; but there is no direct evidence of knowledge, so the charge is plausible but not certain; also possibly accessory/ fencing.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Several issues are fact-dependent (nighttime, intent, who released the horses). Verify the expected treatment of Chris's liability for the motorist's death, which neither answer explored fully (A omitted it for Chris; B omitted it for Angela/Bart)."
+ },
+ {
+  "id": "june2013-q2",
+  "issues": [
+   {
+    "name": "Bill v. Abe: Assault",
+    "rule": "Assault is the intentional creation of reasonable apprehension of imminent harmful or offensive contact; intent includes substantial certainty.",
+    "keyFacts": [
+     "holding his saw in front of him, took two steps toward Bill",
+     "Avoiding Abe, Bill climbed high into the tree"
+    ],
+    "analysis": "Advancing on Bill with a saw after an argument would cause a reasonable person to fear immediate harm, and Bill's climbing shows apprehension; Abe will say he was only heading to the tree, but substantial certainty is satisfied.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill v. Abe: Battery",
+    "rule": "Battery is an intentional harmful or offensive contact with the plaintiff's person, which may be effected indirectly through an object set in motion; intent includes knowledge with substantial certainty.",
+    "keyFacts": [
+     "Abe nevertheless sawed through the trunk of the tree",
+     "which fell into the street with Bill in it",
+     "causing Bill serious injuries"
+    ],
+    "analysis": "Abe knew Bill was in the tree, so it was substantially certain that cutting it down would throw Bill to the ground; harmful contact via the tree and ground supports battery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bill v. Abe: False imprisonment",
+    "rule": "False imprisonment is intentional confinement within fixed boundaries, against one's will, by force, threat or other means, with no reasonable means of escape known to the plaintiff.",
+    "keyFacts": [
+     "Bill climbed high into the tree",
+     "insisting he would not come down because he wanted to save the tree"
+    ],
+    "analysis": "Bill chose to stay in the tree, and Abe did not stop him from descending; his fear of the saw is a threat argument, but he insisted he would not come down, so the claim is weak.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Other intentional torts (IIED, trespass to chattel) and Abe's defenses",
+    "rule": "IIED requires extreme and outrageous conduct causing severe distress; defenses include consent, defense of property or others, necessity, privilege. Necessity requires imminent greater harm.",
+    "keyFacts": [
+     "did not want to rake its leaves",
+     "tree that was growing on public property",
+     "Abe refused"
+    ],
+    "analysis": "Abe had no privilege to cut a public tree to avoid raking leaves; necessity fails, because avoiding raking is not a harm outweighing Bill's injury, and Bill's refusal to leave does not justify harm. Punitive damages are possible.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Cindy v. Abe: Duty and rescue doctrine",
+    "rule": "Everyone owes a duty of reasonable care to foreseeable plaintiffs; under the rescue doctrine ('danger invites rescue'), one who negligently imperils another owes a duty to a rescuer.",
+    "keyFacts": [
+     "Cindy, a passerby, rushed to help Bill",
+     "Abe nevertheless sawed through the trunk"
+    ],
+    "analysis": "Abe's cutting the tree with Bill in it created a foreseeable need for rescue, so Abe owes Cindy a duty.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cindy v. Abe: Breach",
+    "rule": "Breach is failure to act as a reasonably prudent person; Learned Hand test compares burden to avoid harm with probability and gravity of injury.",
+    "keyFacts": [
+     "did not want to rake its leaves",
+     "Bill ... climbed high into the tree"
+    ],
+    "analysis": "Dropping a tree with a person in it, to avoid raking leaves, is far below the standard of care (and likely intentional or reckless).",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cindy v. Abe: Causation, superseding cause",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeable harm, no unforeseeable superseding cause). Negligent or tortious intervening acts by third parties in response to the peril are generally foreseeable, especially with rescuers.",
+    "keyFacts": [
+     "which fell into the street",
+     "she was struck by a car and sustained serious injuries"
+    ],
+    "analysis": "But for the tree falling into the street, Cindy would not have been hurt; a car striking a rescuer in the road is a foreseeable risk of dropping a tree into the street, so it is not a superseding cause.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Cindy v. Abe: Damages and defenses",
+    "rule": "Damages: actual injury; defenses: comparative or contributory negligence, assumption of risk (rescuer is not unreasonable unless rash).",
+    "keyFacts": [
+     "sustained serious injuries",
+     "rushed to help Bill"
+    ],
+    "analysis": "Cindy was seriously injured. Rescuers are held to be reasonable unless rash or reckless, so comparative fault is unlikely to reduce recovery; Abe may argue she acted without watching traffic, a minor argument.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Debbie v. Abe: NIED (bystander)",
+    "rule": "A bystander can recover for negligent infliction of emotional distress only if she is closely related to the victim, is present at the scene and contemporaneously aware of the injury-causing event, and suffers serious emotional distress (CA: Thing v. La Chusa; many states use zone of danger instead).",
+    "keyFacts": [
+     "Debbie, a neighbor, watched the entire incident from her front porch",
+     "suffered severe emotional distress"
+    ],
+    "analysis": "Debbie witnessed the event, but she is a neighbor, not a close relative, and she was not in the zone of danger, so she cannot recover as a bystander; no direct-victim claim since Abe owed her no independent duty.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Straightforward. Question 1 asks about intentional torts only, so false imprisonment/IIED are optional extras. Neither answer addressed the risk that a battery claim requires direct contact beyond the tree-falling theory."
+ },
+ {
+  "id": "june2013-q3",
+  "issues": [
+   {
+    "name": "Governing law: UCC Article 2",
+    "rule": "Sales of goods (movable things) are governed by the UCC; merchant rules apply only to those who deal in the goods.",
+    "keyFacts": [
+     "antique doll",
+     "Sally ... inherited",
+     "$450"
+    ],
+    "analysis": "A doll is a good, so the UCC applies; Sally and Barbara are not merchants, so the merchant firm-offer and confirmation rules do not apply.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Sally's Facebook post: offer vs. invitation",
+    "rule": "An offer is a manifestation of willingness to be bound, definite in terms and communicated to the offeree; advertisements to the public are generally invitations to deal unless they are specific and limit who may accept (e.g., 'first person to...').",
+    "keyFacts": [
+     "I\u2019ll sell it to any of you for $450",
+     "First person I hear from gets it",
+     "one just like this sold on eBay"
+    ],
+    "analysis": "Post identifies the item, price and quantity (1) and says the first person to respond gets it, so it is an offer to the class of her Facebook friends rather than an advertisement.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Manner of acceptance: Facebook reply vs. phone call",
+    "rule": "An offeror is master of the offer and may specify the manner of acceptance; UCC 2-206 allows acceptance in any reasonable manner unless unambiguously indicated otherwise. Acceptance generally must be communicated to the offeror.",
+    "keyFacts": [
+     "Call me - no Facebook allowed at my job",
+     "I\u2019ll take the doll for $450. Barbara.",
+     "she called Sally and said, This is Barbara, and I\u2019ll buy the doll for $450"
+    ],
+    "analysis": "Sally said to call because she could not see Facebook, so the Facebook note was not communicated to her and probably was not an effective acceptance; the call was an authorized manner. The 'call me' request may be read as a request for contact rather than an exclusive method, a close call.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Revocation of offer and its timing",
+    "rule": "An offer is revocable at any time before acceptance (no firm offer: Sally is not a merchant, signed assurance absent); revocation is effective when received, though for offers made to the public a revocation in the same manner and similar publicity is effective.",
+    "keyFacts": [
+     "Sorry, you\u2019re too late",
+     "Thanks for the information, Judy. The doll is going straight to eBay",
+     "five days"
+    ],
+    "analysis": "Offer was open for five days but revocable. Whether Barbara's call preceded the revocation post is unclear: she saw the note only after the call, and Sally told her 'too late' during the call. If the Facebook revocation was posted first and effective, Barbara is too late; if Barbara's call came before any revocation was published, a contract formed. Sally's reply is probably a repudiation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Consideration and statute of frauds",
+    "rule": "Consideration: bargained-for exchange (price for the doll); under UCC 2-201, contracts for $500 or more require a writing.",
+    "keyFacts": [
+     "$450"
+    ],
+    "analysis": "The $450 price is below $500, so the statute of frauds does not apply, and a promise to sell for a price is consideration.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Seller's defense: unilateral mistake and Barbara's superior knowledge",
+    "rule": "Unilateral mistake permits rescission only if the other party knew or had reason to know of the mistake or caused it; failure to know market value is generally not a basis for rescission, and there is no general duty of a buyer to disclose.",
+    "keyFacts": [
+     "The doll is worth way more than you think. Don\u2019t sell it.",
+     "worth $1,500",
+     "one just like this sold on eBay for $650"
+    ],
+    "analysis": "Sally set her own price after seeing a higher eBay price and Judy's warning, so the mistake is one of value, and Barbara, having no duty to disclose or knowledge beyond a market appraisal, can enforce; Barbara's knowledge is a weak ground for avoidance.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Buyer's remedies: specific performance and damages",
+    "rule": "Under UCC 2-711 to 2-716, a buyer may recover damages measured by market price minus contract price (2-713), or cover; specific performance or replevin is available for unique goods.",
+    "keyFacts": [
+     "antique doll",
+     "worth $1,500",
+     "Sorry, you\u2019re too late"
+    ],
+    "analysis": "An antique doll is arguably unique, supporting specific performance or replevin; otherwise market-minus-contract damages (about $1,050), plus incidental and consequential damages. Barbara must prove the fair market value.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Timing of Sally's revocation note vs. Barbara's call is ambiguous in the facts; the exam likely credits discussion of both possibilities. Neither answer discussed the statute of frauds ($450 < $500)."
+ },
+ {
+  "id": "june2013-q4",
+  "issues": [
+   {
+    "name": "Dan: Murder of Victor (malice, transferred intent, poison)",
+    "rule": "Murder is an unlawful killing with malice (intent to kill, intent to inflict serious injury, depraved-heart recklessness, felony murder). Intent to kill one person transfers to the unintended victim. In many states murder by poison is first degree (CA PC 189).",
+    "keyFacts": [
+     "planned to lace some cookies with cyanide",
+     "left them on his kitchen counter",
+     "Victor found the cookies, ate one, and died",
+     "Each weekend, Jane cleaned Dan\u2019s house"
+    ],
+    "analysis": "Dan intended any burglar who ate the cookies to die, and intent transfers to Victor; alternatively leaving poisoned cookies in a home regularly entered by others shows depraved-heart recklessness. Poison supports first degree under many statutes; otherwise second degree. Premeditation is clear.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation of Victor's death",
+    "rule": "Actual cause (but-for) and proximate cause (foreseeability); a foreseeable innocent victim's act in eating the cookies is not a superseding cause.",
+    "keyFacts": [
+     "Victor found the cookies, ate one",
+     "Jane entered his house, together with her five-year-old son"
+    ],
+    "analysis": "But for Dan's poison, Victor would not have died; Jane regularly cleaned the house and brought her son, so a child finding the cookies is foreseeable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defenses: defense of property / crime prevention (deadly force)",
+    "rule": "Deadly force to protect property is not allowed; force against a burglar is justified only when reasonable and a threat to person; lethal traps and spring guns are unjustified because they cannot discriminate and the user is absent.",
+    "keyFacts": [
+     "Wanting to protect his property and prevent a burglary",
+     "while he was out of town for the weekend"
+    ],
+    "analysis": "Dan was not present, the poison could kill anyone including innocents, and no threat of death or great bodily harm to a person existed, so deadly force is unjustified.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Defense: mistake of law / reliance on police officer",
+    "rule": "Mistake of law is generally no defense; reasonable reliance on official statements is a defense only in narrow cases (MPC 2.04; entrapment by estoppel), and a general officer's advice about deadly force would not qualify, and murder's malice does not depend on knowing it is illegal.",
+    "keyFacts": [
+     "he had been told by a police officer that he could use deadly force to prevent a burglary",
+     "he assured her that it was lawful"
+    ],
+    "analysis": "Dan believed his plan was lawful, but an officer's informal statement doesn't excuse the killing; the mistake may bear on intent only to the degree it negates malice, which it does not, because he intended death.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dan: Attempted murder of the burglar / solicitation / conspiracy",
+    "rule": "Attempt requires specific intent and an act beyond mere preparation toward a target; solicitation merges into completed or conspiratorial offenses; conspiracy requires agreement and intent to commit the crime.",
+    "keyFacts": [
+     "He asked his friend Ann to help him obtain cyanide",
+     "She then got him some cyanide",
+     "burglar ... known as the \u201ccookie bandit\u201d"
+    ],
+    "analysis": "Dan asked Ann to help obtain poison and she agreed, so conspiracy to commit murder (and solicitation) are possible; but no burglar ate the cookie, so attempted murder of a burglar is weak and merges with murder of Victor in most states.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Dan: Lesser homicide/battery theories",
+    "rule": "Involuntary manslaughter (criminal negligence) is a fallback where malice is lacking; battery requires intentional harmful contact.",
+    "keyFacts": [
+     "Dan planned to lace some cookies with cyanide"
+    ],
+    "analysis": "Dan's intent shows malice, so manslaughter is only a compromise; battery is subsumed by murder.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Ann: Accomplice liability",
+    "rule": "An accomplice who intentionally aids a crime with the intent that it be committed is liable for the crime and for reasonably foreseeable results; an aider need not share the victim intended.",
+    "keyFacts": [
+     "She tried to talk him out of his plan",
+     "She then got him some cyanide",
+     "He asked his friend Ann to help him obtain cyanide"
+    ],
+    "analysis": "Ann supplied the cyanide knowing the plan, which shows intent to facilitate; liability extends to Victor's death as a natural and probable consequence. Her attempt to dissuade shows knowledge, not withdrawal.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ann: Conspiracy and Pinkerton",
+    "rule": "Conspiracy: agreement to commit an unlawful act with intent; Pinkerton liability for foreseeable crimes in furtherance.",
+    "keyFacts": [
+     "asked his friend Ann to help",
+     "She then got him some cyanide"
+    ],
+    "analysis": "Obtaining the cyanide is both the agreement and an overt act, so Ann is liable for conspiracy and, under Pinkerton or accomplice doctrine, for Victor's death.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Ann: Defenses (mistake of law, withdrawal, duress)",
+    "rule": "Mistake of law no defense; withdrawal requires timely renunciation and attempt to neutralize her aid; her reluctance to assist is not withdrawal.",
+    "keyFacts": [
+     "She tried to talk him out of his plan",
+     "he assured her that it was lawful"
+    ],
+    "analysis": "Reliance on Dan's assurance doesn't excuse, and Ann didn't withdraw before giving him the cyanide; no duress. Her lack of intent that anyone be killed is her best argument against murder, leaving possible involuntary manslaughter.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Verify whether the exam expects first-degree murder by poison vs. second degree depraved heart, and whether Ann's liability for murder (vs. involuntary manslaughter) should be treated as a close call. Answer A wrongly treated attempted murder of burglars as clearly established."
+ }
+]

@@ -1,0 +1,641 @@
+[
+ {
+  "id": "june2019-q1",
+  "issues": [
+   {
+    "name": "Defamation by Bob \u2013 elements (defamatory statement, of and concerning plaintiff, publication)",
+    "rule": "Defamation: a false defamatory statement of fact, of and concerning the plaintiff (as understood by the recipient), published to a third party, causing reputational harm.",
+    "keyFacts": [
+     "Bob emailed back ... he believed that John Smith was a convicted drug dealer who had sold drugs to minors",
+     "the John Smith that Bob had read about ... was a different John Smith",
+     "Ann had asked about applicant John Smith"
+    ],
+    "analysis": "Accusing someone of being a convicted drug dealer who sold to minors is defamatory, the email identified Ann's applicant, and Ann read it, satisfying publication; the statement is false as to the plaintiff. Mistaken identity does not negate this.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Libel vs. slander; defamation per se; damages",
+    "rule": "Written defamation (libel) is actionable without proof of special damages when defamatory on its face; slander is actionable per se when it imputes crime, loathsome disease, unchastity, or harms trade or business, with damages presumed. California Civ. Code 45a treats libel as per se only if defamatory on its face.",
+    "keyFacts": [
+     "Bob emailed back",
+     "Ann decided not to offer the job to John Smith"
+    ],
+    "analysis": "The email is libel (or at least slander per se for accusing a crime) so damages are presumed; the lost job offer gives special damages.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Fault \u2013 private figure/private concern; Bob's negligence (First Amendment limits)",
+    "rule": "Under Gertz a private figure must prove at least negligence for actual damages; actual malice is required for presumed or punitive damages on matters of public concern (Dun & Bradstreet allows presumed damages for private concerns).",
+    "keyFacts": [
+     "He appeared to be well qualified for the job",
+     "Although he did not explain the source of his belief to Ann",
+     "did not know John Smith, but that he believed"
+    ],
+    "analysis": "Smith is a private figure and the employment reference is a private matter, so negligence suffices. Bob negligently assumed the newspaper's John Smith was the applicant without any identifying details (address, photo) or verification; he likely was negligent.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Bob's defenses \u2013 truth and opinion / hedged statement",
+    "rule": "Truth is a complete defense; the statement must be substantially true of the plaintiff. A statement framed as belief is actionable if it implies undisclosed defamatory facts.",
+    "keyFacts": [
+     "Bob ... believed that John Smith was a convicted drug dealer",
+     "the newspaper article ... named John Smith but was a different person"
+    ],
+    "analysis": "The statement was true only of a different person, so truth fails; framing it as 'believed' does not cure it because it implies facts, and Bob claimed no knowledge.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Qualified (conditional) privilege \u2013 reference to an interested recipient",
+    "rule": "A speaker has a qualified privilege to make statements in response to a request from someone with a legitimate interest (recipient's interest or common interest), lost only by abuse: actual malice, knowledge or reckless disregard of falsity, or excessive publication (Civ. Code 47(c)).",
+    "keyFacts": [
+     "Ann sent an email to her friend Bob ... to see if Bob knew John Smith",
+     "Bob emailed back",
+     "Ann ... needed to hire a new director of operations"
+    ],
+    "analysis": "Ann asked for information for a legitimate hiring decision and Bob answered only to her, so the privilege likely applies. Mere negligence does not defeat it; Smith would need to prove malice or reckless disregard (Bob admitted he did not know him and offered no source), a close call that probably favors Bob. Student B's conclusion that a lack of acquaintance defeats privilege is doubtful.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Other points \u2013 republication, Ann's disclosure to Smith, comparative fault",
+    "rule": "A republisher is liable like the original speaker; communication only to the plaintiff is not publication; comparative negligence does not apply to defamation of this kind.",
+    "keyFacts": [
+     "Ann truthfully told him that Bob had informed her",
+     "Bob simply restating the article"
+    ],
+    "analysis": "Bob cannot shield himself by claiming he relied on the newspaper; Ann's telling Smith is not a publication to a third party, and shifting fault to Ann does not reduce Bob's liability.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Deb \u2013 false imprisonment",
+    "rule": "False imprisonment is intentional confinement of another within fixed boundaries without consent, with no reasonable means of escape, for any appreciable period, of which plaintiff is aware.",
+    "keyFacts": [
+     "managed to use her car to block him in his car in the driveway for 10 minutes",
+     "Smith screamed at her"
+    ],
+    "analysis": "Blocking his car in a driveway for 10 minutes confined him (he could not leave without abandoning his car or fear of harm); the intent, awareness and duration are met. Likely liable, though Deb will argue he could have left on foot.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Deb \u2013 battery (contact with plaintiff's car as extension of person)",
+    "rule": "Battery is intentional harmful or offensive contact with the plaintiff or something intimately connected to the person (such as a vehicle he occupies).",
+    "keyFacts": [
+     "Deb took her foot off the brake and drove her car into John Smith's car",
+     "significantly damaging the bumper"
+    ],
+    "analysis": "Deliberately ramming the car he occupied is an offensive contact with an extension of his person; battery is likely proven.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Deb \u2013 assault",
+    "rule": "Assault is an intentional act creating reasonable apprehension of imminent harmful or offensive contact.",
+    "keyFacts": [
+     "blocked him in",
+     "took her foot off the brake and drove her car into John Smith's car"
+    ],
+    "analysis": "As Smith, trapped in the car, saw Deb's car coming at him, he was apprehensive; the facts are thin as to his awareness before impact, so this is a closer call than battery.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Deb \u2013 trespass to chattel vs. conversion",
+    "rule": "Trespass to chattel is intentional interference with another's personal property causing damage or loss of use; conversion requires interference so serious that it warrants forced-sale payment of full value.",
+    "keyFacts": [
+     "significantly damaging the bumper",
+     "It took the mechanic two weeks to repair ... charged $2,000"
+    ],
+    "analysis": "The car was repairable, so trespass to chattel (repair cost plus loss of use) fits; conversion is not met because there was no total loss or exercise of dominion.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Deb \u2013 IIED",
+    "rule": "IIED requires extreme and outrageous conduct, intent or recklessness, and severe emotional distress.",
+    "keyFacts": [
+     "Deb became enraged",
+     "John Smith screamed at her and called her insulting names"
+    ],
+    "analysis": "Deb's road rage is arguably outrageous but there is no evidence of severe distress; likely fails.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Deb's defenses (provocation, duress, consent) and damages",
+    "rule": "Provocation by negligence is not a privilege to retaliate; self-defense requires imminent threat; consent must be actual. Damages include repair cost, loss of use, nominal for false imprisonment, and punitive for malice.",
+    "keyFacts": [
+     "John Smith ... carelessly merged into traffic, cutting off Deb",
+     "who barely avoided running into him",
+     "he screamed at her and called her insulting names"
+    ],
+    "analysis": "Smith's careless driving and insults do not justify blocking and ramming him; retaliation after the danger passed gives Deb no defense. Smith recovers $2,000, loss of use, and possibly punitive damages; Deb may counterclaim in negligence.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Defamation outcome is a close call turning on qualified privilege; verify which resolution the grader expects. Student B oddly refers to 'Bob's Damages' for Deb and says Smith could recover pain and suffering/medical bills without facts."
+ },
+ {
+  "id": "june2019-q2",
+  "issues": [
+   {
+    "name": "Governing law and formation; Nate's duty-to-read argument",
+    "rule": "Contracts for services are governed by common law. Formation requires offer, acceptance and consideration; a party who signs a written contract is generally bound by its terms even if he did not read it.",
+    "keyFacts": [
+     "Nate drafted a contract stating that Nate will provide lawn care services to Ed for five years",
+     "Ed quickly signed the contract without reading it",
+     "$60,000 due in advance"
+    ],
+    "analysis": "Lawn care is a service, so common law governs. On its face there is an offer, signed acceptance and consideration; Nate will say Ed is bound by what he signed. The case turns on formation and enforcement defenses.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Statute of frauds",
+    "rule": "A contract that cannot be performed within one year must be evidenced by a writing signed by the party to be charged.",
+    "keyFacts": [
+     "lawn care services to Ed for five years",
+     "Ed signed the contract"
+    ],
+    "analysis": "The five-year term is within the statute but Ed's signature on the written contract satisfies it; not a viable defense.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Parol evidence rule and merger clause",
+    "rule": "A fully integrated writing bars prior or contemporaneous agreements that contradict it; a merger clause suggests complete integration, but evidence is admissible to show fraud, mistake, duress, incapacity, or other defects in formation, and to support reformation.",
+    "keyFacts": [
+     "The contract contained a merger clause stating that the written contract was intended as a complete and final expression",
+     "Nate said that Ed had already orally agreed ... at $100 per month",
+     "the conversation never occurred"
+    ],
+    "analysis": "The merger clause makes the writing integrated, so Nate will argue the $100 oral statements are barred, but the exceptions for fraud, mistake and other formation defenses allow Ed (and Nate himself, to show the typo) to introduce the evidence of what was said and intended.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mistake \u2013 scrivener's error; reformation",
+    "rule": "Mutual mistake as to the content of a writing permits reformation to match the parties' actual agreement; a unilateral mistake permits rescission only if the other party knew or had reason to know of it or enforcement would be unconscionable; a party who is negligent bears the risk of his own mistake.",
+    "keyFacts": [
+     "Nate intended the amount to be for $100 per month, for a total of $6,000",
+     "Unbeknownst to Nate, he had made a mistake when typing",
+     "stated ... $1,000 per month, with $60,000 due in advance"
+    ],
+    "analysis": "Both parties understood the price to be $100/month (Nate said so, and Ed was told this), so the writing misstates their agreement and a court can reform it to $100/month or $6,000. Nate drafted the contract, and is unlikely to enforce a price tenfold higher than he intended and represented.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Fraud / misrepresentation in the inducement",
+    "rule": "A knowingly false statement of material fact intended to induce reliance, on which the other party justifiably relies, makes the contract voidable; fraud is an exception to the parol evidence rule and a merger clause.",
+    "keyFacts": [
+     "Nate said that Ed had already orally agreed ... at $100 per month",
+     "In fact, that conversation never occurred",
+     "Ed was afraid that he may have entered into the oral contract ... forgotten about it due to a 'blackout'"
+    ],
+    "analysis": "Nate knowingly lied that Ed had already agreed, to avoid review; Ed's forgetfulness and blackouts made reliance reasonable and Nate knew it. The misrepresentation concerns the contract's existence rather than its price, but Ed can rescind; Nate's argument that Ed should have read is weak given the deceit.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Undue influence",
+    "rule": "Undue influence is unfair persuasion of a party who is under the domination of the persuader or is vulnerable, through excessive pressure, and makes the contract voidable. Relevant factors: discussion at an unusual time/place, insistent demand, no independent advice, haste, victim's susceptibility.",
+    "keyFacts": [
+     "Ed is elderly and is often forgetful",
+     "Nate waited until 10:00 p.m.",
+     "Ed asked for time to review the contract",
+     "Ed quickly signed"
+    ],
+    "analysis": "Nate exploited Ed's age, forgetfulness and intoxication, refused time to review, and used HOA-fine fear to rush him; strong undue influence claim that makes the contract voidable.",
+    "foundIn": [],
+    "priority": "major"
+   },
+   {
+    "name": "Incapacity / intoxication",
+    "rule": "A contract is voidable by a party whose mental incapacity (including voluntary intoxication, if the other party had reason to know) prevented him from understanding the nature and consequences of the transaction; mere age or forgetfulness is not incapacity.",
+    "keyFacts": [
+     "Nate knew that Ed drinks alcohol heavily every evening",
+     "Ed was on the porch drinking a cocktail",
+     "Ed is elderly and is often forgetful"
+    ],
+    "analysis": "Ed seems to have understood the HOA threat and acted to avoid a fine, so total incapacity is doubtful, though Nate's knowledge of Ed's impairment and deliberate timing support voidability and feed the other defenses.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Duress / improper threat",
+    "rule": "A contract is voidable if assent is induced by an improper threat that leaves no reasonable alternative; a warning about a third party's lawful enforcement is not usually an improper threat unless made in bad faith.",
+    "keyFacts": [
+     "Nate also told Ed that if someone reported the poor condition of Ed's lawn to the homeowners' association, Ed could be liable for a large fine",
+     "Frightened, Ed quickly signed"
+    ],
+    "analysis": "The statement is a warning, not a threat by Nate to do wrong; it probably is not duress, but it supports undue influence and shows pressure.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Unconscionability",
+    "rule": "A contract is unenforceable if procedurally unconscionable (unfair process, surprise, oppression) and substantively unconscionable (terms overly harsh); court may refuse enforcement, strike the term or limit the result.",
+    "keyFacts": [
+     "$60,000 due in advance for five years of lawn care on one lot",
+     "brought the contract over at 10:00 p.m.",
+     "Ed asked for time to review"
+    ],
+    "analysis": "The price is ten times the intended amount, procedure was oppressive (late hour, no time, vulnerable victim). Court likely refuses to enforce at $60,000 or enforces at $100/month.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Breach/repudiation and remedies \u2013 likely outcome",
+    "rule": "Failure to pay when due is breach; expectation damages are limited to the value of the actual agreement and a rescinding party owes only restitution; reformation yields enforcement of the true terms.",
+    "keyFacts": [
+     "Ed ... subsequently refused to pay Nate",
+     "Nate sued Ed for breach of contract, seeking $60,000"
+    ],
+    "analysis": "Ed's refusal would be breach only if a valid contract exists. Likely result: Nate cannot recover $60,000; Ed may rescind (fraud/undue influence) or the court reforms the price to $100/month ($6,000 in advance), with no recovery of $60,000.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "major"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Student B's text appears to stop mid-analysis at the parol evidence exceptions. Neither student discussed undue influence, which seems the best fit for the age/forgetfulness/late hour facts; check against the official analysis. The identity of 'who is mistaken' is confusing (Nate's typo); verify the expected framing."
+ },
+ {
+  "id": "june2019-q3",
+  "issues": [
+   {
+    "name": "Conspiracy to commit burglary/larceny",
+    "rule": "Conspiracy is an agreement between two or more persons with intent to agree and intent to achieve an unlawful objective; most jurisdictions (and California) require an overt act by a conspirator. Agreement can be inferred from conduct; conspiracy does not merge with the completed crime.",
+    "keyFacts": [
+     "Ava told Ben of her plan and offered to pay him one-third",
+     "Ben said he needed to think it over",
+     "Ben picked Ava up and they drove in his van to Claire's house"
+    ],
+    "analysis": "Ben's initial equivocation is not agreement, but showing up at night with his van and helping load the painting show agreement and overt acts; he is guilty of conspiracy to commit burglary and larceny.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Accomplice liability (aiding and abetting) for burglary and larceny",
+    "rule": "An accomplice is one who with intent to promote the offense aids, abets, or encourages the principal; he is liable for the target crimes and for natural and probable consequences.",
+    "keyFacts": [
+     "Ben gave her a ride and helped her load the paintings",
+     "one-third of the proceeds",
+     "Ben and Ava were taking down the first painting"
+    ],
+    "analysis": "Ben acted with intent (shared proceeds) and gave a ride and physical help, making him an accomplice (and co-principal) to the burglary and attempted/actual larceny of the paintings.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Burglary (common law vs. modern/California)",
+    "rule": "Common law: breaking and entering the dwelling of another at night with intent to commit a felony therein; modern/California: entry into a structure with intent to commit larceny or any felony, no breaking or night requirement (first degree if inhabited dwelling).",
+    "keyFacts": [
+     "Ava used a copy she had made of a key that Claire had given her to open the locked front door",
+     "Shortly after sunset on Saturday night",
+     "entered intending to take two paintings worth several thousand dollars"
+    ],
+    "analysis": "The entry was without Claire's consent (Ava's employment ended and she copied the key); opening a locked door is a breaking even with a key obtained without authority. Night, dwelling and intent to steal are met, so burglary under either test, first degree under modern law.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larceny / attempted larceny of the paintings",
+    "rule": "Larceny is trespassory taking and carrying away of another's personal property with intent to permanently deprive; attempt requires specific intent and a substantial step beyond preparation.",
+    "keyFacts": [
+     "Ava ... to take two large paintings ... and to sell them",
+     "Claire walked into her living room just as Ava and Ben were taking down the first painting",
+     "Ava ran out without the paintings"
+    ],
+    "analysis": "Taking one painting off the wall may not be carrying away since nothing left the house, so attempted larceny is the safer charge; the intent to permanently deprive is clear.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Felony murder of Claire (burglary; fright-induced heart attack; causation)",
+    "rule": "A killing committed in the perpetration of an inherently dangerous felony (burglary is first-degree felony murder in California) is murder; defendant must be the actual and proximate cause of death, and takes the victim as he finds her (eggshell plaintiff). Accomplices to the felony are liable.",
+    "keyFacts": [
+     "Claire screamed when she saw Ava and Ben, had a heart attack, collapsed, and died",
+     "Claire suffered from a serious heart condition",
+     "Claire was sick with the flu"
+    ],
+    "analysis": "Death occurred during the burglary and was caused by the intruders' presence; her pre-existing heart condition does not break the chain. Likely felony murder, though some argue a fright death isn't a foreseeable killing. Ben is liable as an accomplice despite not touching Claire.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Murder by implied malice (depraved heart) / involuntary manslaughter",
+    "rule": "Implied-malice murder requires conscious disregard of a high risk of death; involuntary manslaughter is an unintentional killing by criminal negligence or an unlawful act not amounting to a dangerous felony.",
+    "keyFacts": [
+     "Claire was sick with the flu and had decided not to go to her book club meeting",
+     "Ben had no idea Claire would be home or ill"
+    ],
+    "analysis": "Ben did not intend to kill and had no awareness of Claire's condition, so depraved-heart murder is weak; if felony murder fails, involuntary manslaughter (or alternatively unlawful act) is the likely fallback.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Causation defense \u2013 eggshell victim and intervening cause",
+    "rule": "Defendant takes the victim as he finds her; pre-existing medical frailty is not a superseding cause.",
+    "keyFacts": [
+     "Claire suffered from a serious heart condition"
+    ],
+    "analysis": "The heart condition makes the death more likely but does not relieve Ben; actual cause (but for entering) and proximate cause are present.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Withdrawal from the conspiracy / abandonment",
+    "rule": "Withdrawal requires timely communication of renunciation to co-conspirators (and in accomplice liability, neutralizing the assistance) before the crime is committed; late withdrawal doesn't erase liability for completed offenses but ends liability for later crimes.",
+    "keyFacts": [
+     "Ben ... told Ava that he was through doing jobs with her",
+     "used his cell phone to call an ambulance",
+     "Ava ran out ... saw Claire's diamond watch"
+    ],
+    "analysis": "By then the burglary, attempt, and Claire's death had occurred, so withdrawal is no defense to those; only the later watch theft arguably is beyond his responsibility.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Larceny of the diamond watch \u2013 Pinkerton and accomplice liability",
+    "rule": "Under Pinkerton a conspirator is liable for reasonably foreseeable crimes committed in furtherance of the conspiracy by co-conspirators; California limits liability to the natural and probable consequences of the target offense, and an effective withdrawal cuts off liability.",
+    "keyFacts": [
+     "Ava ran out without the paintings, but saw Claire's diamond watch on a table, grabbed it",
+     "Ben ... told Ava he was through ... and called an ambulance"
+    ],
+    "analysis": "The watch was opportunistic, after Ben renounced and the paintings were abandoned; likely beyond the conspiracy, so Ben is not liable for it. A court applying Pinkerton broadly might say a grab of valuables was foreseeable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Assault of Claire",
+    "rule": "Assault requires intent to cause apprehension of imminent harmful contact or attempted battery.",
+    "keyFacts": [
+     "Claire screamed when she saw Ava and Ben"
+    ],
+    "analysis": "The intruders had no intent to frighten or touch Claire, so assault is weak.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Student A wrongly claims no breaking at common law because Ava used a key (the key was copied and consent lacking) and then uses this to doubt felony murder; B's treatment of withdrawal is muddled. Check the grader's view on whether the watch larceny is attributable to Ben."
+ },
+ {
+  "id": "june2019-q4",
+  "issues": [
+   {
+    "name": "Governing law and valid contract",
+    "rule": "Common law governs service contracts; a contract requires offer, acceptance and consideration; the statute of frauds is satisfied by a signed writing (and a one-year contract that can be performed within a year is outside it anyway).",
+    "keyFacts": [
+     "signed a one-year contract effective January 1",
+     "Grills also signed and promised to pay Pete $50,000 per month",
+     "Pete promised to act in six commercials ... two promotional appearances every month"
+    ],
+    "analysis": "Mutual promises in a signed writing create an enforceable service contract; formation is not in dispute.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Grills' defense: termination under Paragraph 6 (disreputable conduct) \u2013 interpretation",
+    "rule": "Contract terms are interpreted according to plain meaning, in light of trade usage, course of dealing and the parties' purposes; an express termination right is enforced according to its terms, and ambiguities are construed against the drafter. 'Disreputable conduct that reflects adversely' is judged by whether the conduct actually or reasonably harmed Grills' or Pete's reputation.",
+    "keyFacts": [
+     "PARAGRAPH (6): If Pete engages in disreputable conduct that reflects adversely on Grills or its association with Pete, Grills at its option may terminate",
+     "photos of him at the roulette table ... looking quite intoxicated",
+     "The news stories were more humorous than critical",
+     "news stories like the one Grills complained of are common and have little negative effect"
+    ],
+    "analysis": "Public intoxication may be 'disreputable,' but the clause also requires an adverse reflection; coverage was humorous and expert testimony shows little effect, so Paragraph 6 was likely not triggered. Grills will argue the clause only requires disreputable conduct and gives it discretion; a close call, but Pete likely wins.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Good faith and pretext for termination",
+    "rule": "Every contract contains an implied covenant of good faith and fair dealing; a party may not exercise a discretionary right in bad faith or as a pretext to escape an unprofitable bargain.",
+    "keyFacts": [
+     "Pete believes the real reason Grills terminated his deal was because grill sales were down",
+     "Grills at its option may terminate"
+    ],
+    "analysis": "Grills' actual motive (poor sales) supports an argument that it invoked Paragraph 6 in bad faith, reinforcing Pete's case, though if the clause was actually triggered motive is generally irrelevant.",
+    "foundIn": [],
+    "priority": "minor"
+   },
+   {
+    "name": "Grills' defense: Pete's missed commercial \u2013 material vs. minor breach; cure",
+    "rule": "A material breach excuses the other party's remaining duties; a minor breach (substantial performance) only supports damages. Factors (Restatement 241): extent of benefit lost, adequacy of compensation, forfeiture, likelihood of cure, good faith. Time is not of the essence unless specified.",
+    "keyFacts": [
+     "Pete did not show up for the filming for the third commercial because he had overslept",
+     "Pete offered to pay the cost of the film crew and said he'd be available any time Grills wished to reschedule",
+     "Pete acted in two commercials ... and attended all appearances",
+     "filming at times mutually agreed upon"
+    ],
+    "analysis": "One oversleeping, with an offer to pay costs and reschedule, and six months of performance, is a minor breach compensable in damages and not grounds to end the contract.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Waiver / election \u2013 Grills accepted performance and paid after the missed shoot",
+    "rule": "A party who, with knowledge of the other's breach, continues to accept performance and pay waives the right to treat it as a total breach for that default (may still claim damages); waiver of a condition may be retracted only if the other has not relied.",
+    "keyFacts": [
+     "Pete was on time for the next two appearances and received his June check",
+     "Grills ... stated that his contract had been terminated due to the breach of your obligations with respect to television commercials"
+    ],
+    "analysis": "Grills' acceptance of later appearances and payment of the June check after the missed filming, with no objection until July, strongly supports waiver of the June breach as a ground for termination.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Divisible contract (monthly performance and payment)",
+    "rule": "In a divisible contract each part (here, each month) is treated as a separate exchange so a breach affecting one part does not necessarily excuse performance of the others.",
+    "keyFacts": [
+     "$50,000 per month",
+     "six commercials ... two appearances every month"
+    ],
+    "analysis": "The monthly pay-per-month structure supports treating the single missed shoot as a localized breach with a limited remedy.",
+    "foundIn": [
+     "B"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Frustration of purpose (Grills)",
+    "rule": "A party is excused if an unforeseen supervening event substantially destroys the principal purpose of the contract for both parties, without fault of the party seeking discharge.",
+    "keyFacts": [
+     "to promote its cooking grills",
+     "photos of him ... quite intoxicated"
+    ],
+    "analysis": "The incident was not unforeseeable (Paragraph 6 anticipated it), caused by Pete, and did not destroy the endorsement's value; defense fails.",
+    "foundIn": [
+     "A"
+    ],
+    "priority": "minor"
+   },
+   {
+    "name": "Grills' wrongful termination \u2013 repudiation / total breach",
+    "rule": "An unjustified termination is an anticipatory repudiation (or present breach) entitling the other party to treat the contract as breached and sue immediately, while stopping further performance.",
+    "keyFacts": [
+     "Grills emailed Pete, stating that his contract had been terminated",
+     "From August through December, Pete promoted products for other companies"
+    ],
+    "analysis": "Since neither stated ground justified termination, Grills' email was a repudiation and total breach, and Pete can sue for the remaining contract value.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Expectation damages",
+    "rule": "Expectation damages place the plaintiff where full performance would have, i.e. unpaid contract price less costs saved and amounts avoidable or earned through mitigation.",
+    "keyFacts": [
+     "$50,000 per month",
+     "terminated in July",
+     "August through December ... earning $100,000"
+    ],
+    "analysis": "The remaining contract value is about $300,000 (July through December), subject to proof that Pete was paid for July and to offsets for mitigation.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Mitigation \u2013 other promotions and the Casino offer",
+    "rule": "The injured party must make reasonable efforts to avoid loss; earnings from substitute work offset damages (if he could not have done both); the defendant bears the burden of proving failure to mitigate, and a plaintiff need not accept a substantially different or demeaning job.",
+    "keyFacts": [
+     "From August through December, Pete promoted products for other companies, earning $100,000",
+     "He turned down a similar offer of $250,000 from Casino because of his concerns it would reinforce a negative public image"
+    ],
+    "analysis": "The $100,000 offsets (unless the deals were additional and non-conflicting). Grills will say the $250,000 Casino offer was a comparable alternative, which would eliminate damages. Pete can say the offer risked his image; as it stems from his conduct arguments it is a close call. Likely recovery between $0 and $200,000, with about $200,000 if the refusal is deemed reasonable.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "major"
+   },
+   {
+    "name": "Consequential / future opportunity damages; other remedies",
+    "rule": "Consequential damages must be foreseeable at contracting and proven with reasonable certainty; reputational harm is generally speculative in contract; specific performance of personal service contracts is unavailable; no liquidated damages clause is present.",
+    "keyFacts": [
+     "Pete's agent told him that being dropped by Grills will reduce Pete's future promotional opportunities"
+    ],
+    "analysis": "The lost opportunities are speculative and not recoverable; no specific performance or liquidated damages.",
+    "foundIn": [
+     "A",
+     "B"
+    ],
+    "priority": "minor"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Damages result is contested: A computes $200,000, B computes $0 (B also wrongly places the missed commercial in May and cites 'Nate and Ed'). Verify expected treatment of the Casino offer and the $100,000 offset (lost-volume argument)."
+ }
+]
